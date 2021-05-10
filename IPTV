@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTINF:-1,#EXTM3U
+#EXTM3U x-tvg-url="http://011011011.com:8080/xmltv.php?username=cuent930&password=4dM5WDNUUt&type=m3u_plus&output=hls"
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3
 http://broadpeakvip.airlinktt.co/live/smil:CNC3.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://ttt.live/img/logobignew.png",TTT Live
