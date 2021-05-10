@@ -340,6 +340,8 @@ http://broadpeakvip.airlinktt.co/live/smil:ZEE_CINEMA.smil/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/world/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/beINSports.us.png",BEIN SPORTS
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/15002
+#EXTINF:-1,SPORTS: BEIN USA
+http://gooserace.xyz:2052/batman1/batman1/1524564
 #EXTINF:-1 ,US: beIN Sports USA HD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/6300
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/beINSports.us.png",BEIN SPORTS USA
@@ -399,7 +401,7 @@ http://broadpeakvip.airlinktt.co/live/smil:NBA_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",Sky Sport NBA HD
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/14069
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png",NFL NETWORK
-http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/17095
+http://gooserace.xyz:2052/batman1/batman1/1183859
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",Olympic_Channel
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/829
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",Olympic Channel
