@@ -1,3 +1,5 @@
+#EXTINF:-1,#EXTM3U
+#EXTM3U x-tvg-url="http://gooserace.xyz:2052/xmltv.php?username=batman1&password=batman1&type=m3u_plus&output=hls"
 #EXTINF:-1 group-title="USA LOCALS" tvg-logo="https://imgx.fubo.tv/station_logos/kusa_c.png",CO | Denver | NBC KUSA
 http://gooserace.xyz:2052/batman1/batman1/1189945
 #EXTINF:-1 group-title="USA SPORTS" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",SPORTS: BEIN USA
