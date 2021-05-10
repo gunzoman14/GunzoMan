@@ -65,7 +65,7 @@ http://broadpeakvip.airlinktt.co/live/smil:BET.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BetHer.us.png",BET Her
 http://broadpeakvip.airlinktt.co/live/smil:CENTRIC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="Logo N/A",BET GOSPEL
-http://gooserace.xyz:2052/ricky1/ricky1/1524279
+http://gooserace.xyz:2052/batman1/batman1/1524279
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://xtream-coders.com/x0/entertainment/bet_jams.png",BET Jams
 http://011011011.com:8080/cuent930/4dM5WDNUUt/82037
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://xtream-coders.com/x0/entertainment/bet_soul.png",BET Soul
@@ -149,7 +149,7 @@ http://broadpeakvip.airlinktt.co/live/smil:DISNEY.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyChannel.us.png",DISNEY CHANNEL HD
 http://tv.refundoiptv.iptv.uno:80/F8cnRBG8ow/S9fr1Asnbl/22823
 #EXTINF:-1 group-title="KIDS" tvg-logo="Logo N/A",DISNEYJR
-http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/1466
+http://gooserace.xyz:2052/batman1/batman1/1192938
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyJunior.us.png",DISNEY JR
 http://011011011.com:8080/cuent930/4dM5WDNUUt/10904
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyXD.us.png",DISNEY XD
@@ -158,6 +158,8 @@ http://broadpeakvip.airlinktt.co/live/smil:DISNEYXD.smil/playlist.m3u8
 https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png",DISCOVERY CHANNEL
 http://broadpeakvip.airlinktt.co/live/smil:DISCOVERY.smil/playlist.m3u8
+#EXTINF:-1,Discovery Family
+http://gooserace.xyz:2052/batman1/batman1/1524324
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/InvestigationDiscovery.us.png",Discovery ID
 http://broadpeakvip.airlinktt.co/live/smil:INVESTIGATION_DISCOVERY.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/il/DoItYourself.il.png",DIY Network
