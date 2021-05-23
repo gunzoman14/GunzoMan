@@ -94,6 +94,8 @@ http://gooserace.xyz:2052/batman1/batman1/1524286
 http://broadpeakvip.airlinktt.co/live/smil:BOUNCE.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Bravo.us.png",USA: Bravo
 http://broadpeakvip.airlinktt.co/live/smil:BRAVO.smil/playlist.m3u8
+#EXTINF:-1,B4U MOVIES
+http://ed8.oknirvana.club:8880/h2dt8mHzYv/wcngNPDpvN/59512
 #EXTINF:-1 group-title="Bollywood" tvg-logo="Logo N/A",B4U Movies IN
 http://gooserace.xyz:2052/batman1/batman1/2485190
 #EXTINF:-1 group-title="ANIMALS" tvg-logo="http://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png",Cats 24/7
@@ -152,6 +154,8 @@ http://gooserace.xyz:2052/batman1/batman1/1192938
 http://gooserace.xyz:2052/batman1/batman1/1192941
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyXD.us.png",Disney XD
 http://broadpeakvip.airlinktt.co/live/smil:DISNEYXD.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://download.logo.wine/logo/Disney%2B/Disney%2B-Logo.wine.png" tvg-name="Disney + HD"  group-title="",Disney + HD
+http://ed8.oknirvana.club:8880/h2dt8mHzYv/wcngNPDpvN/60230
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/125px-Ducktv-logo.jpg",DUCK TV
 https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png",DISCOVERY CHANNEL
@@ -288,6 +292,8 @@ http://broadpeakvip.airlinktt.co/live/smil:SOAC.smil/playlist.m3u8
 http://broadpeakvip.airlinktt.co/live/smil:SONY.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://www.insidesport.co/wp-content/uploads/2020/06/09a49583-f93f-4082-9406-a26a4fece4de.jpg",SONY INDIA
 http://broadpeakvip.airlinktt.co/live/smil:SONY_INDIA.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNoc2xLGXh5HhBlr3JfN_6yTApPw1NLCRsyl7ZOD5bUKYs1MVeGEFp7tfWkJOWiqsD1Ko&usqp=CAU" tvg-name="SPIKE-HD"  group-title="Unsorted",SPIKE-HD
+http://ed8.oknirvana.club:8880/h2dt8mHzYv/wcngNPDpvN/3097
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/SundanceTV.us.png",USA: Sundance
 http://gooserace.xyz:2052/batman1/batman1/2635028
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/mx/Space.mx.png",SPACE
@@ -344,6 +350,8 @@ http://gooserace.xyz:2052/batman1/batman1/1524564
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/6300
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/beINSports.us.png",BEIN SPORTS USA
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1,Box Nation
+http://ed8.oknirvana.club:8880/h2dt8mHzYv/wcngNPDpvN/3075
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",BTSports 1 UK
 http://gooserace.xyz:2052/batman1/batman1/2503673
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",BT Sport 2 HD UK
@@ -460,3 +468,5 @@ http://gooserace.xyz:2052/batman1/batman1/2626732
 http://streamserver.ml:7002/stream/1/
 #EXTINF:-1 group-title="Unsorted" tvg-logo="Logo N/A",RADIO DISNEY
 https://cento02.mipanelradio.com/proxy/cruxmedi?mp=/stream/1/
+#EXTINF:-1,Gospel (Music Choice)
+http://ed8.oknirvana.club:8880/h2dt8mHzYv/wcngNPDpvN/60027
