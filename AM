@@ -452,11 +452,11 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 http://a.jsrdn.com/broadcast/256ad9e679/+0000/high/c.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://tvsturbonetwork.com/TurboLogo1.jpg",TVS Turbo
 https://nrpus.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
-#EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="https://static.epg.best/us/WillowCricket.us.png",WILLOWS 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/WillowCricket.us.png",WILLOWS 
 http://broadpeakvip.airlinktt.co/live/smil:WILLOW.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",USA: WWE
 http://gooserace.xyz:2052/batman1/batman1/1549623
-#EXTINF:-1 group-title="Unsorted" tvg-logo="Logo N/A",USA: WWE
+#EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",USA: WWE
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2458
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",UFC TV
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2479
