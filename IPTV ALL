@@ -178,6 +178,8 @@ http://gooserace.xyz:2052/batman1/batman1/1192221
 http://gooserace.xyz:2052/batman1/batman1/1192222
 #EXTINF:-1 group-title="USA ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/fm-us.png",USA: FM
 http://gooserace.xyz:2052/batman1/batman1/1524337
+#EXTINF:-1,Cooking Channel
+http://gooserace.xyz:2052/batman1/batman1/1524308
 #EXTINF:-1 group-title="USA ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/food-network-us.png",USA: Food Network
 http://gooserace.xyz:2052/batman1/batman1/1524340
 #EXTINF:-1 group-title="USA ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/food-network-us.png",USA: Food Network (West)
