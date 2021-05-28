@@ -119,9 +119,7 @@ http://gooserace.xyz:2052/batman1/batman1/1524301
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png",USA: CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/1fhqoEE.png",USA: CNN
-http://1111296894.rsc.cdn77.org/ls-54548-1/index.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="Logo N/A",CNN
-https://1111296894.rsc.cdn77.org/ls-54548-1/index.m3u8
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/9029
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/CNN.us.png",CNN HD
 http://gooserace.xyz:2052/batman1/batman1/1524304
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/CNN.us.png",CNN SD
