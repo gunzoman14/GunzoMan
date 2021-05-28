@@ -342,10 +342,12 @@ https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=
 https://4d6cd92b0a704b3b9c12c642e43fde30.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_YUYUTV/a04b21ac-b63c-44bb-89ca-a0e0815c4410/5.m3u8
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://static.epg.best/in/ZeeCinemalu.in.png",ZEE CINEMA
 http://broadpeakvip.airlinktt.co/live/smil:ZEE_CINEMA.smil/playlist.m3u8
-#EXTINF:-1,ZEE TV
+#EXTINF:-1 group-title="Bollywood",ZEE TV
 http://broadpeakvip.airlinktt.co/live/smil:ZEE_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://trendingmediaafrica.com/wp-content/uploads/2018/05/Zee-World.jpg",Zee World
 https://y5w8j4a9.ssl.hwcdn.net/world/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bollywood",Star Plus HD UK
+http://gooserace.xyz:2052/batman1/batman1/2455708
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/beINSports.us.png",BEIN SPORTS
 http://gooserace.xyz:2052/batman1/batman1/1524563
 #EXTINF:-1 group-title="Unsorted" tvg-logo="Logo N/A",SPORTS: BEIN USA
