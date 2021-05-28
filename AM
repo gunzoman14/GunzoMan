@@ -346,7 +346,7 @@ http://broadpeakvip.airlinktt.co/live/smil:ZEE_CINEMA.smil/playlist.m3u8
 http://broadpeakvip.airlinktt.co/live/smil:ZEE_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://trendingmediaafrica.com/wp-content/uploads/2018/05/Zee-World.jpg",Zee World
 https://y5w8j4a9.ssl.hwcdn.net/world/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bollywood",Star Plus HD UK
+#EXTINF:-1 group-title="Bollywood",Star Plus HD 
 http://gooserace.xyz:2052/batman1/batman1/2455708
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/beINSports.us.png",BEIN SPORTS
 http://gooserace.xyz:2052/batman1/batman1/1524563
