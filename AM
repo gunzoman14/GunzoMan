@@ -158,6 +158,8 @@ http://ed8.oknirvana.club:8880/h2dt8mHzYv/wcngNPDpvN/60230
 https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png",DISCOVERY CHANNEL
 http://broadpeakvip.airlinktt.co/live/smil:DISCOVERY.smil/playlist.m3u8
+#EXTINF:-1,DISCOVERY KIDS
+http://broadpeakvip.airlinktt.co/live/smil:DISCOVERY_KIDS.smil/playlist.m3u8
 #EXTINF:-1 group-title="Unsorted" tvg-logo="Logo N/A",Discovery Family
 http://gooserace.xyz:2052/batman1/batman1/1524324
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/InvestigationDiscovery.us.png",USA: Investigation Discovery
