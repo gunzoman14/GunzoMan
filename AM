@@ -97,7 +97,7 @@ http://broadpeakvip.airlinktt.co/live/smil:BRAVO.smil/playlist.m3u8
 #EXTINF:-1,B4U MOVIES
 http://ed8.oknirvana.club:8880/h2dt8mHzYv/wcngNPDpvN/59512
 #EXTINF:-1 group-title="Bollywood" tvg-logo="Logo N/A",B4U Movies IN
-http://gooserace.xyz:2052/batman1/batman1/2485190
+http://broadpeakvip.airlinktt.co/live/smil:B4U_MOVIES.smil/playlist.m3u8
 #EXTINF:-1 group-title="ANIMALS" tvg-logo="http://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png",Cats 24/7
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/599375885ceaac3cabccbed7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/CartoonNetwork.us.png",Cartoon Network FHD
@@ -376,6 +376,8 @@ http://gooserace.xyz:2052/batman1/batman1/1524568
 https://cbsshg09-cbsshg09-ms.global.ssl.fastly.net/cbss54g2/master/cbss54g2_7.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://ep1.pinkbike.org/files/logo/directory/11000/11032_original.jpg",Cycle World
 https://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN HD
+http://broadpeakvip.airlinktt.co/live/smil:ESPN_CARIBBEAN.smil/playlist.m3u8
 #EXTINF:-1,|US| ESPN USA
 http://gooserace.xyz:2052/batman1/batman1/1524575
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 1
