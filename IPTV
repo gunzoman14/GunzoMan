@@ -97,7 +97,7 @@ http://broadpeakvip.airlinktt.co/live/smil:BRAVO.smil/playlist.m3u8
 #EXTINF:-1,B4U MOVIES
 http://ed8.oknirvana.club:8880/h2dt8mHzYv/wcngNPDpvN/59512
 #EXTINF:-1 group-title="Bollywood" tvg-logo="Logo N/A",B4U Movies IN
-http://gooserace.xyz:2052/batman1/batman1/2485190
+http://broadpeakvip.airlinktt.co/live/smil:B4U_MOVIES.smil/playlist.m3u8
 #EXTINF:-1 group-title="ANIMALS" tvg-logo="http://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png",Cats 24/7
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/599375885ceaac3cabccbed7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/CartoonNetwork.us.png",Cartoon Network FHD
@@ -158,6 +158,8 @@ http://ed8.oknirvana.club:8880/h2dt8mHzYv/wcngNPDpvN/60230
 https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png",DISCOVERY CHANNEL
 http://broadpeakvip.airlinktt.co/live/smil:DISCOVERY.smil/playlist.m3u8
+#EXTINF:-1,DISCOVERY KIDS
+http://broadpeakvip.airlinktt.co/live/smil:DISCOVERY_KIDS.smil/playlist.m3u8
 #EXTINF:-1 group-title="Unsorted" tvg-logo="Logo N/A",Discovery Family
 http://gooserace.xyz:2052/batman1/batman1/1524324
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/InvestigationDiscovery.us.png",USA: Investigation Discovery
@@ -222,6 +224,12 @@ http://broadpeakvip.airlinktt.co/live/smil:HBO_CARIBBEAN.smil/playlist.m3u8
 http://broadpeakvip.airlinktt.co/live/smil:HBO_FAMILY.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/br/HBOPlusBrasil.br.png",HBO PLUS
 http://broadpeakvip.airlinktt.co/live/smil:HBO_PLUS.smil/playlist.m3u8
+#EXTINF:-1,HBO
+http://broadpeakvip.airlinktt.co/live/smil:MAXUP.smil/playlist.m3u8
+#EXTINF:-1,HBO PRIME
+http://broadpeakvip.airlinktt.co/live/smil:MAX_PRIME.smil/playlist.m3u8
+#EXTINF:-1,HBO 3
+http://broadpeakvip.airlinktt.co/live/smil:MAX_CARIBBEAN.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tt-ietv-channel-1.jpg",IETV
 http://broadpeakvip.airlinktt.co/live/smil:IETV.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/IndependentFilmChannel.us.png",USA: IFC
@@ -316,6 +324,8 @@ http://broadpeakvip.airlinktt.co/live/smil:TRAVEL_CHANNEL.smil/playlist.m3u8
 http://gooserace.xyz:2052/batman1/batman1/1524456
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TNT.us.png",USA: TNT
 http://broadpeakvip.airlinktt.co/live/smil:TNT.smil/playlist.m3u8
+#EXTINF:-1,TNT SERIES
+http://broadpeakvip.airlinktt.co/live/smil:TNTSERIES.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TVLandEast.us.png",USA: TV Land East
 http://broadpeakvip.airlinktt.co/live/smil:TV_LAND.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TVOne.us.png",USA: TV ONE
@@ -374,6 +384,8 @@ http://gooserace.xyz:2052/batman1/batman1/1524568
 https://cbsshg09-cbsshg09-ms.global.ssl.fastly.net/cbss54g2/master/cbss54g2_7.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://ep1.pinkbike.org/files/logo/directory/11000/11032_original.jpg",Cycle World
 https://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN HD
+http://broadpeakvip.airlinktt.co/live/smil:ESPN_CARIBBEAN.smil/playlist.m3u8
 #EXTINF:-1,|US| ESPN USA
 http://gooserace.xyz:2052/batman1/batman1/1524575
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 1
@@ -456,9 +468,11 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://images-platform.99static.com//Amj86fsRA0Px-9ijuvh3CPyidbs=/1009x174:4771x3936/fit-in/500x500/projects-files/64/6434/643466/eade489c-1423-4db4-910f-710fedb530cc.jpg",MOTORCYCLIST TV
 http://a.jsrdn.com/broadcast/256ad9e679/+0000/high/c.m3u8
+#EXTINF:-1,DISCOVERY TURBO
+http://broadpeakvip.airlinktt.co/live/smil:DISCOVERY_TURBO.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://tvsturbonetwork.com/TurboLogo1.jpg",TVS Turbo
 https://nrpus.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/WillowCricket.us.png",WILLOW
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/WillowCricket.us.png",WILLOWS 
 http://broadpeakvip.airlinktt.co/live/smil:WILLOW.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",USA: WWE
 http://gooserace.xyz:2052/batman1/batman1/1549623
@@ -466,13 +480,3 @@ http://gooserace.xyz:2052/batman1/batman1/1549623
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2458
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",UFC TV
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2479
-#EXTINF:-1 group-title="● CLASSICS" tvg-logo="http://011011011.com:8080/images/5c2d7d6a0f9f4aa5fd9fee5d14163cd2.jpg",24/7 Sanford and Son
-http://gooserace.xyz:2052/batman1/batman1/2625891
-#EXTINF:-1 group-title="Unsorted" tvg-logo="Logo N/A",24/7: Tom And Jerry
-http://gooserace.xyz:2052/batman1/batman1/2626732
-#EXTINF:-1 group-title="Unsorted" tvg-logo="Logo N/A",RADIO ACTIVA
-http://streamserver.ml:7002/stream/1/
-#EXTINF:-1 group-title="Unsorted" tvg-logo="Logo N/A",RADIO DISNEY
-https://cento02.mipanelradio.com/proxy/cruxmedi?mp=/stream/1/
-#EXTINF:-1,Gospel (Music Choice)
-http://ed8.oknirvana.club:8880/h2dt8mHzYv/wcngNPDpvN/60027
