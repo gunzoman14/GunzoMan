@@ -14,15 +14,15 @@ http://broadpeakvip.airlinktt.co/live/smil:TTEN.smil/playlist.m3u8
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:GAYELLE.smil/chunklist_b2160000.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://pbs.twimg.com/profile_images/378800000443807401/08429f981cdc2c4b51982d64e71dd87d_400x400.png",Carib TRINITY (FL)
 http://broadpeakvip.airlinktt.co/live/smil:TRINITY_TV.smil/playlist.m3u8
-#EXTINF:-1 group-title="RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/Islamic_Broadcasting_Network.png",IBN
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/Islamic_Broadcasting_Network.png",carib:IBN TT
 http://broadpeakvip.airlinktt.co/live/smil:IBN.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/89/fa/d7/89fad7fe-17e5-894f-8d3f-7de0a2c21469/AppIcon-1x_U007emarketing-5-0-85-220.png/1200x630wa.png",Religious: EWTN
 http://broadpeakvip.airlinktt.co/live/smil:EWTN.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://afraraymond.files.wordpress.com/2020/12/tv-jaagriti-logo.jpg",Jaagriti
 http://broadpeakvip.airlinktt.co/live/smil:JAAGRITI.smil/playlist.m3u8
-#EXTINF:-1 group-title="RELIGION" tvg-logo="https://www.livenewsworld.com/wp-content/uploads/2018/11/Trinity-Broadcasting-Network.png",Religious:TBN
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://www.livenewsworld.com/wp-content/uploads/2018/11/Trinity-Broadcasting-Network.png",Religious: TBN
 http://broadpeakvip.airlinktt.co/live/smil:TBN.smil/playlist.m3u8
-#EXTINF:-1 group-title="RELIGION" tvg-logo="https://3abn.org/img/3abn-ogg.png",Religious:3ABN 
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://3abn.org/img/3abn-ogg.png",Religious: 3ABN Dare to Dream Network
 http://broadpeakvip.airlinktt.co/live/smil:3ABN.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="http://www.netsportmedia.com/wp-content/uploads/2019/03/CBN-400x250.png",USA: CBN News International
 https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
@@ -38,7 +38,7 @@ http://gooserace.xyz:2052/batman1/batman1/1524275
 http://broadpeakvip.airlinktt.co/live/smil:AXN.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AMC.us.png",USA: AMC
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:AMC.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AMC.us.png",USA:AMC HB
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AMC.us.png",USA:AMC
 http://gooserace.xyz:2052/batman1/batman1/1524267
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/amgtv-profile_image-3653a525cf68628f-300x300.png",USA: AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
@@ -46,7 +46,7 @@ https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e7cf6608c805600078872f2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=647&deviceId=5e7cf6608c805600078872f2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="Logo N/A",US: AWE (American Wealth Ent)
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3670
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://d2pggiv3o55wnc.cloudfront.net/awe/wp-content/uploads/2015/09/AWELogoBlk.jpg",AWE
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://d2pggiv3o55wnc.cloudfront.net/awe/wp-content/uploads/2015/09/AWELogoBlk.jpg",USA: American Wealth Ent (AWE)
 http://n1.klowdtv.net/live1/awe_720p/chunks.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/gWOqTZg.png",People are Awesome
 https://jukin-peopleareawesome-1.plex.wurl.com/manifest/playlist.m3u8
@@ -126,19 +126,19 @@ http://gooserace.xyz:2052/batman1/batman1/1524304
 http://gooserace.xyz:2052/batman1/batman1/1524304
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/820?cb=20190417224656",MY: CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="COURT" tvg-logo="http://xtream-coders.com/x0/entertainment/courttv.png",USA: Court TV
+#EXTINF:-1 group-title="COURT" tvg-logo="http://xtream-coders.com/x0/entertainment/courttv.png",USA: CourtTV Mystery
 http://gooserace.xyz:2052/batman1/batman1/1524310
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/CoziTV.us.png",USA: Cozi TV
 http://broadpeakvip.airlinktt.co/live/smil:COZI_TV.smil/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/CTVToronto.ca.png",CA: CTV | Winnipeg
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/CTVToronto.ca.png",CA: CTV News
 http://broadpeakvip.airlinktt.co/live/smil:CTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/KOMUCW.us.png",USA:CW
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/KOMUCW.us.png",USA: CW 11 NY (East) WPIX
 http://broadpeakvip.airlinktt.co/live/smil:CW.smil/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/Cp24.ca.png",CA: CP 24
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/Cp24.ca.png",CA: CP24 News
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/1439
-#EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="Logo N/A",& PRIVE HD
+#EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://static.epg.best/in/AndPrive.in.png",IN: &Prive
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="Logo N/A",&FLIX HD
+#EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://static.epg.best/in/AndFlix.in.png",IN: &Flix
 http://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="Logo N/A",USA: Destination America
 http://gooserace.xyz:2052/batman1/batman1/1524321
@@ -156,15 +156,15 @@ http://broadpeakvip.airlinktt.co/live/smil:DISNEYXD.smil/playlist.m3u8
 http://ed8.oknirvana.club:8880/h2dt8mHzYv/wcngNPDpvN/60230
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/125px-Ducktv-logo.jpg",DUCK TV
 https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png",DISCOVERY CHANNEL
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png",USA: Discovery Channel
 http://broadpeakvip.airlinktt.co/live/smil:DISCOVERY.smil/playlist.m3u8
-#EXTINF:-1,DISCOVERY KIDS
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/discovery-KIDS-us.png",DISCOVERY KIDS
 http://broadpeakvip.airlinktt.co/live/smil:DISCOVERY_KIDS.smil/playlist.m3u8
-#EXTINF:-1 group-title="Unsorted" tvg-logo="Logo N/A",Discovery Family
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/discovery-family-us.png",USA: Discovery Family
 http://gooserace.xyz:2052/batman1/batman1/1524324
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/InvestigationDiscovery.us.png",USA: Investigation Discovery
 http://broadpeakvip.airlinktt.co/live/smil:INVESTIGATION_DISCOVERY.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/il/DoItYourself.il.png",DIY Network
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/il/DoItYourself.il.png",USA: DIY
 http://broadpeakvip.airlinktt.co/live/smil:DIY.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/EEntertainment.us.png",USA: E! Entertainment (East)
 http://broadpeakvip.airlinktt.co/live/smil:E.smil/playlist.m3u8
@@ -176,9 +176,9 @@ https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
 http://gooserace.xyz:2052/batman1/batman1/1524194
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/epix-hits-us.png",MOVIES: Epix Hits
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/164
-#EXTINF:-1,COOKING HD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cooking-channel-us.png",USA: Cooking Channel
 http://broadpeakvip.airlinktt.co/live/smil:COOKING.smil/playlist.m3u8
-#EXTINF:-1,Cooking Channel
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cooking-channel-us.png",USA: Cooking Channel
 http://gooserace.xyz:2052/batman1/batman1/1524308
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/FoodNetwork.us.png",USA: Food Network
 http://broadpeakvip.airlinktt.co/live/smil:FOOD_NETWORK.smil/playlist.m3u8
@@ -220,7 +220,7 @@ http://broadpeakvip.airlinktt.co/live/smil:HGTV.smil/playlist.m3u8
 http://broadpeakvip.airlinktt.co/live/smil:HISTORY.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/br/HBOPlusBrasil.br.png",HBO CARIBBEAN
 http://broadpeakvip.airlinktt.co/live/smil:HBO_CARIBBEAN.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/HBOFamily.us.png",HBO FAMILY
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/HBOFamily.us.png",MOVIES: HBO Family
 http://broadpeakvip.airlinktt.co/live/smil:HBO_FAMILY.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/br/HBOPlusBrasil.br.png",HBO PLUS
 http://broadpeakvip.airlinktt.co/live/smil:HBO_PLUS.smil/playlist.m3u8
@@ -256,7 +256,7 @@ https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/MBC%20A
 http://broadpeakvip.airlinktt.co/live/smil:NATGEO.smil/playlist.m3u8
 #EXTINF:-1 group-title="ANIMALS" tvg-logo="https://static.epg.best/us/NatGeoWild.us.png",USA: Nat Geo Wild
 http://gooserace.xyz:2052/batman1/batman1/1524404
-#EXTINF:-1 group-title="ANIMALS" tvg-logo="Logo N/A",USA: Nat Geo Wild
+#EXTINF:-1 group-title="ANIMALS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/nat-geo-wild-us.png",USA: Nat Geo Wild
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/1499
 #EXTINF:-1 group-title="ANIMALS" tvg-logo="https://www.freelogovector.com/wp-content/uploads/2017/06/23%20-%20PNG%20love%20nature%20copy.jpg",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
@@ -292,7 +292,7 @@ http://broadpeakvip.airlinktt.co/live/smil:POSITIV.smil/playlist.m3u8
 http://broadpeakvip.airlinktt.co/live/smil:REEL.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="Logo N/A",USA: Reelz
 http://gooserace.xyz:2052/batman1/batman1/1524431
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Showtime.us.png",SHOWTIME (E)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Showtime.us.png",MOVIES: Showtime
 http://broadpeakvip.airlinktt.co/live/smil:SHOWTIME.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/ShowtimeFamilyZone.us.png",MOVIES: Showtime 2
 http://broadpeakvip.airlinktt.co/live/smil:SHOWTIME_2.smil/playlist.m3u8
