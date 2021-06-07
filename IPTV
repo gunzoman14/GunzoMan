@@ -446,6 +446,8 @@ http://gooserace.xyz:2052/batman1/batman1/2475677
 http://gooserace.xyz:2052/batman1/batman1/1524616
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="Logo N/A",Play Sports Golf FHD BE
 http://gooserace.xyz:2052/batman1/batman1/1524616
+#EXTINF:-1,Sky Sports Box Office (Live During Events Only) UK
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/14756
 #EXTINF:-1,Sky Sports Box Office HD
 http://gooserace.xyz:2052/batman1/batman1/2484999
 #EXTINF:-1,SportsMax 1
