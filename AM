@@ -403,7 +403,9 @@ https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://espnpressroom.com/us/files/2020/07/ESPNU-1.png",SPORTS: ESPN U
 http://gooserace.xyz:2052/batman1/batman1/1524580
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/flow-sports-car.png",Carib: Flow Sports
-http://gooserace.xyz:2052/batman1/batman1/1792933
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/26261
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/flow-sports-car.png",Flow Sports Premier (RUSH) HD US
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/26263
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://discoverflow.co/sites/discoverflow.co.trinidad/files/Flow_Sports_Logo_Primary_RGB_0.png",Carib Flow 1 (FL)
 http://gooserace.xyz:2052/batman1/batman1/1792934
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",Movistar Formula 1 HD
@@ -419,7 +421,7 @@ http://gooserace.xyz:2052/batman1/batman1/1524622
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBCSNWashington.us.png",SPORTS: NBC Sports Network
 http://broadpeakvip.airlinktt.co/live/smil:NBCSPORTS.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBCSNWashington.us.png",SPORTS: NBC Sports Network
-http://gooserace.xyz:2052/batman1/batman1/1856153
+http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/9008
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA TV
 http://broadpeakvip.airlinktt.co/live/smil:NBA_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",Sky Sport NBA HD
