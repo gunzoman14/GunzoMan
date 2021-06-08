@@ -429,6 +429,8 @@ http://gooserace.xyz:2052/batman1/batman1/2456050
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png",NFL NETWORK
 http://gooserace.xyz:2052/batman1/batman1/1183859
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/olympic-channel-us.png",SPORTS: Olympic Channel
+http://cloudcdn.tk:80/live/vhh64vCXs4/46GcRL6947/18850.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/olympic-channel-us.png",SPORTS: Olympic Channel
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/829
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/olympic-channel-us.png",SPORTS: Olympic Channel
 http://gooserace.xyz:2052/batman1/batman1/1524642
