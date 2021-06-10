@@ -1,4 +1,15 @@
-
+#EXTINF:-1,#EXTM3U
+#EXTM3U x-tvg-url="http://gooserace.xyz:2052/xmltv.php?username=batman1&password=batman1&type=m3u_plus&output=m3u8"
+#EXTINF:-1,Carib: CNC3
+http://gooserace.xyz:2052/batman1/batman1/1794099
+#EXTINF:-1,Carib: TTT
+http://gooserace.xyz:2052/batman1/batman1/1792726
+#EXTINF:-1,Carib: CCN TV6
+http://gooserace.xyz:2052/batman1/batman1/1793060
+#EXTINF:-1,Carib: Synergy
+http://gooserace.xyz:2052/batman1/batman1/1792824
+#EXTINF:-1,Carib: Gayelle The Caribbean
+http://gooserace.xyz:2052/batman1/batman1/1792912
 #EXTINF:-1 group-title="Adventure" tvg-logo="http://tigerfights.xyz:2052/images/1ffec43f498d78b35eff4e6ea6681525.jpg",Indiana Jones and the Last Crusade - 1989
 http://gooserace.xyz:2052/movie/batman1/batman1/2778092.mkv
 #EXTINF:-1 group-title="Drama" tvg-logo="http://tigerfights.xyz:2052/images/a3249132acf0f6e9392889cfc322e25a.jpg",A Thousand Words - 2012
