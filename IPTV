@@ -37,6 +37,8 @@ http://gooserace.xyz:2052/batman1/batman1/1524275
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/pt/AXN.pt.png",USA: AXN
 http://broadpeakvip.airlinktt.co/live/smil:AXN.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AMC.us.png",USA: AMC
+http://broadpeakvip.airlinktt.co/live/smil:AMC.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AMC.us.png",USA: AMC
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:AMC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AMC.us.png",USA: AMC
 http://gooserace.xyz:2052/batman1/batman1/1524267
