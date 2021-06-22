@@ -71,13 +71,11 @@ http://gooserace.xyz:2052/batman1/batman1/1524281
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://xtream-coders.com/x0/entertainment/bet_soul.png",USA: BET Soul
 http://gooserace.xyz:2052/batman1/batman1/1524282
 #EXTINF:-1 group-title="Music" tvg-logo="https://static.epg.best/gb/Magic.uk.png",Magic
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
+http://gooserace.xyz:2052/batman1/batman1/2484983
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/PRgvj4c.png",1 Music Channel
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="Logo N/A",USA: Revolt
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/853
-#EXTINF:-1 group-title="Music" tvg-logo="Logo N/A",MIX 24/7
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://i1.sndcdn.com/avatars-uqybZeqknWnyRv13-tdcZKw-t500x500.jpg",V2BEAT
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="http://static1.squarespace.com/static/5d07b0c8af0f1c0001204144/t/5d07b0f8c2c5b00001d89f93/1560785145428/social+sharing+logo.png?format=1500w",VEVO
@@ -319,7 +317,7 @@ http://broadpeakvip.airlinktt.co/live/smil:STARZ_K&F.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzComedy.us.png",MOVIES: Starz Comedy
 http://broadpeakvip.airlinktt.co/live/smil:STARZ_COMEDY.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzComedy.us.png",MOVIES: Starz Comedy
-http://ed8.oknirvana.club:8880/h2dt8mHzYv/wcngNPDpvN/29467
+http://cloudcdn.tk:80/ABattist/Hu755K4358/33947
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Syfy.us.png",USA: Syfy East
 http://broadpeakvip.airlinktt.co/live/smil:SYFY.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TravelChannel.us.png",USA: Travel Channel
@@ -367,7 +365,7 @@ http://gooserace.xyz:2052/batman1/batman1/1524563
 #EXTINF:-1 group-title="Unsorted" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",SPORTS: BEIN USA
 http://gooserace.xyz:2052/batman1/batman1/1524564
 #EXTINF:-1 group-title="Unsorted" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",US: beIN Sports USA HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/6300
+http://cloudcdn.tk:80/ABattist/Hu755K4358/22157
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/beINSports.us.png",BEIN SPORTS USA
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/uk/BoxNation.uk.png",Boxnation HD
@@ -405,7 +403,7 @@ http://gooserace.xyz:2052/batman1/batman1/1524576
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPNNews.us.png",SPORTS: ESPN News
 http://gooserace.xyz:2052/batman1/batman1/1524579
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPNU.us.png",SPORTS: ESPN U
-https://gma2.blab.email/espnu.m3u8
+http://cloudcdn.tk:80/ABattist/Hu755K4358/18190
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://espnpressroom.com/us/files/2020/07/ESPNU-1.png",SPORTS: ESPN U
 http://gooserace.xyz:2052/batman1/batman1/1524580
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/flow-sports-car.png",Carib: Flow Sports
@@ -437,7 +435,7 @@ http://cloudcdn.tk:80/ABattist/Hu755K4358/9008
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA TV
 http://broadpeakvip.airlinktt.co/live/smil:NBA_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",Sky Sport NBA HD
-http://gooserace.xyz:2052/batman1/batman1/2456050
+http://cloudcdn.tk:80/ABattist/Hu755K4358/14069
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png",NFL NETWORK
 http://gooserace.xyz:2052/batman1/batman1/1183859
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/olympic-channel-us.png",SPORTS: Olympic Channel
@@ -473,11 +471,13 @@ http://gooserace.xyz:2052/batman1/batman1/1524650
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/twMKgz9.png",Sky Sports Action FHD UK
 http://gooserace.xyz:2052/batman1/batman1/2485211
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/twMKgz9.png",Sky Sports Football HD
-http://gooserace.xyz:2052/batman1/batman1/2536189
+http://cloudcdn.tk:80/ABattist/Hu755K4358/20024
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-premier-league-icon-uk.png?raw=true",Sky Sports Premier League HD
 http://gooserace.xyz:2052/batman1/batman1/2485220
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.svgeurope.org/wp-content/blogs.dir/17/files/2018/02/LaLiga-300x300.png",SKY SPORTS
-http://broadpeakvip.airlinktt.co/live/smil:SKY_SPORTS.smil/playlist.m3u8
+#EXTINF:-1,beIN LaLiga HD US
+http://cloudcdn.tk:80/ABattist/Hu755K4358/32747
+#EXTINF:-1,SuperSport LaLiga HD ZA
+http://cloudcdn.tk:80/ABattist/Hu755K4358/28895
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/TennisChannel.us.png",Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://d6u22qyv3ngwz.cloudfront.net/ad/AMwV/tennis-channel-plus-over-100-hours-small-2.jpg",Tennis Channel+
@@ -486,8 +486,6 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 http://a.jsrdn.com/broadcast/256ad9e679/+0000/high/c.m3u8
 #EXTINF:-1,DISCOVERY TURBO
 http://broadpeakvip.airlinktt.co/live/smil:DISCOVERY_TURBO.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://tvsturbonetwork.com/TurboLogo1.jpg",TVS Turbo
-https://nrpus.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/WillowCricket.us.png",SPORTS: Willow HD
 http://broadpeakvip.airlinktt.co/live/smil:WILLOW.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",USA: WWE
