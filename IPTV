@@ -123,7 +123,7 @@ http://gooserace.xyz:2052/batman1/batman1/1524301
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png",USA: CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/1fhqoEE.png",USA: CNN
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/9029
+http://cloudcdn.tk:80/ABattist/Hu755K4358/9029
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/CNN.us.png",CNN HD
 http://gooserace.xyz:2052/batman1/batman1/1524304
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/CNN.us.png",CNN SD
@@ -189,7 +189,7 @@ http://broadpeakvip.airlinktt.co/live/smil:FOOD_NETWORK.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/FOXWXIX.us.png",USA: FOX (West)
 http://broadpeakvip.airlinktt.co/live/smil:FOX.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/FoxNews.us.png",USA: Fox News Channel
-https://gma2.blab.email/espn2.m3u8
+http://cloudcdn.tk:80/ABattist/Hu755K4358/13100
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/fr/France24English.fr.png",USA: France 24
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:FRANCE_24.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Freeform.us.png",USA: Freeform East
@@ -397,7 +397,9 @@ http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/725
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Lhttps://1000logos.net/wp-content/uploads/2017/01/ESPN-Logo.png",ESPN (SD)
 http://gooserace.xyz:2052/batman1/batman1/1524575
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://1000logos.net/wp-content/uploads/2017/01/ESPN-Logo.png",ESPN (720p)
-https://gma2.blab.email/fs2.m3u8
+http://cloudcdn.tk:80/ABattist/Hu755K4358/9023
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN2.us.png",SPORTS: ESPN 2
+http://cloudcdn.tk:80/ABattist/Hu755K4358/9022
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN2.us.png",SPORTS: ESPN 2
 http://gooserace.xyz:2052/batman1/batman1/1524576
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPNNews.us.png",SPORTS: ESPN News
@@ -409,9 +411,9 @@ http://gooserace.xyz:2052/batman1/batman1/1524580
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/flow-sports-car.png",Carib: Flow Sports
 http://ed8.oknirvana.club:8880/h2dt8mHzYv/wcngNPDpvN/59499
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/flow-sports-car.png",Carib: Flow Sports
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/26261
+http://cloudcdn.tk:80/ABattist/Hu755K4358/26261
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/flow-sports-car.png",Flow Sports Premier (RUSH) HD US
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/26263
+http://cloudcdn.tk:80/ABattist/Hu755K4358/26263
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://discoverflow.co/sites/discoverflow.co.trinidad/files/Flow_Sports_Logo_Primary_RGB_0.png",Carib Flow 1 (FL)
 http://gooserace.xyz:2052/batman1/batman1/1792934
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",Movistar Formula 1 HD
@@ -420,14 +422,18 @@ http://gooserace.xyz:2052/batman1/batman1/2476562
 http://gooserace.xyz:2052/batman1/batman1/2485229
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/FoxSports1.us.png",FOX SPORTS 1 HD
 http://broadpeakvip.airlinktt.co/live/smil:FOXSPORTS1.smil/playlist.m3u8
+#EXTINF:-1,FOX Sports 1 HD US
+http://cloudcdn.tk:80/ABattist/Hu755K4358/9031
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/FoxSports2.us.png",FOX SPORTS 2 HD
 http://broadpeakvip.airlinktt.co/live/smil:FOXSPORTS2.smil/playlist.m3u8
+#EXTINF:-1,FOX Sports 2 HD US
+http://cloudcdn.tk:80/ABattist/Hu755K4358/9030
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",MLB NETWORKS
 http://gooserace.xyz:2052/batman1/batman1/1524622
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBCSNWashington.us.png",SPORTS: NBC Sports Network
 http://broadpeakvip.airlinktt.co/live/smil:NBCSPORTS.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBCSNWashington.us.png",SPORTS: NBC Sports Network
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/9008
+http://cloudcdn.tk:80/ABattist/Hu755K4358/9008
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA TV
 http://broadpeakvip.airlinktt.co/live/smil:NBA_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",Sky Sport NBA HD
@@ -435,7 +441,7 @@ http://gooserace.xyz:2052/batman1/batman1/2456050
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png",NFL NETWORK
 http://gooserace.xyz:2052/batman1/batman1/1183859
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/olympic-channel-us.png",SPORTS: Olympic Channel
-http://cloudcdn.tk:80/live/vhh64vCXs4/46GcRL6947/18850.m3u8
+http://cloudcdn.tk:80/live/ABattist/Hu755K4358/18850.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/olympic-channel-us.png",SPORTS: Olympic Channel
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/829
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/olympic-channel-us.png",SPORTS: Olympic Channel
@@ -456,10 +462,6 @@ http://gooserace.xyz:2052/batman1/batman1/2475677
 http://gooserace.xyz:2052/batman1/batman1/1524616
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="Logo N/A",Play Sports Golf FHD BE
 http://gooserace.xyz:2052/batman1/batman1/1524616
-#EXTINF:-1 group-title="SPORTS " tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-box-office-icon-uk.png?raw=true",Sky Sports Box Office HD
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/14756
-#EXTINF:-1 group-title="SPORTS " tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-box-office-icon-uk.png?raw=true",Sky Sports Box Office HD
-http://gooserace.xyz:2052/batman1/batman1/2484999
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/jamaica/sportsmax-hz-jm.png",Carib: SportsMax 1
 http://gooserace.xyz:2052/batman1/batman1/1793158
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/jamaica/sportsmax-2-hz-jm.png",Carib: SportsMax 2
