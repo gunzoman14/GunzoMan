@@ -1,29 +1,29 @@
 #EXTINF:-1,#EXTM3U
 #EXTM3U x-tvg-url="http://gooserace.xyz:2052/xmltv.php?username=batman1&password=batman1&type=m3u_plus&output=m3u8"
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",Carib: CNC3
-http://broadpeakvip.airlinktt.co/live/smil:CNC3.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:CNC3.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://ttt.live/img/logobignew.png",Carib: TTT
-http://broadpeakvip.airlinktt.co/live/smil:TTT.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TTT.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",Carib: CCN TV6
-http://broadpeakvip.airlinktt.co/live/smil:TV6.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TV6.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/synergy-tv-tt.png",Carib: Synergy
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:SYNERGY.smil/chunklist_b1160000_slen.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR0ZW50di5hcHBfc2NyZWVuXzBfMTU2OTk0NjY2Nl8wNDY/screen-0.jpg?fakeurl=1&type=.jpg",TTEN
-http://broadpeakvip.airlinktt.co/live/smil:TTEN.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TTEN.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Gayelle_%28logo%29.jpg",Carib: Gayelle The Caribbean
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:GAYELLE.smil/chunklist_b2160000.m3u8
-#EXTINF:-1 group-title="RELIGION" tvg-logo="https://pbs.twimg.com/profile_images/378800000443807401/08429f981cdc2c4b51982d64e71dd87d_400x400.png",Carib TRINITY (FL)
-http://broadpeakvip.airlinktt.co/live/smil:TRINITY_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://pbs.twimg.com/profile_images/37880000044380740m3u81/08429f981cdc2c4b51982d64e71dd87d_400x400.png",Carib TRINITY (FL)
+http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TRINITY_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/Islamic_Broadcasting_Network.png",carib:IBN TT
-http://broadpeakvip.airlinktt.co/live/smil:IBN.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:IBN.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/89/fa/d7/89fad7fe-17e5-894f-8d3f-7de0a2c21469/AppIcon-1x_U007emarketing-5-0-85-220.png/1200x630wa.png",Religious: EWTN
-http://broadpeakvip.airlinktt.co/live/smil:EWTN.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:EWTN.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://afraraymond.files.wordpress.com/2020/12/tv-jaagriti-logo.jpg",Jaagriti
-http://broadpeakvip.airlinktt.co/live/smil:JAAGRITI.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:JAAGRITI.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://www.livenewsworld.com/wp-content/uploads/2018/11/Trinity-Broadcasting-Network.png",Religious: TBN
-http://broadpeakvip.airlinktt.co/live/smil:TBN.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:TBN.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://3abn.org/img/3abn-ogg.png",Religious: 3ABN Dare to Dream Network
-http://broadpeakvip.airlinktt.co/live/smil:3ABN.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:3ABN.smil/chunklist_b2160000.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="http://www.netsportmedia.com/wp-content/uploads/2019/03/CBN-400x250.png",USA: CBN News International
 https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/abc_hd.jpg",USA: ABC 7 NY (East) WABC
@@ -31,13 +31,11 @@ http://broadpeakvip.airlinktt.co/live/smil:ABC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AandE.us.png",USA: A&E
 http://broadpeakvip.airlinktt.co/live/smil:AE.smil/playlist.m3u8
 #EXTINF:-1 group-title="ANIMALS" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png",ANIMAL PLANET
-http://broadpeakvip.airlinktt.co/live/smil:ANIMAL_PLANET.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ANIMAL_PLANET.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://xtream-coders.com/x0/entertainment/axstv.png",USA: AXS TV
 http://gooserace.xyz:2052/batman1/batman1/1524275
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/pt/AXN.pt.png",USA: AXN
-http://broadpeakvip.airlinktt.co/live/smil:AXN.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AMC.us.png",USA: AMC
-http://broadpeakvip.airlinktt.co/live/smil:AMC.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:AXN.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AMC.us.png",USA: AMC
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:AMC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AMC.us.png",USA: AMC
@@ -53,15 +51,15 @@ http://n1.klowdtv.net/live1/awe_720p/chunks.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/gWOqTZg.png",People are Awesome
 https://jukin-peopleareawesome-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/gb/BBCWorldNews.uk.png",USA: BBC World News
-http://broadpeakvip.airlinktt.co/live/smil:BBC_WORLD.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BBC_WORLD.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://img.favpng.com/2/1/18/bbc-america-logo-television-image-png-favpng-tZY7NuNPUFRH26thBhW4aZMji.jpg",USA: BBC America
 http://gooserace.xyz:2052/batman1/batman1/1524276
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_jazeera.jpg",Al Jazeera English SD
-http://broadpeakvip.airlinktt.co/live/smil:ALJAZEERA.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:ALJAZEERA.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ru/RTUS.ru.png",USA: RT News America
 http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BET.us.png",USA: BET
-http://broadpeakvip.airlinktt.co/live/smil:BET.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BET.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BetHer.us.png",USA: BET Her
 http://broadpeakvip.airlinktt.co/live/smil:CENTRIC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bet-gospel-us.png",USA: BET Gospel
@@ -89,17 +87,17 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/5uIXfol.jpg",BOAT SHOW
 https://e99f8e610cd24f40a2c5f054d33aad3a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_TheBoatShow/820e6d4e-cebb-4533-adf7-d0193f320ac9/5.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/Boomerang.us.png",USA: Boomerang
-http://broadpeakvip.airlinktt.co/live/smil:BOOMERANG.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BOOMERANG.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://pbs.twimg.com/profile_images/687481099849723904/lPrBt-D7.png",USA: Boomerang
 http://gooserace.xyz:2052/batman1/batman1/1524286
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BounceTV.us.png",USA: Bounce TV
-http://broadpeakvip.airlinktt.co/live/smil:BOUNCE.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BOUNCE.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Bravo.us.png",USA: Bravo
 http://broadpeakvip.airlinktt.co/live/smil:BRAVO.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bollywood" tvg-logo="http://tesprologs.xyz/Logos/IndianLogos/B4U%20Movies%20%28Hindi%29%20%28US%29.png",IN: B4U Movies (CA)
 http://ed8.oknirvana.club:8880/h2dt8mHzYv/wcngNPDpvN/59512
 #EXTINF:-1 group-title="Bollywood" tvg-logo="http://tesprologs.xyz/Logos/IndianLogos/B4U%20Movies%20%28Hindi%29%20%28US%29.png",IN: B4U Movies (Hindi) (US)
-http://broadpeakvip.airlinktt.co/live/smil:B4U_MOVIES.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:B4U_MOVIES.smil/playlist.m3u8
 #EXTINF:-1 group-title="ANIMALS" tvg-logo="http://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png",Cats 24/7
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/599375885ceaac3cabccbed7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/CartoonNetwork.us.png",Cartoon Network FHD
@@ -161,7 +159,7 @@ https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee51
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png",USA: Discovery Channel
 http://broadpeakvip.airlinktt.co/live/smil:DISCOVERY.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/in/DiscoveryKids.in.png",IN: Discovery Kids
-http://broadpeakvip.airlinktt.co/live/smil:DISCOVERY_KIDS.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:DISCOVERY_KIDS.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/discovery-family-us.png",USA: Discovery Family
 http://gooserace.xyz:2052/batman1/batman1/1524324
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/InvestigationDiscovery.us.png",USA: Investigation Discovery
@@ -251,7 +249,7 @@ http://gooserace.xyz:2052/batman1/batman1/1524392
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/MGM.us.png",MOVIES: MGM
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:MGM.smil/chunklist_b1160000.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/MSNBC.us.png",USA: MSNBC
-http://broadpeakvip.airlinktt.co/live/smil:MSNBC.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:MSNBC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/diJCR16.png",AR: MBC Action HD
 https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/MBC%20Action.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/NatGeo.us.png",USA: National Geographic
@@ -325,19 +323,19 @@ http://broadpeakvip.airlinktt.co/live/smil:TRAVEL_CHANNEL.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TNT.us.png",USA: TNT East
 http://gooserace.xyz:2052/batman1/batman1/1524456
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TNT.us.png",USA: TNT East
-http://broadpeakvip.airlinktt.co/live/smil:TNT.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:TNT.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Tnt_series.png",TNT SERIES
-http://broadpeakvip.airlinktt.co/live/smil:TNTSERIES.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:TNTSERIES.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TVLandEast.us.png",USA: TV Land East
 http://broadpeakvip.airlinktt.co/live/smil:TV_LAND.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TVOne.us.png",USA: TV ONE
-http://broadpeakvip.airlinktt.co/live/smil:TV_ONE.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:TV_ONE.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TBS.us.png",USA: TBS
-http://broadpeakvip.airlinktt.co/live/smil:TBS.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:TBS.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/gb/TCM.uk.png",USA: TCM
-http://broadpeakvip.airlinktt.co/live/smil:TCM.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:TCM.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TLC.us.png",USA: TLC
-http://broadpeakvip.airlinktt.co/live/smil:TLC.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TLC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/oprah-winfrey-network-us.png",USA: OWN
 http://broadpeakvip.airlinktt.co/live/smil:OWN.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/USANetwork.us.png",USA: USA Network East
