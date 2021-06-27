@@ -177,7 +177,7 @@ http://gooserace.xyz:2052/batman1/batman1/1524194
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/epix-hits-us.png",MOVIES: Epix Hits
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/164
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cooking-channel-us.png",USA: Cooking Channel
-http://broadpeakvip.airlinktt.co/live/smil:COOKING.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:COOKING.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cooking-channel-us.png",USA: Cooking Channel
 http://gooserace.xyz:2052/batman1/batman1/1524308
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/FoodNetwork.us.png",USA: Food Network
@@ -351,7 +351,7 @@ https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/ad/02/b9/ad02b900-0308-9824-d270-8f16e9089c92/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/1200x630wa.png",YUYU TV
 https://4d6cd92b0a704b3b9c12c642e43fde30.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_YUYUTV/a04b21ac-b63c-44bb-89ca-a0e0815c4410/5.m3u8
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://static.epg.best/in/ZeeCinemalu.in.png",Carib: ZEE Cinema (Asian)
-http://broadpeakvip.airlinktt.co/live/smil:ZEE_CINEMA.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:ZEE_CINEMA.smil/chunklist_b1160000_slen.m3u8
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dd/Zee_TV_2017.svg/revision/latest/scale-to-width-down/200?cb=20191222192526",Carib: ZEE TV (Asian)
 http://broadpeakvip.airlinktt.co/live/smil:ZEE_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/14/Zee_World.jpg/revision/latest/scale-to-width-down/80?cb=20180625105234",Zee World
