@@ -253,7 +253,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:MSNBC.smil/playlist
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/diJCR16.png",AR: MBC Action HD
 https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/MBC%20Action.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/NatGeo.us.png",USA: National Geographic
-http://broadpeakvip.airlinktt.co/live/smil:NATGEO.smil/playlist.m3u8
+http://gooserace.xyz:2052/batman1/batman1/1524405
 #EXTINF:-1 group-title="ANIMALS" tvg-logo="https://static.epg.best/us/NatGeoWild.us.png",USA: Nat Geo Wild
 http://gooserace.xyz:2052/batman1/batman1/1524404
 #EXTINF:-1 group-title="ANIMALS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/nat-geo-wild-us.png",USA: Nat Geo Wild
@@ -329,7 +329,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TNT.smil/playlist.m
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Tnt_series.png",TNT SERIES
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:TNTSERIES.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TVLandEast.us.png",USA: TV Land East
-http://broadpeakvip.airlinktt.co/live/smil:TV_LAND.smil/playlist.m3u8
+http://ed8.oknirvana.club:8880/h2dt8mHzYv/wcngNPDpvN/3116
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TVOne.us.png",USA: TV ONE
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:TV_ONE.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TBS.us.png",USA: TBS
@@ -339,9 +339,9 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:TCM.smil/playlist.m
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TLC.us.png",USA: TLC
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TLC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/USANetwork.us.png",USA: USA Network East
-http://broadpeakvip.airlinktt.co/live/smil:USA.smil/playlist.m3u8
+http://ed8.oknirvana.club:8880/h2dt8mHzYv/wcngNPDpvN/3089
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/VH1.us.png",USA: VH1 East
-http://broadpeakvip.airlinktt.co/live/smil:VH1.smil/playlist.m3u8
+http://ed8.oknirvana.club:8880/h2dt8mHzYv/wcngNPDpvN/3087
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/fr/WarnerTV.fr.png",WARNER TV
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:WARNER.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fa/WE_tv_logo_2014.svg/revision/latest/scale-to-width-down/200?cb=20181209164308,USA: WE TV
