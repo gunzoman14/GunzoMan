@@ -295,9 +295,9 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:REEL.smil/playlist.
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/reelz-us.png",USA: Reelz
 http://gooserace.xyz:2052/batman1/batman1/1524431
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Showtime.us.png",MOVIES: Showtime
-http://broadpeakvip.airlinktt.co/live/smil:SHOWTIME.smil/playlist.m3u8
+http://ed8.oknirvana.club:8880/h2dt8mHzYv/wcngNPDpvN/3099
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/ShowtimeFamilyZone.us.png",MOVIES: Showtime 2
-http://broadpeakvip.airlinktt.co/live/smil:SHOWTIME_2.smil/playlist.m3u8
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/181
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/gr/SmileTV.gr.png",SMILE
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:SOAC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/in/SonyMax.in.png",USA: Sony Movie Channel
@@ -311,11 +311,11 @@ http://gooserace.xyz:2052/batman1/batman1/2635028
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/mx/Space.mx.png",SPACE
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SPACE.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg",MOVIES: Starz
-http://broadpeakvip.airlinktt.co/live/smil:STARZ.smil/playlist.m3u8
+http://ed8.oknirvana.club:8880/h2dt8mHzYv/wcngNPDpvN/3149
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzKidsFamily.us.png",MOVIES: Starz Kids & Family (West)
-http://broadpeakvip.airlinktt.co/live/smil:STARZ_K&F.smil/playlist.m3u8
+http://ed8.oknirvana.club:8880/h2dt8mHzYv/wcngNPDpvN/29460
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzComedy.us.png",MOVIES: Starz Comedy
-http://broadpeakvip.airlinktt.co/live/smil:STARZ_COMEDY.smil/playlist.m3u8
+http://ed8.oknirvana.club:8880/h2dt8mHzYv/wcngNPDpvN/29497
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzComedy.us.png",MOVIES: Starz Comedy
 http://cloudcdn.tk:80/ABattist/Hu755K4358/33947
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Syfy.us.png",USA: Syfy East
