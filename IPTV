@@ -287,9 +287,9 @@ http://gooserace.xyz:2052/batman1/batman1/1524422
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/PopTV.us.png",USA: POP
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 #EXTINF:-1 group-title="RELIGION MOVIES" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/positiv.png",POSI TV
-http://broadpeakvip.airlinktt.co/live/smil:POSITIV.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:POSITIV.smil/playlist.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://static.epg.best/us/ReelzChannel.us.png",REEL
-http://broadpeakvip.airlinktt.co/live/smil:REEL.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:REEL.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/reelz-us.png",USA: Reelz
 http://gooserace.xyz:2052/batman1/batman1/1524431
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Showtime.us.png",MOVIES: Showtime
@@ -297,17 +297,17 @@ http://broadpeakvip.airlinktt.co/live/smil:SHOWTIME.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/ShowtimeFamilyZone.us.png",MOVIES: Showtime 2
 http://broadpeakvip.airlinktt.co/live/smil:SHOWTIME_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/gr/SmileTV.gr.png",SMILE
-http://broadpeakvip.airlinktt.co/live/smil:SOAC.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:SOAC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/in/SonyMax.in.png",USA: Sony Movie Channel
-http://broadpeakvip.airlinktt.co/live/smil:SONY.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SONY.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://www.insidesport.co/wp-content/uploads/2020/06/09a49583-f93f-4082-9406-a26a4fece4de.jpg",IN: Sony SET (US)
-http://broadpeakvip.airlinktt.co/live/smil:SONY_INDIA.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SONY_INDIA.smil/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNoc2xLGXh5HhBlr3JfN_6yTApPw1NLCRsyl7ZOD5bUKYs1MVeGEFp7tfWkJOWiqsD1Ko&usqp=CAU" tvg-name="SPIKE-HD"  group-title="Unsorted",SPIKE-HD
 http://ed8.oknirvana.club:8880/h2dt8mHzYv/wcngNPDpvN/3097
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/SundanceTV.us.png",USA: Sundance
 http://gooserace.xyz:2052/batman1/batman1/2635028
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/mx/Space.mx.png",SPACE
-http://broadpeakvip.airlinktt.co/live/smil:SPACE.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SPACE.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg",MOVIES: Starz
 http://broadpeakvip.airlinktt.co/live/smil:STARZ.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzKidsFamily.us.png",MOVIES: Starz Kids & Family (West)
@@ -319,7 +319,7 @@ http://cloudcdn.tk:80/ABattist/Hu755K4358/33947
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Syfy.us.png",USA: Syfy East
 http://broadpeakvip.airlinktt.co/live/smil:SYFY.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TravelChannel.us.png",USA: Travel Channel
-http://broadpeakvip.airlinktt.co/live/smil:TRAVEL_CHANNEL.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:TRAVEL_CHANNEL.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TNT.us.png",USA: TNT East
 http://gooserace.xyz:2052/batman1/batman1/1524456
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TNT.us.png",USA: TNT East
@@ -343,7 +343,7 @@ http://broadpeakvip.airlinktt.co/live/smil:USA.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/VH1.us.png",USA: VH1 East
 http://broadpeakvip.airlinktt.co/live/smil:VH1.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/fr/WarnerTV.fr.png",WARNER TV
-http://broadpeakvip.airlinktt.co/live/smil:WARNER.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:WARNER.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fa/WE_tv_logo_2014.svg/revision/latest/scale-to-width-down/200?cb=20181209164308,USA: WE TV
 http://gooserace.xyz:2052/batman1/batman1/1524474
 #EXTINF:-1 group-title="WEATHER" tvg-logo="https://static.epg.best/us/WeatherNation.us.png",USA: WeatherNation
@@ -353,7 +353,7 @@ https://4d6cd92b0a704b3b9c12c642e43fde30.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://static.epg.best/in/ZeeCinemalu.in.png",Carib: ZEE Cinema (Asian)
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:ZEE_CINEMA.smil/chunklist_b1160000_slen.m3u8
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dd/Zee_TV_2017.svg/revision/latest/scale-to-width-down/200?cb=20191222192526",Carib: ZEE TV (Asian)
-http://broadpeakvip.airlinktt.co/live/smil:ZEE_TV.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:ZEETV.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/14/Zee_World.jpg/revision/latest/scale-to-width-down/80?cb=20180625105234",Zee World
 https://y5w8j4a9.ssl.hwcdn.net/world/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bollywood",Star Plus HD 
