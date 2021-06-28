@@ -271,7 +271,7 @@ http://ed8.oknirvana.club:8880/h2dt8mHzYv/wcngNPDpvN/3110
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://xtream-coders.com/x0/entertainment/mtv_u.png",USA: MTV U
 http://gooserace.xyz:2052/batman1/batman1/1524401
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/WBFS-TV_My_33.svg/revision/latest/scale-to-width-down/200?cb=20101114114806",MY33
-http://broadpeakvip.airlinktt.co/live/smil:MY33.smil/playlist.m3u8
+http://supersonictv.live:25461/tv/tv/71534
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/Nickelodeon.us.png",Nickelodeon (East)
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:NICKELODEON.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/TeenNick.us.png",Nick Teen
@@ -496,14 +496,15 @@ http://gooserace.xyz:2052/batman1/batman1/1549623
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2458
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",UFC TV
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2479
+#EXTINF:-1,24/7 Saints and Sinners
+http://supersonictv.live:25461/tv/tv/80936
 #EXTINF:-1 group-title="● CLASSICS" tvg-logo="http://011011011.com:8080/images/5c2d7d6a0f9f4aa5fd9fee5d14163cd2.jpg",24/7 Sanford and Son
 http://gooserace.xyz:2052/batman1/batman1/2625891
 #EXTINF:-1 group-title="Unsorted" tvg-logo="Logo N/A",24/7: Tom And Jerry
-http://gooserace.xyz:2052/batman1/batman1/2626732
+http://supersonictv.live:25461/tv/tv/79036
 #EXTINF:-1 group-title="Unsorted" tvg-logo="Logo N/A",RADIO ACTIVA
 http://streamserver.ml:7002/stream/1/
 #EXTINF:-1 group-title="Unsorted" tvg-logo="Logo N/A",RADIO
 https://n06.radiojar.com/6pz06e8nv4zuv
 #EXTINF:-1,Gospel (Music Choice)
 http://ed8.oknirvana.club:8880/h2dt8mHzYv/wcngNPDpvN/60027
-#
