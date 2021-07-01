@@ -1,5 +1,5 @@
 #EXTINF:-1,#EXTM3U
-#EXTM3U x-tvg-url="http://gooserace.xyz:2052/xmltv.php?username=batman1&password=batman1&type=m3u_plus&output=m3u8"
+#EXTM3U x-tvg-url="http://gooserace.xyz:2052/xmltv.php?username=armando&password=armando&type=m3u_plus&output=m3u8"
 #EXTINF:-1,Carib: CNC3
 http://gooserace.xyz:2052/armando/armando/1794099
 #EXTINF:-1,Carib: TTT
