@@ -96,8 +96,8 @@ http://gooserace.xyz:2052/armando/armando/1524286
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BOUNCE.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Bravo.us.png",USA: Bravo
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:BRAVO.smil/playlist.m3u8
-#EXTINF:-1 group-title="Bollywood" tvg-logo="http://tesprologs.xyz/Logos/IndianLogos/B4U%20Movies%20%28Hindi%29%20%28US%29.png",IN: B4U Movies (CA)
-http://ed8.oknirvana.club:8880/h2dt8mHzYv/wcngNPDpvN/59512
+#EXTINF:-1 group-title="Bollywood" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/B4U_MUSIC_2014.png/revision/latest/scale-to-width-down/250?cb=20190708072015",IN: B4U Music (Hindi) (US)
+http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:B4U_MUSIC.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:-1 group-title="Bollywood" tvg-logo="http://tesprologs.xyz/Logos/IndianLogos/B4U%20Movies%20%28Hindi%29%20%28US%29.png",IN: B4U Movies (Hindi) (US)
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:B4U_MOVIES.smil/playlist.m3u8
 #EXTINF:-1 group-title="ANIMALS" tvg-logo="http://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png",Cats 24/7
@@ -151,9 +151,9 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:DISNEY.smil/playlis
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyChannel.us.png",DISNEY CHANNEL HD
 http://gooserace.xyz:2052/armando/armando/1192936
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyJunior.us.png",Disney Junior
-http://gooserace.xyz:2052/armando/armando/1192938
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:DISNEY_JR.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyJunior.us.png",Disney Junior
-http://gooserace.xyz:2052/armando/armando/1192941
+http://s1.iptv66.tv:80/L07278R57173Q/L07278R57173Q/311
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyXD.us.png",Disney XD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:DISNEYXD.smil/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://download.logo.wine/logo/Disney%2B/Disney%2B-Logo.wine.png" tvg-name="Disney + HD"  group-title="",Disney + HD
@@ -258,6 +258,8 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:MGM.smil/chunklist_
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:MSNBC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/diJCR16.png",AR: MBC Action HD
 https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/MBC%20Action.m3u8
+#EXTINF:-1 tvg-id="News12NewYork.us" tvg-name="" tvg-logo="https://corporate.tubitv.com/wp-content/uploads/2020/10/News12BlueLogo2.png" group-title="News", News12 New York
+https://lnc-news12.tubi.video/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/NatGeo.us.png",USA: National Geographic
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NATGEO.smil/playlist.m3u8
 #EXTINF:-1 group-title="ANIMALS" tvg-logo="https://static.epg.best/us/NatGeoWild.us.png",USA: Nat Geo Wild
@@ -504,6 +506,8 @@ http://gooserace.xyz:2052/armando/armando/1549623
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2458
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",UFC TV
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2479
+#EXTINF:-1,UFC PPV
+http://23.237.199.84:7283/UFC-FIGHT-PASS-HD/index.m3u8?un=Alf23&tm=1625875385&sn=aIY01viAegEeRmyR9sMGF4ls7he
 #EXTINF:-1,24/7 Saints and Sinners
 http://supersonictv.live:25461/tv/tv/80936
 #EXTINF:-1 group-title="● CLASSICS" tvg-logo="http://011011011.com:8080/images/5c2d7d6a0f9f4aa5fd9fee5d14163cd2.jpg",24/7 Sanford and Son
