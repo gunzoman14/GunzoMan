@@ -151,11 +151,9 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:DISNEY.smil/playlis
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyChannel.us.png",DISNEY CHANNEL HD
 http://gooserace.xyz:2052/armando/armando/1192936
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyJunior.us.png",Disney Junior
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:DISNEY_JR.smil/playlist.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyJunior.us.png",Disney Junior
 http://s1.iptv66.tv:80/L07278R57173Q/L07278R57173Q/311
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyJunior.us.png",Disney Junior
-http://gooserace.xyz:2052/armando/armando/1192938
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyJunior.us.png",Disney Junior
-http://gooserace.xyz:2052/armando/armando/1192941
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyXD.us.png",Disney XD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:DISNEYXD.smil/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://download.logo.wine/logo/Disney%2B/Disney%2B-Logo.wine.png" tvg-name="Disney + HD"  group-title="",Disney + HD
