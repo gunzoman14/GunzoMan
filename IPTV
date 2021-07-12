@@ -328,6 +328,8 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:STARZ_K&F.smil/playli
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:STARZ_COMEDY.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzComedy.us.png",MOVIES: Starz Comedy
 http://cloudcdn.tk:80/ABattist/Hu755K4358/33947
+#EXTINF:-1,Unknown_2
+http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:STUDIO_UNIVERSAL.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Syfy.us.png",USA: Syfy East
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:SYFY.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TravelChannel.us.png",USA: Travel Channel
