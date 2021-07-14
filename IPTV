@@ -36,6 +36,8 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:A&E.smil/playlist.m
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ANIMAL_PLANET.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://xtream-coders.com/x0/entertainment/axstv.png",USA: AXS TV
 http://ed8.oknirvana.club:8880/h2dt8mHzYv/wcngNPDpvN/30047
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/pt/AXN.pt.png",USA: AXN HD
+http://tigerfights.xyz:2052/billy/billy/1109724
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/pt/AXN.pt.png",USA: AXN
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:AXN.smil/chunklist_b2500000_slen.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AMC.us.png",USA: AMC
@@ -497,7 +499,7 @@ http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/32747
 #EXTINF:-1,SuperSport LaLiga HD ZA
 http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/28895
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/TennisChannel.us.png",Tennis Channel
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://d6u22qyv3ngwz.cloudfront.net/ad/AMwV/tennis-channel-plus-over-100-hours-small-2.jpg",Tennis Channel+
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://images-platform.99static.com//Amj86fsRA0Px-9ijuvh3CPyidbs=/1009x174:4771x3936/fit-in/500x500/projects-files/64/6434/643466/eade489c-1423-4db4-910f-710fedb530cc.jpg",MOTORCYCLIST TV
@@ -509,11 +511,9 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:WILLOW.smil/playlist.
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",USA: WWE
 http://gooserace.xyz:2052/armando/armando/1549623
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",USA: WWE
-http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2458
+http://alltvpremiere.online:8000/rokualltv1234/zqv6Q8N8za/2183
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",UFC TV
-http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2479
-#EXTINF:-1,UFC PPV
-http://23.237.199.84:7283/UFC-FIGHT-PASS-HD/index.m3u8?un=Alf23&tm=1625875385&sn=aIY01viAegEeRmyR9sMGF4ls7he
+http://alltvpremiere.online:8000/rokualltv1234/zqv6Q8N8za/189
 #EXTINF:-1,24/7 Saints and Sinners
 http://supersonictv.live:25461/tv/tv/80936
 #EXTINF:-1 group-title="● CLASSICS" tvg-logo="http://011011011.com:8080/images/5c2d7d6a0f9f4aa5fd9fee5d14163cd2.jpg",24/7 Sanford and Son
