@@ -35,7 +35,9 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:A&E.smil/playlist.m
 #EXTINF:-1 group-title="ANIMALS" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png",ANIMAL PLANET
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ANIMAL_PLANET.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://xtream-coders.com/x0/entertainment/axstv.png",USA: AXS TV
-http://ed8.oknirvana.club:8880/h2dt8mHzYv/wcngNPDpvN/30047
+http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/290
+#EXTINF:-1,AXS TV
+http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/76744
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/pt/AXN.pt.png",USA: AXN HD
 http://tigerfights.xyz:2052/billy/billy/1109724
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/pt/AXN.pt.png",USA: AXN
@@ -181,8 +183,12 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:ESCAPE.smil/playlis
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61FiKePugAL.png",ElectricNOW
 https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51OcXYC5fsL.png",MOVIES:EPIX
+http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/5681
+#EXTINF:-1,MOV | EPIX - US
 http://gooserace.xyz:2052/armando/armando/1524193
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/epix-2-us.png",MOVIES: Epix 2
+http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/5684
+#EXTINF:-1,MOV | EPIX 2 - US
 http://gooserace.xyz:2052/armando/armando/1524194
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/epix-hits-us.png",MOVIES: Epix Hits
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/164
@@ -389,13 +395,13 @@ http://gooserace.xyz:2052/armando/armando/2485113
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",BTSports 1 HD
 http://s1.iptv66.tv:80/L07278R57173Q/L07278R57173Q/259
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",BTSports 1 UK
-http://gooserace.xyz:2052/armando/armando/2484211
+http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/154097
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png",BT SPORTS 1
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/3586
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",BT Sport 2 HD UK
 http://gooserace.xyz:2052/armando/armando/2484212
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",BT Sport 2 HD
-http://gooserace.xyz:2052/armando/armando/2503674
+http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/154098
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",BT Sport 3 HD UK
 http://gooserace.xyz:2052/armando/armando/2484213
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",BT Sport ESPN UK
