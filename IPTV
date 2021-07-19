@@ -337,8 +337,8 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:STARZ_K&F.smil/playli
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzComedy.us.png",MOVIES: Starz Comedy
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:STARZ_COMEDY.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzComedy.us.png",MOVIES: Starz Comedy
-http://cloudcdn.tk:80/ABattist/Hu755K4358/33947
-#EXTINF:-1,Unknown_2
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/33947
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png",STUDIO UNIVERSAL
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:STUDIO_UNIVERSAL.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Syfy.us.png",USA: Syfy East
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:SYFY.smil/playlist.m3u8
@@ -387,7 +387,7 @@ http://gooserace.xyz:2052/armando/armando/1524563
 #EXTINF:-1 group-title="Unsorted" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",SPORTS: BEIN USA
 http://gooserace.xyz:2052/armando/armando/1524564
 #EXTINF:-1 group-title="Unsorted" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",US: beIN Sports USA HD
-http://cloudcdn.tk:80/HDC8vgA825/GxnkdG870/22157
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/22157
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/beINSports.us.png",BEIN SPORTS USA
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/uk/BoxNation.uk.png",Boxnation HD
@@ -403,7 +403,7 @@ http://gooserace.xyz:2052/armando/armando/2484212
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",BT Sport 2 HD
 http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/154098
 #EXTINF:-1,BT Sport 2 UK BACK
-http://cloudcdn.tk:80/Shaunbrown/HZKrLl795/3588
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/3588
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",BT Sport 3 HD UK
 http://gooserace.xyz:2052/armando/armando/2484213
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",BT Sport ESPN UK
@@ -427,21 +427,21 @@ http://cloudcdn.tk:80/Shaunbrown/HZKrLl795/9023
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN2.us.png",SPORTS: ESPN 2
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ESPN2_CARIBBEAN.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN2.us.png",SPORTS: ESPN 2
-http://cloudcdn.tk:80/Shaunbrown/HZKrLl795/9022
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/9022
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN2.us.png",SPORTS: ESPN 2
 http://gooserace.xyz:2052/armando/armando/1524576
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPNNews.us.png",SPORTS: ESPN News
 http://gooserace.xyz:2052/armando/armando/1524579
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPNU.us.png",SPORTS: ESPN U
-http://cloudcdn.tk:80/Shaunbrown/HZKrLl795/18190
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/18190
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://espnpressroom.com/us/files/2020/07/ESPNU-1.png",SPORTS: ESPN U
 http://gooserace.xyz:2052/armando/armando/1524580
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/flow-sports-car.png",Carib: Flow Sports
 http://ed8.oknirvana.club:8880/h2dt8mHzYv/wcngNPDpvN/59499
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/flow-sports-car.png",Carib: Flow Sports
-http://cloudcdn.tk:80/Shaunbrown/HZKrLl795/26261
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/26261
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/flow-sports-car.png",Flow Sports Premier (RUSH) HD US
-http://cloudcdn.tk:80/Shaunbrown/HZKrLl795/26263
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/26263
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://discoverflow.co/sites/discoverflow.co.trinidad/files/Flow_Sports_Logo_Primary_RGB_0.png",Carib Flow 1 (FL)
 http://gooserace.xyz:2052/armando/armando/1792934
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",Movistar Formula 1 HD
@@ -451,25 +451,25 @@ http://gooserace.xyz:2052/armando/armando/2485229
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/FoxSports1.us.png",FOX SPORTS 1 HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOXSPORTS1.smil/playlist.m3u8
 #EXTINF:-1,FOX Sports 1 HD US
-http://cloudcdn.tk:80/Shaunbrown/HZKrLl795/9031
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/9031
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/FoxSports2.us.png",FOX SPORTS 2 HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOXSPORTS2.smil/playlist.m3u8
 #EXTINF:-1,FOX Sports 2 HD US
-http://cloudcdn.tk:80/Shaunbrown/HZKrLl795/9030
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/9030
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",MLB NETWORKS
 http://gooserace.xyz:2052/armando/armando/1524622
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBCSNWashington.us.png",SPORTS: NBC Sports Network
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NBCSPORTS.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBCSNWashington.us.png",SPORTS: NBC Sports Network
-http://cloudcdn.tk:80/Shaunbrown/HZKrLl795/9008
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/9008
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA TV
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:NBA_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",Sky Sport NBA HD
-http://cloudcdn.tk:80/Shaunbrown/HZKrLl795/14069
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/14069
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png",NFL NETWORK
 http://gooserace.xyz:2052/armando/armando/1183859
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/olympic-channel-us.png",SPORTS: Olympic Channel
-http://cloudcdn.tk:80/Shaunbrown/HZKrLl795/18850.m3u8
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/18850.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/olympic-channel-us.png",SPORTS: Olympic Channel
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/829
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/olympic-channel-us.png",SPORTS: Olympic Channel
@@ -501,13 +501,13 @@ http://gooserace.xyz:2052/armando/armando/1524650
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/twMKgz9.png",Sky Sports Action FHD UK
 http://gooserace.xyz:2052/armando/armando/2485211
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/twMKgz9.png",Sky Sports Football HD
-http://cloudcdn.tk:80/Shaunbrown/HZKrLl795/20024
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/20024
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-premier-league-icon-uk.png?raw=true",Sky Sports Premier League HD
 http://gooserace.xyz:2052/armando/armando/2485220
 #EXTINF:-1,beIN LaLiga HD US
-http://cloudcdn.tk:80/Shaunbrown/HZKrLl795/32747
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/32747
 #EXTINF:-1,SuperSport LaLiga HD ZA
-http://cloudcdn.tk:80/Shaunbrown/HZKrLl795/28895
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/28895
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/TennisChannel.us.png",Tennis Channel
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/18386
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://d6u22qyv3ngwz.cloudfront.net/ad/AMwV/tennis-channel-plus-over-100-hours-small-2.jpg",Tennis Channel+
