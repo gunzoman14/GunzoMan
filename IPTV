@@ -160,8 +160,6 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:DISNEY.smil/playlis
 http://gooserace.xyz:2052/armando/armando/1192936
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyJunior.us.png",Disney Junior
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:DISNEY_JR.smil/playlist.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyJunior.us.png",Disney Junior
-http://s1.iptv66.tv:80/L07278R57173Q/L07278R57173Q/311
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyXD.us.png",Disney XD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:DISNEYXD.smil/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://download.logo.wine/logo/Disney%2B/Disney%2B-Logo.wine.png" tvg-name="Disney + HD"  group-title="",Disney + HD
@@ -275,7 +273,7 @@ https://lnc-news12.tubi.video/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/NatGeo.us.png",USA: National Geographic
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NATGEO.smil/playlist.m3u8
 #EXTINF:-1 group-title="ANIMALS" tvg-logo="https://static.epg.best/us/NatGeoWild.us.png",USA: Nat Geo Wild
-http://gooserace.xyz:2052/armando/armando/1524404
+http://we.caughtyousnooping.club:80/Famtv/JKM120611/803
 #EXTINF:-1 group-title="ANIMALS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/nat-geo-wild-us.png",USA: Nat Geo Wild
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/1499
 #EXTINF:-1 group-title="ANIMALS" tvg-logo="https://www.freelogovector.com/wp-content/uploads/2017/06/23%20-%20PNG%20love%20nature%20copy.jpg",Love Nature
@@ -371,7 +369,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:WARNER.smil/playlis
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fa/WE_tv_logo_2014.svg/revision/latest/scale-to-width-down/200?cb=20181209164308,USA: WE TV
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:WE_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="WEATHER" tvg-logo="https://static.epg.best/us/WeatherNation.us.png",USA: WeatherNation
-https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=on
+http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/408
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/ad/02/b9/ad02b900-0308-9824-d270-8f16e9089c92/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/1200x630wa.png",YUYU TV
 https://4d6cd92b0a704b3b9c12c642e43fde30.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_YUYUTV/a04b21ac-b63c-44bb-89ca-a0e0815c4410/5.m3u8
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://static.epg.best/in/ZeeCinemalu.in.png",Carib: ZEE Cinema (Asian)
@@ -421,11 +419,11 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:ESPN_CARIBBEAN.smil
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",SPORTS: ESPN
 http://gooserace.xyz:2052/armando/armando/1524575
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 1
-http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/725
+http://we.caughtyousnooping.club:80/Famtv/JKM120611/725
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Lhttps://1000logos.net/wp-content/uploads/2017/01/ESPN-Logo.png",ESPN (SD)
 http://gooserace.xyz:2052/armando/armando/1524575
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://1000logos.net/wp-content/uploads/2017/01/ESPN-Logo.png",ESPN (720p)
-http://cloudcdn.tk:80/Shaunbrown/HZKrLl795/9023
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/9023
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN2.us.png",SPORTS: ESPN 2
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ESPN2_CARIBBEAN.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN2.us.png",SPORTS: ESPN 2
@@ -490,8 +488,6 @@ http://gooserace.xyz:2052/armando/armando/2475677
 http://gooserace.xyz:2052/armando/armando/1524616
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="Logo N/A",Play Sports Golf FHD BE
 http://gooserace.xyz:2052/armando/armando/1524616
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/jamaica/sportsmax-hz-jm.png",Carib: SportsMax 1
-http://ed8.oknirvana.club:8880/h2dt8mHzYv/wcngNPDpvN/59530
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/jamaica/sportsmax-2-hz-jm.png",Carib: SportsMax 2
 http://gooserace.xyz:2052/armando/armando/1792827
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-golf-icon-uk.png?raw=true",Sky Sports Golf HD
@@ -513,7 +509,7 @@ http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/18386
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://d6u22qyv3ngwz.cloudfront.net/ad/AMwV/tennis-channel-plus-over-100-hours-small-2.jpg",Tennis Channel+
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/18386
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",S Tennis
-http://85.203.33.88:80/b4CxOlKVh61/8vO4GQ220/54966
+http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/315558
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://images-platform.99static.com//Amj86fsRA0Px-9ijuvh3CPyidbs=/1009x174:4771x3936/fit-in/500x500/projects-files/64/6434/643466/eade489c-1423-4db4-910f-710fedb530cc.jpg",MOTORCYCLIST TV
 http://a.jsrdn.com/broadcast/256ad9e679/+0000/high/c.m3u8
 #EXTINF:-1,DISCOVERY TURBO
@@ -528,12 +524,10 @@ http://gooserace.xyz:2052/armando/armando/1549623
 http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/114676
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",UFC TV
 http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/47276
-#EXTINF:-1,24/7 Saints and Sinners
-http://supersonictv.live:25461/tv/tv/80936
 #EXTINF:-1 group-title="● CLASSICS" tvg-logo="http://011011011.com:8080/images/5c2d7d6a0f9f4aa5fd9fee5d14163cd2.jpg",24/7 Sanford and Son
 http://gooserace.xyz:2052/armando/armando/2625891
 #EXTINF:-1 group-title="Unsorted" tvg-logo="Logo N/A",24/7: Tom And Jerry
-http://supersonictv.live:25461/tv/tv/79036
+http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/570382
 #EXTINF:-1 group-title="Unsorted" tvg-logo="Logo N/A",RADIO ACTIVA
 http://streamserver.ml:7002/stream/1/
 #EXTINF:-1 group-title="Unsorted" tvg-logo="Logo N/A",RADIO
