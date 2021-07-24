@@ -1,15 +1,15 @@
 #EXTINF:-1,#EXTM3U
 #EXTM3U x-tvg-url="http://gooserace.xyz:2052/xmltv.php?username=armando&password=armando&type=m3u_plus&output=m3u8"
 #EXTINF:-1,Carib: CNC3
-http://gooserace.xyz:2052/armando/armando/1794099
+http://tigerfights.xyz:80/armando/armando/1794099.m3u8
 #EXTINF:-1,Carib: TTT
-http://gooserace.xyz:2052/armando/armando/1792726
+http://tigerfights.xyz:80/armando/armando/1792726.m3u8
 #EXTINF:-1,Carib: CCN TV6
-http://gooserace.xyz:2052/armando/armando/1793060
+http://tigerfights.xyz:80/armando/armando/1793060.m3u8
 #EXTINF:-1,Carib: Synergy
-http://gooserace.xyz:2052/armando/armando/1792824
+http://tigerfights.xyz:80/armando/armando/1792824.m3u8
 #EXTINF:-1,Carib: Gayelle The Caribbean
-http://gooserace.xyz:2052/armando/armando/1792912
+http://tigerfights.xyz:80/armando/armando/1792912.m3u8
 #EXTINF:-1 group-title="Kidz" tvg-logo="http://192.119.9.114/nuvo/25164.png",Kidz: Cartoon Network East (USA)
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2297
 #EXTINF:-1,US: Food Network (East)
