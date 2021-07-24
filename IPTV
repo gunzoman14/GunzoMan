@@ -26,7 +26,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:TBN.smil/playlist.m
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:3ABN.smil/chunklist_b2160000.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="http://www.netsportmedia.com/wp-content/uploads/2019/03/CBN-400x250.png",USA: CBN News International
 https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
-#EXTINF:-1 group-title="Bollywood" tvg-logo="https://sc.dish.com/shared/images/station-logos/APCLR.png",AAPKA COLORS
+#EXTINF:-1 group-title="Bollywood" tvg-logo="https://sc.dish.com/shared/images/station-logos/APCLR.png",IN: Aapka Colors (Hindi) (US)
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:AAPKA_COLORS.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/abc_hd.jpg",USA:ABC WPBF
 https://streams.the6tv.duckdns.org:2443/locals/BayArea/kgo-dt1.m3u8
@@ -74,7 +74,7 @@ http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BET.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BetHer.us.png",USA: BET Her
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:CENTRIC.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bet-gospel-us.png",USA: BET Gospel
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bet-gospel-us.png",TR BEYAZ HD PLUS
 http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/90320
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://xtream-coders.com/x0/entertainment/bet_jams.png",USA: BET Jams
 http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/296
@@ -388,7 +388,7 @@ http://tigerfights.xyz:80/armando/armando/3041774.m3u8
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/22157
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/beINSports.us.png",BEIN SPORTS USA
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/uk/BoxNation.uk.png",Boxnation HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/uk/BoxNation.uk.png",Boxnation 
 http://tigerfights.xyz:80/armando/armando/2485112.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",BTSports 1 HD
 http://s1.iptv66.tv:80/L07278R57173Q/L07278R57173Q/259
