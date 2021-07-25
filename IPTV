@@ -80,8 +80,6 @@ http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/90320
 http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/296
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://xtream-coders.com/x0/entertainment/bet_soul.png",USA: BET Soul
 http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/297
-#EXTINF:-1 group-title="Music" tvg-logo="https://static.epg.best/gb/Magic.uk.png",Magic
-http://tigerfights.xyz:80/Conga/Conga/2484983.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/PRgvj4c.png",1 Music Channel
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="Logo N/A",USA: Revolt
@@ -103,7 +101,7 @@ https://e99f8e610cd24f40a2c5f054d33aad3a.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/Boomerang.us.png",USA: Boomerang
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BOOMERANG.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://pbs.twimg.com/profile_images/687481099849723904/lPrBt-D7.png",USA: Boomerang
-http://gooserace.xyz:2052/Conga/Conga/1524286
+http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/76752
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BounceTV.us.png",USA: Bounce TV
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BOUNCE.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Bravo.us.png",USA: Bravo
