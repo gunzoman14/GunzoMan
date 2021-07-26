@@ -70,15 +70,15 @@ http://we.caughtyousnooping.club:80/Famtv/JKM120611/673
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:ALJAZEERA.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ru/RTUS.ru.png",USA: RT News America
 http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BET.us.png",USA: BET
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BET.us.png",USA | BET
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BET.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BetHer.us.png",USA: BET Her
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BetHer.us.png",USA | BET Her
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:CENTRIC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bet-gospel-us.png",BET GOSPEL | SD
 http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/90320
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://xtream-coders.com/x0/entertainment/bet_jams.png",USA: BET Jams
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://xtream-coders.com/x0/entertainment/bet_jams.png",USA | BET JAMS
 http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/296
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://xtream-coders.com/x0/entertainment/bet_soul.png",BET SOUL | SD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://xtream-coders.com/x0/entertainment/bet_soul.png",USA | BET SOUL
 http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/297
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/PRgvj4c.png",1 Music Channel
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
@@ -102,9 +102,9 @@ https://e99f8e610cd24f40a2c5f054d33aad3a.mediatailor.us-east-1.amazonaws.com/v1/
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BOOMERANG.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://pbs.twimg.com/profile_images/687481099849723904/lPrBt-D7.png",USA: Boomerang
 http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/76752
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BounceTV.us.png",USA: Bounce TV
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BounceTV.us.png",USA | BOUNCE TV
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BOUNCE.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Bravo.us.png",USA: Bravo
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Bravo.us.png",USA | BRAVO
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:BRAVO.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/B4U_MUSIC_2014.png/revision/latest/scale-to-width-down/250?cb=20190708072015",IN: B4U Music (Hindi) (US)
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:B4U_MUSIC.smil/chunklist_b2160000_slen.m3u8
@@ -128,7 +128,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:CINEMAX.smil/chunkl
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:CITY_TV.smil/playlist.m3u8
 #EXTINF:-1,CNBC
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:CNBC.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Comet.us.png",USA: Comet
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Comet.us.png",USA | COMET
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:COMET_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/CMT.us.png",USA: CMT
 http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/308
