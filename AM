@@ -1,5 +1,5 @@
 #EXTINF:-1,#EXTM3U
-#EXTM3U x-tvg-url="http://tigerfights.xyz:80/xmltv.php?username=armando&password=armando&type=m3u_plus&output=m3u8"
+#EXTM3U x-tvg-url="http://iptv.airlinktt.co/epg-cache/query?json={%22channels%22:[10,1055,1069,11,1128,1131,117,12,1239,1241,1289,1295,1296,13,1347,14,1409,1429,15,16,17,18,19,192,193,194,197,198,199,200,201,202,21,217,218,22,225,226,23,232,238,24,244,252,254,258,259,26,260,269,270,273,275,28,298,30,31,32,34,37,38,448,45,450,451,453,454,455,456,457,458,459,46,460,461,462,464,465,466,467,469,47,470,472,473,49,5,52,53,54,559,56,6,66,68,69,7,70,72,73,75,76,77,78,79,8,80,81,9,92,93,94,957,958,959,960,961,962,963,964,965,967,968,969,97,970,972,973,974,975,976,977,98,99],%22starttime%22:1627421399000,%22endtime%22:1627428599000,%22channelType%22:%22TV%22,%22language%22:%22en-US%22}"
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",Carib: CNC3
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:CNC3.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://ttt.live/img/logobignew.png",Carib: TTT
