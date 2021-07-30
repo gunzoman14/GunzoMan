@@ -278,6 +278,8 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:MSNBC.smil/playlist
 https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/MBC%20Action.m3u8
 #EXTINF:-1 tvg-id="News12NewYork.us" tvg-name="" tvg-logo="https://corporate.tubitv.com/wp-content/uploads/2020/10/News12BlueLogo2.png" group-title="News", News12 New York
 https://lnc-news12.tubi.video/index.m3u8
+#EXTINF:-1 group-title="NOLLYWOOD" tvg-logo=",Pluto TV Demand Africa
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f061242a7951e00075d7413/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=172&deviceId=5f061242a7951e00075d7413&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/NatGeo.us.png",USA | NAT GEO
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NATGEO.smil/playlist.m3u8
 #EXTINF:-1 group-title="ANIMALS" tvg-logo="https://static.epg.best/us/NatGeoWild.us.png",USA | NAT GEO WILD
