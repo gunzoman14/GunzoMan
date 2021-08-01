@@ -163,7 +163,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://static.epg.best/in/AndFlix.in.png",IN: &Flix
 http://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/destination-america-us.png",USA | DESTINATION AMERICA
-http://cloudcdn.tk:80/m93Df5nyhlZ7742/3xbk57200/18189
+http://ky-iptv.com:25461/thestuff1/thestuff1/175825
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyChannel.us.png",USA | DISNEY CHANNEL
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:DISNEY.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyChannel.us.png",USA | DISNEY CHANNEL HD
@@ -206,6 +206,8 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:COOKING.smil/playli
 http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/314
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/FoodNetwork.us.png",USA | FOOD NETWORK
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:FOOD_NETWORK.smil/chunklist_b2160000_slen.m3u8
+#EXTINF:-1,Carib RecipeTV
+http://ky-iptv.com:25461/thestuff1/thestuff1/499807
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/FOXWXIX.us.png",FOX HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOX.smil/chunklist_b1160000.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/FoxNews.us.png",USA: Fox News Channel
@@ -403,19 +405,19 @@ http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/4010
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/uk/BoxNation.uk.png",Boxnation 
 http://cloudcdn.tk:80/m93Df5nyhlZ7742/3xbk57200/4010
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",BTSports 1 HD
-http://s1.iptv66.tv:80/L07278R57173Q/L07278R57173Q/259
+http://ky-iptv.com:25461/thestuff1/thestuff1/174235
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",BTSports 1 UK
 http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/154097
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png",BT SPORTS 1
-http://cloudcdn.tk:80/m93Df5nyhlZ7742/3xbk57200/1991
+http://cloudcdn.tk:80/m93Df5nyhlZ7742/3xbk57200/14657
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://p.kindpng.com/picc/s/23-238823_bt-sport-2-logo-hd-png-download.png",BT Sport 2 HD UK
-http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/3588
+http://ky-iptv.com:25461/thestuff1/thestuff1/174237
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://ewsat.com/img/BT_SPORT_2.png",BT Sport 2 HD
 http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/154098
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://ewsat.com/img/BT_SPORT_2.png",BT Sport 2 BACKUP
 http://cloudcdn.tk:80/m93Df5nyhlZ7742/3xbk57200/3588
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsport3hd.jpg",BT Sport 3 UK
-http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/14903
+http://ky-iptv.com:25461/thestuff1/thestuff1/174239
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsport3.jpg",BT Sport 3 UK
 http://cloudcdn.tk:80/m93Df5nyhlZ7742/3xbk57200/1965
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",BT Sport 3 HD UK
@@ -425,7 +427,7 @@ http://cloudcdn.tk:80/m93Df5nyhlZ7742/3xbk57200/2673
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",BT Sport ESPN UK
 http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/316434
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/cbbssportsnetworkus.jpg",CBS Sports Network HD US
-http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/10347
+http://ky-iptv.com:25461/thestuff1/thestuff1/176607
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",CBS SPORTS NETWORK HD
 http://cloudcdn.tk:80/m93Df5nyhlZ7742/3xbk57200/10347
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",CBS SPORTS NETWORK HD
@@ -443,23 +445,23 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ESPN2_CARIBBEAN.smi
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN2.us.png",SPORTS: ESPN 2
 http://cloudcdn.tk:80/m93Df5nyhlZ7742/3xbk57200/9022
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN2.us.png",SPORTS: ESPN 2
-http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/824
+http://ky-iptv.com:25461/thestuff1/thestuff1/220407
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPNNews.us.png",ESPNEWS
-http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/823
+http://ky-iptv.com:25461/thestuff1/thestuff1/220410
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPNU.us.png",ESPNU
 http://cloudcdn.tk:80/m93Df5nyhlZ7742/3xbk57200/18190
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg",Eurosport 1 HD UK
 http://cloudcdn.tk:80/m93Df5nyhlZ7742/3xbk57200/13091
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg",Eurosport 2 HD UK
-http://cloudcdn.tk:80/MersicJazvan/QblY8413/13092
+http://cloudcdn.tk:80/m93Df5nyhlZ7742/3xbk57200/13092
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/flow-sports-car.png",Carib: Flow Sports
-http://cloudcdn.tk:80/m93Df5nyhlZ7742/3xbk57200/26261
+http://ky-iptv.com:25461/thestuff1/thestuff1/499731
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/flow-sports-car.png",Carib: Flow Sports
 http://we.caughtyousnooping.club:80/Famtv/JKM120611/2199
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/flow-sports-car.png",Flow Sports Premier (RUSH) HD US
 http://cloudcdn.tk:80/m93Df5nyhlZ7742/3xbk57200/26263
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",Movistar Formula 1 HD
-http://cloudcdn.tk:80/MersicJazvan/QblY8413/5445
+http://cloudcdn.tk:80/m93Df5nyhlZ7742/3xbk57200/5445
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg",Sky Sports F1 FHD UK
 http://iptv.tvmalaysia.cc:80/139664/139664/6617
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-f1-icon-uk.png?raw=true",Sky Sports F1 HD
@@ -485,15 +487,15 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:NBA_TV.smil/playlist.
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",Sky Sport NBA HD
 http://cloudcdn.tk:80/m93Df5nyhlZ7742/3xbk57200/14069
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png",NFL NETWORK
-http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/21002
+http://ky-iptv.com:25461/thestuff1/thestuff1/515041
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/olympic-channel-us.png",OLYMPIC CHANNEL
-http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/18850
+http://ky-iptv.com:25461/thestuff1/thestuff1/220440
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/olympic-channel-us.png",OLYMPIC CHANNEL
 http://we.caughtyousnooping.club:80/Famtv/JKM120611/829
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/olympic-channel-us.png",OLYMPIC CHANNEL
 http://cloudcdn.tk:80/m93Df5nyhlZ7742/3xbk57200/18850
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/premiersports.jpg",Premier Sports 1 UK
-http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/3584
+http://ky-iptv.com:25461/thestuff1/thestuff1/229003
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.logolynx.com/images/logolynx/2b/2b52c6b9bf43351da5d3e38a626c6997.jpeg",PRO SPORTS
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:PRO_SPORTS.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/1M4zMdC.png",Sky Sports Racing HD
@@ -508,32 +510,32 @@ http://cloudcdn.tk:80/m93Df5nyhlZ7742/3xbk57200/24208
 http://cloudcdn.tk:80/m93Df5nyhlZ7742/3xbk57200/4168
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="Logo N/A",NBC-Golf
 http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/336
-#EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="https://picon-13398.kxcdn.com/skysportsgolfuk.jpg",Sky Sports Golf HD UK
-http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/3600
+#EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png",One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://scheduler.sportsmax.tv/img/sm1.png",Carib: SportsMax 1
 http://reliablestreamz.com:826/live/R31eynold/mqMItRdVNJ/110180.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/jamaica/sportsmax-2-hz-jm.png",Carib: SportsMax 2
-http://reliablestreamz.com:826/live/R31eynold/mqMItRdVNJ/110179.m3u8
+http://ky-iptv.com:25461/thestuff1/thestuff1/499828
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-golf-icon-uk.png?raw=true",Sky Sports Golf HD
 http://cloudcdn.tk:80/m93Df5nyhlZ7742/3xbk57200/14654
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/SEC_Network_Logo.png",SPORTS: SEC Network
-http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/18175
+http://ky-iptv.com:25461/thestuff1/thestuff1/220411
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsactionuk.jpg",Sky Sports Action FHD UK
-http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/14653
+http://ky-iptv.com:25461/thestuff1/thestuff1/174254
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/twMKgz9.png",Sky Sports Action FHD UK
-http://cloudcdn.tk:80/MersicJazvan/QblY8413/14653
+http://cloudcdn.tk:80/m93Df5nyhlZ7742/3xbk57200/14653
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsfootballuk.jpg",Sky Sports Football HD UK
-http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/20024
+http://ky-iptv.com:25461/thestuff1/thestuff1/174261
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/twMKgz9.png",Sky Sports Football HD
 http://cloudcdn.tk:80/m93Df5nyhlZ7742/3xbk57200/20024
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportscricketuk.jpg",Sky Sports Cricket FHD UK
-http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/14652
+http://ky-iptv.com:25461/thestuff1/thestuff1/1116406
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmixhd.jpg",Sky Sports Mix HD UK
-http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/14902
+http://ky-iptv.com:25461/thestuff1/thestuff1/174267
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmaineventuk.jpg",Sky Sports Main Event FHD UK
-http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/14651
+http://ky-iptv.com:25461/thestuff1/thestuff1/174265
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",Sky Sports Premier League FHD UK
-http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/14655
+http://ky-iptv.com:25461/thestuff1/thestuff1/174272
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-premier-league-icon-uk.png?raw=true",Sky Sports Premier League HD
 http://cloudcdn.tk:80/m93Df5nyhlZ7742/3xbk57200/14655
 #EXTINF:-1,beIN LaLiga HD US
@@ -543,7 +545,7 @@ http://cloudcdn.tk:80/m93Df5nyhlZ7742/3xbk57200/28895
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/TennisChannel.us.png",Tennis Channel
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/18386
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://d6u22qyv3ngwz.cloudfront.net/ad/AMwV/tennis-channel-plus-over-100-hours-small-2.jpg",Tennis Channel+
-http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/18386
+http://ky-iptv.com:25461/thestuff1/thestuff1/220448
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",S Tennis
 http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/315558
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://images-platform.99static.com//Amj86fsRA0Px-9ijuvh3CPyidbs=/1009x174:4771x3936/fit-in/500x500/projects-files/64/6434/643466/eade489c-1423-4db4-910f-710fedb530cc.jpg",MOTORCYCLIST TV
@@ -552,14 +554,16 @@ http://a.jsrdn.com/broadcast/256ad9e679/+0000/high/c.m3u8
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:DISCOVERY_TURBO.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/WillowCricket.us.png",SPORTS: Willow HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:WILLOW.smil/playlist.m3u8
+#EXTINF:-1,USA Cricket TV
+http://ky-iptv.com:25461/thestuff1/thestuff1/591841
 #EXTINF:-1 tvg-name="IMPACT_Wrestling" tvg-id="d838e8" tvg-logo="https://i.imgur.com/w3eLKLw.png" group-title="USA PLEX",IMPACT Wrestling 
 https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",USA: WWE
-http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/16572
+http://ky-iptv.com:25461/thestuff1/thestuff1/518055
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/wweus.jpg",WWE Network US
 http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/114676
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/ufcfightpassus.jpg",UFC Fight Pass HD US
-http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/18170
+http://ky-iptv.com:25461/thestuff1/thestuff1/220452
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",UFC TV
 http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/47276
 #EXTINF:-1 group-title="● CLASSICS" tvg-logo="http://011011011.com:8080/images/5c2d7d6a0f9f4aa5fd9fee5d14163cd2.jpg",24/7 Sanford and Son
