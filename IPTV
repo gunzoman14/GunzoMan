@@ -24,7 +24,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:JAAGRITI.smil/playl
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:TBN.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://3abn.org/img/3abn-ogg.png",CAR: 3ABN | SD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:3ABN.smil/chunklist_b2160000.m3u8
-#EXTINF:-1 group-title="RELIGION" tvg-logo="http://www.netsportmedia.com/wp-content/uploads/2019/03/CBN-400x250.png",USA: CBN News International
+#EXTINF:-1 group-title="RELIGION" tvg-logo="http://www.netsportmedia.com/wp-content/uploads/2019/03/CBN-400x250.png",USA CBN 
 https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://sc.dish.com/shared/images/station-logos/APCLR.png",IN: Aapka Colors (Hindi) (US)
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:AAPKA_COLORS.smil/chunklist_b2500000.m3u8
@@ -50,13 +50,13 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:AXN.smil/chunklist_
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:AMC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AMC.us.png",USA AMC
 http://cloudcdn.tk:80/m93Df5nyhlZ7742/3xbk57200/13104
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/amgtv-profile_image-3653a525cf68628f-300x300.png",USA: AMG TV
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/amgtv-profile_image-3653a525cf68628f-300x300.png",USA AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.pluto.tv/channels/5e7cf6608c805600078872f2/colorLogoPNG.png",USA | AWE
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.pluto.tv/channels/5e7cf6608c805600078872f2/colorLogoPNG.png",USA AWE
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e7cf6608c805600078872f2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=647&deviceId=5e7cf6608c805600078872f2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="Logo N/A",USA | AWE
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="Logo N/A",USA AWE
 http://we.caughtyousnooping.club:80/Famtv/JKM120611/3670
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://d2pggiv3o55wnc.cloudfront.net/awe/wp-content/uploads/2015/09/AWELogoBlk.jpg",USA: American Wealth Ent (AWE)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://d2pggiv3o55wnc.cloudfront.net/awe/wp-content/uploads/2015/09/AWELogoBlk.jpg",USA AWE
 http://n1.klowdtv.net/live1/awe_720p/chunks.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/gWOqTZg.png",People are Awesome
 https://jukin-peopleareawesome-1.plex.wurl.com/manifest/playlist.m3u8
@@ -228,7 +228,7 @@ http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/334
 http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/333
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/FYI.us.png",USA FYI
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FYI.smil/playlist.m3u8
-#EXTINF:-1 group-title="WESTERN" tvg-logo="https://static.epg.best/us/Grit.us.png",USA | GRIT
+#EXTINF:-1 group-title="WESTERN" tvg-logo="https://static.epg.best/us/Grit.us.png",USA Grit TV
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:GRIT.smil/playlist.m3u8
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://i.imgur.com/ujmPyit.jpg",CineVault Westerns
 https://20995731713c495289784ab260b3c830.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_CinevaultWesterns/playlist.m3u8
@@ -260,7 +260,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAX_CARIBBEAN.smil/
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:IETV.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/IndependentFilmChannel.us.png",USA IFC
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:IFC.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://deadline.com/wp-content/uploads/2016/10/ion-tv-new-logo-2016.jpg",USA | ION
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://deadline.com/wp-content/uploads/2016/10/ion-tv-new-logo-2016.jpg",USA ION TV
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:ION.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/LifetimeNetwork.us.png",USA Lifetime East UHD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:LIFETIME.smil/playlist.m3u8
@@ -368,7 +368,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:TV_LAND.smil/playlist
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:TV_ONE.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TBS.us.png",USA TBS
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:TBS.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/gb/TCM.uk.png",USA | TCM
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/gb/TCM.uk.png",USA TCM
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:TCM.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TLC.us.png",USA TLC East
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TLC.smil/playlist.m3u8
@@ -386,7 +386,7 @@ http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/408
 https://4d6cd92b0a704b3b9c12c642e43fde30.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_YUYUTV/a04b21ac-b63c-44bb-89ca-a0e0815c4410/5.m3u8
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://static.epg.best/in/ZeeCinemalu.in.png",Carib: ZEE Cinema (Asian)
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:ZEE_CINEMA.smil/chunklist_b1160000_slen.m3u8
-#EXTINF:-1 group-title="Bollywood" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dd/Zee_TV_2017.svg/revision/latest/scale-to-width-down/200?cb=20191222192526",UK Zee TV
+#EXTINF:-1 group-title="Bollywood" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dd/Zee_TV_2017.svg/revision/latest/scale-to-width-down/200?cb=20191222192526",US Asian (Hindi) Zee TV
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:ZEETV.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/14/Zee_World.jpg/revision/latest/scale-to-width-down/80?cb=20180625105234",Zee World
 https://y5w8j4a9.ssl.hwcdn.net/world/tracks-v1a1/mono.m3u8
@@ -564,6 +564,8 @@ http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/114676
 http://ky-iptv.com:25461/thestuff1/thestuff1/220452
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",USA UFC Network
 http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/47276
+#EXTINF:-1 group-title="● CLASSICS" tvg-logo="http://011011011.com:8080/images/5c2d7d6a0f9f4aa5fd9fee5d14163cd2.jpg",24/7 Sanford and Son
+http://ky-iptv.com:25461/dennis1/dennis1/1040222
 #EXTINF:-1 group-title="● CLASSICS" tvg-logo="http://011011011.com:8080/images/5c2d7d6a0f9f4aa5fd9fee5d14163cd2.jpg",24/7 Sanford and Son
 http://reliablestreamz.com:826/live/R31eynold/mqMItRdVNJ/99897.m3u8
 #EXTINF:-1 group-title="Unsorted" tvg-logo="Logo N/A",24/7: Tom And Jerry
