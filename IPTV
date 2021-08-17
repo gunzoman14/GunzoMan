@@ -414,18 +414,26 @@ http://ky-iptv.com:25461/thestuff1/thestuff1/189910
 http://ky-iptv.com:25461/thestuff1/thestuff1/174235
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png",UK BT Sports 1 FHD
 http://cloudcdn.tk:80/m93Df5nyhlZ7742/3xbk57200/14657
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png",BT SPORTS 1
+http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/3586
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://p.kindpng.com/picc/s/23-238823_bt-sport-2-logo-hd-png-download.png",UK BT Sports 2
 http://ky-iptv.com:25461/thestuff1/thestuff1/174237
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://ewsat.com/img/BT_SPORT_2.png",UK BT Sports 2
 http://cloudcdn.tk:80/m93Df5nyhlZ7742/3xbk57200/3588
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://ewsat.com/img/BT_SPORT_2.png",UK BT Sports 2
+http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/1992
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsport3hd.jpg",UK BT Sports 3
 http://ky-iptv.com:25461/thestuff1/thestuff1/174239
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsport3.jpg",UK BT Sports 3
 http://cloudcdn.tk:80/m93Df5nyhlZ7742/3xbk57200/1965
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsport3.jpg",UK BT Sports 3
+http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/1965
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsportespn.jpg",UK BT Sports ESPN
 http://cloudcdn.tk:80/m93Df5nyhlZ7742/3xbk57200/2673
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",UK BT Sports ESPN
 http://ky-iptv.com:25461/thestuff1/thestuff1/515737
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsportespn.jpg",UK BT Sports ESPN
+http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/2673
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/cbbssportsnetworkus.jpg",USA CBS Sports Network
 http://ky-iptv.com:25461/thestuff1/thestuff1/176607
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",USA CBS Sports Network
