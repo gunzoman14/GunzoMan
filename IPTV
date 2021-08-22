@@ -410,7 +410,7 @@ http://peak.rickflare.link:80/Famtv/JKM120611/675.ts
 http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/86195
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/uk/BoxNation.uk.png",UK Box Nation HD
 http://ky-iptv.com:25461/thestuff1/thestuff1/189910
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo=": Boxing
+#EXTINF:-1,USA PPV04:LIVE Boxing
 http://ky-iptv.com:25461/thestuff1/thestuff1/1321694
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",UK BT Sports 1 FHD
 http://ky-iptv.com:25461/thestuff1/thestuff1/174235
