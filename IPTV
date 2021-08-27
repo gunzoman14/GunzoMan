@@ -12,9 +12,9 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:SYNERGY.smil/chunkl
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TTEN.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Gayelle_%28logo%29.jpg",Carib: Gayelle The Caribbean
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:GAYELLE.smil/chunklist_b2160000.m3u8
-#EXTINF:-1 group-title="RELIGION" tvg-logo="https://pbs.twimg.com/profile_images/37880000044380740m3u81/08429f981cdc2c4b51982d64e71dd87d_400x400.png",Carib TRINITY (FL)
+#EXTINF:-1 group-title="RELIGION" tvg-logo="http://ky-iptv.com:25461/images/594d85f50f1c7c9b6ec1860bed536bec.png",CAR: TRINITY
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TRINITY_TV.smil/playlist.m3u8
-#EXTINF:-1 group-title="RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/Islamic_Broadcasting_Network.png",carib:IBN TT
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/Islamic_Broadcasting_Network.png",CAR: IBN (ISLAMIC BROADCASTING NETWORK)
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:IBN.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="http://ky-iptv.com:25461/images/8d0ca1f4e8add76ca70b5b064205f340.jpg",USA EWTN
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:EWTN.smil/playlist.m3u8
@@ -25,7 +25,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:TBN.smil/playlist.m
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://3abn.org/img/3abn-ogg.png",US: 3ABN English 
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:3ABN.smil/chunklist_b2160000.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="http://www.netsportmedia.com/wp-content/uploads/2019/03/CBN-400x250.png",USA CBN 
-https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
+http://ky-iptv.com:25461/live/dennis1/dennis1/399838.m3u8
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://sc.dish.com/shared/images/station-logos/APCLR.png",UK Colors Rishtey
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:AAPKA_COLORS.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/abc_hd.jpg",USA ABC 7 KABC LOS ANGELES
@@ -154,9 +154,9 @@ http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/76764
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:COZI_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/CTVToronto.ca.png",CA CTV News Channel
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:CTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/KOMUCW.us.png",USA: CW 11 NY (East) WPIX
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/KOMUCW.us.png",US: CW 18 WVTV MILWAUKEE
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:WPIX.smil/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/Cp24.ca.png",CA: CP24 News
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/Cp24.ca.png",CA CP24 HD
 http://we.caughtyousnooping.club:80/Famtv/JKM120611/1439
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://static.epg.best/in/AndPrive.in.png",IN: &Prive
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
@@ -174,9 +174,9 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:DISNEY_JR.smil/playli
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:DISNEYXD.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/125px-Ducktv-logo.jpg",DUCK TV
 https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png",USA DISCOVERY CHANNEL | HD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png",USA DISCOVERY CHANNEL HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:DISCOVERY.smil/playlist.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/in/DiscoveryKids.in.png",IN: Discovery Kids
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/in/DiscoveryKids.in.png",ARG: Discovery Kids FHD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:DISCOVERY_KIDS.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/discovery-family-us.png",USA Discovery Family
 http://cloudcdn.tk:80/m93Df5nyhlZ7742/3xbk57200/23424
@@ -208,7 +208,7 @@ http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/314
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:FOOD_NETWORK.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:-1,Carib RecipeTV
 http://ky-iptv.com:25461/thestuff1/thestuff1/499807
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/FOXWXIX.us.png",FOX HD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/FOXWXIX.us.png",USA FOX 7 WSVN MIAMI
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOX.smil/chunklist_b1160000.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/FoxNews.us.png",USA Fox News Channel UHD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOX_NEWS.smil/playlist.m3u8
@@ -256,7 +256,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAXUP.smil/playlist
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAX_PRIME.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png",HBO MUDI
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAX_CARIBBEAN.smil/playlist.m3u8
-#EXTINF:-1 group-title="Bollywood" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tt-ietv-channel-1.jpg",Carib (T&T) IETV (FL)
+#EXTINF:-1 group-title="Bollywood" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tt-ietv-channel-1.jpg",Carib IETV
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:IETV.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/IndependentFilmChannel.us.png",USA IFC
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:IFC.smil/playlist.m3u8
@@ -410,12 +410,8 @@ http://peak.rickflare.link:80/Famtv/JKM120611/675.ts
 http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/86195
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/uk/BoxNation.uk.png",UK Box Nation HD
 http://ky-iptv.com:25461/thestuff1/thestuff1/189910
-#EXTINF:-1,USA PPV04:LIVE Boxing
-http://ky-iptv.com:25461/thestuff1/thestuff1/1321694
 #EXTINF:-1,UFC PPV Prelims US
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/27223
-#EXTINF:-1,UFC PPV Main Card US
-http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/27224
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",UK BT Sports 1 FHD
 http://ky-iptv.com:25461/thestuff1/thestuff1/174235
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png",UK BT Sports 1 FHD
@@ -528,7 +524,7 @@ http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/336
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://scheduler.sportsmax.tv/img/sm1.png",Carib Sports Max
 http://ky-iptv.com:25461/live/dennis1/dennis1/499827.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/jamaica/sportsmax-2-hz-jm.png",Carib: SportsMax 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/jamaica/sportsmax-2-hz-jm.png",Carib Sports Max2
 http://ky-iptv.com:25461/thestuff1/thestuff1/499828
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-golf-icon-uk.png?raw=true",Sky Sports Golf HD
 http://cloudcdn.tk:80/m93Df5nyhlZ7742/3xbk57200/14654
