@@ -346,6 +346,8 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SONY_INDIA.smil/pla
 http://cloudcdn.tk:80/m93Df5nyhlZ7742/3xbk57200/17201
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/SundanceTV.us.png",USA Sundance
 http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/76824
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/SundanceTV.us.png",USA Sundance
+http://ky-iptv.com:25461/live/dennis1/dennis1/176085.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/mx/Space.mx.png",ARG: SPACE HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SPACE.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg",USA StarZ East
