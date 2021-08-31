@@ -552,6 +552,10 @@ http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/14902
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/14651
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",UK Sky Sports Premier League 
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/4458
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-premier-league-za.jpg",SuperSport Premier League HD ZA
+http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/28896
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg",SuperSport LaLiga HD ZA
+http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/28895
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-premier-league-icon-uk.png?raw=true",UK Sky Sports Premier League 
 http://cloudcdn.tk:80/YVfX21IQ5G271/S3MqCw1634/14655
 #EXTINF:-1,beIN LaLiga HD US
