@@ -520,10 +520,12 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?checkedby
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://uspto.report/TM/90108722/mark.png",SKILLS+THRILLS
 https://ab821aa1fe744f529fcd833dd8e5ed41.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SkillsAndThrills/a4300ced-ee92-46c5-9d01-0f1c3be02e3e/5.m3u8
-#EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="Logo N/A",V Sport Golf
-http://cloudcdn.tk:80/YVfX21IQ5G271/S3MqCw1634/24208
-#EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="Logo N/A",Ziggo Sport Golf HD NL
-http://cloudcdn.tk:80/YVfX21IQ5G271/S3MqCw1634/4168
+#EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="https://picon-13398.kxcdn.com/supersport-golf-za.jpg",SuperSport Golf HD ZA
+http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/54965
+#EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="https://picon-13398.kxcdn.com/skysportsgolfuk.jpg",Sky Sports Golf HD UK
+http://cloudcdn.tk:80/YVfX21IQ5G271/S3MqCw1634/14744
+#EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="https://picon-13398.kxcdn.com/golfchannel.jpg",USA Golf LHD
+http://ky-iptv.com:25461/dennis1/dennis1/809635
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="Logo N/A",NBC-Golf
 http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/336
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png",One Golf
