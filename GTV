@@ -39,11 +39,11 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ANIMAL_PLANET.smil/
 #EXTINF:-1 tvg-name="AXS_TV_NOW" tvg-id="23ecf3" tvg-logo="https://i.imgur.com/J8brM2F.png" group-title=",USA AXS TV
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://xtream-coders.com/x0/entertainment/axstv.png",USA AXS TV
-http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/290
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/290
 #EXTINF:-1,USA AXS TV
-http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/76744
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/76744
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/pt/AXN.pt.png",ES: AXN FHD
-http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/284726
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/284726
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/pt/AXN.pt.png",ES: AXN FHD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:AXN.smil/chunklist_b2500000_slen.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AMC.us.png",USA AMC
@@ -81,11 +81,11 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BET.smil/playlist.m
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BetHer.us.png",USA BET HER
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:CENTRIC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bet-gospel-us.png",USA BET Gospel
-http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/90320
+http://ky-iptv.com:25461/live/Butcher/Butcher/177076.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://xtream-coders.com/x0/entertainment/bet_jams.png",USA BET Jams
-http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/296
+http://ky-iptv.com:25461/live/Butcher/Butcher/177077.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://xtream-coders.com/x0/entertainment/bet_soul.png",USA BET SOUL
-http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/297
+http://ky-iptv.com:25461/live/Butcher/Butcher/177078.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/PRgvj4c.png",1 Music Channel
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="http://supportstreams.net:80/images/cd295eacbb876a133511393ec217edc9.png",USA Revolt
@@ -107,7 +107,7 @@ https://e99f8e610cd24f40a2c5f054d33aad3a.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/Boomerang.us.png",USA Boomerang
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BOOMERANG.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://pbs.twimg.com/profile_images/687481099849723904/lPrBt-D7.png",USA Boomerang
-http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/76752
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/76752
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BounceTV.us.png",USA BOUNCE TV
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BOUNCE.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Bravo.us.png",USA Bravo East
@@ -137,19 +137,19 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:CNBC.smil/playlist.m3
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Comet.us.png",USA Comet
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:COMET_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/CMT.us.png",USA CMT UHD
-http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/308
+http://peak.rickflare.link:80/Famtv/JKM120611/1433.ts
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png",USA CGTN (English)
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/1fhqoEE.png",USA CNN
 http://we.caughtyousnooping.club:80/Famtv/JKM120611/1159
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/CNN.us.png",USA CNN
-http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/311
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/311
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/CNN.us.png",USA CNN
-http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/76760
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/76760
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/820?cb=20190417224656",MY: CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="COURT" tvg-logo="http://xtream-coders.com/x0/entertainment/courttv.png",USA: CourtTV Mystery
-http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/76764
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/76764
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/CoziTV.us.png",USA Cozi TV
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:COZI_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/CTVToronto.ca.png",CA CTV News Channel
@@ -167,7 +167,7 @@ http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/18189
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyChannel.us.png",USA Disney Channel
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:DISNEY.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyChannel.us.png",USA Disney Channel
-http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/321
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/321
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyJunior.us.png",USA Disney Junior East
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:DISNEY_JR.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyXD.us.png",USA Disney XD
@@ -191,11 +191,11 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:ESCAPE.smil/playlis
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61FiKePugAL.png",ElectricNOW
 https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51OcXYC5fsL.png",USA EPIX
-http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/5681
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/5681
 #EXTINF:-1,USA EPIX
 http://we.caughtyousnooping.club:80/Famtv/JKM120611/161
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/epix-2-us.png",USA EPIX2
-http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/5684
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/5684
 #EXTINF:-1,USA EPIX2
 http://we.caughtyousnooping.club:80/Famtv/JKM120611/162
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/epix-hits-us.png",USA Epix Hits UHD
@@ -203,7 +203,7 @@ http://we.caughtyousnooping.club:80/Famtv/JKM120611/164
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cooking-channel-us.png",USA Cooking Channel
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:COOKING.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cooking-channel-us.png",USA Cooking Channel
-http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/314
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/314
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/FoodNetwork.us.png",USA Food Network
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:FOOD_NETWORK.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:-1,Carib RecipeTV
@@ -243,7 +243,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:GSN.smil/playlist.m
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://logos-download.com/wp-content/uploads/2016/11/Hallmark_logo_small.png",USA Hallmark Channel
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:HALLMARK.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/hallmark-drama-us.png",USA Hallmark Drama
-http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/339
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/339
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2019/11/hallmarkmoviesnow-logo-purple-block.png",USA Hallmark Movies & Mysteries UHD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:HALLMARK_MM.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/HGTV.us.png",USA HGTV East
@@ -337,7 +337,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:POSITIV.smil/playli
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://static.epg.best/us/ReelzChannel.us.png",REEL
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:REEL.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/reelz-us.png",USA Reelz
-http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/381
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/381
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Showtime.us.png",USA Showtime East
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:SHOWTIME.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/ShowtimeFamilyZone.us.png",USA Showtime 2
@@ -395,7 +395,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:WARNER.smil/playlis
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://supportstreams.net:80/images/5e6ca211cd86e0fdfc710cc3c26b7e9d.png",USA We TV
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:WE_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="WEATHER" tvg-logo="https://static.epg.best/us/WeatherNation.us.png",USA The Weather Channel
-http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/408
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/408
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/ad/02/b9/ad02b900-0308-9824-d270-8f16e9089c92/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/1200x630wa.png",YUYU TV
 https://yuyu-samsung.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://static.epg.best/in/ZeeCinemalu.in.png",UK Zee Cinema
@@ -415,7 +415,7 @@ http://cloudcdn.tk:80/YVfX21IQ5G271/S3MqCw1634/22157
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/beINSports.us.png",USA beIN Sports LHD
 http://peak.rickflare.link:80/Famtv/JKM120611/675.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/boxnation.jpg",UK Box Nation HD
-http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/86195
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/86195
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/uk/BoxNation.uk.png",UK Box Nation HD
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/4010
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",UK BT Sports 1 FHD
@@ -527,7 +527,7 @@ http://cloudcdn.tk:80/YVfX21IQ5G271/S3MqCw1634/14744
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="https://picon-13398.kxcdn.com/golfchannel.jpg",USA Golf LHD
 http://ky-iptv.com:25461/dennis1/dennis1/809635
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="Logo N/A",NBC-Golf
-http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/336
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/336
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://scheduler.sportsmax.tv/img/sm1.png",Carib Sports Max
@@ -569,7 +569,7 @@ http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/18386
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://d6u22qyv3ngwz.cloudfront.net/ad/AMwV/tennis-channel-plus-over-100-hours-small-2.jpg",Tennis Channel+
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/18386
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",S Tennis
-http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/315558
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/315558
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://images-platform.99static.com//Amj86fsRA0Px-9ijuvh3CPyidbs=/1009x174:4771x3936/fit-in/500x500/projects-files/64/6434/643466/eade489c-1423-4db4-910f-710fedb530cc.jpg",MOTORCYCLIST TV
 http://a.jsrdn.com/broadcast/256ad9e679/+0000/high/c.m3u8
 #EXTINF:-1,DISCOVERY TURBO
@@ -581,17 +581,17 @@ https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",USA WWE NETWORK | HD
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/16572
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/wweus.jpg",WWE Network US
-http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/114676
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/114676
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/ufcfightpassus.jpg",UFC Fight Pass HD US
 http://ky-iptv.com:25461/Butcher/Butcher/174252
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",USA UFC Network
-http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/47276
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/47276
 #EXTINF:-1 group-title="● CLASSICS" tvg-logo="http://011011011.com:8080/images/5c2d7d6a0f9f4aa5fd9fee5d14163cd2.jpg",24/7 Sanford and Son
 http://ky-iptv.com:25461/dennis1/dennis1/1040222
 #EXTINF:-1 group-title="● CLASSICS" tvg-logo="http://011011011.com:8080/images/5c2d7d6a0f9f4aa5fd9fee5d14163cd2.jpg",24/7 Sanford and Son
 http://reliablestreamz.com:826/live/R31eynold/mqMItRdVNJ/99897.m3u8
 #EXTINF:-1 group-title="Unsorted" tvg-logo="Logo N/A",24/7: Tom And Jerry
-http://pelicanhosting.xyz:80/MoeMoe/MoeMoe/570382
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/570382
 #EXTINF:-1 group-title="Unsorted" tvg-logo="Logo N/A",RADIO ACTIVA
 http://streamserver.ml:7002/stream/1/
 #EXTINF:-1 group-title="Unsorted" tvg-logo="Logo N/A",RADIO
