@@ -502,6 +502,8 @@ http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/9008
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:NBA_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",Sky Sport NBA HD
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/14069
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://ky-iptv.com:25461/images/6c6ad98cd6ab16b698bcae1106fd38ae.png",USA NFL Network
+http://ky-iptv.com:25461/dennis1/dennis1/176175
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png",USA NFL Network
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/9077
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/olympic-channel-us.png",US: OLYMPIC CHANNEL | HD
