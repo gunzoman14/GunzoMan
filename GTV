@@ -51,7 +51,7 @@ http://cloudcdn.tk:80/YVfX21IQ5G271/S3MqCw1634/13104
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/amgtv-profile_image-3653a525cf68628f-300x300.png",USA AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.pluto.tv/channels/5e7cf6608c805600078872f2/colorLogoPNG.png",USA AWE
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e7cf6608c805600078872f2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=647&deviceId=5e7cf6608c805600078872f2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+http://ky-iptv.com:25461/SNNM258/355665786/175798
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="Logo N/A",USA AWE
 http://we.caughtyousnooping.club:80/Famtv/JKM120611/3670
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://d2pggiv3o55wnc.cloudfront.net/awe/wp-content/uploads/2015/09/AWELogoBlk.jpg",USA AWE
@@ -84,10 +84,10 @@ http://ky-iptv.com:25461/dennis1/dennis1/499446
 http://ky-iptv.com:25461/live/Butcher/Butcher/177077.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://xtream-coders.com/x0/entertainment/bet_soul.png",USA BET SOUL
 http://ky-iptv.com:25461/live/Butcher/Butcher/177078.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/PRgvj4c.png",1 Music Channel
-https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.pngfind.com/pngs/m/165-1655043_retro-tv-png-transparent-png.png",RETRO TV MUSIC
+http://stream.mediawork.cz:1935/retrotv/retrotvHQ1/chunklist_w1328169946.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="http://supportstreams.net:80/images/cd295eacbb876a133511393ec217edc9.png",USA Revolt
-https://bozztv.com/teleyupp/teleup-revolt/playlist.m3u8
+http://ky-iptv.com:25461/SNNM258/355665786/175926
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://i1.sndcdn.com/avatars-uqybZeqknWnyRv13-tdcZKw-t500x500.jpg",V2BEAT
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="http://static1.squarespace.com/static/5d07b0c8af0f1c0001204144/t/5d07b0f8c2c5b00001d89f93/1560785145428/social+sharing+logo.png?format=1500w",VEVO
@@ -243,7 +243,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:GSN.smil/playlist.m
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://logos-download.com/wp-content/uploads/2016/11/Hallmark_logo_small.png",USA Hallmark Channel
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:HALLMARK.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/hallmark-drama-us.png",USA Hallmark Drama
-http://pelicanhosting.xyz:80/112233/112233/339
+http://peak.rickflare.link:80/Famtv/JKM120611/766.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2019/11/hallmarkmoviesnow-logo-purple-block.png",USA Hallmark Movies & Mysteries UHD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:HALLMARK_MM.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/HGTV.us.png",USA HGTV East
@@ -397,9 +397,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:WARNER.smil/playlis
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://supportstreams.net:80/images/5e6ca211cd86e0fdfc710cc3c26b7e9d.png",USA We TV
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:WE_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="WEATHER" tvg-logo="https://static.epg.best/us/WeatherNation.us.png",USA The Weather Channel
-http://pelicanhosting.xyz:80/112233/112233/408
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/ad/02/b9/ad02b900-0308-9824-d270-8f16e9089c92/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/1200x630wa.png",YUYU TV
-https://yuyu-samsung.plex.wurl.com/manifest/playlist.m3u8
+http://ky-iptv.com:25461/SNNM258/355665786/175945
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://static.epg.best/in/ZeeCinemalu.in.png",UK Zee Cinema
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:ZEE_CINEMA.smil/chunklist_b1160000_slen.m3u8
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dd/Zee_TV_2017.svg/revision/latest/scale-to-width-down/200?cb=20191222192526",US Asian (Hindi) Zee TV
@@ -521,7 +519,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:PRO_SPORTS.smil/pla
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/1M4zMdC.png",Sky Sports Racing HD
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?checkedby
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/ae/DubaiRacing.ae.png",RACING TV
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8?fluxustv.m3u8
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://uspto.report/TM/90108722/mark.png",SKILLS+THRILLS
 https://ab821aa1fe744f529fcd833dd8e5ed41.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SkillsAndThrills/a4300ced-ee92-46c5-9d01-0f1c3be02e3e/5.m3u8
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="https://picon-13398.kxcdn.com/supersport-golf-za.jpg",SuperSport Golf HD ZA
@@ -531,7 +529,7 @@ http://cloudcdn.tk:80/YVfX21IQ5G271/S3MqCw1634/14744
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="https://picon-13398.kxcdn.com/golfchannel.jpg",USA Golf LHD
 http://ky-iptv.com:25461/dennis1/dennis1/809635
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="Logo N/A",NBC-Golf
-http://pelicanhosting.xyz:80/112233/112233/336
+http://ky-iptv.com:25461/SNNM258/355665786/220424
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://scheduler.sportsmax.tv/img/sm1.png",Carib Sports Max
@@ -573,7 +571,7 @@ http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/18386
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://d6u22qyv3ngwz.cloudfront.net/ad/AMwV/tennis-channel-plus-over-100-hours-small-2.jpg",Tennis Channel+
 http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/18386
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",S Tennis
-http://pelicanhosting.xyz:80/112233/112233/315558
+http://ky-iptv.com:25461/SNNM258/355665786/220448
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://images-platform.99static.com//Amj86fsRA0Px-9ijuvh3CPyidbs=/1009x174:4771x3936/fit-in/500x500/projects-files/64/6434/643466/eade489c-1423-4db4-910f-710fedb530cc.jpg",MOTORCYCLIST TV
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/playlist.m3u8
 #EXTINF:-1,DISCOVERY TURBO
@@ -587,13 +585,13 @@ http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/16572
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/ufcfightpassus.jpg",UFC Fight Pass HD US
 http://ky-iptv.com:25461/Butcher/Butcher/174252
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",USA UFC Network
-http://pelicanhosting.xyz:80/112233/112233/47276
+http://ky-iptv.com:25461/SNNM258/355665786/1115570
 #EXTINF:-1 group-title="● CLASSICS" tvg-logo="http://011011011.com:8080/images/5c2d7d6a0f9f4aa5fd9fee5d14163cd2.jpg",24/7 Sanford and Son
 http://ky-iptv.com:25461/dennis1/dennis1/1040222
 #EXTINF:-1 group-title="● CLASSICS" tvg-logo="http://011011011.com:8080/images/5c2d7d6a0f9f4aa5fd9fee5d14163cd2.jpg",24/7 Sanford and Son
 http://reliablestreamz.com:826/live/R31eynold/mqMItRdVNJ/99897.m3u8
-#EXTINF:-1 group-title="Unsorted" tvg-logo="Logo N/A",24/7: Tom And Jerry
-http://pelicanhosting.xyz:80/112233/112233/570382
+#EXTINF:-1 group-title="Unsorted" tvg-logo="Logo N/A",24/7: Tom And Jerry 
+http://clientportal.link:80/GzRwqTpidj92/6fiz8J154/29151
 #EXTINF:-1 group-title="Unsorted" tvg-logo="Logo N/A",RADIO ACTIVA
 http://streamserver.ml:7002/stream/1/
 #EXTINF:-1 group-title="Unsorted" tvg-logo="Logo N/A",RADIO
