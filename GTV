@@ -567,7 +567,7 @@ http://ky-iptv.com:25461/Butcher/Butcher/388185
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/TennisChannel.us.png",USA Tennis Channel
 http://clientportal.link:80/n0BFA9s0FCv0386/0zJeN7448/18386
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://d6u22qyv3ngwz.cloudfront.net/ad/AMwV/tennis-channel-plus-over-100-hours-small-2.jpg",Tennis Channel+
-http://clientportal.link:80/n0BFA9s0FCv0386/0zJeN7448/18386
+http://ky-iptv.com:25461/Butcher/Butcher/1197942
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",USA S Tennis
 http://ky-iptv.com:25461/SNNM258/355665786/220448
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://images-platform.99static.com//Amj86fsRA0Px-9ijuvh3CPyidbs=/1009x174:4771x3936/fit-in/500x500/projects-files/64/6434/643466/eade489c-1423-4db4-910f-710fedb530cc.jpg",MOTORCYCLIST TV
@@ -576,10 +576,12 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:DISCOVERY_TURBO.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/WillowCricket.us.png",SPORTS: Willow HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:WILLOW.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="IMPACT_Wrestling" tvg-id="d838e8" tvg-logo="https://i.imgur.com/w3eLKLw.png" group-title="USA PLEX",IMPACT Wrestling 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/w3eLKLw.png" group-title="USA PLEX",IMPACT Wrestling 
 https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",USA WWE NETWORK | HD
-http://clientportal.link:80/n0BFA9s0FCv0386/0zJeN7448/16572
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",USA WWE NETWORK 
+http://ky-iptv.com:25461/Butcher/Butcher/220389
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",USA WWE NETWORK 
+http://ky-iptv.com:25461/Butcher/Butcher/518055
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/ufcfightpassus.jpg",UFC Fight Pass HD US
 http://ky-iptv.com:25461/Butcher/Butcher/174252
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",USA UFC Network
