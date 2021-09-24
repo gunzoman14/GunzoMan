@@ -288,10 +288,10 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:MSNBC.smil/playlist
 https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/MBC%20Action.m3u8
 #EXTINF:-1 tvg-id="News12NewYork.us" tvg-name="" tvg-logo="https://corporate.tubitv.com/wp-content/uploads/2020/10/News12BlueLogo2.png" group-title="News",USA News 12 Brooklyn
 https://lnc-news12.tubi.video/index.m3u8
-#EXTINF:-1 group-title="NOLLYWOOD" tvg-logo="http://ky-iptv.com:25461/images/787746cc2cf0fb9d58bc05183c3127ed.png",Africa Magic Urban
-http://ky-iptv.com:25461/live/dennis1/dennis1/1089434.m3u8
+#EXTINF:-1 group-title="NOLLYWOOD" tvg-logo="https://picon-13398.kxcdn.com/africamagicigboza.jpg",Africa Magic 
+http://clientportal.link:80/live/W2Zifdn7k2735/zXrNiQ4122/88661.m3u8
 #EXTINF:-1 group-title="NOLLYWOOD" tvg-logo="https://cdn-africamagic.dstv.com/images/Channel/2016/10/19/369/4/11_showcase.png",Africa Magic Showcase
-http://ky-iptv.com:25461/live/dennis1/dennis1/1089435.m3u8
+http://ky-iptv.com:25461/Butcher/Butcher/1089435
 #EXTINF:-1 group-title="NOLLYWOOD" tvg-logo=",Voxafrica AFR
 http://clientportal.link:80/W2Zifdn7k2735/zXrNiQ4122/13470
 #EXTINF:-1 group-title="NOLLYWOOD" tvg-logo=",Pluto TV Demand Africa
@@ -333,7 +333,7 @@ http://we.caughtyousnooping.club:80/Famtv/JKM120611/177
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/PopTV.us.png",USA POP TV 
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/PopTV.us.png",USA POP TV HD
-http://ky-iptv.com:25461/live/dennis1/dennis1/581833.m3u8
+http://clientportal.link:80/n0BFA9s0FCv0386/0zJeN7448/26997
 #EXTINF:-1 group-title="RELIGION MOVIES" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/positiv.png",POSI TV
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:POSITIV.smil/playlist.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://static.epg.best/us/ReelzChannel.us.png",REEL
