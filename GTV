@@ -405,7 +405,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:ZEETV.smil/playlist
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/14/Zee_World.jpg/revision/latest/scale-to-width-down/80?cb=20180625105234",Zee World
 http://ky-iptv.com:25461/Butcher/Butcher/1101242
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://picon-13398.kxcdn.com/starplus.jpg",UK Star Plus (Utsav Plus)
-http://cloudcdn.tk:80/YVfX21IQ5G271/S3MqCw1634/14788
+http://ky-iptv.com:25461/Butcher/Butcher/190010
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/beINSports.us.png",USA BeIN SPORTS HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:BEIN_SPORTS.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/beINSports.us.png",USA BeIN SPORTS HD
@@ -557,7 +557,7 @@ http://clientportal.link:80/n0BFA9s0FCv0386/0zJeN7448/14902
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmaineventuk.jpg",UK Sky Sports Main Events
 http://clientportal.link:80/n0BFA9s0FCv0386/0zJeN7448/14651
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",UK Sky Sports Premier League 
-http://clientportal.link:80/n0BFA9s0FCv0386/0zJeN7448/4458
+http://ky-iptv.com:25461/Butcher/Butcher/174272
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-premier-league-za.jpg",SuperSport Premier League HD ZA
 http://ky-iptv.com:25461/Butcher/Butcher/174272
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg",SuperSport LaLiga HD ZA
