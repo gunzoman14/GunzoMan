@@ -602,6 +602,101 @@ https://n06.radiojar.com/6pz06e8nv4zuv
 http://edge-audio-03-gos2.sharp-stream.com/premiergospellow.mp3.m3u
 #EXTINF:-1,Music Videos 4
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
-#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports NFL FHD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsactionuk.jpg" group-title="Live: United Kingdom",Sky Sports NFL FHD UK
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports NFL FHD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsactionuk.jpg" group-title="Live: NFL",Sky Sports NFL FHD UK
 http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/14653.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Buccaneers " tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Buccaneers 
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/23617.m3u8
+#EXTINF:-1 tvg-id="NFLSundayTicket715.us" tvg-name="NFL Redskins" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Redskins
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/23607.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Falcons" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Falcons
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/55034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Lions" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Lions
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/55033.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Rams" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Rams
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/23606.m3u8#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports NFL HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsactionuk.jpg" group-title="Live: NFL",Sky Sports NFL HD UK
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/3598.m3u8
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports NFL FHD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsactionuk.jpg" group-title="Live: NFL",Sky Sports NFL FHD UK
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/14653.m3u8
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports NFL UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsnfluk.jpg" group-title="Live: NFL",Sky Sports NFL UK
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/14747.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Chiefs" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Chiefs
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/23616.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Browns" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Browns
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/23615.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Chargers" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Chargers
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/23614.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL 49ers" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL 49ers
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/23613.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Bears" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Bears
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/23612.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Bengals" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Bengals
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/23611.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Vikings" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Vikings
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/23610.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Seahawks" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Seahawks
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/23609.m3u8
+#EXTINF:-1 tvg-id="NFLSundayTicket714.us" tvg-name="NFL Saints" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Saints
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/23608.m3u8
+#EXTINF:-1 tvg-id="NFLSundayTicket715.us" tvg-name="NFL Redskins" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Redskins
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/23607.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Rams" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Rams
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/23606.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Packers" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Packers
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/23605.m3u8
+#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="NFL RedZone HD US" tvg-logo="https://picon-13398.kxcdn.com/nflredzoneus.jpg" group-title="Live: NFL",NFL RedZone HD US
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/18849.m3u8
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network US" tvg-logo="https://picon-13398.kxcdn.com/nflnetworkus.jpg" group-title="Live: NFL",NFL Network US
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/9077.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Texans" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Texans
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/28169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Jaguars" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Jaguars
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/28170.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Colts " tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Colts 
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/28171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Lions" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Lions
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/55033.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Falcons" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Falcons
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/55034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Eagles" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Eagles
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/55035.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Dolphins" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Dolphins
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/55036.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Cowboys" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Cowboys
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/55037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Cardinals" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Cardinals
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/55038.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Titans" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Titans
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/55039.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Steelers" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Steelers
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/55040.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Ravens" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Ravens
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/55041.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Raiders" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Raiders
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/55042.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Patriots" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Patriots
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/55043.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Broncos" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Broncos
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/55044.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Bills Giants Jets" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Bills Giants Jets
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/55045.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Panthers" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Panthers
+http://cloudcdn.tk:80/live/YVfX21IQ5G271/S3MqCw1634/56169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA NFL Monday Night" tvg-logo="http://ky-iptv.com:25461/images/e30909d057fd73f66a6c8bd70034543a.png" group-title=Live: NFL"- Sunday Ticket ",USA NFL Monday Night
+http://ky-iptv.com:25461/live/dennis1/dennis1/515076.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
