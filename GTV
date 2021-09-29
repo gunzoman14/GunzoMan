@@ -419,7 +419,7 @@ http://ky-iptv.com:25461/dennis1/dennis1/189910
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/uk/BoxNation.uk.png",UK Box Nation HD
 http://cloudcdn.tk:80/Slurm123/QrfEM19137/4010
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsport1.jpg",UK BT Sports 1
-http://clientportal.link:80/live/ARopcevic/BOjHUm997/1992.m3u8
+http://cloudcdn.tk:80/live/Slurm123/QrfEM19137/3586.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",UK BT Sports 1 FHD
 http://ky-iptv.com:25461/Butcher/Butcher/174235
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png",UK BT Sports 1 FHD
@@ -427,7 +427,9 @@ http://cloudcdn.tk:80/Slurm123/QrfEM19137/14657
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png",BT SPORTS 1
 http://clientportal.link:80/live/ARopcevic/BOjHUm997/14657.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://p.kindpng.com/picc/s/23-238823_bt-sport-2-logo-hd-png-download.png",UK BT Sports 2
-http://cloudcdn.tk:80/live/Slurm123/QrfEM19137/3586.m3u8
+http://ky-iptv.com:25461/dennis1/dennis1/174237
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://p.kindpng.com/picc/s/23-238823_bt-sport-2-logo-hd-png-download.png",UK BT Sports 2
+http://clientportal.link:80/live/ARopcevic/BOjHUm997/1992.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://ewsat.com/img/BT_SPORT_2.png",UK BT Sports 2
 http://cloudcdn.tk:80/Slurm123/QrfEM19137/3588
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsport3hd.jpg",UK BT Sports 3
