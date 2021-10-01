@@ -596,6 +596,8 @@ http://ky-iptv.com:25461/dennis1/dennis1/1040222
 http://reliablestreamz.com:826/live/R31eynold/mqMItRdVNJ/99897.m3u8
 #EXTINF:-1 group-title="Unsorted" tvg-logo="Logo N/A",24/7: Tom And Jerry 
 http://cloudcdn.tk:80/5JRipeY4TM/Xyl87hDd2c/40823
+#EXTINF:-1,RADIO: GOSPEL FM (JAMAICA)
+http://mains.services:2086/live/nick5404/9928627/101144.m3u8
 #EXTINF:-1 group-title="Unsorted" tvg-logo="Logo N/A",RADIO ACTIVA
 http://streamserver.ml:7002/stream/1/
 #EXTINF:-1 group-title="Unsorted" tvg-logo="Logo N/A",RADIO
