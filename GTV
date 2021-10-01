@@ -172,6 +172,8 @@ http://ky-iptv.com:25461/dennis1/dennis1/176250
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:DISNEY_JR.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyXD.us.png",USA Disney XD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:DISNEYXD.smil/playlist.m3u8
+#EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://download.logo.wine/logo/Disney%2B/Disney%2B-Logo.wine.png",Disney + HD
+http://ay32.aatvbox.club:8880/wh24m2122/TeEfz2hUKN/60230
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/125px-Ducktv-logo.jpg",DUCK TV
 https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png",USA DISCOVERY CHANNEL HD
