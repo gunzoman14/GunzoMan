@@ -614,98 +614,201 @@ http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
 http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/14653.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NFL Buccaneers " tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Buccaneers 
 http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/23617.m3u8
-#EXTINF:-1 tvg-id="NFLSundayTicket715.us" tvg-name="NFL Redskins" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Redskins
-http://cloudcdn.tk:80/live/5JRipeY4TM/Xyl87hDd2c/23607.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NFL Falcons" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Falcons
-http://cloudcdn.tk:80/live/5JRipeY4TM/Xyl87hDd2c/55034.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NFL Lions" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Lions
-http://cloudcdn.tk:80/live/5JRipeY4TM/Xyl87hDd2c/55033.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NFL Rams" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",NFL Rams
-http://cloudcdn.tk:80/live/5JRipeY4TM/Xyl87hDd2c/23606.m3u8
-#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports NFL HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsactionuk.jpg" group-title="Live: NFL",Sky Sports NFL HD UK
-http://cloudcdn.tk:80/live/5JRipeY4TM/Xyl87hDd2c/3598.m3u8
-#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports NFL FHD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsactionuk.jpg" group-title="Live: NFL",Sky Sports NFL FHD UK
-http://cloudcdn.tk:80/live/5JRipeY4TM/Xyl87hDd2c/14653.m3u8
-#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports NFL UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsnfluk.jpg" group-title="Live: NFL",Sky Sports NFL UK
-http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/14747.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NFL Chiefs" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",USA NFL Chiefs
-http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/23616.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NFL Browns" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",USA NFL Browns
-http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/23615.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NFL Chargers" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",USA NFL Chargers
-http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/23614.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NFL 49ers" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",USA NFL 49ers
-http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/23613.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NFL Bears" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",USA NFL Bears
-http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/23612.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NFL Bengals" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",USA NFL Bengals
-http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/23611.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NFL Vikings" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",USA NFL Vikings
-http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/23610.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NFL Seahawks" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",USA NFL Seahawks
-http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/23609.m3u8
-#EXTINF:-1 tvg-id="NFLSundayTicket714.us" tvg-name="NFL Saints" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",USA NFL Saints
-http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/23608.m3u8
-#EXTINF:-1 tvg-id="NFLSundayTicket715.us" tvg-name="NFL Redskins" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",USA NFL Redskins
-http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/23607.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NFL Rams" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",USA NFL Rams
-http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/23606.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NFL Packers" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",USA NFL Packers
-http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/23605.m3u8
-#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="NFL RedZone HD US" tvg-logo="https://picon-13398.kxcdn.com/nflredzoneus.jpg" group-title="Live: NFL",USA NFL RedZone HD US
-http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/18849.m3u8
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network US" tvg-logo="https://picon-13398.kxcdn.com/nflnetworkus.jpg" group-title="Live: NFL",USA NFL Network US
-http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/9077.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NFL Texans" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",USA NFL Texans
-http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/28169.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NFL Jaguars" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",USA NFL Jaguars
-http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/28170.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NFL Colts " tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",USA NFL Colts 
-http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/28171.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NFL Lions" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",USA NFL Lions
-http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/55033.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NFL Falcons" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",USA NFL Falcons
-http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/55034.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NFL Eagles" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",USA NFL Eagles
-http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/55035.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NFL Dolphins" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",USA NFL Dolphins
-http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/55036.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NFL Cowboys" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",USA NFL Cowboys
-http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/55037.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NFL Cardinals" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",USA NFL Cardinals
-http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/55038.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NFL Titans" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",USA NFL Titans
-http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/55039.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NFL Steelers" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",USA NFL Steelers
-http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/55040.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NFL Ravens" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",USA NFL Ravens
-http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/55041.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NFL Raiders" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",USA NFL Raiders
-http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/55042.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NFL Patriots" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",USA NFL Patriots
-http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/55043.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NFL Broncos" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",USA NFL Broncos
-http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/55044.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NFL Bills Giants Jets" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",USA NFL Bills Giants Jets
-http://cloudcdn.tk:80/5JRipeY4TM/Xyl87hDd2c/55045
-#EXTINF:-1 tvg-id="" tvg-name="NFL Panthers" tvg-logo="https://picon-13398.kxcdn.com/nfl.jpg" group-title="Live: NFL",USA NFL Panthers
-http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/56169.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA NFL Monday Night" tvg-logo="http://ky-iptv.com:25461/images/e30909d057fd73f66a6c8bd70034543a.png" group-title="Live: NFL",USA NFL Monday Night
-http://ky-iptv.com:25461/live/dennis1/dennis1/515076.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="cbs2kboi.us" tvg-name="US : CBS (KBOI- Boise)" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (KBOI- Boise)
+http://mains.services:2086/live/nick5404/9928627/101050.m3u8
+#EXTINF:-1 tvg-id="KCAL.Los.Angeles.us" tvg-name="US : CBS (KCAL- Los Angeles CA)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (KCAL- Los Angeles CA)
+http://mains.services:2086/live/nick5404/9928627/90234.m3u8
+#EXTINF:-1 tvg-id="cbs2kcbs.us" tvg-name="US : CBS (KCBS TV– Los Angeles CA)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (KCBS TV– Los Angeles CA)
+http://mains.services:2086/live/nick5404/9928627/90233.m3u8
+#EXTINF:-1 tvg-id="cbs8kcci.us" tvg-name="US : CBS (KCCI) DES MOINES IOWA" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (KCCI) DES MOINES IOWA
+http://mains.services:2086/live/nick5404/9928627/96768.m3u8
+#EXTINF:-1 tvg-id="cbs4kcnc.us" tvg-name="US : CBS (KCNC– Denver CO)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (KCNC– Denver CO)
+http://mains.services:2086/live/nick5404/9928627/90230.m3u8
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="US : CBS (KCOY) SANTA MARIA CALIFORNIA" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (KCOY) SANTA MARIA CALIFORNIA
+http://mains.services:2086/live/nick5404/9928627/96769.m3u8
+#EXTINF:-1 tvg-id="CBS.(KCTV).Kansas.City,.MO.us" tvg-name="US : CBS (KCTV– Kansas City MO)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (KCTV– Kansas City MO)
+http://mains.services:2086/live/nick5404/9928627/90255.m3u8
+#EXTINF:-1 tvg-id="CBS.(KDKA).Pittsburgh,.PA.us" tvg-name="US : CBS (KDKATV- Pittsburgh PA)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (KDKATV- Pittsburgh PA)
+http://mains.services:2086/live/nick5404/9928627/90353.m3u8
+#EXTINF:-1 tvg-id="CBS.(KELO).Sioux.Falls,.SD.us" tvg-name="US : CBS (KELO- Sioux Falls SD)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (KELO- Sioux Falls SD)
+http://mains.services:2086/live/nick5404/9928627/90254.m3u8
+#EXTINF:-1 tvg-id="cbs5kens.us" tvg-name="US : CBS (KENS) SAN ANTONIO TEXAS" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (KENS) SAN ANTONIO TEXAS
+http://mains.services:2086/live/nick5404/9928627/96770.m3u8
+#EXTINF:-1 tvg-id="cbs42keye.us" tvg-name="US : CBS (KEYE) AUSTIN TEXAS" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (KEYE) AUSTIN TEXAS
+http://mains.services:2086/live/nick5404/9928627/96771.m3u8
+#EXTINF:-1 tvg-id="CBS.(KFMB).San.Diego,.CA.us" tvg-name="US : CBS (KFMB– San Diego CA)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (KFMB– San Diego CA)
+http://mains.services:2086/live/nick5404/9928627/90253.m3u8
+#EXTINF:-1 tvg-id="cbs12kfvs.us" tvg-name="US : CBS (KFVS) CAPE GIRARDEAU MISSOURI" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (KFVS) CAPE GIRARDEAU MISSOURI
+http://mains.services:2086/live/nick5404/9928627/96772.m3u8
+#EXTINF:-1 tvg-id="Azteca.(KGBT-DT2).Harlingen,.TX.us" tvg-name="US : CBS (KGBT- HARLINGEN)" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (KGBT- HARLINGEN)
+http://mains.services:2086/live/nick5404/9928627/100876.m3u8
+#EXTINF:-1 tvg-id="cbs5kgmb.us" tvg-name="US : CBS (KGMB) HONOLULU HAWAII" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (KGMB) HONOLULU HAWAII
+http://mains.services:2086/live/nick5404/9928627/96773.m3u8
+#EXTINF:-1 tvg-id="cbs11khou.us" tvg-name="US : CBS (KHOU- Houston TX)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (KHOU- Houston TX)
+http://mains.services:2086/live/nick5404/9928627/90354.m3u8
+#EXTINF:-1 tvg-id="CBS.(KION).Salinas,.CA.us" tvg-name="US : CBS (KION) MONTEREY CALIFORNIA" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (KION) MONTEREY CALIFORNIA
+http://mains.services:2086/live/nick5404/9928627/96774.m3u8
+#EXTINF:-1 tvg-id="CBS.(KIRO).Seattle,.WA.us" tvg-name="US : CBS (KIRO- Seattle WA)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (KIRO- Seattle WA)
+http://mains.services:2086/live/nick5404/9928627/90355.m3u8
+#EXTINF:-1 tvg-id="cbs11kktv.us" tvg-name="US : CBS (KKTV) COLORADO SPRINGS COLORADO" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (KKTV) COLORADO SPRINGS COLORADO
+http://mains.services:2086/live/nick5404/9928627/96775.m3u8
+#EXTINF:-1 tvg-id="CBS.(KLAS).Las.Vegas,.NV.us" tvg-name="US : CBS (KLAS- Las Vegas NV)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (KLAS- Las Vegas NV)
+http://mains.services:2086/live/nick5404/9928627/90356.m3u8
+#EXTINF:-1 tvg-id="cbs11wtoc.us" tvg-name="US : CBS (KLJB) SAVANNA" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (KLJB) SAVANNA
+http://mains.services:2086/live/nick5404/9928627/101299.m3u8
+#EXTINF:-1 tvg-id="CBS.(KMOV).St..Louis,.MO.us" tvg-name="US : CBS (KMOV- St. Louis MI)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (KMOV- St. Louis MI)
+http://mains.services:2086/live/nick5404/9928627/90357.m3u8
+#EXTINF:-1 tvg-id="cbs3kmtv.us" tvg-name="US : CBS (KMTV– Omaha NE)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (KMTV– Omaha NE)
+http://mains.services:2086/live/nick5404/9928627/90250.m3u8
+#EXTINF:-1 tvg-id="cbs13kold.us" tvg-name="US : CBS (KOLD) TUCSON ARIZONA" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (KOLD) TUCSON ARIZONA
+http://mains.services:2086/live/nick5404/9928627/96776.m3u8
+#EXTINF:-1 tvg-id="CBS.(KOLR).Springfield,.MO.us" tvg-name="US : CBS (KOLR - SPRINGFIELD)" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (KOLR - SPRINGFIELD)
+http://mains.services:2086/live/nick5404/9928627/100880.m3u8
+#EXTINF:-1 tvg-id="CBS.(KOVR).Sacramento,.CA.us" tvg-name="US : CBS (KOVR– Sacramento CA)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (KOVR– Sacramento CA)
+http://mains.services:2086/live/nick5404/9928627/90226.m3u8
+#EXTINF:-1 tvg-id="CBS.(KPHO).Phoenix,.AZ.us" tvg-name="US : CBS (KPHO- Phoenix AZ)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (KPHO- Phoenix AZ)
+http://mains.services:2086/live/nick5404/9928627/90358.m3u8
+#EXTINF:-1 tvg-id="CBS.(KPIX).San.Francisco,.CA.us" tvg-name="US : CBS (KPIX– San Francisco CA)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (KPIX– San Francisco CA)
+http://mains.services:2086/live/nick5404/9928627/90244.m3u8
+#EXTINF:-1 tvg-id="cbs2krem.us" tvg-name="US : CBS (KREM) SPOKANE WASHINGTON" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (KREM) SPOKANE WASHINGTON
+http://mains.services:2086/live/nick5404/9928627/96777.m3u8
+#EXTINF:-1 tvg-id="CBS.(KRQE).Albuquerque,.NM.us" tvg-name="US : CBS (KRQEDT- Albuquerque/Santa Fe NM)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (KRQEDT- Albuquerque/Santa Fe NM)
+http://mains.services:2086/live/nick5404/9928627/90245.m3u8
+#EXTINF:-1 tvg-id="cbs12ksla.us" tvg-name="US : CBS (KSLA) SHREVEPORT LOUISIANA" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (KSLA) SHREVEPORT LOUISIANA
+http://mains.services:2086/live/nick5404/9928627/96778.m3u8
+#EXTINF:-1 tvg-id="CBS.(KTHV).Little.Rock,.AR.us" tvg-name="US : CBS (KTHV- Little Rock/Pine Bluff AR)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (KTHV- Little Rock/Pine Bluff AR)
+http://mains.services:2086/live/nick5404/9928627/90246.m3u8
+#EXTINF:-1 tvg-id="cbs2ktvn.us" tvg-name="US : CBS (KTVN) RENO NEVADA" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (KTVN) RENO NEVADA
+http://mains.services:2086/live/nick5404/9928627/96779.m3u8
+#EXTINF:-1 tvg-id="cbs11ktvt.us" tvg-name="US : CBS (KTVT- Fort Worth TX)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (KTVT- Fort Worth TX)
+http://mains.services:2086/live/nick5404/9928627/90359.m3u8
+#EXTINF:-1 tvg-id="cbs11ktvt.us" tvg-name="US : CBS (KTXA- Fort Worth TX)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (KTXA- Fort Worth TX)
+http://mains.services:2086/live/nick5404/9928627/90360.m3u8
+#EXTINF:-1 tvg-id="CBS.(KUTV).Salt.Lake.City,.UT.us" tvg-name="US : CBS (KUTV- Salt Lake City/St. George UT)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (KUTV- Salt Lake City/St. George UT)
+http://mains.services:2086/live/nick5404/9928627/90243.m3u8
+#EXTINF:-1 tvg-id="cbs6kauz.us" tvg-name="US : CBS (KWCH– Wichita/Hutchinson KS)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (KWCH– Wichita/Hutchinson KS)
+http://mains.services:2086/live/nick5404/9928627/90242.m3u8
+#EXTINF:-1 tvg-id="cbs9kwtv.us" tvg-name="US : CBS (KWTV- Oklahoma City OK)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (KWTV- Oklahoma City OK)
+http://mains.services:2086/live/nick5404/9928627/90361.m3u8
+#EXTINF:-1 tvg-id="cbs10kwtx.us" tvg-name="US : CBS (KWTX) WACO TEXAS" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (KWTX) WACO TEXAS
+http://mains.services:2086/live/nick5404/9928627/96780.m3u8
+#EXTINF:-1 tvg-id="CBS.(KXMB).Bismarck,.ND.us" tvg-name="US : CBS (KXMB) BISMARCK" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (KXMB) BISMARCK
+http://mains.services:2086/live/nick5404/9928627/101297.m3u8
+#EXTINF:-1 tvg-id="cbs3kyw.us" tvg-name="US : CBS (KYW- Philadelphia PA)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (KYW- Philadelphia PA)
+http://mains.services:2086/live/nick5404/9928627/90362.m3u8
+#EXTINF:-1 tvg-id="CBS.(WAKA).Montgomery,.AL.us" tvg-name="US : CBS (WAKA DT– Montgomery/Selma AL)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (WAKA DT– Montgomery/Selma AL)
+http://mains.services:2086/live/nick5404/9928627/90241.m3u8
+#EXTINF:-1 tvg-id="CBS.(WBBM).Chicago,.IL.us" tvg-name="US : CBS (WBBM– Chicago IL)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (WBBM– Chicago IL)
+http://mains.services:2086/live/nick5404/9928627/90252.m3u8
+#EXTINF:-1 tvg-id="cbs4wcbi.us" tvg-name="US : CBS (WBNS) COLUMBUS" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WBNS) COLUMBUS
+http://mains.services:2086/live/nick5404/9928627/101296.m3u8
+#EXTINF:-1 tvg-id="cbs3wbtv.us" tvg-name="US : CBS (WBTV- Charlotte NC)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (WBTV- Charlotte NC)
+http://mains.services:2086/live/nick5404/9928627/90364.m3u8
+#EXTINF:-1 tvg-id="cbs4wbz.us" tvg-name="US : CBS (WBZ- Boston MA)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (WBZ- Boston MA)
+http://mains.services:2086/live/nick5404/9928627/90365.m3u8
+#EXTINF:-1 tvg-id="CBS.(WCBI).Colombus,.MS.us" tvg-name="US : CBS (WCBI - CBS 4 COLUMBUS)" tvg-logo="http://p2086.securepoint.io:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WCBI - CBS 4 COLUMBUS)
+http://mains.services:2086/live/nick5404/9928627/101662.m3u8
+#EXTINF:-1 tvg-id="cbs2wcbs.us" tvg-name="US : CBS (WCBS- New York NY)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (WCBS- New York NY)
+http://mains.services:2086/live/nick5404/9928627/90366.m3u8
+#EXTINF:-1 tvg-id="cbs4wcco.us" tvg-name="US : CBS (WCCO- Minneapolis MN)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (WCCO- Minneapolis MN)
+http://mains.services:2086/live/nick5404/9928627/90367.m3u8
+#EXTINF:-1 tvg-id="CBS.(WCSC).Charleston,.SC.us" tvg-name="US : CBS (WCSC- Charleston SC)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (WCSC- Charleston SC)
+http://mains.services:2086/live/nick5404/9928627/90259.m3u8
+#EXTINF:-1 tvg-id="CBS.(WCTV).Tallahassee,.FL.us" tvg-name="US : CBS (WCTV) THOMASVILLE" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WCTV) THOMASVILLE
+http://mains.services:2086/live/nick5404/9928627/101293.m3u8
+#EXTINF:-1 tvg-id="cbs7wdbj.us" tvg-name="US : CBS (WDBJ) ROANOKE VIRGINIA" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WDBJ) ROANOKE VIRGINIA
+http://mains.services:2086/live/nick5404/9928627/96781.m3u8
+#EXTINF:-1 tvg-id="cbs12wdef.us" tvg-name="US : CBS (WDEF) CHATTANOOGA TENNESSEE" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WDEF) CHATTANOOGA TENNESSEE
+http://mains.services:2086/live/nick5404/9928627/96782.m3u8
+#EXTINF:-1 tvg-id="cbs58wdjt.us" tvg-name="US : CBS (WDJT) MILWAUKEE WISCONSIN" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WDJT) MILWAUKEE WISCONSIN
+http://mains.services:2086/live/nick5404/9928627/96783.m3u8
+#EXTINF:-1 tvg-id="cbs2wfmy.us" tvg-name="US : CBS (WFMY) GREENSBORO NORTH CAROLINA" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WFMY) GREENSBORO NORTH CAROLINA
+http://mains.services:2086/live/nick5404/9928627/96784.m3u8
+#EXTINF:-1 tvg-id="cbs4wfor.us" tvg-name="US : CBS (WFOR- Miami FL)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (WFOR- Miami FL)
+http://mains.services:2086/live/nick5404/9928627/90368.m3u8
+#EXTINF:-1 tvg-id="cbs3wfsb.us" tvg-name="US : CBS (WFSB- Hartford, CT)" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WFSB- Hartford, CT)
+http://mains.services:2086/live/nick5404/9928627/100910.m3u8
+#EXTINF:-1 tvg-id="cbs46wgcl.us" tvg-name="US : CBS (WGCL- Atlanta GA)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (WGCL- Atlanta GA)
+http://mains.services:2086/live/nick5404/9928627/90369.m3u8
+#EXTINF:-1 tvg-id="CBS.(WHIO).Dayton,.OH.us" tvg-name="US : CBS (WHIO– Dayton OH)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (WHIO– Dayton OH)
+http://mains.services:2086/live/nick5404/9928627/90218.m3u8
+#EXTINF:-1 tvg-id="cbs19whnt.us" tvg-name="US : CBS (WHNT- Huntsville)" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WHNT- Huntsville)
+http://mains.services:2086/live/nick5404/9928627/101135.m3u8
+#EXTINF:-1 tvg-id="cbs11wink.us" tvg-name="US : CBS (WINK) FORT MYERS FLORIDA" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WINK) FORT MYERS FLORIDA
+http://mains.services:2086/live/nick5404/9928627/96785.m3u8
+#EXTINF:-1 tvg-id="cbs3wisc.us" tvg-name="US : CBS (WISC– Madison WI)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (WISC– Madison WI)
+http://mains.services:2086/live/nick5404/9928627/90240.m3u8
+#EXTINF:-1 tvg-id="cbs4wivb.us" tvg-name="US : CBS (WIVB) BUFFALO NEW YORK" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WIVB) BUFFALO NEW YORK
+http://mains.services:2086/live/nick5404/9928627/96786.m3u8
+#EXTINF:-1 tvg-id="CBS.(WJAX).Jacksonville,.FL.us" tvg-name="US : CBS (WJAX DT– Jacksonville FL)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (WJAX DT– Jacksonville FL)
+http://mains.services:2086/live/nick5404/9928627/90221.m3u8
+#EXTINF:-1 tvg-id="CBS.(WJTV).Jackson,.MS.us" tvg-name="US : CBS (WJTV - JACKSON)" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WJTV - JACKSON)
+http://mains.services:2086/live/nick5404/9928627/100882.m3u8
+#EXTINF:-1 tvg-id="CBS.(WJZ).Baltimore,.MD.us" tvg-name="US : CBS (WJZ– Baltimore MD)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (WJZ– Baltimore MD)
+http://mains.services:2086/live/nick5404/9928627/90283.m3u8
+#EXTINF:-1 tvg-id="CBS.(WKBN).Youngstown,.OH.us" tvg-name="US : CBS (WKBN) YOUNGSTOWN" tvg-logo="http://p2086.securepoint.io:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WKBN) YOUNGSTOWN
+http://mains.services:2086/live/nick5404/9928627/101356.m3u8
+#EXTINF:-1 tvg-id="cbs8wkbt.us" tvg-name="US : CBS (WKBT) LA CROSSE WISCONSIN" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WKBT) LA CROSSE WISCONSIN
+http://mains.services:2086/live/nick5404/9928627/96787.m3u8
+#EXTINF:-1 tvg-id="cbs6wkmg.us" tvg-name="US : CBS (WKMG) ORLANDO FLORIDA" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WKMG) ORLANDO FLORIDA
+http://mains.services:2086/live/nick5404/9928627/96788.m3u8
+#EXTINF:-1 tvg-id="cbs12wkrc.us" tvg-name="US : CBS (WKRC- Cincinnati OH)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (WKRC- Cincinnati OH)
+http://mains.services:2086/live/nick5404/9928627/90371.m3u8
+#EXTINF:-1 tvg-id="cbs5wkrg.us" tvg-name="US : CBS (WKRG) MOBILE" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WKRG) MOBILE
+http://mains.services:2086/live/nick5404/9928627/101298.m3u8
+#EXTINF:-1 tvg-id="CBS.(WKYT).Lexington,.KY.us" tvg-name="US : CBS (WKYT– Lexington KY)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (WKYT– Lexington KY)
+http://mains.services:2086/live/nick5404/9928627/90256.m3u8
+#EXTINF:-1 tvg-id="cbs32wlky.us" tvg-name="US : CBS (WLKY) LOUISVILLE KENTUCKY" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WLKY) LOUISVILLE KENTUCKY
+http://mains.services:2086/live/nick5404/9928627/96789.m3u8
+#EXTINF:-1 tvg-id="cbs2wcbs.us" tvg-name="US : CBS (WLNY- New York NY)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (WLNY- New York NY)
+http://mains.services:2086/live/nick5404/9928627/90372.m3u8
+#EXTINF:-1 tvg-id="cbs13wloxdt2.us" tvg-name="US : CBS (WLOX– GULFPORT MS)" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WLOX– GULFPORT MS)
+http://mains.services:2086/live/nick5404/9928627/101097.m3u8
+#EXTINF:-1 tvg-id="cbs19wltx.us" tvg-name="US : CBS (WLTX) COLUMBIA SOUTH CAROLINA" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WLTX) COLUMBIA SOUTH CAROLINA
+http://mains.services:2086/live/nick5404/9928627/96790.m3u8
+#EXTINF:-1 tvg-id="cbs5wnem.us" tvg-name="US : CBS (WNEM) BAY CITY MICHIGAN" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WNEM) BAY CITY MICHIGAN
+http://mains.services:2086/live/nick5404/9928627/96791.m3u8
+#EXTINF:-1 tvg-id="CBS.(WOIO).Cleveland,.OH.us" tvg-name="US : CBS (WOIO – Cleveland, OH)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (WOIO – Cleveland, OH)
+http://mains.services:2086/live/nick5404/9928627/90238.m3u8
+#EXTINF:-1 tvg-id="CBS.(WOIO).Cleveland,.OH.us" tvg-name="US : CBS (WOIODT– Cleveland/Akron OH)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (WOIODT– Cleveland/Akron OH)
+http://mains.services:2086/live/nick5404/9928627/90222.m3u8
+#EXTINF:-1 tvg-id="cbs12wpri.us" tvg-name="US : CBS (WPRI) PROVIDENCE RHODE ISLAND" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WPRI) PROVIDENCE RHODE ISLAND
+http://mains.services:2086/live/nick5404/9928627/96792.m3u8
+#EXTINF:-1 tvg-id="cbs12wrdw.us" tvg-name="US : CBS (WRDW) AUGUSTA GEORGIA" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WRDW) AUGUSTA GEORGIA
+http://mains.services:2086/live/nick5404/9928627/96793.m3u8
+#EXTINF:-1 tvg-id="cbs3wreg.us" tvg-name="US : CBS (WREG) MEMPHIS" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WREG) MEMPHIS
+http://mains.services:2086/live/nick5404/9928627/101292.m3u8
+#EXTINF:-1 tvg-id="CBS.(WRGB).Albany,.NY.us" tvg-name="US : CBS (WRGB) ALBANY" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WRGB) ALBANY
+http://mains.services:2086/live/nick5404/9928627/101204.m3u8
+#EXTINF:-1 tvg-id="cbs10kolr.us" tvg-name="US : CBS (WSHM) SPRINGFIELD" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WSHM) SPRINGFIELD
+http://mains.services:2086/live/nick5404/9928627/101295.m3u8
+#EXTINF:-1 tvg-id="cbs7wspa.us" tvg-name="US : CBS (WSPA) SPARTANBURG SOUTH CAROLINA" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WSPA) SPARTANBURG SOUTH CAROLINA
+http://mains.services:2086/live/nick5404/9928627/96794.m3u8
+#EXTINF:-1 tvg-id="CBS.(WTKR).Norfolk,.VA.us" tvg-name="US : CBS (WTKR- Hampton)" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WTKR- Hampton)
+http://mains.services:2086/live/nick5404/9928627/101136.m3u8
+#EXTINF:-1 tvg-id="cbs11wtol.us" tvg-name="US : CBS (WTOL) TOLEDO OHIO" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WTOL) TOLEDO OHIO
+http://mains.services:2086/live/nick5404/9928627/96795.m3u8
+#EXTINF:-1 tvg-id="CBS.(WTSP).Tampa.Bay,.FL.us" tvg-name="US : CBS (WTSP– Tampa FL)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (WTSP– Tampa FL)
+http://mains.services:2086/live/nick5404/9928627/90220.m3u8
+#EXTINF:-1 tvg-id="cbs4wttv.us" tvg-name="US : CBS (WTTV- Indianapolis)" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WTTV- Indianapolis)
+http://mains.services:2086/live/nick5404/9928627/101138.m3u8
+#EXTINF:-1 tvg-id="cbs5wtvf.us" tvg-name="US : CBS (WTVF- Nashville TN)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (WTVF- Nashville TN)
+http://mains.services:2086/live/nick5404/9928627/90373.m3u8
+#EXTINF:-1 tvg-id="cbs5wtvh.us" tvg-name="US : CBS (WTVH) SYRACUSE" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WTVH) SYRACUSE
+http://mains.services:2086/live/nick5404/9928627/101294.m3u8
+#EXTINF:-1 tvg-id="cbs6wtvr.us" tvg-name="US : CBS (WTVR) RICHMOND" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WTVR) RICHMOND
+http://mains.services:2086/live/nick5404/9928627/101291.m3u8
+#EXTINF:-1 tvg-id="cbs9wusa.us" tvg-name="US : CBS (WUSA- Washington DC)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (WUSA- Washington DC)
+http://mains.services:2086/live/nick5404/9928627/90374.m3u8
+#EXTINF:-1 tvg-id="cbs8wvlt.us" tvg-name="US : CBS (WVLT) KNOXVILLE TENNESSEE" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WVLT) KNOXVILLE TENNESSEE
+http://mains.services:2086/live/nick5404/9928627/96796.m3u8
+#EXTINF:-1 tvg-id="cbs3wwaydt2.us" tvg-name="US : CBS (WWAY) WILMINGTON NORTH CAROLINA" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WWAY) WILMINGTON NORTH CAROLINA
+http://mains.services:2086/live/nick5404/9928627/96797.m3u8
+#EXTINF:-1 tvg-id="cbs62wwj.us" tvg-name="US : CBS (WWJ- Detroit)" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WWJ- Detroit)
+http://mains.services:2086/live/nick5404/9928627/100618.m3u8
+#EXTINF:-1 tvg-id="CBS.(WWL).New.Orleans,.LA.us" tvg-name="US : CBS (WWL– New Orleans LA)" tvg-logo="http://www.freepnglogos.com/uploads/cbs-png-logo/112-new-york-talent-contacted-for-cbs-png-logo-28.png" group-title="USA CBS LOCALS",US : CBS (WWL– New Orleans LA)
+http://mains.services:2086/live/nick5404/9928627/90235.m3u8
+#EXTINF:-1 tvg-id="cbs2kgan.us" tvg-name="US : CBS (WWMT) GRAND RAPIDS" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WWMT) GRAND RAPIDS
+http://mains.services:2086/live/nick5404/9928627/101290.m3u8
+#EXTINF:-1 tvg-id="cbs22wyou.us" tvg-name="US : CBS (WYOU) SCRANTON PENNSYLVANIA" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WYOU) SCRANTON PENNSYLVANIA
+http://mains.services:2086/live/nick5404/9928627/96798.m3u8
