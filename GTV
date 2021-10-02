@@ -1020,3 +1020,335 @@ http://mains.services:2086/live/nick5404/9928627/96827.m3u8
 http://mains.services:2086/live/nick5404/9928627/90409.m3u8
 #EXTINF:-1 tvg-id="FOX.(WZTV).Nashville,.TN.us" tvg-name="US : FOX (WZTV - Nashville TN)" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WZTV - Nashville TN)
 http://mains.services:2086/live/nick5404/9928627/90410.m3u8
+#EXTINF:-1 tvg-id="nbc8kait.us" tvg-name="US: NBC (KAIT) Jonesboro arkansas" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KAIT) Jonesboro arkansas
+http://mains.services:2086/live/nick5404/9928627/96828.m3u8
+#EXTINF:-1 tvg-id="NBC.(KALB).Alexandria,.LA.us" tvg-name="US: NBC (KALB) Alexandria Louisiana" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (KALB) Alexandria Louisiana
+http://mains.services:2086/live/nick5404/9928627/96829.m3u8
+#EXTINF:-1 tvg-id="nbc4kamr.us" tvg-name="US: NBC (KAMR) Amarillo Texas" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KAMR) Amarillo Texas
+http://mains.services:2086/live/nick5404/9928627/96830.m3u8
+#EXTINF:-1 tvg-id="nbckare.us" tvg-name="US: NBC (KARE - Minneapolis MI)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (KARE - Minneapolis MI)
+http://mains.services:2086/live/nick5404/9928627/90411.m3u8
+#EXTINF:-1 tvg-id="nbc4kark.us" tvg-name="US: NBC (KARK) Little Rock Arkansas" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KARK) Little Rock Arkansas
+http://mains.services:2086/live/nick5404/9928627/96831.m3u8
+#EXTINF:-1 tvg-id="nbc4ksnb.us" tvg-name="US: NBC (KBJR) Superior Wisconsin" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KBJR) Superior Wisconsin
+http://mains.services:2086/live/nick5404/9928627/96832.m3u8
+#EXTINF:-1 tvg-id="NBC.(KBMT-DT2).Beaumont,.TX.us" tvg-name="US: NBC (KBMT) Beaumont Texas" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (KBMT) Beaumont Texas
+http://mains.services:2086/live/nick5404/9928627/96833.m3u8
+#EXTINF:-1 tvg-id="nbc11kcbd.us" tvg-name="US: NBC (KCBD) Lubbock Texas" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KCBD) Lubbock Texas
+http://mains.services:2086/live/nick5404/9928627/96834.m3u8
+#EXTINF:-1 tvg-id="nbc6kcen.us" tvg-name="US: NBC (KCEN) Temple Texas" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KCEN) Temple Texas
+http://mains.services:2086/live/nick5404/9928627/96835.m3u8
+#EXTINF:-1 tvg-id="NBC.(KCHY-LP).Cheyenne,.WY.us" tvg-name="US: NBC (KCHY) Cheyenne Wyoming" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (KCHY) Cheyenne Wyoming
+http://mains.services:2086/live/nick5404/9928627/96836.m3u8
+#EXTINF:-1 tvg-id="nbckcra.us" tvg-name="US: NBC (KCRA California Sacramento)" tvg-logo="http://p2086.securepoint.io:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (KCRA California Sacramento)
+http://mains.services:2086/live/nick5404/9928627/90656.m3u8
+#EXTINF:-1 tvg-id="nbc13kcwy.us" tvg-name="US: NBC (KCWY) Casper Wyoming" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KCWY) Casper Wyoming
+http://mains.services:2086/live/nick5404/9928627/96837.m3u8
+#EXTINF:-1 tvg-id="nbc46kdlt.us" tvg-name="US: NBC (KDLT) Sioux Falls South Dakota" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KDLT) Sioux Falls South Dakota
+http://mains.services:2086/live/nick5404/9928627/96838.m3u8
+#EXTINF:-1 tvg-id="nbc13keci.us" tvg-name="US: NBC (KECI) Missoula Montana" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KECI) Missoula Montana
+http://mains.services:2086/live/nick5404/9928627/96839.m3u8
+#EXTINF:-1 tvg-id="nbcwtlv.us" tvg-name="US: NBC (KETK) Jacksonville Texas" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KETK) Jacksonville Texas
+http://mains.services:2086/live/nick5404/9928627/96840.m3u8
+#EXTINF:-1 tvg-id="nbc4kfor.us" tvg-name="US: NBC (KFOR) Oklahoma City Oklahoma" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KFOR) Oklahoma City Oklahoma
+http://mains.services:2086/live/nick5404/9928627/96841.m3u8
+#EXTINF:-1 tvg-id="nbc5kfyr.us" tvg-name="US: NBC (KFYR) Bismarck" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (KFYR) Bismarck
+http://mains.services:2086/live/nick5404/9928627/101288.m3u8
+#EXTINF:-1 tvg-id="nbc17kget.us" tvg-name="US: NBC (KGET) Bakersfield California" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KGET) Bakersfield California
+http://mains.services:2086/live/nick5404/9928627/96842.m3u8
+#EXTINF:-1 tvg-id="nbc8kgns.us" tvg-name="US: NBC (KGNS) Laredo Texas" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KGNS) Laredo Texas
+http://mains.services:2086/live/nick5404/9928627/96843.m3u8
+#EXTINF:-1 tvg-id="nbcwcsh.us" tvg-name="US: NBC (KGW) Portland Oregon" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KGW) Portland Oregon
+http://mains.services:2086/live/nick5404/9928627/96844.m3u8
+#EXTINF:-1 tvg-id="nbckhnl.us" tvg-name="US: NBC (KHNL Honolulu Hi)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (KHNL Honolulu Hi)
+http://mains.services:2086/live/nick5404/9928627/90848.m3u8
+#EXTINF:-1 tvg-id="nbcking.us" tvg-name="US: NBC (KING - Seattle WA)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (KING - Seattle WA)
+http://mains.services:2086/live/nick5404/9928627/90412.m3u8
+#EXTINF:-1 tvg-id="nbckjrh.us" tvg-name="US: NBC (KJRH) Tulsa Oklahoma" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KJRH) Tulsa Oklahoma
+http://mains.services:2086/live/nick5404/9928627/96845.m3u8
+#EXTINF:-1 tvg-id="nbckkco.us" tvg-name="US: NBC (KKCO) Grand Junction Colorado" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KKCO) Grand Junction Colorado
+http://mains.services:2086/live/nick5404/9928627/96846.m3u8
+#EXTINF:-1 tvg-id="nbc46klaf.us" tvg-name="US: NBC (KLAF) Lafayette Louisiana" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KLAF) Lafayette Louisiana
+http://mains.services:2086/live/nick5404/9928627/96847.m3u8
+#EXTINF:-1 tvg-id="nbc16kmtr.us" tvg-name="US: NBC (KMTR) Eugene Oregon" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KMTR) Eugene Oregon
+http://mains.services:2086/live/nick5404/9928627/96848.m3u8
+#EXTINF:-1 tvg-id="NBC.(KNBC).Los.Angeles,.CA.us" tvg-name="US: NBC (KNBC - Los Angeles CA)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (KNBC - Los Angeles CA)
+http://mains.services:2086/live/nick5404/9928627/90413.m3u8
+#EXTINF:-1 tvg-id="nbc23kndo.us" tvg-name="US: NBC (KNDO) Yakima Washington" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KNDO) Yakima Washington
+http://mains.services:2086/live/nick5404/9928627/96849.m3u8
+#EXTINF:-1 tvg-id="nbcknsd.us" tvg-name="US: NBC (KNSD- San Diego CA)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (KNSD- San Diego CA)
+http://mains.services:2086/live/nick5404/9928627/90118.m3u8
+#EXTINF:-1 tvg-id="NBC.(KNTV).San.Francisco,.CA.us" tvg-name="US: NBC (KNTV- San Francisco CA) " tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (KNTV- San Francisco CA) 
+http://mains.services:2086/live/nick5404/9928627/90122.m3u8
+#EXTINF:-1 tvg-id="nbc24knvn.us" tvg-name="US: NBC (KNVN) Chico California" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KNVN) Chico California
+http://mains.services:2086/live/nick5404/9928627/96850.m3u8
+#EXTINF:-1 tvg-id="nbc5koaa.us" tvg-name="US: NBC (KOAA) Pueblo Colorado" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KOAA) Pueblo Colorado
+http://mains.services:2086/live/nick5404/9928627/96851.m3u8
+#EXTINF:-1 tvg-id="nbc4kob.us" tvg-name="US: NBC (KOB Albuquerque NM)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (KOB Albuquerque NM)
+http://mains.services:2086/live/nick5404/9928627/90638.m3u8
+#EXTINF:-1 tvg-id="nbc5kobi.us" tvg-name="US: NBC (KOBI) Medford Oregon" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KOBI) Medford Oregon
+http://mains.services:2086/live/nick5404/9928627/96852.m3u8
+#EXTINF:-1 tvg-id="nbc7kplc.us" tvg-name="US: NBC (KPLC) Lake Charles Louisiana" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KPLC) Lake Charles Louisiana
+http://mains.services:2086/live/nick5404/9928627/96853.m3u8
+#EXTINF:-1 tvg-id="NBC.(KPNX).Phoenix,.AZ.us" tvg-name="US: NBC (KPNX - Phoenix AZ)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (KPNX - Phoenix AZ)
+http://mains.services:2086/live/nick5404/9928627/90414.m3u8
+#EXTINF:-1 tvg-id="nbckprc.us" tvg-name="US: NBC (KPRC - Houston TX)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (KPRC - Houston TX)
+http://mains.services:2086/live/nick5404/9928627/90415.m3u8
+#EXTINF:-1 tvg-id="nbc9krbc.us" tvg-name="US: NBC (KRBC) Abliene Texas" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KRBC) Abliene Texas
+http://mains.services:2086/live/nick5404/9928627/96854.m3u8
+#EXTINF:-1 tvg-id="nbc7krnv.us" tvg-name="US: NBC (KRNV) Reno Nevada" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KRNV) Reno Nevada
+http://mains.services:2086/live/nick5404/9928627/96855.m3u8
+#EXTINF:-1 tvg-id="nbc8ksbw.us" tvg-name="US: NBC (KSBW) Salinas California" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KSBW) Salinas California
+http://mains.services:2086/live/nick5404/9928627/96856.m3u8
+#EXTINF:-1 tvg-id="nbc6ksby.us" tvg-name="US: NBC (KSBY) San Luis Obispo California" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KSBY) San Luis Obispo California
+http://mains.services:2086/live/nick5404/9928627/96857.m3u8
+#EXTINF:-1 tvg-id="nbc5ksdk.us" tvg-name="US: NBC (KSDK - St. Louis MO)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (KSDK - St. Louis MO)
+http://mains.services:2086/live/nick5404/9928627/90416.m3u8
+#EXTINF:-1 tvg-id="nbc24ksee.us" tvg-name="US: NBC (KSEE) Fresno California" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KSEE) Fresno California
+http://mains.services:2086/live/nick5404/9928627/96858.m3u8
+#EXTINF:-1 tvg-id="nbc41kshb.us" tvg-name="US: NBC (KSHB- Kansas City MO)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (KSHB- Kansas City MO)
+http://mains.services:2086/live/nick5404/9928627/90281.m3u8
+#EXTINF:-1 tvg-id="nbc5ksl.us" tvg-name="US: NBC (KSL) Salt Lake City Utah" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KSL) Salt Lake City Utah
+http://mains.services:2086/live/nick5404/9928627/96859.m3u8
+#EXTINF:-1 tvg-id="nbc4ksnb.us" tvg-name="US: NBC (KSNB) Superior Nebraska" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KSNB) Superior Nebraska
+http://mains.services:2086/live/nick5404/9928627/96860.m3u8
+#EXTINF:-1 tvg-id="nbc27ksnt.us" tvg-name="US: NBC (KSNT) Topeka Kansas" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KSNT) Topeka Kansas
+http://mains.services:2086/live/nick5404/9928627/96861.m3u8
+#EXTINF:-1 tvg-id="nbcksnv.us" tvg-name="US: NBC (KSNV - Las Vegas NV)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (KSNV - Las Vegas NV)
+http://mains.services:2086/live/nick5404/9928627/90417.m3u8
+#EXTINF:-1 tvg-id="NBC.(KTAL).Shreveport,.LA.us" tvg-name="US: NBC (KTAL) Texarkana Louisiana" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (KTAL) Texarkana Louisiana
+http://mains.services:2086/live/nick5404/9928627/96862.m3u8
+#EXTINF:-1 tvg-id="NBC.(KTFT).Twin.Falls,.ID.us" tvg-name="US: NBC (KTFT) Twin Falls Idaho" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (KTFT) Twin Falls Idaho
+http://mains.services:2086/live/nick5404/9928627/96863.m3u8
+#EXTINF:-1 tvg-id="nbc12ktgf.us" tvg-name="US: NBC (KTGF) Great Falls Montana" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KTGF) Great Falls Montana
+http://mains.services:2086/live/nick5404/9928627/96864.m3u8
+#EXTINF:-1 tvg-id="nbc4ktiv.us" tvg-name="US: NBC (KTIV) Sioux City Iowa" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KTIV) Sioux City Iowa
+http://mains.services:2086/live/nick5404/9928627/96865.m3u8
+#EXTINF:-1 tvg-id="nbc9ktsm.us" tvg-name="US: NBC (KTSM) El Paso Texas" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KTSM) El Paso Texas
+http://mains.services:2086/live/nick5404/9928627/96866.m3u8
+#EXTINF:-1 tvg-id="nbc10whec.us" tvg-name="US: NBC (KTTC) Rochester Minnesota" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KTTC) Rochester Minnesota
+http://mains.services:2086/live/nick5404/9928627/96867.m3u8
+#EXTINF:-1 tvg-id="NBC.(KTUU).Anchorage,.AK.us" tvg-name="US: NBC (KTUU) Anchorage Alaska" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (KTUU) Anchorage Alaska
+http://mains.services:2086/live/nick5404/9928627/96868.m3u8
+#EXTINF:-1 tvg-id="nbc7ktvb.us" tvg-name="US: NBC (KTVB) Boise Idaho" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KTVB) Boise Idaho
+http://mains.services:2086/live/nick5404/9928627/96869.m3u8
+#EXTINF:-1 tvg-id="NBC.(KTVF).Fairbanks,.AK.us" tvg-name="US: NBC (KTVF) Fairbanks Alaska" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (KTVF) Fairbanks Alaska
+http://mains.services:2086/live/nick5404/9928627/96870.m3u8
+#EXTINF:-1 tvg-id="nbc12ktvh.us" tvg-name="US: NBC (KTVH) Helena Montana" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KTVH) Helena Montana
+http://mains.services:2086/live/nick5404/9928627/96871.m3u8
+#EXTINF:-1 tvg-id="NBC.(KTVM).Butte,.MT.us" tvg-name="US: NBC (KTVM) Butte Montana" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (KTVM) Butte Montana
+http://mains.services:2086/live/nick5404/9928627/96872.m3u8
+#EXTINF:-1 tvg-id="nbc8kulr.us" tvg-name="US: NBC (KULR) Billings Montana" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KULR) Billings Montana
+http://mains.services:2086/live/nick5404/9928627/96873.m3u8
+#EXTINF:-1 tvg-id="nbc9kusa.us" tvg-name="US: NBC (KUSA - Denver CO)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (KUSA - Denver CO)
+http://mains.services:2086/live/nick5404/9928627/90418.m3u8
+#EXTINF:-1 tvg-id="nbc23kveo.us" tvg-name="US: NBC (KVEO) Brownsville Texas" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KVEO) Brownsville Texas
+http://mains.services:2086/live/nick5404/9928627/96874.m3u8
+#EXTINF:-1 tvg-id="nbc4kvoa.us" tvg-name="US: NBC (KVOA) Tucson Arizona" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KVOA) Tucson Arizona
+http://mains.services:2086/live/nick5404/9928627/96875.m3u8
+#EXTINF:-1 tvg-id="nbc9kwes.us" tvg-name="US: NBC (KWES) Odessa Texas" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KWES) Odessa Texas
+http://mains.services:2086/live/nick5404/9928627/96876.m3u8
+#EXTINF:-1 tvg-id="nbc3wsav.us" tvg-name="US: NBC (KWQC) Savanna" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (KWQC) Savanna
+http://mains.services:2086/live/nick5404/9928627/101289.m3u8
+#EXTINF:-1 tvg-id="nbc7kwwl.us" tvg-name="US: NBC (KWWL) Waterloo Iowa" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KWWL) Waterloo Iowa
+http://mains.services:2086/live/nick5404/9928627/96877.m3u8
+#EXTINF:-1 tvg-id="nbc36kxan.us" tvg-name="US: NBC (KXAN) Austin Texas" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KXAN) Austin Texas
+http://mains.services:2086/live/nick5404/9928627/96878.m3u8
+#EXTINF:-1 tvg-id="nbckxas.us" tvg-name="US: NBC (KXAS - Fort Worth TX)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (KXAS - Fort Worth TX)
+http://mains.services:2086/live/nick5404/9928627/90419.m3u8
+#EXTINF:-1 tvg-id="nbc22wwlp.us" tvg-name="US: NBC (KYTV) Springfield Missouri" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (KYTV) Springfield Missouri
+http://mains.services:2086/live/nick5404/9928627/96879.m3u8
+#EXTINF:-1 tvg-id="nbc48waff.us" tvg-name="US: NBC (WAFF - Huntsville AL)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WAFF - Huntsville AL)
+http://mains.services:2086/live/nick5404/9928627/90420.m3u8
+#EXTINF:-1 tvg-id="nbc13wnyt.us" tvg-name="US: NBC (WALB) Albany Georgia" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WALB) Albany Georgia
+http://mains.services:2086/live/nick5404/9928627/96880.m3u8
+#EXTINF:-1 tvg-id="nbc17wand.us" tvg-name="US: NBC (WAND) Decatur Illinois" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WAND) Decatur Illinois
+http://mains.services:2086/live/nick5404/9928627/96881.m3u8
+#EXTINF:-1 tvg-id="nbcwave.us" tvg-name="US: NBC (WAVE) Louisville Kentucky" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WAVE) Louisville Kentucky
+http://mains.services:2086/live/nick5404/9928627/96882.m3u8
+#EXTINF:-1 tvg-id="nbc10wavy.us" tvg-name="US: NBC (WAVY) Portsmouth Virginia" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WAVY) Portsmouth Virginia
+http://mains.services:2086/live/nick5404/9928627/96883.m3u8
+#EXTINF:-1 tvg-id="nbcwbal.us" tvg-name="US: NBC (WBAL - Baltimore MD)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WBAL - Baltimore MD)
+http://mains.services:2086/live/nick5404/9928627/90421.m3u8
+#EXTINF:-1 tvg-id="nbc20wbbh.us" tvg-name="US: NBC (WBBH) Fort Myers Florida" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WBBH) Fort Myers Florida
+http://mains.services:2086/live/nick5404/9928627/96884.m3u8
+#EXTINF:-1 tvg-id="NBC.(WBGH).Binghampton,.NY.us" tvg-name="US: NBC (WBGH) Binghamton New York" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WBGH) Binghamton New York
+http://mains.services:2086/live/nick5404/9928627/96885.m3u8
+#EXTINF:-1 tvg-id="nbc10wbir.us" tvg-name="US: NBC (WBIR) Knoxville Tennessee" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WBIR) Knoxville Tennessee
+http://mains.services:2086/live/nick5404/9928627/96886.m3u8
+#EXTINF:-1 tvg-id="nbc12wboy.us" tvg-name="US: NBC (WBOY) Clarksburg West Virginia" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WBOY) Clarksburg West Virginia
+http://mains.services:2086/live/nick5404/9928627/96887.m3u8
+#EXTINF:-1 tvg-id="nbc28wbre.us" tvg-name="US: NBC (WBRE) Wilkes Barre Pennsylvania" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WBRE) Wilkes Barre Pennsylvania
+http://mains.services:2086/live/nick5404/9928627/96888.m3u8
+#EXTINF:-1 tvg-id="nbcwbts.us" tvg-name="US: NBC (WBTS - Boston MA)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WBTS - Boston MA)
+http://mains.services:2086/live/nick5404/9928627/90422.m3u8
+#EXTINF:-1 tvg-id="nbc10wcau.us" tvg-name="US: NBC (WCAU - Philadelphia PA)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WCAU - Philadelphia PA)
+http://mains.services:2086/live/nick5404/9928627/90423.m3u8
+#EXTINF:-1 tvg-id="nbc2wcbd.us" tvg-name="US: NBC (WCBD-Charleston SC)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WCBD-Charleston SC)
+http://mains.services:2086/live/nick5404/9928627/90266.m3u8
+#EXTINF:-1 tvg-id="nbc4wcmh.us" tvg-name="US: NBC (WCMH) Columbus" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WCMH) Columbus
+http://mains.services:2086/live/nick5404/9928627/101287.m3u8
+#EXTINF:-1 tvg-id="nbcwcnc.us" tvg-name="US: NBC (WCNC - Charlotte NC)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WCNC - Charlotte NC)
+http://mains.services:2086/live/nick5404/9928627/90424.m3u8
+#EXTINF:-1 tvg-id="nbcwcsh.us" tvg-name="US: NBC (WCSH) Portland Maine" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WCSH) Portland Maine
+http://mains.services:2086/live/nick5404/9928627/96889.m3u8
+#EXTINF:-1 tvg-id="NBC.(WDAM).Laurel,.MS.us" tvg-name="US: NBC (WDAM) Laurel Mississippi" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WDAM) Laurel Mississippi
+http://mains.services:2086/live/nick5404/9928627/96890.m3u8
+#EXTINF:-1 tvg-id="nbcwdiv.us" tvg-name="US: NBC (WDIV - Detroit MI)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WDIV - Detroit MI)
+http://mains.services:2086/live/nick5404/9928627/90425.m3u8
+#EXTINF:-1 tvg-id="nbcwdsu.us" tvg-name="US: NBC (WDSU - New Orleans LA)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WDSU - New Orleans LA)
+http://mains.services:2086/live/nick5404/9928627/90426.m3u8
+#EXTINF:-1 tvg-id="nbc2wdtn.us" tvg-name="US: NBC (WDTN - Dayton OH)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WDTN - Dayton OH)
+http://mains.services:2086/live/nick5404/9928627/90276.m3u8
+#EXTINF:-1 tvg-id="nbcweau.us" tvg-name="US: NBC (WEAU) Eau Claire, Wisconsin" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WEAU) Eau Claire, Wisconsin
+http://mains.services:2086/live/nick5404/9928627/96891.m3u8
+#EXTINF:-1 tvg-id="nbc6wect.us" tvg-name="US: NBC (WECT) Wilmington North Carolina" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WECT) Wilmington North Carolina
+http://mains.services:2086/live/nick5404/9928627/96892.m3u8
+#EXTINF:-1 tvg-id="nbc25week.us" tvg-name="US: NBC (WEEK) Peoria Illinois" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WEEK) Peoria Illinois
+http://mains.services:2086/live/nick5404/9928627/96893.m3u8
+#EXTINF:-1 tvg-id="nbc2wdtn.us" tvg-name="US: NBC (WESH) Daytona Beach Florida" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WESH) Daytona Beach Florida
+http://mains.services:2086/live/nick5404/9928627/96894.m3u8
+#EXTINF:-1 tvg-id="NBC.(WETM).Elmira,.NY.us" tvg-name="US: NBC (WETM) Elmira, New York" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WETM) Elmira, New York
+http://mains.services:2086/live/nick5404/9928627/96895.m3u8
+#EXTINF:-1 tvg-id="nbc25weyi.us" tvg-name="US: NBC (WEYI) Saginaw Michigan" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WEYI) Saginaw Michigan
+http://mains.services:2086/live/nick5404/9928627/96896.m3u8
+#EXTINF:-1 tvg-id="nbcwfla.us" tvg-name="US: NBC (WFLA) Tampa Florida" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WFLA) Tampa Florida
+http://mains.services:2086/live/nick5404/9928627/96897.m3u8
+#EXTINF:-1 tvg-id="nbc21wfmj.us" tvg-name="US: NBC (WFMJ) Youngstown Ohio" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WFMJ) Youngstown Ohio
+http://mains.services:2086/live/nick5404/9928627/96898.m3u8
+#EXTINF:-1 tvg-id="nbc8wgal.us" tvg-name="US: NBC (WGAL) Lancaster Pennsylvania" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WGAL) Lancaster Pennsylvania
+http://mains.services:2086/live/nick5404/9928627/96899.m3u8
+#EXTINF:-1 tvg-id="nbc26wgba.us" tvg-name="US: NBC (WGBA) Green Bay Wisconsin" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WGBA) Green Bay Wisconsin
+http://mains.services:2086/live/nick5404/9928627/96900.m3u8
+#EXTINF:-1 tvg-id="nbc10wgem.us" tvg-name="US: NBC (WGEM) Quincy Illinois" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WGEM) Quincy Illinois
+http://mains.services:2086/live/nick5404/9928627/96901.m3u8
+#EXTINF:-1 tvg-id="nbc2wgrz.us" tvg-name="US: NBC (WGRZ - Buffalo NY)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WGRZ - Buffalo NY)
+http://mains.services:2086/live/nick5404/9928627/90669.m3u8
+#EXTINF:-1 tvg-id="nbc10whec.us" tvg-name="US: NBC (WHEC) Rochester New York" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WHEC) Rochester New York
+http://mains.services:2086/live/nick5404/9928627/96902.m3u8
+#EXTINF:-1 tvg-id="nbc13who.us" tvg-name="US: NBC (WHO-Des Moines/Ames IA)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WHO-Des Moines/Ames IA)
+http://mains.services:2086/live/nick5404/9928627/90280.m3u8
+#EXTINF:-1 tvg-id="nbc10wilx.us" tvg-name="US: NBC (WILX) Onondaga Michigan" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WILX) Onondaga Michigan
+http://mains.services:2086/live/nick5404/9928627/96903.m3u8
+#EXTINF:-1 tvg-id="cbs19wltx.us" tvg-name="US: NBC (WIS) Columbia South Carolina" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WIS) Columbia South Carolina
+http://mains.services:2086/live/nick5404/9928627/96904.m3u8
+#EXTINF:-1 tvg-id="nbc7witn.us" tvg-name="US: NBC (WITN) Washington North Carolina" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WITN) Washington North Carolina
+http://mains.services:2086/live/nick5404/9928627/96905.m3u8
+#EXTINF:-1 tvg-id="nbc6wjac.us" tvg-name="US: NBC (WJAC) Johnstown Pennsylvania" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WJAC) Johnstown Pennsylvania
+http://mains.services:2086/live/nick5404/9928627/96906.m3u8
+#EXTINF:-1 tvg-id="NBC.(WJAR).Cranston,.RI.us" tvg-name="US: NBC (WJAR) Providence Rhode Island" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WJAR) Providence Rhode Island
+http://mains.services:2086/live/nick5404/9928627/96907.m3u8
+#EXTINF:-1 tvg-id="nbc7wjhg.us" tvg-name="US: NBC (WJHG) Panama City Florida" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WJHG) Panama City Florida
+http://mains.services:2086/live/nick5404/9928627/96908.m3u8
+#EXTINF:-1 tvg-id="nbcwkyc.us" tvg-name="US: NBC (WKYC Cleveland )" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WKYC Cleveland )
+http://mains.services:2086/live/nick5404/9928627/91061.m3u8
+#EXTINF:-1 tvg-id="nbc3wlbt.us" tvg-name="US: NBC (WLBT) Jackson Mississippi" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WLBT) Jackson Mississippi
+http://mains.services:2086/live/nick5404/9928627/96909.m3u8
+#EXTINF:-1 tvg-id="nbc2wlbz.us" tvg-name="US: NBC (WLBZ) Bangor Maine" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WLBZ) Bangor Maine
+http://mains.services:2086/live/nick5404/9928627/96910.m3u8
+#EXTINF:-1 tvg-id="nbc18wlex.us" tvg-name="US: NBC (WLEX-Lexington KY)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WLEX-Lexington KY)
+http://mains.services:2086/live/nick5404/9928627/90272.m3u8
+#EXTINF:-1 tvg-id="nbc38wltz.us" tvg-name="US: NBC (WLTZ) Columbus Georgia" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WLTZ) Columbus Georgia
+http://mains.services:2086/live/nick5404/9928627/96911.m3u8
+#EXTINF:-1 tvg-id="nbcwluc.us" tvg-name="US: NBC (WLUC) Marquette Michigan" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WLUC) Marquette Michigan
+http://mains.services:2086/live/nick5404/9928627/96912.m3u8
+#EXTINF:-1 tvg-id="nbc5wlwt.us" tvg-name="US: NBC (WLWT - Cincinnati OH)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WLWT - Cincinnati OH)
+http://mains.services:2086/live/nick5404/9928627/90427.m3u8
+#EXTINF:-1 tvg-id="nbc5wmaq.us" tvg-name="US: NBC (WMAQ - Chicago IL)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WMAQ - Chicago IL)
+http://mains.services:2086/live/nick5404/9928627/90428.m3u8
+#EXTINF:-1 tvg-id="nbc32wmbf.us" tvg-name="US: NBC (WMBF) Myrtle Beach South Carolina" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WMBF) Myrtle Beach South Carolina
+http://mains.services:2086/live/nick5404/9928627/96913.m3u8
+#EXTINF:-1 tvg-id="nbc5wmc.us" tvg-name="US: NBC (WMC) Memphis Tennessee" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WMC) Memphis Tennessee
+http://mains.services:2086/live/nick5404/9928627/96914.m3u8
+#EXTINF:-1 tvg-id="nbc41wmgt.us" tvg-name="US: NBC (WMGT) Macon Georgia" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WMGT) Macon Georgia
+http://mains.services:2086/live/nick5404/9928627/96915.m3u8
+#EXTINF:-1 tvg-id="nbc15wmtv.us" tvg-name="US: NBC (WMTV-Madison WI)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WMTV-Madison WI)
+http://mains.services:2086/live/nick5404/9928627/90273.m3u8
+#EXTINF:-1 tvg-id="nbcwnbc.us" tvg-name="US: NBC (WNBC - New York NY)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WNBC - New York NY)
+http://mains.services:2086/live/nick5404/9928627/90429.m3u8
+#EXTINF:-1 tvg-id="nbc9wnbw.us" tvg-name="US: NBC (WNBW) Gainesville Florida" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WNBW) Gainesville Florida
+http://mains.services:2086/live/nick5404/9928627/96916.m3u8
+#EXTINF:-1 tvg-id="nbc16wndu.us" tvg-name="US: NBC (WNDU) South Bend Indiana" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WNDU) South Bend Indiana
+http://mains.services:2086/live/nick5404/9928627/96917.m3u8
+#EXTINF:-1 tvg-id="nbc24wnwo.us" tvg-name="US: NBC (WNWO) Toledo Ohio" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WNWO) Toledo Ohio
+http://mains.services:2086/live/nick5404/9928627/96918.m3u8
+#EXTINF:-1 tvg-id="nbc13wnyt.us" tvg-name="US: NBC (WNYT) Albany New York" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WNYT) Albany New York
+http://mains.services:2086/live/nick5404/9928627/96919.m3u8
+#EXTINF:-1 tvg-id="nbcwoai.us" tvg-name="US: NBC (WOAI San Antonio TX)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WOAI San Antonio TX)
+http://mains.services:2086/live/nick5404/9928627/90640.m3u8
+#EXTINF:-1 tvg-id="nbc8wood.us" tvg-name="US: NBC (WOOD) Grand Rapids Michigan" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WOOD) Grand Rapids Michigan
+http://mains.services:2086/live/nick5404/9928627/96920.m3u8
+#EXTINF:-1 tvg-id="nbc6wowt.us" tvg-name="US: NBC (WOWT) Omaha Nebraska" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WOWT) Omaha Nebraska
+http://mains.services:2086/live/nick5404/9928627/96921.m3u8
+#EXTINF:-1 tvg-id="nbc7wpbn.us" tvg-name="US: NBC (WPBN) Traverse City Michigan" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WPBN) Traverse City Michigan
+http://mains.services:2086/live/nick5404/9928627/96922.m3u8
+#EXTINF:-1 tvg-id="NBC.(WPMI).Mobile,.AL.us" tvg-name="US: NBC (WPMI) Mobile Alabama" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WPMI) Mobile Alabama
+http://mains.services:2086/live/nick5404/9928627/96923.m3u8
+#EXTINF:-1 tvg-id="nbc21wpta.us" tvg-name="US: NBC (WPTA) Fort Wayne Indiana" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WPTA) Fort Wayne Indiana
+http://mains.services:2086/live/nick5404/9928627/96924.m3u8
+#EXTINF:-1 tvg-id="nbc5wptv.us" tvg-name="US: NBC (WPTV) West Palm Beach Florida" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WPTV) West Palm Beach Florida
+http://mains.services:2086/live/nick5404/9928627/96925.m3u8
+#EXTINF:-1 tvg-id="nbcwptz.us" tvg-name="US: NBC (WPTZ) Plattsburgh New York" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WPTZ) Plattsburgh New York
+http://mains.services:2086/live/nick5404/9928627/96926.m3u8
+#EXTINF:-1 tvg-id="nbcwpxi.us" tvg-name="US: NBC (WPXI - Pittsburgh PA)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WPXI - Pittsburgh PA)
+http://mains.services:2086/live/nick5404/9928627/90430.m3u8
+#EXTINF:-1 tvg-id="nbc5wral.us" tvg-name="US: NBC (WRAL) Raleigh North Carolina" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WRAL) Raleigh North Carolina
+http://mains.services:2086/live/nick5404/9928627/96927.m3u8
+#EXTINF:-1 tvg-id="nbcwrc.us" tvg-name="US: NBC (WRC - Washington DC)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WRC - Washington DC)
+http://mains.services:2086/live/nick5404/9928627/90431.m3u8
+#EXTINF:-1 tvg-id="nbc3wrcb.us" tvg-name="US: NBC (WRCB) Chattanooga Tennessee" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WRCB) Chattanooga Tennessee
+http://mains.services:2086/live/nick5404/9928627/96928.m3u8
+#EXTINF:-1 tvg-id="nbc13wrex.us" tvg-name="US: NBC (WREX) Rockford Illinois" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WREX) Rockford Illinois
+http://mains.services:2086/live/nick5404/9928627/96929.m3u8
+#EXTINF:-1 tvg-id="nbc13wrgx.us" tvg-name="US: NBC (WRGX) Dothan Alabama" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WRGX) Dothan Alabama
+http://mains.services:2086/live/nick5404/9928627/96930.m3u8
+#EXTINF:-1 tvg-id="nbcwsaz.us" tvg-name="US: NBC (WSAZ) Huntington West Virginia" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WSAZ) Huntington West Virginia
+http://mains.services:2086/live/nick5404/9928627/96931.m3u8
+#EXTINF:-1 tvg-id="nbc12wsfa.us" tvg-name="US: NBC (WSFA- Montgomery/Selma AL)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WSFA- Montgomery/Selma AL)
+http://mains.services:2086/live/nick5404/9928627/90269.m3u8
+#EXTINF:-1 tvg-id="nbc10wsls.us" tvg-name="US: NBC (WSLS) Roanoke Virginia" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WSLS) Roanoke Virginia
+http://mains.services:2086/live/nick5404/9928627/96932.m3u8
+#EXTINF:-1 tvg-id="nbcwsmw.us" tvg-name="US: NBC (WSMV - Nashville TN)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WSMV - Nashville TN)
+http://mains.services:2086/live/nick5404/9928627/90432.m3u8
+#EXTINF:-1 tvg-id="nbcwsmw.us" tvg-name="US: NBC (WSMV) Nashville Tennessee" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WSMV) Nashville Tennessee
+http://mains.services:2086/live/nick5404/9928627/96933.m3u8
+#EXTINF:-1 tvg-id="nbc3wstm.us" tvg-name="US: NBC (WSTM) Syracuse" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WSTM) Syracuse
+http://mains.services:2086/live/nick5404/9928627/101286.m3u8
+#EXTINF:-1 tvg-id="nbc13wthr.us" tvg-name="US: NBC (WTHR - Indianapolis IN)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WTHR - Indianapolis IN)
+http://mains.services:2086/live/nick5404/9928627/90433.m3u8
+#EXTINF:-1 tvg-id="nbcwtlv.us" tvg-name="US: NBC (WTLV-Jacksonville FL)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WTLV-Jacksonville FL)
+http://mains.services:2086/live/nick5404/9928627/90268.m3u8
+#EXTINF:-1 tvg-id="nbcwtmj.us" tvg-name="US: NBC (WTMJ) Milwaukee Wisconsin" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WTMJ) Milwaukee Wisconsin
+http://mains.services:2086/live/nick5404/9928627/96934.m3u8
+#EXTINF:-1 tvg-id="nbc9wtov.us" tvg-name="US: NBC (WTOV) Steubenville Ohio" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WTOV) Steubenville Ohio
+http://mains.services:2086/live/nick5404/9928627/96935.m3u8
+#EXTINF:-1 tvg-id="nbc9wtva.us" tvg-name="US: NBC (WTVA - Tupelo MI)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WTVA - Tupelo MI)
+http://mains.services:2086/live/nick5404/9928627/101095.m3u8
+#EXTINF:-1 tvg-id="nbc6wtvj.us" tvg-name="US: NBC (WTVJ - Miami FL)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WTVJ - Miami FL)
+http://mains.services:2086/live/nick5404/9928627/90434.m3u8
+#EXTINF:-1 tvg-id="nbc40wtwc.us" tvg-name="US: NBC (WTWC) Tallahassee" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WTWC) Tallahassee
+http://mains.services:2086/live/nick5404/9928627/101285.m3u8
+#EXTINF:-1 tvg-id="nbc2wtwo.us" tvg-name="US: NBC (WTWO) Terre Haute Indiana" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WTWO) Terre Haute Indiana
+http://mains.services:2086/live/nick5404/9928627/96936.m3u8
+#EXTINF:-1 tvg-id="UNI.(WUVP).Philadelphia,.PA.us" tvg-name="US: NBC (WUVP) Vineland New Jersey" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WUVP) Vineland New Jersey
+http://mains.services:2086/live/nick5404/9928627/96937.m3u8
+#EXTINF:-1 tvg-id="nbc29wvir.us" tvg-name="US: NBC (WVIR) Charlottesville Virginia" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WVIR) Charlottesville Virginia
+http://mains.services:2086/live/nick5404/9928627/96938.m3u8
+#EXTINF:-1 tvg-id="nbc30wvit.us" tvg-name="US: NBC (WVIT- New Britain CT)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WVIT- New Britain CT)
+http://mains.services:2086/live/nick5404/9928627/90119.m3u8
+#EXTINF:-1 tvg-id="nbc33wvla.us" tvg-name="US: NBC (WVLA) Baton Rouge Louisiana" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WVLA) Baton Rouge Louisiana
+http://mains.services:2086/live/nick5404/9928627/96939.m3u8
+#EXTINF:-1 tvg-id="nbc13wvtm.us" tvg-name="US: NBC (WVTM) Birmingham Alabama" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WVTM) Birmingham Alabama
+http://mains.services:2086/live/nick5404/9928627/96940.m3u8
+#EXTINF:-1 tvg-id="nbc12wwbt.us" tvg-name="US: NBC (WWBT- Richmond/Petersburg VA)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WWBT- Richmond/Petersburg VA)
+http://mains.services:2086/live/nick5404/9928627/90264.m3u8
+#EXTINF:-1 tvg-id="nbc22wwlp.us" tvg-name="US: NBC (WWLP) Springfield Massachusetts" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WWLP) Springfield Massachusetts
+http://mains.services:2086/live/nick5404/9928627/96941.m3u8
+#EXTINF:-1 tvg-id="nbcwxia.us" tvg-name="US: NBC (WXIA - Atlanta GA)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WXIA - Atlanta GA)
+http://mains.services:2086/live/nick5404/9928627/90435.m3u8
+#EXTINF:-1 tvg-id="nbc12wxii.us" tvg-name="US: NBC (WXII) Winston Salem North Carolina" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png" group-title="USA NBC LOCALS",US: NBC (WXII) Winston Salem North Carolina
+http://mains.services:2086/live/nick5404/9928627/96942.m3u8
+#EXTINF:-1 tvg-id="NBC.(WXXV-TV2).Gulfport,.MS.us" tvg-name="US: NBC (WXXV) Gulfport Mississippi" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WXXV) Gulfport Mississippi
+http://mains.services:2086/live/nick5404/9928627/96943.m3u8
+#EXTINF:-1 tvg-id="nbc4wyff.us" tvg-name="US: NBC (WYFF - Greenville SC)" tvg-logo="http://mains.vip:2086/images/6ec4263715479b88d8278a321109d824.png" group-title="USA NBC LOCALS",US: NBC (WYFF - Greenville SC)
+http://mains.services:2086/live/nick5404/9928627/90666.m3u8
