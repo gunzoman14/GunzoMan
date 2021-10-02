@@ -812,3 +812,211 @@ http://mains.services:2086/live/nick5404/9928627/90235.m3u8
 http://mains.services:2086/live/nick5404/9928627/101290.m3u8
 #EXTINF:-1 tvg-id="cbs22wyou.us" tvg-name="US : CBS (WYOU) SCRANTON PENNSYLVANIA" tvg-logo="http://mains.vip:2086/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA CBS LOCALS",US : CBS (WYOU) SCRANTON PENNSYLVANIA
 http://mains.services:2086/live/nick5404/9928627/96798.m3u8
+#EXTINF:-1 tvg-id="foxkabb.us" tvg-name="US : FOX (KABB San Antonio)" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (KABB San Antonio)
+http://mains.services:2086/live/nick5404/9928627/100884.m3u8
+#EXTINF:-1 tvg-id="fox58kbfx.us" tvg-name="US : FOX (KBFX) Bakersfield" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (KBFX) Bakersfield
+http://mains.services:2086/live/nick5404/9928627/101315.m3u8
+#EXTINF:-1 tvg-id="fox28kbvu.us" tvg-name="US : FOX (KBVU) Eureka" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (KBVU) Eureka
+http://mains.services:2086/live/nick5404/9928627/101316.m3u8
+#EXTINF:-1 tvg-id="fox35kcba.us" tvg-name="US : FOX (KCBA California Salinas)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (KCBA California Salinas)
+http://mains.services:2086/live/nick5404/9928627/90657.m3u8
+#EXTINF:-1 tvg-id="fox14kcit.us" tvg-name="US : FOX (KCIT) Amarillo" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (KCIT) Amarillo
+http://mains.services:2086/live/nick5404/9928627/101318.m3u8
+#EXTINF:-1 tvg-id="FOX.(KCPQ).Tacoma,.WA.us" tvg-name="US : FOX (KCPQ -Seattle WA)" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (KCPQ -Seattle WA)
+http://mains.services:2086/live/nick5404/9928627/90385.m3u8
+#EXTINF:-1 tvg-id="foxkdfw.us" tvg-name="US : FOX (KDFI) DALLAS FORT WORTH" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (KDFI) DALLAS FORT WORTH
+http://mains.services:2086/live/nick5404/9928627/100051.m3u8
+#EXTINF:-1 tvg-id="foxkdfw.us" tvg-name="US : FOX (KDFW - Dallas TX)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (KDFW - Dallas TX)
+http://mains.services:2086/live/nick5404/9928627/90386.m3u8
+#EXTINF:-1 tvg-id="fox31kdvr.us" tvg-name="US : FOX (KDVR - Denver CO)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (KDVR - Denver CO)
+http://mains.services:2086/live/nick5404/9928627/90387.m3u8
+#EXTINF:-1 tvg-id="fox14kfox.us" tvg-name="US : FOX (KFOX) El Paso" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (KFOX) El Paso
+http://mains.services:2086/live/nick5404/9928627/101317.m3u8
+#EXTINF:-1 tvg-id="fox24kfta.us" tvg-name="US : FOX (KFTA Arkansas Fort Smith)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (KFTA Arkansas Fort Smith)
+http://mains.services:2086/live/nick5404/9928627/90651.m3u8
+#EXTINF:-1 tvg-id="fox24kfta.us" tvg-name="US : FOX (KFTA Fort Smith AR)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (KFTA Fort Smith AR)
+http://mains.services:2086/live/nick5404/9928627/90667.m3u8
+#EXTINF:-1 tvg-id="FOX.(KFXA).Cedar.Rapids,.IA.us" tvg-name="US : FOX (KFXA) Cedar Rapids" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (KFXA) Cedar Rapids
+http://mains.services:2086/live/nick5404/9928627/101311.m3u8
+#EXTINF:-1 tvg-id="fox67kfxv.us" tvg-name="US : FOX (KFXK TYLER TX)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (KFXK TYLER TX)
+http://mains.services:2086/live/nick5404/9928627/90630.m3u8
+#EXTINF:-1 tvg-id="FOX.(KFYR-DT2).Bismarck,.ND.us" tvg-name="US : FOX (KFYR-DT) Bismarck" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (KFYR-DT) Bismarck
+http://mains.services:2086/live/nick5404/9928627/101304.m3u8
+#EXTINF:-1 tvg-id="fox18kljb.us" tvg-name="US : FOX (KLJB Davenport IA)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (KLJB Davenport IA)
+http://mains.services:2086/live/nick5404/9928627/90628.m3u8
+#EXTINF:-1 tvg-id="foxkmsp.us" tvg-name="US : FOX (KMSP - St. Paul Minneapolis MN)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (KMSP - St. Paul Minneapolis MN)
+http://mains.services:2086/live/nick5404/9928627/90388.m3u8
+#EXTINF:-1 tvg-id="fox33kmss.us" tvg-name="US : FOX (KMSS Shreveport LA)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (KMSS Shreveport LA)
+http://mains.services:2086/live/nick5404/9928627/100775.m3u8
+#EXTINF:-1 tvg-id="fox13kstu.us" tvg-name="US : FOX (KMYU) SALT LAKE CITY" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (KMYU) SALT LAKE CITY
+http://mains.services:2086/live/nick5404/9928627/100049.m3u8
+#EXTINF:-1 tvg-id="fox9knin.us" tvg-name="US : FOX (KNIN Caldwell)" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (KNIN Caldwell)
+http://mains.services:2086/live/nick5404/9928627/101049.m3u8
+#EXTINF:-1 tvg-id="fox25kokh.us" tvg-name="US : FOX (KOKH -  Oklahoma City OK)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (KOKH -  Oklahoma City OK)
+http://mains.services:2086/live/nick5404/9928627/90389.m3u8
+#EXTINF:-1 tvg-id="fox42kptm.us" tvg-name="US : FOX (KPTM) Omaha" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (KPTM) Omaha
+http://mains.services:2086/live/nick5404/9928627/101309.m3u8
+#EXTINF:-1 tvg-id="FOX.(KRBK).Osage.Beach,.MO.us" tvg-name="US : FOX (KRBK - OSAGE BEACH)" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (KRBK - OSAGE BEACH)
+http://mains.services:2086/live/nick5404/9928627/100881.m3u8
+#EXTINF:-1 tvg-id="foxkriv.us" tvg-name="US : FOX (KRIV - Houston TX)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (KRIV - Houston TX)
+http://mains.services:2086/live/nick5404/9928627/90390.m3u8
+#EXTINF:-1 tvg-id="FOX.(KRQE-DT2).Albuqerque,.NM.us" tvg-name="US : FOX (KRQE Albuquerque NM)" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (KRQE Albuquerque NM)
+http://mains.services:2086/live/nick5404/9928627/100074.m3u8
+#EXTINF:-1 tvg-id="fox24ksas.us" tvg-name="US : FOX (KSAS) Wichita" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (KSAS) Wichita
+http://mains.services:2086/live/nick5404/9928627/101313.m3u8
+#EXTINF:-1 tvg-id="fox10ksaz.us" tvg-name="US : FOX (KSAZ - Phoenix AZ)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (KSAZ - Phoenix AZ)
+http://mains.services:2086/live/nick5404/9928627/90391.m3u8
+#EXTINF:-1 tvg-id="fox7ktbc.us" tvg-name="US : FOX (KTBC- Austin TX)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (KTBC- Austin TX)
+http://mains.services:2086/live/nick5404/9928627/90136.m3u8
+#EXTINF:-1 tvg-id="FOX.(KTTV).Los.Angeles,.CA.us" tvg-name="US : FOX (KTTV- Los Angeles CA)" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (KTTV- Los Angeles CA)
+http://mains.services:2086/live/nick5404/9928627/90116.m3u8
+#EXTINF:-1 tvg-id="FOX.(KTTW).Sioux.Falls,.SD.us" tvg-name="US : FOX (KTTW) Sioux Falls" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (KTTW) Sioux Falls
+http://mains.services:2086/live/nick5404/9928627/101306.m3u8
+#EXTINF:-1 tvg-id="fox2ktvi.us" tvg-name="US : FOX (KTVI- St. Louis MO)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (KTVI- St. Louis MO)
+http://mains.services:2086/live/nick5404/9928627/90393.m3u8
+#EXTINF:-1 tvg-id="FOX.(KTVU).San.Francisco,.CA.us" tvg-name="US : FOX (KTVU- Bay Area CA)" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (KTVU- Bay Area CA)
+http://mains.services:2086/live/nick5404/9928627/90140.m3u8
+#EXTINF:-1 tvg-id="foxkriv.us" tvg-name="US : FOX (KTXH) HOUSTON" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (KTXH) HOUSTON
+http://mains.services:2086/live/nick5404/9928627/100050.m3u8
+#EXTINF:-1 tvg-id="foxktxl.us" tvg-name="US : FOX (KTXL California Sacramento)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (KTXL California Sacramento)
+http://mains.services:2086/live/nick5404/9928627/90655.m3u8
+#EXTINF:-1 tvg-id="foxkvvu.us" tvg-name="US : FOX (KVVU-Las Vegas NV)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (KVVU-Las Vegas NV)
+http://mains.services:2086/live/nick5404/9928627/90394.m3u8
+#EXTINF:-1 tvg-id="fox21kxrm.us" tvg-name="US : FOX (KXRM) Colorado Springs" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (KXRM) Colorado Springs
+http://mains.services:2086/live/nick5404/9928627/101310.m3u8
+#EXTINF:-1 tvg-id="fox54wzdx.us" tvg-name="US : FOX (MY WZDX Huntsville AL)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (MY WZDX Huntsville AL)
+http://mains.services:2086/live/nick5404/9928627/90633.m3u8
+#EXTINF:-1 tvg-id="fox57wach.us" tvg-name="US : FOX (WACH - Columbia South Carolina)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (WACH - Columbia South Carolina)
+http://mains.services:2086/live/nick5404/9928627/99441.m3u8
+#EXTINF:-1 tvg-id="foxwaga.us" tvg-name="US : FOX (WAGA - Atlanta GA)" tvg-logo="http://p2086.securepoint.io:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WAGA - Atlanta GA)
+http://mains.services:2086/live/nick5404/9928627/90395.m3u8
+#EXTINF:-1 tvg-id="fox10wala.us" tvg-name="US : FOX (WALA) Mobile" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WALA) Mobile
+http://mains.services:2086/live/nick5404/9928627/101307.m3u8
+#EXTINF:-1 tvg-id="foxwbff.us" tvg-name="US : FOX (WBFF- Baltimore MD)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (WBFF- Baltimore MD)
+http://mains.services:2086/live/nick5404/9928627/90396.m3u8
+#EXTINF:-1 tvg-id="fox6wbrc.us" tvg-name="US : FOX (WBRC Birmingham AL)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (WBRC Birmingham AL)
+http://mains.services:2086/live/nick5404/9928627/90632.m3u8
+#EXTINF:-1 tvg-id="FOX.(WDAF).Kansas.City,.MO.us" tvg-name="US : FOX (WDAF) Kansas City Missouri" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WDAF) Kansas City Missouri
+http://mains.services:2086/live/nick5404/9928627/96799.m3u8
+#EXTINF:-1 tvg-id="FOX.(WDBD).Jackson,.MS.us" tvg-name="US : FOX (WDBD) Jackson Mississippi" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WDBD) Jackson Mississippi
+http://mains.services:2086/live/nick5404/9928627/96800.m3u8
+#EXTINF:-1 tvg-id="FOX.(WDKY).Lexington,.KY.us" tvg-name="US : FOX (WDKY) Lexington" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WDKY) Lexington
+http://mains.services:2086/live/nick5404/9928627/101305.m3u8
+#EXTINF:-1 tvg-id="FOX.(WDRB).Louisville,.KY.us" tvg-name="US : FOX (WDRB) Louisville Kentucky" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WDRB) Louisville Kentucky
+http://mains.services:2086/live/nick5404/9928627/96801.m3u8
+#EXTINF:-1 tvg-id="fox44wfff.us" tvg-name="US : FOX (WFFF) Burlington Vermont" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WFFF) Burlington Vermont
+http://mains.services:2086/live/nick5404/9928627/96802.m3u8
+#EXTINF:-1 tvg-id="fox55wfft.us" tvg-name="US : FOX (WFFT) Fort Wayne Indiana" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WFFT) Fort Wayne Indiana
+http://mains.services:2086/live/nick5404/9928627/96803.m3u8
+#EXTINF:-1 tvg-id="fox32wfld.us" tvg-name="US : FOX (WFLD - Chicago IL)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (WFLD - Chicago IL)
+http://mains.services:2086/live/nick5404/9928627/90397.m3u8
+#EXTINF:-1 tvg-id="FOX.(WFLX).West.Palm.Beach,.FL.us" tvg-name="US : FOX (WFLX) West Palm Beach Florida" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WFLX) West Palm Beach Florida
+http://mains.services:2086/live/nick5404/9928627/96804.m3u8
+#EXTINF:-1 tvg-id="FOX.(WFOX).Jacksonville,.FL.us" tvg-name="US : FOX (WFOX) Jacksonville Florida" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WFOX) Jacksonville Florida
+http://mains.services:2086/live/nick5404/9928627/96805.m3u8
+#EXTINF:-1 tvg-id="FOX.(WFTX).Cape.Coral,.FL.us" tvg-name="US : FOX (WFTX) Cape Coral Florida" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WFTX) Cape Coral Florida
+http://mains.services:2086/live/nick5404/9928627/96806.m3u8
+#EXTINF:-1 tvg-id="FOX.(WFXB).Lumberton,.NC.us" tvg-name="US : FOX (WFXB) Myrtle Beach South Carolina" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WFXB) Myrtle Beach South Carolina
+http://mains.services:2086/live/nick5404/9928627/96807.m3u8
+#EXTINF:-1 tvg-id="FOX.(WFXG).Augusta,.GA.us" tvg-name="US : FOX (WFXG) Augusta Georgia" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WFXG) Augusta Georgia
+http://mains.services:2086/live/nick5404/9928627/96808.m3u8
+#EXTINF:-1 tvg-id="fox27wfxr.us" tvg-name="US : FOX (WFXR) Roanoke Virginia" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WFXR) Roanoke Virginia
+http://mains.services:2086/live/nick5404/9928627/96809.m3u8
+#EXTINF:-1 tvg-id="fox25wfxt.us" tvg-name="US : FOX (WFXT- Boston MA)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (WFXT- Boston MA)
+http://mains.services:2086/live/nick5404/9928627/90398.m3u8
+#EXTINF:-1 tvg-id="fox55wrsp.us" tvg-name="US : FOX (WGGB) Springfield Massachusetts" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WGGB) Springfield Massachusetts
+http://mains.services:2086/live/nick5404/9928627/96810.m3u8
+#EXTINF:-1 tvg-id="FOX.(WGHP).Greensboro,.NC.us" tvg-name="US : FOX (WGHP) High Point North Carolina" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WGHP) High Point North Carolina
+http://mains.services:2086/live/nick5404/9928627/96811.m3u8
+#EXTINF:-1 tvg-id="FOX.(WGMB-TV).Baton.Rouge,.LA.us" tvg-name="US : FOX (WGMB) Baton Rouge Louisiana" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WGMB) Baton Rouge Louisiana
+http://mains.services:2086/live/nick5404/9928627/96812.m3u8
+#EXTINF:-1 tvg-id="FOX.(WHBQ).Memphis,.TN.us" tvg-name="US : FOX (WHBQ) Memphis Tennessee" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WHBQ) Memphis Tennessee
+http://mains.services:2086/live/nick5404/9928627/96813.m3u8
+#EXTINF:-1 tvg-id="fox14wydo.us" tvg-name="US : FOX (WHNS Greenville SC)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (WHNS Greenville SC)
+http://mains.services:2086/live/nick5404/9928627/90665.m3u8
+#EXTINF:-1 tvg-id="foxwiti.us" tvg-name="US : FOX (WITI Milwaukee WI)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (WITI Milwaukee WI)
+http://mains.services:2086/live/nick5404/9928627/90664.m3u8
+#EXTINF:-1 tvg-id="foxwjbk.us" tvg-name="US : FOX (WJBK- Detroit MI)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (WJBK- Detroit MI)
+http://mains.services:2086/live/nick5404/9928627/90399.m3u8
+#EXTINF:-1 tvg-id="foxwjw.us" tvg-name="US : FOX (WJW CLEVELAND)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (WJW CLEVELAND)
+http://mains.services:2086/live/nick5404/9928627/91060.m3u8
+#EXTINF:-1 tvg-id="foxwjzy.us" tvg-name="US : FOX (WJZY -Charlotte NC/SC)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (WJZY -Charlotte NC/SC)
+http://mains.services:2086/live/nick5404/9928627/90400.m3u8
+#EXTINF:-1 tvg-id="FOX.(WLAX).La.Crosse,.WI.us" tvg-name="US : FOX (WLAX) La Crosse Wisconsin" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WLAX) La Crosse Wisconsin
+http://mains.services:2086/live/nick5404/9928627/96814.m3u8
+#EXTINF:-1 tvg-id="fox11wluk.us" tvg-name="US : FOX (WLUK) Green Bay" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WLUK) Green Bay
+http://mains.services:2086/live/nick5404/9928627/101312.m3u8
+#EXTINF:-1 tvg-id="fox64wnac.us" tvg-name="US : FOX (WNAC) Providence Rhode Island" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WNAC) Providence Rhode Island
+http://mains.services:2086/live/nick5404/9928627/96815.m3u8
+#EXTINF:-1 tvg-id="foxwnyw.us" tvg-name="US : FOX (WNYW - New York NY)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (WNYW - New York NY)
+http://mains.services:2086/live/nick5404/9928627/90401.m3u8
+#EXTINF:-1 tvg-id="foxwofl.us" tvg-name="US : FOX (WOFL- Orlando FL)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (WOFL- Orlando FL)
+http://mains.services:2086/live/nick5404/9928627/90139.m3u8
+#EXTINF:-1 tvg-id="fox51wogx.us" tvg-name="US : FOX (WOGX- Gainesville/Ocala FL)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (WOGX- Gainesville/Ocala FL)
+http://mains.services:2086/live/nick5404/9928627/90132.m3u8
+#EXTINF:-1 tvg-id="foxwpgh.us" tvg-name="US : FOX (WPGH-Pittsburgh PA )" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (WPGH-Pittsburgh PA )
+http://mains.services:2086/live/nick5404/9928627/90402.m3u8
+#EXTINF:-1 tvg-id="FOX.(WPMT).Harrisburg,.PA.us" tvg-name="US : FOX (WPMT) York Pennsylvania" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WPMT) York Pennsylvania
+http://mains.services:2086/live/nick5404/9928627/96816.m3u8
+#EXTINF:-1 tvg-id="my50wpwr.us" tvg-name="US : FOX (WPWR - Chicago IL)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (WPWR - Chicago IL)
+http://mains.services:2086/live/nick5404/9928627/99365.m3u8
+#EXTINF:-1 tvg-id="FOX.(WRAZ).Raleigh-Durham,.NC.us" tvg-name="US : FOX (WRAZ) Raleigh North Carolina" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WRAZ) Raleigh North Carolina
+http://mains.services:2086/live/nick5404/9928627/96817.m3u8
+#EXTINF:-1 tvg-id="foxwofl.us" tvg-name="US : FOX (WRBW) Orlando" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WRBW) Orlando
+http://mains.services:2086/live/nick5404/9928627/101301.m3u8
+#EXTINF:-1 tvg-id="fox35wrlh.us" tvg-name="US : FOX (WRLH) Richmond" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WRLH) Richmond
+http://mains.services:2086/live/nick5404/9928627/101300.m3u8
+#EXTINF:-1 tvg-id="fox55wrsp.us" tvg-name="US : FOX (WRSP) Springfield" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WRSP) Springfield
+http://mains.services:2086/live/nick5404/9928627/101314.m3u8
+#EXTINF:-1 tvg-id="FOX.(WSVN).Miami,.FL.us" tvg-name="US : FOX (WSVN- Miami FL)" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WSVN- Miami FL)
+http://mains.services:2086/live/nick5404/9928627/90403.m3u8
+#EXTINF:-1 tvg-id="FOX.(WSYM).Lansing,.MI.us" tvg-name="US : FOX (WSYM) Lansing Michigan" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WSYM) Lansing Michigan
+http://mains.services:2086/live/nick5404/9928627/96818.m3u8
+#EXTINF:-1 tvg-id="FOX.(WSYT).Syracuse,.NY.us" tvg-name="US : FOX (WSYT) Syracuse New York" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WSYT) Syracuse New York
+http://mains.services:2086/live/nick5404/9928627/96819.m3u8
+#EXTINF:-1 tvg-id="FOX.(WTAT).Charleston,.SC.us" tvg-name="US : FOX (WTAT) Charleston South Carolina" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WTAT) Charleston South Carolina
+http://mains.services:2086/live/nick5404/9928627/96820.m3u8
+#EXTINF:-1 tvg-id="fox61wtic.us" tvg-name="US : FOX (WTIC HARTFORD CT)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (WTIC HARTFORD CT)
+http://mains.services:2086/live/nick5404/9928627/91152.m3u8
+#EXTINF:-1 tvg-id="Fox.(WTNZ).Knoxville,.TN.us" tvg-name="US : FOX (WTNZ) Knoxville Tennessee" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WTNZ) Knoxville Tennessee
+http://mains.services:2086/live/nick5404/9928627/96821.m3u8
+#EXTINF:-1 tvg-id="fox28wsyxdt3.us" tvg-name="US : FOX (WTTE) Columbus" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WTTE) Columbus
+http://mains.services:2086/live/nick5404/9928627/101303.m3u8
+#EXTINF:-1 tvg-id="foxwttg.us" tvg-name="US : FOX (WTTG - Washington D.C)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (WTTG - Washington D.C)
+http://mains.services:2086/live/nick5404/9928627/90404.m3u8
+#EXTINF:-1 tvg-id="fox9wtvcdt.us" tvg-name="US : FOX (WTVC-DT) Chattanooga" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WTVC-DT) Chattanooga
+http://mains.services:2086/live/nick5404/9928627/101308.m3u8
+#EXTINF:-1 tvg-id="foxwtvt.us" tvg-name="US : FOX (WTVT- Tampa/St. Petersburg FL)" tvg-logo="http://p2086.securepoint.io:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WTVT- Tampa/St. Petersburg FL)
+http://mains.services:2086/live/nick5404/9928627/90130.m3u8
+#EXTINF:-1 tvg-id="FOX.(WTWC-DT2).Tallahassee,.FL.us" tvg-name="US : FOX (WTWC-DT) Tallahassee" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WTWC-DT) Tallahassee
+http://mains.services:2086/live/nick5404/9928627/101302.m3u8
+#EXTINF:-1 tvg-id="foxwtxf.us" tvg-name="US : FOX (WTXF - Philadelphia PA)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (WTXF - Philadelphia PA)
+http://mains.services:2086/live/nick5404/9928627/90405.m3u8
+#EXTINF:-1 tvg-id="FOX.(WUPW).Toledo,.OH.us" tvg-name="US : FOX (WUPW) Toledo Ohio" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WUPW) Toledo Ohio
+http://mains.services:2086/live/nick5404/9928627/96822.m3u8
+#EXTINF:-1 tvg-id="foxwnyw.us" tvg-name="US : FOX (WUTV Buffalo NY)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (WUTV Buffalo NY)
+http://mains.services:2086/live/nick5404/9928627/91138.m3u8
+#EXTINF:-1 tvg-id="fox43wvbt.us" tvg-name="US : FOX (WVBT) Virginia Beach Virginia" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (WVBT) Virginia Beach Virginia
+http://mains.services:2086/live/nick5404/9928627/95278.m3u8
+#EXTINF:-1 tvg-id="foxwvue.us" tvg-name="US : FOX (WVUE - New Orleans LA)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (WVUE - New Orleans LA)
+http://mains.services:2086/live/nick5404/9928627/90406.m3u8
+#EXTINF:-1 tvg-id="FOX.(WWCP).Johnstown,.PA.us" tvg-name="US : FOX (WWCP) Johnstown Pennsylvania" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WWCP) Johnstown Pennsylvania
+http://mains.services:2086/live/nick5404/9928627/96823.m3u8
+#EXTINF:-1 tvg-id="fox59wxin.us" tvg-name="US : FOX (WXIN - Indianapolis IN)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (WXIN - Indianapolis IN)
+http://mains.services:2086/live/nick5404/9928627/90407.m3u8
+#EXTINF:-1 tvg-id="foxwxix.us" tvg-name="US : FOX (WXIX - Cincinnati OH)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (WXIX - Cincinnati OH)
+http://mains.services:2086/live/nick5404/9928627/90408.m3u8
+#EXTINF:-1 tvg-id="FOX.(WXMI).Grand.Rapids,.MI.us" tvg-name="US : FOX (WXMI) Grand Rapids Michigan" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WXMI) Grand Rapids Michigan
+http://mains.services:2086/live/nick5404/9928627/96824.m3u8
+#EXTINF:-1 tvg-id="FOX.(WXTX).Columbus,.GA.us" tvg-name="US : FOX (WXTX) Columbus Georgia" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WXTX) Columbus Georgia
+http://mains.services:2086/live/nick5404/9928627/96825.m3u8
+#EXTINF:-1 tvg-id="fox23wxxa.us" tvg-name="US : FOX (WXXA) Albany" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WXXA) Albany
+http://mains.services:2086/live/nick5404/9928627/95522.m3u8
+#EXTINF:-1 tvg-id="fox62wyfx.us" tvg-name="US : FOX (WYFX) Youngstown Ohio" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WYFX) Youngstown Ohio
+http://mains.services:2086/live/nick5404/9928627/96826.m3u8
+#EXTINF:-1 tvg-id="fox43wyzz.us" tvg-name="US : FOX (WYZZ) Bloomington Illinois" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WYZZ) Bloomington Illinois
+http://mains.services:2086/live/nick5404/9928627/96827.m3u8
+#EXTINF:-1 tvg-id="fox54wzdx.us" tvg-name="US : FOX (WZDX - Huntsville AL)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA FOX LOCALS",US : FOX (WZDX - Huntsville AL)
+http://mains.services:2086/live/nick5404/9928627/90409.m3u8
+#EXTINF:-1 tvg-id="FOX.(WZTV).Nashville,.TN.us" tvg-name="US : FOX (WZTV - Nashville TN)" tvg-logo="http://mains.vip:2086/images/f1616c5c9bafbb5c4ace89b309d6d2c4.png" group-title="USA FOX LOCALS",US : FOX (WZTV - Nashville TN)
+http://mains.services:2086/live/nick5404/9928627/90410.m3u8
