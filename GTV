@@ -47,7 +47,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:AXN.smil/chunklist_
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AMC.us.png",USA AMC
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:AMC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AMC.us.png",USA AMC
-http://cloudcdn.tk:80/5JRipeY4TM/Xyl87hDd2c/13104
+http://clientportal.link:80/PHajR4o7/DKB4V60/13104
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/amgtv-profile_image-3653a525cf68628f-300x300.png",USA AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.pluto.tv/channels/5e7cf6608c805600078872f2/colorLogoPNG.png",USA AWE
@@ -123,7 +123,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:CARTOON.smil/playli
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/CBSKREX.us.png",USA CBS 4 WFOR MIAMI
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:CBS.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cbs-news-us.png",US: CBSN News HD
-http://cloudcdn.tk:80/5JRipeY4TM/Xyl87hDd2c/18184
+http://clientportal.link:80/live/PHajR4o7/DKB4V60/18184.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/CBC.ca.png",CA CBC Toronto
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:CBC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Cinemax.us.png",CINEMAX (EAST) - US
@@ -172,8 +172,6 @@ http://ky-iptv.com:25461/dennis1/dennis1/176250
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:DISNEY_JR.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyXD.us.png",USA Disney XD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:DISNEYXD.smil/playlist.m3u8
-#EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://download.logo.wine/logo/Disney%2B/Disney%2B-Logo.wine.png",USA Disney + HD
-http://ay32.aatvbox.club:8880/wh24m2122/TeEfz2hUKN/60230
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/125px-Ducktv-logo.jpg",DUCK TV
 https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png",USA DISCOVERY CHANNEL HD
@@ -181,7 +179,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:DISCOVERY.smil/playli
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/in/DiscoveryKids.in.png",ARG: Discovery Kids FHD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:DISCOVERY_KIDS.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/discovery-family-us.png",USA Discovery Family
-http://cloudcdn.tk:80/5JRipeY4TM/Xyl87hDd2c/23424
+http://clientportal.link:80/live/PHajR4o7/DKB4V60/23424.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/InvestigationDiscovery.us.png",USA Investigation Discovery East LHD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:INVESTIGATION_DISCOVERY.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/il/DoItYourself.il.png",USA DIY Network
@@ -209,7 +207,7 @@ http://ky-iptv.com:25461/dennis1/dennis1/175816
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/FoodNetwork.us.png",USA Food Network
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:FOOD_NETWORK.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:-1,Carib RecipeTV
-http://ky-iptv.com:25461/Butcher/Butcher/499807
+http://ky-iptv.com:25461/dennis1/dennis1/499807
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/FOXWXIX.us.png",USA FOX 7 WSVN MIAMI
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOX.smil/chunklist_b1160000.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/FoxNews.us.png",USA Fox News Channel UHD
@@ -367,7 +365,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:STARZ_K&F.smil/playli
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzComedy.us.png",USA Starz Comedy East
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:STARZ_COMEDY.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzComedy.us.png",USA Starz Comedy East
-http://cloudcdn.tk:80/5JRipeY4TM/Xyl87hDd2c/33947
+http://ay32.aatvbox.club:8880/wh24m2122/TeEfz2hUKN/29497
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png",ARG: STUDIO UNIVERSAL HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:STUDIO_UNIVERSAL.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Syfy.us.png",USA Syfy East
@@ -411,21 +409,21 @@ http://ky-iptv.com:25461/Butcher/Butcher/190010
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/beINSports.us.png",USA BeIN SPORTS HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:BEIN_SPORTS.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/beINSports.us.png",USA BeIN SPORTS HD
-http://cloudcdn.tk:80/5JRipeY4TM/Xyl87hDd2c/15002
+http://clientportal.link:80/live/PHajR4o7/DKB4V60/15002.m3u8
 #EXTINF:-1 group-title="Unsorted" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",USA beIN Sports LHD
-http://cloudcdn.tk:80/5JRipeY4TM/Xyl87hDd2c/22157
+http://clientportal.link:80/live/PHajR4o7/DKB4V60/22157.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/beINSports.us.png",USA beIN Sports LHD
 http://peak.rickflare.link:80/Famtv/JKM120611/675.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/boxnation.jpg",UK Box Nation HD
 http://ky-iptv.com:25461/dennis1/dennis1/189910
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/uk/BoxNation.uk.png",UK Box Nation HD
-http://cloudcdn.tk:80/5JRipeY4TM/Xyl87hDd2c/4010
+http://clientportal.link:80/live/PHajR4o7/DKB4V60/4010.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsport1.jpg",UK BT Sports 1
-http://cloudcdn.tk:80/live/5JRipeY4TM/Xyl87hDd2c/3586.m3u8
+http://clientportal.link:80/live/PHajR4o7/DKB4V60/3586.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",UK BT Sports 1 FHD
 http://ky-iptv.com:25461/Butcher/Butcher/174235
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png",UK BT Sports 1 FHD
-http://cloudcdn.tk:80/5JRipeY4TM/Xyl87hDd2c/14657
+http://clientportal.link:80/live/PHajR4o7/DKB4V60/14657.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png",BT SPORTS 1
 http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/14657.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://p.kindpng.com/picc/s/23-238823_bt-sport-2-logo-hd-png-download.png",UK BT Sports 2
@@ -433,7 +431,7 @@ http://ky-iptv.com:25461/dennis1/dennis1/174237
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://p.kindpng.com/picc/s/23-238823_bt-sport-2-logo-hd-png-download.png",UK BT Sports 2
 http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/1992.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://ewsat.com/img/BT_SPORT_2.png",UK BT Sports 2
-http://cloudcdn.tk:80/5JRipeY4TM/Xyl87hDd2c/3588
+http://clientportal.link:80/live/PHajR4o7/DKB4V60/3588.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsport3hd.jpg",UK BT Sports 3
 http://ky-iptv.com:25461/Butcher/Butcher/174239
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsport3.jpg",UK BT Sports 3
@@ -447,7 +445,7 @@ http://ky-iptv.com:25461/dennis1/dennis1/174241
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsportespn.jpg",UK BT Sports ESPN
 http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/2673.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/cbbssportsnetworkus.jpg",USA CBS Sports Network
-http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/10347
+http://clientportal.link:80/live/PHajR4o7/DKB4V60/10347.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",USA CBS Sports Network
 http://ky-iptv.com:25461/dennis1/dennis1/176607
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",USA CBS Sports Network
@@ -459,11 +457,11 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:ESPN_CARIBBEAN.smil
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",USA ESPN SD
 http://we.caughtyousnooping.club:80/Famtv/JKM120611/725
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://1000logos.net/wp-content/uploads/2017/01/ESPN-Logo.png",USA ESPN SD
-http://cloudcdn.tk:80/5JRipeY4TM/Xyl87hDd2c/9023
+http://clientportal.link:80/live/PHajR4o7/DKB4V60/9023.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN2.us.png",USA ESPN 2
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ESPN2_CARIBBEAN.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN2.us.png",USA ESPN 2
-http://cloudcdn.tk:80/5JRipeY4TM/Xyl87hDd2c/9022
+http://clientportal.link:80/live/PHajR4o7/DKB4V60/9022.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN2.us.png",USA ESPN 2
 http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/9022.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPNNews.us.png",USA ESPN NEWS HD
@@ -471,11 +469,11 @@ http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/19637.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPNU.us.png",USA ESPN U HD
 http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/18190.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPNU.us.png",USA ESPN U HD
-http://cloudcdn.tk:80/5JRipeY4TM/Xyl87hDd2c/18190
+http://clientportal.link:80/live/PHajR4o7/DKB4V60/18190.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg",UK EuroSport 1 HD
 http://ky-iptv.com:25461/dennis1/dennis1/391450
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg",UK EuroSport 2 FHD
-http://cloudcdn.tk:80/5JRipeY4TM/Xyl87hDd2c/13092
+http://clientportal.link:80/live/PHajR4o7/DKB4V60/13092.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/flow-sports-car.png",Carib: Flow Sports
 http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/26261.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/flow-sports-car.png",Carib: Flow Sports
@@ -483,9 +481,9 @@ http://we.caughtyousnooping.club:80/Famtv/JKM120611/2199
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/flow-sports-car.png",Flow Sports Premier (RUSH) HD US
 http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/26263.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/flow-sports-car.png",Flow Sports Premier (RUSH) HD US
-http://cloudcdn.tk:80/5JRipeY4TM/Xyl87hDd2c/26263
+http://clientportal.link:80/live/PHajR4o7/DKB4V60/26263.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",Movistar Formula 1 HD
-http://cloudcdn.tk:80/5JRipeY4TM/Xyl87hDd2c/5445
+http://clientportal.link:80/live/PHajR4o7/DKB4V60/5445.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg",UK Sky Sports F1
 http://ky-iptv.com:25461/Butcher/Butcher/174259
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-f1-icon-uk.png?raw=true",UK Sky Sports F1
@@ -493,15 +491,15 @@ http://iptv.tvmalaysia.cc:80/penang062/penang062/6617
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/FoxSports1.us.png",USA FOX SPORTS 1 HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOXSPORTS1.smil/playlist.m3u8
 #EXTINF:-1,USA FOX SPORTS 1 HD
-http://cloudcdn.tk:80/5JRipeY4TM/Xyl87hDd2c/9031
+http://clientportal.link:80/live/PHajR4o7/DKB4V60/9031.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/FoxSports2.us.png",USA FOX SPORTS 2 HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOXSPORTS2.smil/playlist.m3u8
 #EXTINF:-1,USA FOX SPORTS 2 HD
-http://cloudcdn.tk:80/5JRipeY4TM/Xyl87hDd2c/9030
+http://clientportal.link:80/live/PHajR4o7/DKB4V60/9030.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://ky-iptv.com:25461/images/e8ccb8684a90849a67cab859f50e6c96.png",USA FOX Soccer Plus LHD
-http://cloudcdn.tk:80/5JRipeY4TM/Xyl87hDd2c/18675
+http://clientportal.link:80/live/PHajR4o7/DKB4V60/18675.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",MLB NETWORKS
-http://cloudcdn.tk:80/5JRipeY4TM/Xyl87hDd2c/10699
+http://clientportal.link:80/live/PHajR4o7/DKB4V60/10699.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBCSNWashington.us.png",USA NBCSN HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NBCSPORTS.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBCSNWashington.us.png",USA NBCSN HD
@@ -515,11 +513,11 @@ http://ky-iptv.com:25461/dennis1/dennis1/176175
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png",USA NFL Network
 http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/9077.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/olympic-channel-us.png",US: OLYMPIC CHANNEL | HD
-http://cloudcdn.tk:80/5JRipeY4TM/Xyl87hDd2c/18850
+http://clientportal.link:80/live/PHajR4o7/DKB4V60/18850.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/olympic-channel-us.png",US: OLYMPIC CHANNEL | HD
 http://we.caughtyousnooping.club:80/Famtv/JKM120611/829
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/olympic-channel-us.png",US: OLYMPIC CHANNEL | HD
-http://cloudcdn.tk:80/5JRipeY4TM/Xyl87hDd2c/18850
+http://mains.services:2086/nick5404/9928627/14975
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.logolynx.com/images/logolynx/2b/2b52c6b9bf43351da5d3e38a626c6997.jpeg",PRO SPORTS
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:PRO_SPORTS.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/1M4zMdC.png",Sky Sports Racing HD
@@ -545,21 +543,21 @@ http://ky-iptv.com:25461/SNNM258/355665786/499827
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/jamaica/sportsmax-2-hz-jm.png",Carib Sports Max2
 http://ky-iptv.com:25461/dennis1/dennis1/499828
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-golf-icon-uk.png?raw=true",Sky Sports Golf HD
-http://cloudcdn.tk:80/5JRipeY4TM/Xyl87hDd2c/14654
+http://clientportal.link:80/live/PHajR4o7/DKB4V60/14654.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/SEC_Network_Logo.png",USA ESPN SEC NETWORK HD
-http://cloudcdn.tk:80/5JRipeY4TM/Xyl87hDd2c/18175
+http://clientportal.link:80/live/PHajR4o7/DKB4V60/18175.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsactionuk.jpg",UK Sky Sports Action
 http://ky-iptv.com:25461/Butcher/Butcher/174254
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsnewshqhd.jpg",UK Sky Sports NEWS
-http://cloudcdn.tk:80/5JRipeY4TM/Xyl87hDd2c/1954
+http://clientportal.link:80/live/PHajR4o7/DKB4V60/1954.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsfootballuk.jpg",UK Sky Sports Football
-http://cloudcdn.tk:80/5JRipeY4TM/Xyl87hDd2c/16970
+http://mains.services:2086/nick5404/9928627/67057
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/twMKgz9.png",UK Sky Sports Football
-http://cloudcdn.tk:80/5JRipeY4TM/Xyl87hDd2c/20024
+http://mains.services:2086/nick5404/9928627/67057
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportscricketuk.jpg",UK Sky Sports Cricket
-http://cloudcdn.tk:80/5JRipeY4TM/Xyl87hDd2c/14652
+http://clientportal.link:80/PHajR4o7/DKB4V60/14750
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmaineventuk.jpg",UK Sky Sports Main Events
-http://cloudcdn.tk:80/5JRipeY4TM/Xyl87hDd2c/14651
+http://clientportal.link:80/PHajR4o7/DKB4V60/14651
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",UK Sky Sports Premier League 
 http://ky-iptv.com:25461/Butcher/Butcher/174272
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-premier-league-za.jpg",SuperSport Premier League HD ZA
@@ -567,11 +565,11 @@ http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/28896.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg",SuperSport LaLiga HD ZA
 http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/28895.m3u8
 #EXTINF:-1,beIN LaLiga HD US
-http://cloudcdn.tk:80/5JRipeY4TM/Xyl87hDd2c/32747
+http://mains.services:2086/nick5404/9928627/99199
 #EXTINF:-1,SuperSport LaLiga HD ZA
 http://ky-iptv.com:25461/Butcher/Butcher/388185
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/TennisChannel.us.png",USA Tennis Channel
-http://cloudcdn.tk:80/5JRipeY4TM/Xyl87hDd2c/18386
+http://ay32.aatvbox.club:8880/wh24m2122/TeEfz2hUKN/3082
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://d6u22qyv3ngwz.cloudfront.net/ad/AMwV/tennis-channel-plus-over-100-hours-small-2.jpg",Tennis Channel+
 http://channels227070.clientportal.link:80/PHajR4o7/DKB4V60/18386
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",USA S Tennis
@@ -585,9 +583,9 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:WILLOW.smil/playlist.
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/w3eLKLw.png" group-title="USA PLEX",IMPACT Wrestling 
 https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",USA WWE NETWORK 
-http://cloudcdn.tk:80/5JRipeY4TM/Xyl87hDd2c/16572
+http://clientportal.link:80/live/PHajR4o7/DKB4V60/16572.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",USA WWE NETWORK 
-http://cloudcdn.tk:80/5JRipeY4TM/Xyl87hDd2c/16572
+http://ay32.aatvbox.club:8880/wh24m2122/TeEfz2hUKN/3083
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/ufcfightpassus.jpg",UFC Fight Pass HD US
 http://clientportal.link:80/PHajR4o7/DKB4V60/18170
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",USA UFC Network
@@ -597,15 +595,17 @@ http://ky-iptv.com:25461/dennis1/dennis1/1040222
 #EXTINF:-1 group-title="● CLASSICS" tvg-logo="http://011011011.com:8080/images/5c2d7d6a0f9f4aa5fd9fee5d14163cd2.jpg",24/7 Sanford and Son
 http://reliablestreamz.com:826/live/R31eynold/mqMItRdVNJ/99897.m3u8
 #EXTINF:-1 group-title="Unsorted" tvg-logo="Logo N/A",24/7: Tom And Jerry 
-http://cloudcdn.tk:80/5JRipeY4TM/Xyl87hDd2c/40823
+http://clientportal.link:80/live/PHajR4o7/DKB4V60/40823.m3u8
 #EXTINF:-1,RADIO: GOSPEL FM (JAMAICA)
 http://mains.services:2086/live/nick5404/9928627/101144.m3u8
 #EXTINF:-1,RADIO: CARIBBEAN HOT FM
 http://mains.services:2086/live/nick5404/9928627/48015.m3u8
-#EXTINF:-1 group-title="Unsorted" tvg-logo="Logo N/A",RADIO ACTIVA
-http://streamserver.ml:7002/stream/1/
-#EXTINF:-1 group-title="Unsorted" tvg-logo="Logo N/A",RADIO
-https://n06.radiojar.com/6pz06e8nv4zuv
+#EXTINF:-1,MC Radio | Hit List
+http://ky-iptv.com:25461/dennis1/dennis1/1574602
+#EXTINF:-1,MC Radio | Love Songs
+http://ky-iptv.com:25461/dennis1/dennis1/1574610
+#EXTINF:-1,MC Radio | Reggae
+http://ky-iptv.com:25461/dennis1/dennis1/1574629
 #EXTINF:-1,Gospel (Music Choice)
 http://edge-audio-03-gos2.sharp-stream.com/premiergospellow.mp3.m3u
 #EXTINF:-1,Music Videos 4
