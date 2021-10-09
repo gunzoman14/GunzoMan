@@ -84,7 +84,7 @@ http://ky-iptv.com:25461/Butcher/Butcher/499446
 http://ky-iptv.com:25461/live/Butcher/Butcher/177077.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="http://xtream-coders.com/x0/entertainment/bet_soul.png",USA BET SOUL
 http://ky-iptv.com:25461/live/Butcher/Butcher/177078.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="LoopHipHopEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yW7WCPm.png" group-title="US Channels",Roku: US: Loop Hip-Hop East
+#EXTINF:-1 group-title="Music" tvg-id="LoopHipHopEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yW7WCPm.png" group-title="US Channels",US: Loop Hip-Hop East
 https://loop-hip-hop-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.pngfind.com/pngs/m/165-1655043_retro-tv-png-transparent-png.png",RETRO TV MUSIC
 http://stream.mediawork.cz:1935/retrotv/retrotvHQ1/chunklist_w1328169946.m3u8
@@ -308,7 +308,7 @@ http://bamus-eng-roku.amagi.tv/playlist.m3u8
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/xTdXfGJ.png",MagellanTV NOW
 https://magellantv-1.vizio.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Xplore.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjU5MDAzNDRf/Xplore_307x307.png" group-title="US Channels",Roku: US: Xplore
+#EXTINF:-1 tvg-id="Xplore.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjU5MDAzNDRf/Xplore_307x307.png" group-title="US Channels",US: Xplore
 https://xplore-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/Newsmax.us.png",USA: NEWSMAX
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
@@ -410,7 +410,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:ZEETV.smil/playlist
 http://ky-iptv.com:25461/Butcher/Butcher/1101242
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://picon-13398.kxcdn.com/starplus.jpg",UK Star Plus (Utsav Plus)
 http://ky-iptv.com:25461/Butcher/Butcher/190010
-#EXTINF:-1 group-title="GAMERS" tvg-id="VENN.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zVoX1fM.jpg" group-title="US Channels",Roku: US: VENN
+#EXTINF:-1 group-title="GAMERS" tvg-id="VENN.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zVoX1fM.jpg" group-title="US Channels",US: VENN
 https://venntv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/beINSports.us.png",USA BeIN SPORTS HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:BEIN_SPORTS.smil/playlist.m3u8
