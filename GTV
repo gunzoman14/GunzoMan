@@ -57,7 +57,7 @@ http://we.caughtyousnooping.club:80/Famtv/JKM120611/3670
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://d2pggiv3o55wnc.cloudfront.net/awe/wp-content/uploads/2015/09/AWELogoBlk.jpg",USA AWE
 http://n1.klowdtv.net/live1/awe_720p/chunks.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/gWOqTZg.png",People are Awesome
-https://jukin-peopleareawesome-1.vizio.wurl.com/manifest/playlist.m3u8
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac65911406400078b8993/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=bd89af6a-97e2-413e-8be3-888c0ba6d814&clientModelNumber=na&deviceDNT=false&deviceId=bd89af6a-97e2-413e-8be3-888c0ba6d814&deviceLat=17.9898&deviceLon=-92.9478&deviceMake=Safari&deviceModel=web&deviceType=web&deviceVersion=12.5&marketingRegion=VE&serverSideAds=true&sessionID=3729f924-b279-11eb-9c37-0242ac110002&sid=3729f924-b279-11eb-9c37-0242ac110002&userId=
 #EXTINF:-1 group-title="Anime" tvg-logo="http://images.pluto.tv/channels/5be4c6311843b56328bce619/colorLogoPNG.png",Anime All Ages
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="Anime" tvg-logo="http://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png",Anime All Day
@@ -163,7 +163,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:WPIX.smil/playlist.m3
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/Cp24.ca.png",CA CP24 HD
 http://we.caughtyousnooping.club:80/Famtv/JKM120611/1439
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://static.epg.best/in/AndPrive.in.png",IN: &Prive
-https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
+http://mains.services:2086/live/nick5404/9928627/91908.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://static.epg.best/in/AndFlix.in.png",IN: &Flix
 http://ky-iptv.com:25461/Butcher/Butcher/769971
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/destination-america-us.png",USA Destination America FHD
@@ -202,6 +202,8 @@ http://we.caughtyousnooping.club:80/Famtv/JKM120611/161
 http://ky-iptv.com:25461/Butcher/Butcher/176030
 #EXTINF:-1,USA EPIX2
 http://we.caughtyousnooping.club:80/Famtv/JKM120611/162
+#EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/epix-hits-us.png",USA Epix Hits UHD
+http://ky-iptv.com:25461/EbPn6h7mQM/zpS5rS2kxP/176029
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/epix-hits-us.png",USA Epix Hits UHD
 http://we.caughtyousnooping.club:80/Famtv/JKM120611/164
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cooking-channel-us.png",USA Cooking Channel
@@ -313,7 +315,7 @@ https://magellantv-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Xplore.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjU5MDAzNDRf/Xplore_307x307.png" group-title="US Channels",US: Xplore
 https://xplore-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/Newsmax.us.png",USA: NEWSMAX
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+http://ky-iptv.com:25461/EbPn6h7mQM/zpS5rS2kxP/391595
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nbc_hd.jpg",USA NBC 6 WTVJ MIAMI
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NBC.smil/chunklist_b1160000_slen.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://static.epg.best/us/MTV.us.png",USA MTV East UHD
@@ -429,11 +431,11 @@ http://clientportal.link:80/live/PHajR4o7/DKB4V60/4010.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsport1.jpg",UK BT Sports 1
 http://clientportal.link:80/live/PHajR4o7/DKB4V60/3586.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",UK BT Sports 1 FHD
-http://ky-iptv.com:25461/Butcher/Butcher/174235
+http://ky-iptv.com:25461/EbPn6h7mQM/zpS5rS2kxP/174235
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png",UK BT Sports 1 FHD
-http://clientportal.link:80/live/PHajR4o7/DKB4V60/14657.m3u8
+http://channels227070.clientportal.link:80/PHajR4o7/DKB4V60/14657
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png",BT SPORTS 1
-http://channels227070.clientportal.link:80/live/PHajR4o7/DKB4V60/14657.m3u8
+http://channels227070.clientportal.link:80/PHajR4o7/DKB4V60/1991
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://p.kindpng.com/picc/s/23-238823_bt-sport-2-logo-hd-png-download.png",UK BT Sports 2
 http://ky-iptv.com:25461/Butcher/Butcher/174237
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://p.kindpng.com/picc/s/23-238823_bt-sport-2-logo-hd-png-download.png",UK BT Sports 2
@@ -604,6 +606,8 @@ http://ky-iptv.com:25461/Butcher/Butcher/1040222
 http://reliablestreamz.com:826/live/R31eynold/mqMItRdVNJ/99897.m3u8
 #EXTINF:-1 group-title="Unsorted" tvg-logo="Logo N/A",24/7: Tom And Jerry 
 http://clientportal.link:80/live/PHajR4o7/DKB4V60/40823.m3u8
+#EXTINF:-1,USA MC Radio Gospel
+http://ky-iptv.com:25461/EbPn6h7mQM/zpS5rS2kxP/1568020
 #EXTINF:-1,RADIO: GOSPEL FM (JAMAICA)
 http://mains.services:2086/live/nick5404/9928627/101144.m3u8
 #EXTINF:-1,RADIO: CARIBBEAN HOT FM
