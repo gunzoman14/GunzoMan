@@ -467,7 +467,7 @@ https://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",USA ESPN HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:ESPN_CARIBBEAN.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",USA ESPN SD
-http://we.caughtyousnooping.club:80/Famtv/JKM120611/725
+http://kstv.xyz:8080/live/Beloved/4162435117/15951.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://1000logos.net/wp-content/uploads/2017/01/ESPN-Logo.png",USA ESPN SD
 http://clientportal.link:80/live/PHajR4o7/DKB4V60/9023.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN2.us.png",USA ESPN 2
