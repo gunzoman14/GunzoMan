@@ -517,7 +517,7 @@ http://kstv.xyz:8080/live/Beloved/4162435117/23315.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",MLB NETWORKS
 http://kstv.xyz:8080/live/Beloved/4162435117/15904.m3u8
 #EXTINF:-1,USA MSG
-http://kstv.xyz:8080/live/Beloved/4162435117/23290.m3u8
+http://gooserace.xyz:80/play/QZAI2LpjhTfmWopEa6D2n0V2HbCXDbbgV-ktYlpQ8v0/ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBCSNWashington.us.png",USA NBCSN HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NBCSPORTS.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBCSNWashington.us.png",USA NBCSN HD
