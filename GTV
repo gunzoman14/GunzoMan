@@ -598,6 +598,22 @@ http://ky-iptv.com:25461/Lisa789/robley30/1019733
 http://mains.services:2086/nick5404/9928627/99199
 #EXTINF:-1,SuperSport LaLiga HD ZA
 http://ky-iptv.com:25461/SNNM258/355665786/388185
+#EXTINF:-1 group-title="NEWS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/Euronews.png",PT: EURONEWS
+http://www.pandar.tv:25461/DeljNdicpAQLgPR/fzePc9LttuIwpvs/95361
+#EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",PT: SPORT TV
+http://www.pandar.tv:25461/DeljNdicpAQLgPR/fzePc9LttuIwpvs/95407
+#EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",PT: SPORT TV 1
+http://www.pandar.tv:25461/DeljNdicpAQLgPR/fzePc9LttuIwpvs/95410
+#EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",PT: SPORT TV 2
+http://www.pandar.tv:25461/DeljNdicpAQLgPR/fzePc9LttuIwpvs/95412
+#EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",PT: SPORT TV 3
+http://www.pandar.tv:25461/DeljNdicpAQLgPR/fzePc9LttuIwpvs/95413
+#EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",PT: SPORT TV 4
+http://www.pandar.tv:25461/DeljNdicpAQLgPR/fzePc9LttuIwpvs/95415
+#EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",PT: SPORT TV 5
+http://www.pandar.tv:25461/DeljNdicpAQLgPR/fzePc9LttuIwpvs/95416
+#EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/NBA_TV_HD.png",PT: NBA TV
+http://www.pandar.tv:25461/DeljNdicpAQLgPR/fzePc9LttuIwpvs/95417
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/TennisChannel.us.png",USA Tennis Channel
 http://ay32.aatvbox.club:8880/wh24m2122/TeEfz2hUKN/3082
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://d6u22qyv3ngwz.cloudfront.net/ad/AMwV/tennis-channel-plus-over-100-hours-small-2.jpg",Tennis Channel+
