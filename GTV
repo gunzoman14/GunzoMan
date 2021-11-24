@@ -181,7 +181,7 @@ http://ky-iptv.com:25461/SNNM258/355665786/769971
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="ENTERTAINMENT-MOVIE",&flix
 https://snehz5tv.herokuapp.com?c=0-9-channel_2105335046
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://static.epg.best/in/AndPrive.in.png",IN: &Prive
-http://mains.services:2086/live/nick5404/9928627/91908.m3u8
+http://mains.services:2086/live/Bernadette/12345/91908.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/destination-america-us.png",USA Destination America FHD
 http://kstv.xyz:8080/live/Beloved/4162435117/23201.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyChannel.us.png",USA Disney Channel
@@ -217,11 +217,11 @@ http://kstv.xyz:8080/live/Beloved/4162435117/23325.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/epix-2-us.png",USA EPIX2
 http://ky-iptv.com:25461/SNNM258/355665786/176030
 #EXTINF:-1,USA EPIX2
-http://mains.services:2086/live/nick5404/9928627/42473.m3u8
+http://mains.services:2086/live/Bernadette/12345/42473.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/epix-hits-us.png",USA Epix Hits UHD
 http://ky-iptv.com:25461/SNNM258/355665786/176029
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/epix-hits-us.png",USA Epix Hits UHD
-http://mains.services:2086/live/nick5404/9928627/14941.m3u8
+http://mains.services:2086/live/Bernadette/12345/14941.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cooking-channel-us.png",USA Cooking Channel
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:COOKING.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cooking-channel-us.png",USA Cooking Channel
@@ -521,7 +521,7 @@ http://ky-iptv.com:25461/Lisa789/robley30/388228
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg",UK Sky Sports F1
 http://kstv.us:8080/live/Beloved/4162435117/1402.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-f1-icon-uk.png?raw=true",UK Sky Sports F1
-http://mains.services:2086/nick5404/9928627/101046
+http://mains.services:2086/Bernadette/12345/101046
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/FoxSports1.us.png",USA FOX SPORTS 1 HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOXSPORTS1.smil/playlist.m3u8
 #EXTINF:-1,USA FOX SPORTS 1 HD
@@ -553,21 +553,21 @@ http://kstv.xyz:8080/live/Beloved/4162435117/22491.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/olympic-channel-us.png",US: OLYMPIC CHANNEL | HD
 http://ky-iptv.com:25461/live/SNNM258/355665786/220440.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/olympic-channel-us.png",US: OLYMPIC CHANNEL | HD
-http://mains.services:2086/live/nick5404/9928627/14975.m3u8
+http://mains.services:2086/live/Bernadette/12345/14975.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/olympic-channel-us.png",US: OLYMPIC CHANNEL | HD
-http://mains.services:2086/nick5404/9928627/14975
+http://mains.services:2086/Bernadette/12345/14975
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.logolynx.com/images/logolynx/2b/2b52c6b9bf43351da5d3e38a626c6997.jpeg",PRO SPORTS
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:PRO_SPORTS.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/1M4zMdC.png",Sky Sports Racing HD
-http://mains.services:2086/nick5404/9928627/47763
+http://mains.services:2086/Bernadette/12345/47763
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/ae/DubaiRacing.ae.png",RACING TV
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://uspto.report/TM/90108722/mark.png",SKILLS+THRILLS
 https://ab821aa1fe744f529fcd833dd8e5ed41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SkillsAndThrills/playlist.m3u8?ads.wurl_channel=590&ads.wurl_name=SkillsAndThrills&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=5f74cf7effbe690040689f3e&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="https://picon-13398.kxcdn.com/supersport-golf-za.jpg",SuperSport Golf HD ZA
-http://mains.services:2086/nick5404/9928627/99288
+http://mains.services:2086/Bernadette/12345/99288
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="https://picon-13398.kxcdn.com/skysportsgolfuk.jpg",Sky Sports Golf HD UK
-http://mains.services:2086/nick5404/9928627/67059
+http://mains.services:2086/Bernadette/12345/67059
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="https://picon-13398.kxcdn.com/tsn1ca.jpg",TSN 1 HD UK
 http://ky-iptv.com:25461/Lisa789/robley30/182183
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="https://picon-13398.kxcdn.com/golfchannel.jpg",USA Golf LHD
@@ -595,7 +595,7 @@ http://ky-iptv.com:25461/Lisa789/robley30/174269
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsfootballuk.jpg",UK Sky Sports Football
 http://kstv.xyz:8080/live/Beloved/4162435117/12407.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/twMKgz9.png",UK Sky Sports Football
-http://mains.services:2086/nick5404/9928627/67057
+http://mains.services:2086/Bernadette/12345/67057
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportscricketuk.jpg",UK Sky Sports Cricket
 http://ky-iptv.com:25461/Lisa789/robley30/174257
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmaineventuk.jpg",UK Sky Sports Main Events
@@ -609,33 +609,33 @@ http://kstv.xyz:8080/live/Beloved/4162435117/1399.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg",SuperSport LaLiga HD ZA
 http://ky-iptv.com:25461/Lisa789/robley30/1019733
 #EXTINF:-1,beIN LaLiga HD US
-http://mains.services:2086/nick5404/9928627/99199
+http://mains.services:2086/Bernadette/12345/99199
 #EXTINF:-1,SuperSport LaLiga HD ZA
 http://ky-iptv.com:25461/SNNM258/355665786/388185
 #EXTINF:-1 group-title="NEWS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/Euronews.png",PT: EURONEWS
 http://606tv1.com:8080/hdemirci15/24062021adg@/197184
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",PT: SPORT TV +
-http://mains.services:2086/live/nick5404/9928627/92122.m3u8
+http://mains.services:2086/live/Bernadette/12345/92122.m3u8
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",PT: SPORT TV 1
-http://mains.services:2086/nick5404/9928627/92132
+http://mains.services:2086/Bernadette/12345/92132
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",PT: SPORT TV 1
 http://vstreams.tv:2082/Sandokan78/QHFU7gz7wa/1170913
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",PT: SPORT TV 2
-http://mains.services:2086/nick5404/9928627/92133
+http://mains.services:2086/Bernadette/12345/92133
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",PT: SPORT TV 2
 http://vstreams.tv:2082/Sandokan78/QHFU7gz7wa/1170914
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",PT: SPORT TV 3
-http://mains.services:2086/nick5404/9928627/92134
+http://mains.services:2086/Bernadette/12345/92134
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",PT: SPORT TV 3
 http://vstreams.tv:2082/live/Sandokan78/QHFU7gz7wa/1170915.m3u8
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",PT: SPORT TV 4
-http://mains.services:2086/nick5404/9928627/92135
+http://mains.services:2086/Bernadette/12345/92135
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",PT: SPORT TV 4
 http://vstreams.tv:2082/Sandokan78/QHFU7gz7wa/1170917
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",PT: SPORT TV 5
 http://ay32.aatvbox.club:8880/live/wh12m8988/3dqGTZyJET/3188.m3u8
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/NBA_TV_HD.png",PT: NBA TV
-http://mains.services:2086/live/nick5404/9928627/92125.m3u8
+http://mains.services:2086/live/Bernadette/12345/92125.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/TennisChannel.us.png",USA Tennis Channel
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/204550.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://d6u22qyv3ngwz.cloudfront.net/ad/AMwV/tennis-channel-plus-over-100-hours-small-2.jpg",Tennis Channel+
@@ -673,9 +673,9 @@ http://ky-iptv.com:25461/live/SNNM258/355665786/1002166.m3u8
 #EXTINF:-1,USA MC Radio Gospel
 http://ky-iptv.com:25461/SNNM258/355665786/1568020
 #EXTINF:-1,RADIO: GOSPEL FM (JAMAICA)
-http://mains.services:2086/live/nick5404/9928627/101144.m3u8
+http://mains.services:2086/live/Bernadette/12345/101144.m3u8
 #EXTINF:-1,RADIO: CARIBBEAN HOT FM
-http://mains.services:2086/live/nick5404/9928627/48015.m3u8
+http://mains.services:2086/live/Bernadette/12345/48015.m3u8
 #EXTINF:-1,MC Radio | Hit List
 http://ky-iptv.com:25461/SNNM258/355665786/1574602
 #EXTINF:-1,US: MC Hip Hop & R&B HD
