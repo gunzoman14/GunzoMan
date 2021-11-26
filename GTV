@@ -201,7 +201,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:DISCOVERY.smil/playli
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/in/DiscoveryKids.in.png",ARG: Discovery Kids FHD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:DISCOVERY_KIDS.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/discovery-family-us.png",USA Discovery Family
-http://ky-iptv.com:25461/Lisa789/robley30/175828
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:DISCOVERY_FAMILY.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/InvestigationDiscovery.us.png",USA Investigation Discovery East LHD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:INVESTIGATION_DISCOVERY.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/il/DoItYourself.il.png",USA DIY Network
