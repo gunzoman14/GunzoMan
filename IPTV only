@@ -16,6 +16,8 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:GAYELLE.smil/chunkl
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TRINITY_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/Islamic_Broadcasting_Network.png",CAR: IBN (ISLAMIC BROADCASTING NETWORK)
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:IBN.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpICVPCvO9km2iUiHAKuJwzvo9blM5mdOR3IvblD0hsQ78g0OBsK0KZtEeJ8n66W-9zP0&usqp=CAU",CAR: PARLIAMENT CHANNEL
+http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:PARLIAMENT.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQldL1eHXjoBoM-kJSCDI4tVjubQiR0BBqHdjM3RGbOW6Z1zONeBlTYXG6TuQArTnAdjJQ&usqp=CAU",Carib: MCTV Caribbean
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:MCTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="http://ky-iptv.com:25461/images/8d0ca1f4e8add76ca70b5b064205f340.jpg",USA EWTN
@@ -24,6 +26,8 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:EWTN.smil/playlist.
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:JAAGRITI.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://www.livenewsworld.com/wp-content/uploads/2018/11/Trinity-Broadcasting-Network.png",USA TBN
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:TBN.smil/playlist.m3u8
+#EXTINF:-1,KTLA
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:KTLA.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://3abn.org/img/3abn-ogg.png",US: 3ABN English 
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:3ABN.smil/chunklist_b2160000.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="http://www.netsportmedia.com/wp-content/uploads/2019/03/CBN-400x250.png",USA CBN 
@@ -506,7 +510,7 @@ http://ky-iptv.com:25461/Lisa789/robley30/1401743
 http://ky-iptv.com:25461/SNNM258/355665786/391450
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg",UK EuroSport 2 FHD
 http://ky-iptv.com:25461/Lisa789/robley30/174251
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/flow-sports-car.png",Carib: Flow Sports
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/flow-sports-car.png",Carib Flow Sports
 http://ky-iptv.com:25461/Lisa789/robley30/499731
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/flow-sports-car.png",Carib: Flow Sports
 http://ky-iptv.com:25461/Lisa789/robley30/499731
