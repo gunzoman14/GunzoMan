@@ -184,6 +184,8 @@ http://606tv1.com:8080/hdemirci15/24062021adg@/193635
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:COZI_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/CTVToronto.ca.png",CA CTV News Channel
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:CTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://ultraxplaytv.com:8000/images/0b473ed51b9d5470e30044b4a1fd3db3.png",US:CW NEW YORK
+http://148.72.177.7:8000/IptvToolsReestreamdeluxe/XUVZ9D9JKF/171348
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/KOMUCW.us.png",US: CW 18 WVTV MILWAUKEE
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:WPIX.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/KOMUCW.us.png",US: CW 18 WVTV MILWAUKEE
@@ -455,6 +457,8 @@ http://606tv1.com:8080/hdemirci15/24062021adg@/193421
 #EXTINF:-1 group-title="Unsorted" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",USA beIN Sports LHD
 http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/1436
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/boxnation.jpg",UK Box Nation HD
+http://148.72.177.7:8000/IptvToolsReestreamdeluxe/XUVZ9D9JKF/171459
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/boxnation.jpg",UK Box Nation HD
 http://gooserace.xyz:80/play/QZAI2LpjhTfmWopEa6D2n8cqOLFaa_qYb_yLKlSJXRc/ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/uk/BoxNation.uk.png",UK Box Nation HD
 http://vstreams.tv:2082/live/Sandokan78/QHFU7gz7wa/1000911.m3u8
@@ -659,13 +663,15 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:WILLOW.smil/playlist.
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/w3eLKLw.png" group-title="USA PLEX",IMPACT Wrestling 
 https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",USA WWE NETWORK 
-http://gooserace.xyz:80/play/QZAI2LpjhTfmWopEa6D2n5zgIEiV4gt2hYeg3YiawTk/ts
+http://148.72.177.7:8000/IptvToolsReestreamdeluxe/XUVZ9D9JKF/144344
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",USA WWE NETWORK 
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/149364.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/ufcfightpassus.jpg",UFC Fight Pass HD US
 http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/33937
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",USA UFC Network
 http://gooserace.xyz:80/play/QZAI2LpjhTfmWopEa6D2nxApTPfmkPKFWFkJabpVzLM/ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://westfaironline.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-01-at-10.49.41-AM.png",USA YES NETWORK
+http://148.72.177.7:8000/IptvToolsReestreamdeluxe/XUVZ9D9JKF/146532
 #EXTINF:-1 group-title="● CLASSICS" tvg-logo="http://011011011.com:8080/images/5c2d7d6a0f9f4aa5fd9fee5d14163cd2.jpg",24/7 Sanford and Son
 http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/163827
 #EXTINF:-1 group-title="● CLASSICS" tvg-logo="http://011011011.com:8080/images/5c2d7d6a0f9f4aa5fd9fee5d14163cd2.jpg",24/7 Sanford and Son
