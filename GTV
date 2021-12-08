@@ -298,7 +298,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAXUP.smil/playlist
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAX_PRIME.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png",HBO MUDI
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAX_CARIBBEAN.smil/playlist.m3u8
-#EXTINF:-1 group-title="Bollywood" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tt-ietv-channel-1.jpg",Carib IETV
+#EXTINF:-1 group-title="Bollywood" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tt-ietv-channel-1.jpg",Carib: IETV (T&amp;T)
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:IETV.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/IndependentFilmChannel.us.png",USA: IFC
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:IFC.smil/playlist.m3u8
