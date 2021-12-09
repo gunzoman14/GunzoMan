@@ -531,6 +531,8 @@ http://gooserace.xyz:80/play/QZAI2LpjhTfmWopEa6D2n95n0Y7L4-lYK4QkYKPjndo/ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",Movistar Formula 1 HD
 http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/159086
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg",Sky Sports F1 HD
+http://pro-unibox.com:25461/EG/Italy1/520
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg",Sky Sports F1 HD
 http://kstv.us:8080/live/Beloved/4162435117/1402.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-f1-icon-uk.png?raw=true",Sky Sports F1 HD
 http://mains.services:2086/Bernadette/12345/101046
@@ -613,9 +615,13 @@ http://mains.services:2086/Bernadette/12345/67057
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportscricketuk.jpg",Sky Sports Cricket HD
 http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/120334
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmaineventuk.jpg",Sky Sports Main Event HD
+http://pro-unibox.com:25461/EG/Italy1/518
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmaineventuk.jpg",Sky Sports Main Event HD
 http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/120341
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmixhd.jpg",Sky Sports Mix HD
 http://kstv.xyz:8080/live/Beloved/4162435117/1328.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",Sky Sports Premier League HD
+http://pro-unibox.com:25461/EG/Italy1/519
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",Sky Sports Premier League HD 
 http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/120348
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-premier-league-za.jpg",SuperSport Premier League HD ZA
