@@ -494,8 +494,6 @@ http://kstv.xyz:8080/live/Beloved/4162435117/15944.m3u8
 http://kstv.xyz:8080/live/Beloved/4162435117/15944.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",SPORTS: CBS Sports Network
 https://cbsshg09-cbsshg09-ms.global.ssl.fastly.net/cbss54g2/master/cbss54g2_7.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://ep1.pinkbike.org/files/logo/directory/11000/11032_original.jpg",Cycle World
-https://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",SPORTS: ESPN
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:ESPN_CARIBBEAN.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",SPORTS: ESPN
@@ -569,7 +567,7 @@ http://gooserace.xyz:80/play/QZAI2LpjhTfmWopEa6D2nzU-qNW8fr6sSqQNTfkEH6M/ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/olympic-channel-us.png",SPORTS: Olympic Channel
 http://mains.services:2086/live/Bernadette/12345/14975.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/olympic-channel-us.png",SPORTS: Olympic Channel
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/1750
+http://ky-tv.cc:25461/David59459/2354545444/220440
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.logolynx.com/images/logolynx/2b/2b52c6b9bf43351da5d3e38a626c6997.jpeg",PRO SPORTS
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:PRO_SPORTS.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/1M4zMdC.png",Sky Sports Racing HD
@@ -597,7 +595,7 @@ http://ky-tv.cc:25461/live/David59459/2354545444/1771404.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://scheduler.sportsmax.tv/img/sm1.png",Carib: SportsMax 1
 http://ky-tv.cc:25461/live/David59459/2354545444/1771405.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/jamaica/sportsmax-2-hz-jm.png",Carib: SportsMax 2
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/208204.ts
+http://ky-tv.cc:25461/David59459/2354545444/1771405
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/jamaica/sportsmax-2-hz-jm.png",Carib: SportsMax 2
 http://ay32.aatvbox.club:8880/wh12m8988/3dqGTZyJET/59529
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-golf-icon-uk.png?raw=true",Sky Sports Golf HD
