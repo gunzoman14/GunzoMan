@@ -1,15 +1,15 @@
 #EXTINF:-1,#EXTM3U
 #EXTM3U x-tvg-url="http://ky-iptv.com:25461/xmltv.php?username=godmode1&password=godmode1&type=m3u_plus&output=m3u8"
 #EXTINF:-1 ,Carib: CNC3
-http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR-vYXbTTAqThb54plgO5FRc/m3u8
+http://qqtv.nl:8080/live/dj2014/dj2014/272995.m3u8
 #EXTINF:-1 ,Carib: TTT
-http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYRxg6YmpaO5WxPdLuFHevvJo/m3u8
+http://qqtv.nl:8080/dj2014/dj2014/154428
 #EXTINF:-1 ,Carib: CCN TV6
-http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR8w1nG_WR3RG_zDkyKt0BbI/m3u8
+http://qqtv.nl:8080/dj2014/dj2014/154450
 #EXTINF:-1 ,Carib: Synergy
-http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR09EFeDWQY2bFPhmrVLNkxc/m3u8
+http://qqtv.nl:8080/live/dj2014/dj2014/272996.m3u8
 #EXTINF:-1 ,Carib: Gayelle The Caribbean
-http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYRwBpGLw1VcBtmODdpM_cKjA/m3u8
+http://qqtv.nl:8080/live/dj2014/dj2014/413873.m3u8
 #EXTINF:-1 group-title="USA News" tvg-logo="http://ky-iptv.com:80/images/7e2384ce24600c6354c4e75d244b4348.png",USA CNN
 http://ky-iptv.com:80/godmode1/godmode1/174347.ts
 #EXTINF:-1 group-title="USA News" tvg-logo="http://ky-iptv.com:80/images/bde326ea3aa9e5dffbc8cd63180bb937.png",USA Fox News Channel
