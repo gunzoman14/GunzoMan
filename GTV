@@ -46,15 +46,15 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ANIMAL_PLANET.smil/
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://xtream-coders.com/x0/entertainment/axstv.png",..AXS TV
 http://ky-iptv.com:80/play/XSY-CczQY1D-RKa7eGqqp1UmxDUCY08FeRuKzejCXlXtsdeoNS_UwiaVYZp10ke_/m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/pt/AXN.pt.png",CRO: AXN ADRIA
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/pt/AXN.pt.png",PT: AXN HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:AXN.smil/chunklist_b2500000_slen.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/pt/AXN.pt.png",CRO: AXN ADRIA
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/pt/AXN.pt.png",PT: AXN HD
 http://ky-tv.cc:25461/live/David59459/2354545444/499676.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AMC.us.png",..AMC HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:AMC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AMC.us.png",..AMC HD
 http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/82717
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/amgtv-profile_image-3653a525cf68628f-300x300.png",USA: AMG TV
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvG9Hg_GVNZCDW65MfTWXcJ0yF7GpaQSN0tw&usqp=CAU",AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.pluto.tv/channels/5e7cf6608c805600078872f2/colorLogoPNG.png",..AWE NETWORK HD
 https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8
@@ -81,7 +81,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/gb/BBCWorldNews.uk.png",..BBC WORLD NEWS HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BBC_WORLD.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://img.favpng.com/2/1/18/bbc-america-logo-television-image-png-favpng-tZY7NuNPUFRH26thBhW4aZMji.jpg",..BBC AMERICA HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/208
+http://qqtv.nl:8080/live/norma/12345/30418.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://img.favpng.com/2/1/18/bbc-america-logo-television-image-png-favpng-tZY7NuNPUFRH26thBhW4aZMji.jpg",..BBC AMERICA HD
 http://str24.l9574.com/34.stream/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://img.favpng.com/2/1/18/bbc-america-logo-television-image-png-favpng-tZY7NuNPUFRH26thBhW4aZMji.jpg",..BBC AMERICA HD
@@ -101,15 +101,15 @@ http://mains.services:2086/live/RtK9NG97M8/8O16aw5yiQ/101358.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bet-gospel-us.png",..BET Gospel
 http://ky-tv.cc:25461/live/David59459/2354545444/177076.ts
 #EXTINF:-1 group-title="Music" tvg-logo="http://xtream-coders.com/x0/entertainment/bet_jams.png",..BET JAMS HD
-http://ky-tv.cc:25461/live/David59459/2354545444/177077.ts
+http://qqtv.nl:8080/live/norma/12345/395568.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="http://xtream-coders.com/x0/entertainment/bet_jams.png",..BET JAMS HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/1445
+http://ky-tv.cc:25461/live/David59459/2354545444/177077.ts
+#EXTINF:-1 group-title="Music" tvg-logo="http://xtream-coders.com/x0/entertainment/bet_soul.png",..BET SOUL HD
+http://qqtv.nl:8080/live/norma/12345/395573.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="http://xtream-coders.com/x0/entertainment/bet_soul.png",..BET SOUL HD
 http://ky-tv.cc:25461/live/David59459/2354545444/177078.ts
-#EXTINF:-1 group-title="Music" tvg-logo="http://xtream-coders.com/x0/entertainment/bet_soul.png",..BET SOUL HD
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/1446
 #EXTINF:-1 group-title="Music" tvg-id="LoopHipHopEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yW7WCPm.png" group-title="US Channels",US: Loop Hip-Hop East
-http://ky-iptv.com:80/play/XSY-CczQY1D-RKa7eGqqpwce_6u8MT7YaR5YE8aI2qNMB1axX_fo2iR_cwdTLLBU/m3u8
+http://ky-iptv.com:80/godmode1/godmode1/177090.ts
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.pngfind.com/pngs/m/165-1655043_retro-tv-png-transparent-png.png",RETRO TV MUSIC
 http://stream.mediawork.cz:1935/retrotv/retrotvHQ1/chunklist_w1328169946.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="http://supportstreams.net:80/images/cd295eacbb876a133511393ec217edc9.png",..REVOLT HD
@@ -260,6 +260,8 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:FLIXX.smil/playlist
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FUSE.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.pinimg.com/originals/d4/6b/f0/d46bf04bc630a3ba1addd7d0aa35a743.jpg",..FX HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FX.smil/playlist.m3u8
+#EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fxx_east.png",..FXX HD
+http://qqtv.nl:8080/live/norma/12345/7886.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/fxx-us.png",..FXX HD
 http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/82776
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://picon-13398.kxcdn.com/fxmus.jpg",..FXM
@@ -343,6 +345,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f061242a7951e0007
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/NatGeo.us.png",..NATIONAL GEOGRAPHIC
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NATGEO.smil/playlist.m3u8
 #EXTINF:-1 group-title="ANIMALS" tvg-logo="https://static.epg.best/us/NatGeoWild.us.png",..NAT GEO WILD HD
+http://qqtv.nl:8080/live/norma/12345/7959.m3u8
+#EXTINF:-1 group-title="ANIMALS" tvg-logo="https://static.epg.best/us/NatGeoWild.us.png",..NAT GEO WILD HD
 http://ky-iptv.com:80/godmode1/godmode1/175901.ts
 #EXTINF:-1 group-title="ANIMALS" tvg-logo="https://www.freelogovector.com/wp-content/uploads/2017/06/23%20-%20PNG%20love%20nature%20copy.jpg",CA: LOVE NATURE
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
@@ -358,6 +362,8 @@ http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/1318
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NBC.smil/chunklist_b1160000_slen.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://static.epg.best/us/MTV.us.png",..MTV
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:MTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://xtream-coders.com/x0/entertainment/mtv_u.png",..MTV U
+http://qqtv.nl:8080/live/norma/12345/15456.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://xtream-coders.com/x0/entertainment/mtv_u.png",..MTV U
 http://ky-iptv.com:80/godmode1/godmode1/177083.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/WBFS-TV_33.svg/250px-WBFS-TV_33.svg.png",FL | Miami | MY 33 WBFS
@@ -377,11 +383,11 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:PARAMOUNT.smil/playli
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://011011011.com:8080/images/a3138fb2ce0613e05ffec4a8951ad0a7.png",..PIXL
 http://ky-iptv.com:80/godmode1/godmode1/1621092.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://011011011.com:8080/images/a3138fb2ce0613e05ffec4a8951ad0a7.png",..PIXL
-http://ky-tv.cc:25461/live/David59459/2354545444/1621092.ts
+http://ky-iptv.com:80/godmode1/godmode1/1621092.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/PopTV.us.png",..POP
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/PopTV.us.png",..POP
-http://ky-iptv.com:80/godmode1/godmode1/581833.ts
+http://ky-tv.cc:25461/live/David59459/2354545444/1621092.ts
 #EXTINF:-1 group-title="RELIGION MOVIES" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/positiv.png",..POSI TV
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:POSITIV.smil/playlist.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://static.epg.best/us/ReelzChannel.us.png",..REEL
@@ -399,6 +405,8 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SONY.smil/chunklist
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://www.insidesport.co/wp-content/uploads/2020/06/09a49583-f93f-4082-9406-a26a4fece4de.jpg",IN: SONY HD IND
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SONY_INDIA.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/SundanceTV.us.png",..SUNDANCE TV
+http://qqtv.nl:8080/live/norma/12345/67142.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/SundanceTV.us.png",..SUNDANCE TV
 http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/1632
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/SundanceTV.us.png",..SUNDANCE TV
 http://ky-iptv.com:80/godmode1/godmode1/176085.ts
@@ -413,7 +421,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:STARZ_COMEDY.smil/pla
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzComedy.us.png",**STARZ COMEDY HD
 http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/125871
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="data:image/png;base64,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",USA STAR SERIES
-http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR_abewM9SCryaXwqcsAEo0E/m3u8
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/252384
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png",LA: STUDIO UNIVERSAL.
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:STUDIO_UNIVERSAL.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Syfy.us.png",..SYFY HD US
@@ -493,6 +501,8 @@ http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/67075
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsport3.jpg",...BT SPORT 3 HD UK
 http://ky-iptv.com:80/godmode1/godmode1/174239.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsportespn.jpg",...BT SPORT ESPN
+http://qqtv.nl:8080/live/norma/12345/265923.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsportespn.jpg",...BT SPORT ESPN
 http://ky-iptv.com:80/godmode1/godmode1/174241.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsportespn.jpg",...BT SPORT ESPN
 http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/120297
@@ -525,7 +535,11 @@ http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/82764
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPNU.us.png",...ESPNU HD
 http://ky-iptv.com:80/godmode1/godmode1/220412.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg",...EUROSOPRT 1 HD
+http://qqtv.nl:8080/live/norma/12345/392996.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg",...EUROSOPRT 1 HD
 http://ky-iptv.com:80/godmode1/godmode1/391450.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg",...EUROSPORT 2 HD
+http://qqtv.nl:8080/live/norma/12345/392997.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg",...EUROSPORT 2 HD
 http://ky-iptv.com:80/godmode1/godmode1/174251.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/flow-sports-car.png",CAR: FLOW SPORTS
@@ -556,6 +570,8 @@ http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/188
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOXSPORTS2.smil/playlist.m3u8
 #EXTINF:-1,SPORTS: Fox Sports 2
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/187
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_soccer_plus.png",...FOX SOCCER PLUS HD
+http://qqtv.nl:8080/live/norma/12345/57429.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://ky-iptv.com:25461/images/e8ccb8684a90849a67cab859f50e6c96.png",...FOX SOCCER PLUS HD
 http://ky-iptv.com:80/godmode1/godmode1/176986.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/mlb-network-us.png",...MLB NETWORK HD
@@ -608,11 +624,11 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8UBR7J74eEannqoVvxfefHXrCNXFtulu9zA&usqp=CAU",NL: ZIGGO SPORT GOLF HD
 http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/159139
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://scheduler.sportsmax.tv/img/sm1.png",CAR: SPORTSMAX 1
-http://ky-iptv.com:80/godmode1/godmode1/1771404.ts
+http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SPORTSMAX.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://scheduler.sportsmax.tv/img/sm1.png",CAR: SPORTSMAX 1
 http://ky-iptv.com:80/godmode1/godmode1/1771404.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/jamaica/sportsmax-2-hz-jm.png",CAR: SPORTSMAX 2
-http://ky-tv.cc:25461/live/David59459/2354545444/1771405.ts
+http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SPORTSMAX_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/jamaica/sportsmax-2-hz-jm.png",CAR: SPORTSMAX 2
 http://ky-iptv.com:80/godmode1/godmode1/1771405.ts
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-golf-icon-uk.png?raw=true",...SKY SPORTS GOLF HD
