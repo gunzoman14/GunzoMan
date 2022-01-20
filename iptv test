@@ -1,11 +1,14 @@
 #EXTINF:-1,#EXTM3U
-#EXTM3U x-tvg-url="http://ky-iptv.com:25461/xmltv.php?username=SNNM258&password=355665786&type=m3u_plus&output=m3u8"
-#EXTINF:-1,Carib: CNC3
-http://ky-iptv.com:25461/SNNM258/355665786/499464
-#EXTINF:-1,Carib: TTT
-http://ky-iptv.com:25461/SNNM258/355665786/1139804
-#EXTINF:-1,Carib: CCN TV6
-http://ky-iptv.com:25461/SNNM258/355665786/1180167
-#EXTINF:-1,Carib: Synergy
-http://ky-iptv.com:25461/SNNM258/355665786/1356013
+#EXTINF:-1,UK Sky Sports Racing
+http://ky-iptv.com:80/godmode1/godmode1/189989.m3u8
+#EXTINF:-1,UK Racing TV HD 1  (P)
+http://ky-iptv.com:80/godmode1/godmode1/1769172.m3u8
+#EXTINF:-1, Horse Racing 2
+https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2_high@569779.m3u8
+#EXTINF:-1,Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index418.m3u8
+#EXTINF:-1, Horse Racing 1
+https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1_high@569779.m3u8
+#EXTINF:-1,Pame Stoixima DOG Racing
+https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie_1000.m3u8
 
