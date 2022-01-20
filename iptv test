@@ -1,14 +1,15 @@
 #EXTINF:-1,#EXTM3U
-#EXTINF:-1,UK Sky Sports Racing
-http://ky-iptv.com:80/godmode1/godmode1/189989.m3u8
-#EXTINF:-1,UK Racing TV HD 1  (P)
-http://ky-iptv.com:80/godmode1/godmode1/1769172.m3u8
-#EXTINF:-1, Horse Racing 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/1M4zMdC.png",..SKY SPORT RACING
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/47763
+#EXTINF:-1 ,Horse Racing 2
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2_high@569779.m3u8
-#EXTINF:-1,Racing.com
+#EXTINF:-1 ,Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index418.m3u8
-#EXTINF:-1, Horse Racing 1
+#EXTINF:-1 ,Horse Racing 1
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1_high@569779.m3u8
-#EXTINF:-1,Pame Stoixima DOG Racing
+#EXTINF:-1 ,Pame Stoixima DOG Racing
 https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie_1000.m3u8
-
+#EXTINF:-1 ,AR: DUBAI RACING
+http://qqtv.nl:8080/live/norma/12345/25144.m3u8
+#EXTINF:-1 ,UK Racing FHD
+http://ky-iptv.com:80/godmode1/godmode1/709536.m3u8
