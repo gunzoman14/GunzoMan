@@ -602,7 +602,10 @@ http://ky-tv.cc:25461/David59459/2354545444/220440
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:PRO_SPORTS.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/1M4zMdC.png",..SKY SPORT RACING
 http://ky-iptv.com:80/godmode1/godmode1/189989.ts HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/1M4zMdC.png",..SKY SPORT RACING
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/47763
+#EXTINF:-1,UK Racing FHD
+http://ky-iptv.com:80/godmode1/godmode1/709536.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/ae/DubaiRacing.ae.png",RACING TV
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://uspto.report/TM/90108722/mark.png",SKILLS+THRILLS
