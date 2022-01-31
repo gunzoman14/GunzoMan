@@ -525,9 +525,7 @@ http://qqtv.nl:8080/live/dj2014/dj2014/392997.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg",...EUROSPORT 2 HD
 http://grandiptv.xyz:8080/robnichols/k6GGtQm8/636
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/flow-sports-car.png",CAR: FLOW SPORTS
-http://qqtv.nl:8080/dj2014/dj2014/52954
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/flow-sports-car.png",CAR: FLOW SPORTS
-http://mains.services:2086/stanleyg/6916329/101246
+http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:FLOW_SPORTS.smil/playlist.m3u8
 #EXTINF:-1,Carib Flow Sports 2
 http://ky-tv.cc:25461/live/David59459/2354545444/1698483.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/flow-sports-car.png",CAR: RUSH SPORTS PLUS
