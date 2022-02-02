@@ -327,7 +327,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:MGM.smil/playlist.m
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/MSNBC.us.png",..MSNBC HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:MSNBC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/diJCR16.png",AR: MBC Action HD
-http://qqtv.nl:8080/dj2014/dj2014/30287
+http://93.184.1.247/MBCAction/video.m3u8?token=test
 #EXTINF:-1 tvg-id="News12NewYork.us" tvg-name="" tvg-logo="https://corporate.tubitv.com/wp-content/uploads/2020/10/News12BlueLogo2.png" group-title="News",..NEWS 12 HD (BROOKLYN)
 https://lnc-news12.tubi.video/index.m3u8
 #EXTINF:-1 group-title="NOLLYWOOD" tvg-logo="https://picon-13398.kxcdn.com/africamagicigboza.jpg",CAR: AFRICA CHANNEL 
