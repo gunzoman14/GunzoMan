@@ -16,6 +16,8 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:GAYELLE.smil/chunkl
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TRINITY_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/Islamic_Broadcasting_Network.png",Carib: Islamic Broadcasting Network
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:IBN.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/TV_4_%28Trinidad_and_Tobago%29_%28logo%29.gif",CAR:TIC 4
+http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TIC4.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpICVPCvO9km2iUiHAKuJwzvo9blM5mdOR3IvblD0hsQ78g0OBsK0KZtEeJ8n66W-9zP0&usqp=CAU",CAR: PARLIAMENT CHANNEL
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:PARLIAMENT.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQldL1eHXjoBoM-kJSCDI4tVjubQiR0BBqHdjM3RGbOW6Z1zONeBlTYXG6TuQArTnAdjJQ&usqp=CAU",Carib: MCTV Caribbean
@@ -187,7 +189,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:CTV.smil/playlist.m
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://ultraxplaytv.com:8000/images/0b473ed51b9d5470e30044b4a1fd3db3.png",..CW (CENTRAL PA) HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:WPIX.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/KOMUCW.us.png",..CW (CENTRAL PA) HD
-http://qqtv.nl:8080/live/dj2014/dj2014/7906.m3u8
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:CW11.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/KOMUCW.us.png",..CW (CENTRAL PA) HD
 http://mains.services:2086/stanleyg/6916329/90383
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/Cp24.ca.png",CA: CP24**
@@ -298,6 +300,8 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_CARIBBEAN.smil/
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_FAMILY.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/br/HBOPlusBrasil.br.png",**HBO PLUS
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_PLUS.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_SkB7tj3L2nM91pWNEpNKMDXZyKlt5epyZg&usqp=CAU",**HBO SIGNATURE
+http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_SIGNATURE.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/K2GWvrb/hbo-us.png",**HBO
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAXUP.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://ky-iptv.com:25461/images/227c5a7767e2742104de1c193474174b.png",**HBO XTREME FHD
