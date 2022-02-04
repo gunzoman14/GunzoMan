@@ -475,19 +475,19 @@ http://qqtv.nl:8080/dj2014/dj2014/15537
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/boxnation.jpg",...BOX NATION UK
 http://mains.services:2086/stanleyg/6916329/67081
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png",...BT SPORT 1 HD UK
-http://qqtv.nl:8080/dj2014/dj2014/265920
+http://93.152.174.144:4000/play/btsport1/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",...BT SPORT 1 HD UK
 http://grandiptv.xyz:8080/robnichols/k6GGtQm8/7
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",...BT SPORT 1 HD UK
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/67062
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-2-uk.png",...BT SPORT 2 HD UK
-http://qqtv.nl:8080/dj2014/dj2014/265921
+http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://p.kindpng.com/picc/s/23-238823_bt-sport-2-logo-hd-png-download.png",...BT SPORT 2 HD UK
 http://grandiptv.xyz:8080/robnichols/k6GGtQm8/11
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://p.kindpng.com/picc/s/23-238823_bt-sport-2-logo-hd-png-download.png",...BT SPORT 2 HD UK
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/67063
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-3-uk.png",...BT SPORT 3 HD UK
-http://qqtv.nl:8080/dj2014/dj2014/265922
+http://93.152.174.144:4000/play/btsport3/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsport3hd.jpg",...BT SPORT 3 HD UK
 http://ky-tv.cc:25461/live/David59459/2354545444/174239.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsport3.jpg",...BT SPORT 3 HD UK
@@ -646,6 +646,8 @@ http://qqtv.nl:8080/dj2014/dj2014/30957
 http://mains.services:2086/stanleyg/6916329/90491
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg",SuperSport LaLiga HD ZA
 http://mains.services:2086/stanleyg/6916329/90490
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg",SuperSport LaLiga HD ZA
+https://free.one24tv.com:443/live/94791643436715/94791643436715/15200.ts
 #EXTINF:-1,beIN LaLiga HD US
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/99199
 #EXTINF:-1,SuperSport LaLiga HD ZA
