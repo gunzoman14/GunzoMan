@@ -82,10 +82,6 @@ http://qqtv.nl:8080/live/dj2014/dj2014/148633.m3u8
 http://qqtv.nl:8080/live/dj2014/dj2014/7883.m3u8
 #EXTINF:-1 group-title="HBO // LIVE MOVIES" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo-zone-us.png",**HBO ZONE WEST HD US
 http://qqtv.nl:8080/live/dj2014/dj2014/275730.m3u8
-#EXTINF:-1 group-title="USA General" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/------|USA|------.png",------|USA|------
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3168
-#EXTINF:-1 group-title="USA General" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/USA-----|GENERAL|--------------------------------.png",USA:-----|GENERAL|--------------------------------
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60607
 #EXTINF:-1 group-title="USA General" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E-HD.png",US001:A&E HD
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3167
 #EXTINF:-1 group-title="USA General" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US006AMC-HD.png",US006:AMC HD
@@ -188,12 +184,8 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3086
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3085
 #EXTINF:-1 group-title="USA General" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US095PBSKids.png",US095:PBS Kids HD
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3073
-#EXTINF:-1 group-title="USA General" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US096CBN.png",US096:CBN HD
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3072
 #EXTINF:-1 group-title="USA General" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US097GODTV.png",US097:GOD TV HD
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3071
-#EXTINF:-1 group-title="USA General" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US098PeaceTV.png",US098:Peace TV
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3070
 #EXTINF:-1 group-title="USA General" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US130NATGEOWILD.png",US130:NAT GEO WILD HD
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30060
 #EXTINF:-1 group-title="USA General" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US141Nickelodeon.png",US141:Nickelodeon HD
@@ -212,8 +204,6 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29810
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29770
 #EXTINF:-1 group-title="USA General" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US443NewsMax.png",US443:NewsMax
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29747
-#EXTINF:-1 group-title="USA General" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US498NEWSY.png",US498:NEWSY
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29692
 #EXTINF:-1 group-title="USA General" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US613CW_WPSG.png",US613:CW_WPSG
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29577
 #EXTINF:-1 group-title="USA General" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US614CW_WKBD.png",US614:CW_WKBD
@@ -224,12 +214,8 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29574
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29573
 #EXTINF:-1 group-title="USA General" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US694Bloomberg.png",US694:Bloomberg
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29496
-#EXTINF:-1 group-title="USA General" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US662PPVBOXING3.png",US662:BET SOUL
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29528
 #EXTINF:-1 group-title="USA General" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US663PPVBOXING4.png",US663:Outside TV
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29527
-#EXTINF:-1 group-title="USA General" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US664PPVBOXING5.png",US664:Antenna TV
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29526
 #EXTINF:-1 group-title="USA General" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US767DISCOVERYFAMILYCHANNEL.png",US767:Discovery Family
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/64342
 #EXTINF:-1 group-title="USA General" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US768DiscoveryLifeHD.png",US768:Discovery Life HD
@@ -264,10 +250,6 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/64370
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60981
 #EXTINF:-1 group-title="USA General" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US793BETHERHD.png",US793:BET HER HD
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/64368
-#EXTINF:-1 group-title="USA General" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US797MAVHD.png",US797:MAV HD
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/64372
-#EXTINF:-1 group-title="USA General" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/",US796:Court TV
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/64371
 #EXTINF:-1 group-title="USA General" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US798FUSEHD.png",US798:FUSE HD
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/64373
 #EXTINF:-1 group-title="USA General" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US799UNIVERSALKIDSHD.png",US799:Universal Kids HD
@@ -298,8 +280,6 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/31568
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/31572
 #EXTINF:-1 group-title="USA General" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US827News12TheBronx.png",US827:News 12 The Bronx
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60221
-#EXTINF:-1 group-title="USA General" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US898TelemundoNewYork.png",US898:Telemundo New York
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60194
 #EXTINF:-1 group-title="USA General" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US828LOGO.png",US828:LOGO HD
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60130
 #EXTINF:-1 group-title="USA General",US829:Univision 66 (WGBO) Chicago
@@ -324,8 +304,6 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60114
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60096
 #EXTINF:-1 group-title="USA General",US838:Telemundo (Dallas)
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60093
-#EXTINF:-1 group-title="USA General",US839:Telemundo (Fresno)
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60092
 #EXTINF:-1 group-title="USA General",US840:Univision 62 (KAKW) Austin
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60090
 #EXTINF:-1 group-title="USA General",US841:Telemundo (Houston)
@@ -338,8 +316,6 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60074
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60072
 #EXTINF:-1 group-title="USA General",US845:Telemundo (New York)
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60065
-#EXTINF:-1 group-title="USA General",US846:Telemundo (Philadelphia)
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60060
 #EXTINF:-1 group-title="USA General",US847:Telemundo (Phoenix)
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60055
 #EXTINF:-1 group-title="USA General",US848:Telemundo (San Antonio)
@@ -360,14 +336,10 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60109
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60245
 #EXTINF:-1 group-title="USA General",US892:Toon Goggles 1
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60002
-#EXTINF:-1 group-title="USA General",US890:ROCK (Music Choice)
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60228
 #EXTINF:-1 group-title="USA General",US891:Pursuit Channel
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60206
 #EXTINF:-1 group-title="USA General" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US143AXSTVHD.png",US143:AXS TV HD
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30047
-#EXTINF:-1 group-title="USA Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/USA-----|SPORTS|---------------------------------.png",USA:-----|SPORTS|---------------------------------
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60609
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US009Bein-Sports.png",US009:BeIN Sports 1 HD
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3159
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US012PAC-12Washington.png",US012:PAC-12 Washington
@@ -376,8 +348,6 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3156
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3155
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US014PAC-12Oregon.png",US014:PAC-12 Oregon
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3154
-#EXTINF:-1 group-title="USA Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US074PAC-12BayArea.png",US074:PAC-12 Bay Area
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3094
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US346PAC12Arizona.png",US346:PAC-12 Arizona
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29844
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US031ESPN-2.png",US031:ESPN-2
@@ -412,8 +382,6 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30068
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30067
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US124BeIN7Sports.png",US124:Bein Sport 5 HD
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30066
-#EXTINF:-1 group-title="USA Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US125BeIN6Sports.png",US125:Bein Sport 6 HD
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30065
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US126BeIN5Sports.png",US126:Bein Sport 7 HD
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30064
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US127BeIN4Sports.png",US127:Bein Sport 8 HD
@@ -450,14 +418,10 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30045
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30044
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US147VSiN.png",US147:VSiN
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30043
-#EXTINF:-1 group-title="USA Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US148Ginx_TV.png",US148:Ginx TV
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30042
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US149ATT_SportsNet_SW_ALT.png",US149:AT&T Sportsnet
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30041
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US150World_Fishing_Network.png",US150:World_Fishing_Network
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30040
-#EXTINF:-1 group-title="USA Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US151NESN_BOS.png",US151:NESN_BOS
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30039
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US152NESN_PLUS.png",US152:NESN_PLUS
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30038
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US153Sportsman_Channel.png",US153:Sportsman_Channel
@@ -488,16 +452,10 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/59200
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/31569
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US821TVGNETWORK.png",US821:TVG NETWORK
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/31571
-#EXTINF:-1 group-title="USA Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US822TVGNETWORK2.png",US822:TVG NETWORK 2
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/31570
-#EXTINF:-1 group-title="USA Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT117DISCOVERY CHANNEL.png",US826:DAZN
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29373
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US897AT&TSportsnetRockyMountain.png",US897:AT&T Sportsnet Rocky Mountain
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60236
 #EXTINF:-1 group-title="USA Sports",US900:Spectrum SportsNet Lakers
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60983
-#EXTINF:-1 group-title="USA Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/USA-----|MOVIES|---------------------------------.png",USA:-----|MOVIES|---------------------------------
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60608
 #EXTINF:-1 group-title="USA Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US005ACTION-MAX.png",US005:ACTION-MAX
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3163
 #EXTINF:-1 group-title="USA Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US019StarzEast.png",US019:Starz East
@@ -518,8 +476,6 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3114
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3113
 #EXTINF:-1 group-title="USA Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US137TCM.png",US137:TCM
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30053
-#EXTINF:-1 group-title="USA Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US692StarzCinema.png",US692:Starz Cinema
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29498
 #EXTINF:-1 group-title="USA Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US693StarzComedy.png",US693:Starz Comedy
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29497
 #EXTINF:-1 group-title="USA Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US695StarzEtas.png",US695:Starz Etas
@@ -592,8 +548,6 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/64350
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/64351
 #EXTINF:-1 group-title="USA Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US777CINEMAXACTIONMAXHD.png",US777:CINEMAX ACTION MAX HD
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/64352
-#EXTINF:-1 group-title="USA Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US778CINEMAXEastHD.png",US778:Cinemax ThrillerMax
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/64353
 #EXTINF:-1 group-title="USA Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US780CINEMAXWestHD.png",US780:CINEMAX West HD
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/64355
 #EXTINF:-1 group-title="USA Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US781CinemaxEast.png",US781:Cinemax East
@@ -668,8 +622,6 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60148
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/59225
 #EXTINF:-1 group-title="USA Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US806EPIX2.png",US806:EPIX 2
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/59224
-#EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/USA-----|FOX|------------------------------------.png",USA:-----|FOX|------------------------------------
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60610
 #EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US036FOX-HD.png",US036:FOX-HD
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3132
 #EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US037FOX-News.png",US037:FOX-News
@@ -708,20 +660,14 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30081
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30080
 #EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US111Fox_Sports_West.png",US111:Fox_Sports_West
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30079
-#EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US112Fox_Sports_South.png",US112:Fox_Sports_South
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30078
 #EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US113Fox_Sports_Southeast.png",US113:Fox_Sports_Southeast
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30077
 #EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US114Fox_Sports_Southwest_Plus.png",US114:Fox_Sports_Southwest_Plus
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30076
 #EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US115Fox_Sports_Southwest.png",US115:Fox_Sports_Southwest
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30075
-#EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US116Fox_College_Sports_Atlantic.png",US116:Fox_College_Sports_Atlantic
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30074
 #EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US117Fox_College_Sports_Pacific.png",US117:Fox_College_Sports_Pacific
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30073
-#EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US118Fox_College_Sports_Central.png",US118:Fox_College_Sports_Central
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30072
 #EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US119Fox_Sports_Soccer_Plus.png",US119:Fox_Sports_Soccer_Plus
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30071
 #EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US120Fox_Sports_2.png",US120:Fox_Sports_2
@@ -746,8 +692,6 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29850
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29849
 #EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US342FOX_WYZZ.png",US342:FOX_WYZZ
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29848
-#EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US343FOX_WSYM.png",US343:FOX_WSYM
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29847
 #EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US344FOX_KADN.png",US344:FOX_KADN
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29846
 #EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US345FOX_WLAX.png",US345:FOX_WLAX
@@ -816,8 +760,6 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29760
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29759
 #EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US432FOX_WVUE.png",US432:FOX_WVUE
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29758
-#EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US433FOX_KTTW.png",US433:FOX_KTTW
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29757
 #EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US434FOX_KTTV.png",US434:FOX_KTTV
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29756
 #EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US435FOX_WOFL.png",US435:FOX_WOFL
@@ -838,14 +780,10 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29749
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29748
 #EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US444FOX_WTNZ.png",US444:FOX_WTNZ
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29746
-#EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US445FOX_WPFO.png",US445:FOX_WPFO
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29745
 #EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US446FOX_KCPQ.png",US446:FOX_KCPQ
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29744
 #EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US447FOX_WJZY.png",US447:FOX_WJZY
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29743
-#EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US448FOX_WNAC.png",US448:FOX_WNAC
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29742
 #EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US449FOX_WAGA.png",US449:FOX_WAGA
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29741
 #EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US450FOX_WRGT.png",US450:FOX_WRGT
@@ -880,8 +818,6 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29727
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29726
 #EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US465FOX_WRAZ.png",US465:FOX_WRAZ
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29725
-#EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US466FOX_WXMI.png",US466:FOX_WXMI
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29724
 #EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US467FOX_WNYW.png",US467:FOX_WNYW
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29723
 #EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US468FOX_WSBT.png",US468:FOX_WSBT
@@ -918,8 +854,6 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29708
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29707
 #EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US484FOX_KSAS.png",US484:FOX_KSAS
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29706
-#EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US485FOX_KCBA.png",US485:FOX_KCBA
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29705
 #EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US486FOX_WPWR.png",US486:FOX_WPWR
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29704
 #EXTINF:-1 group-title="USA FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US487FOX_WVBT.png",US487:FOX_WVBT
@@ -952,8 +886,6 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29690
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29689
 #EXTINF:-1 group-title="USA FOX",US817: FOX 5 (KSWB) San Diego
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/31565
-#EXTINF:-1 group-title="USA CBS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/USA-----|CBS|------------------------------------.png",USA:-----|CBS|------------------------------------
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60611
 #EXTINF:-1 group-title="USA CBS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US017CBS-HD.png",US017:CBS-HD
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3151
 #EXTINF:-1 group-title="USA CBS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US088CBSSportsNetwork.png",US088:CBS Sports Network
@@ -1032,8 +964,6 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29970
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29969
 #EXTINF:-1 group-title="USA CBS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US222CBS_WHBF.png",US222:CBS_WHBF
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29968
-#EXTINF:-1 group-title="USA CBS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US223CBS_KZTV.png",US223:CBS_KZTV
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29967
 #EXTINF:-1 group-title="USA CBS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US224CBS_WCBI.png",US224:CBS_WCBI
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29966
 #EXTINF:-1 group-title="USA CBS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US225CBS_WKRC.png",US225:CBS_WKRC
@@ -1068,8 +998,6 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29944
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29936
 #EXTINF:-1 group-title="USA CBS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US259CBS_KTVT.png",US259:CBS_KTVT
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29931
-#EXTINF:-1 group-title="USA CBS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US269CBS_KOLN.png",US269:CBS_KOLN
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29921
 #EXTINF:-1 group-title="USA CBS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US273CBS_KOLD.png",US273:CBS_KOLD
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29917
 #EXTINF:-1 group-title="USA CBS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US274CBS_KCTV.png",US274:CBS_KCTV
@@ -1084,8 +1012,6 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29913
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29912
 #EXTINF:-1 group-title="USA CBS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US279CBS_WTOC.png",US279:CBS_WTOC
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29911
-#EXTINF:-1 group-title="USA CBS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US280CBS_WFSB.png",US280:CBS_WFSB
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29910
 #EXTINF:-1 group-title="USA CBS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US281CBS_KFVS.png",US281:CBS_KFVS
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29909
 #EXTINF:-1 group-title="USA CBS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US282CBS_KPIX.png",US282:CBS_KPIX
@@ -1180,8 +1106,6 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29865
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29864
 #EXTINF:-1 group-title="USA CBS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US327CBS_WLKY.png",US327:CBS_WLKY
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29863
-#EXTINF:-1 group-title="USA CBS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US328CBS_KOTV.png",US328:CBS_KOTV
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29862
 #EXTINF:-1 group-title="USA CBS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US329CBS_KWCH.png",US329:CBS_KWCH
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29861
 #EXTINF:-1 group-title="USA CBS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US330CBS_KMOV.png",US330:CBS_KMOV
@@ -1192,8 +1116,6 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29859
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29858
 #EXTINF:-1 group-title="USA CBS",US824:CBS 11 WINK
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/31576
-#EXTINF:-1 group-title="USA NBC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/USA-----|NBC|------------------------------------.png",USA:-----|NBC|------------------------------------
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60612
 #EXTINF:-1 group-title="USA NBC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US061NBC-Golf.png",US061:NBC-Golf
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3107
 #EXTINF:-1 group-title="USA NBC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US062NBC-HD.png",US062:NBC-HD
@@ -1230,8 +1152,6 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29684
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29683
 #EXTINF:-1 group-title="USA NBC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US508NBC_WBRE.png",US508:NBC_WBRE
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29682
-#EXTINF:-1 group-title="USA NBC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US509NBC_KETK.png",US509:NBC_KETK
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29681
 #EXTINF:-1 group-title="USA NBC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US510NBC_WFLA.png",US510:NBC_WFLA
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29680
 #EXTINF:-1 group-title="USA NBC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US511NBC_WWLP.png",US511:NBC_WWLP
@@ -1246,8 +1166,6 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29676
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29675
 #EXTINF:-1 group-title="USA NBC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US516NBC_WAVY.png",US516:NBC_WAVY
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29674
-#EXTINF:-1 group-title="USA NBC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US517NBC_WSFA.png",US517:NBC_WSFA
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29673
 #EXTINF:-1 group-title="USA NBC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US518NBC_KARK.png",US518:NBC_KARK
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29672
 #EXTINF:-1 group-title="USA NBC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US519NBC_WILX.png",US519:NBC_WILX
@@ -1288,8 +1206,6 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29655
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29654
 #EXTINF:-1 group-title="USA NBC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US537NBC_WCSH.png",US537:NBC_WCSH
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29653
-#EXTINF:-1 group-title="USA NBC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US538NBC_WMFP.png",US538:NBC_WMFP
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29652
 #EXTINF:-1 group-title="USA NBC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US539NBC_KGW.png",US539:NBC_KGW
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29651
 #EXTINF:-1 group-title="USA NBC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US540NBC_KARE.png",US540:NBC_KARE
@@ -1402,8 +1318,6 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29598
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29597
 #EXTINF:-1 group-title="USA NBC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US594NBC_KSL.png",US594:NBC_KSL
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29596
-#EXTINF:-1 group-title="USA NBC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US595NBC_WIS.png",US595:NBC_WIS
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29595
 #EXTINF:-1 group-title="USA NBC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US596NBC_WWBT.png",US596:NBC_WWBT
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29594
 #EXTINF:-1 group-title="USA NBC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US597NBC_WHEC.png",US597:NBC_WHEC
@@ -1442,294 +1356,72 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29578
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/59234
 #EXTINF:-1 group-title="USA NBC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US807NBCUniverso.png",US807:NBC Universo (East)
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/59235
-#EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/USA-----|ABC|------------------------------------.png",USA:-----|ABC|------------------------------------
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60617
 #EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US002ABCHD.png",US002:ABC HD
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3166
-#EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US003ABC-NEWS.png",US003:ABC-NEWS
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3165
 #EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US004ABC7.png",US004:ABC 7
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3164
 #EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US700ABC_kfsn_fresno.png",US700:ABC_kfsn_fresno
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29490
-#EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US701ABC_wisn_mil.png",US701:ABC_wisn_mil
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29489
 #EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US702ABC-wkrn-nas.png",US702:ABC-wkrn-nas
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29488
-#EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US703ABC_wtnh_har.png",US703:ABC_wtnh_har
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29487
 #EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US704ABC_kmgh_den.png",US704:ABC_kmgh_den
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29486
-#EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US705ABC_wcvb_bos.png",US705:ABC_wcvb_bos
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29485
 #EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US706ABC_wrtv_ind.png",US706:ABC_wrtv_ind
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29484
-#EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US707ABC_wplg_mia.png",US707:ABC_wplg_mia
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29423
 #EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US708ABC_wtvd_raleigh.png",US708:ABC_wtvd_raleigh
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29422
-#EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US709ABC_wpvi_phi.png",US709:ABC_wpvi_phi
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29481
 #EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US710ABC_wftv_orl.png",US710:ABC_wftv_orl
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29480
-#EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US711ABC_kgo_sfo.png",US711:ABC_kgo_sfo
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29479
 #EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US712ABC_wfaa_dal.png",US712:ABC_wfaa_dal
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29478
-#EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US713ABCPhoenix.png",US713:ABC Phoenix
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29477
 #EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US734ABCCharlotte.png",US734:ABC Charlotte
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29456
-#EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US737Abc_Kgtv_Sad.png",US737:Abc_Kgtv_Sad
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29453
 #EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US738ABC_wjla_wdc.png",US738:ABC_wjla_wdc
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29452
-#EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US739ABC_kxtv-sac.png",US739:ABC_kxtv-sac
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29451
 #EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US740ABC_kdnl-stl.png",US740:ABC_kdnl-stl
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29450
-#EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US741ABC_komo_sea.png",US741:ABC_komo_sea
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29449
 #EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US742ABC_katu_port.png",US742:ABC_katu_port
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29448
-#EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US743ABC_ktvx-slc.png",US743:ABC_ktvx-slc
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29447
 #EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US744ABC_kABC_lax.png",US744:ABC_kABC_lax
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29446
-#EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US745ABC_wls_chi.png",US745:ABC_wls_chi
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29445
 #EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US746ABC_wtae_pit.png",US746:ABC_wtae_pit
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29444
-#EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US747ABC_wxyz_det.png",US747:ABC_wxyz_det
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29443
 #EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US748ABC_ktrk_hou.png",US748:ABC_ktrk_hou
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29442
 #EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US750ABC_wisn_mil.png",US750:ABC_wisn_mil
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29440
-#EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US751ABC-wkrn-nas.png",US751:ABC-wkrn-nas
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29439
 #EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US752ABC_wtnh_har.png",US752:ABC_wtnh_har
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29438
-#EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US753ABC_kmgh_den.png",US753:ABC_kmgh_den
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29437
 #EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US754ABC_wcvb_bos.png",US754:ABC_wcvb_bos
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29436
-#EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US755ABC_wrtv_ind.png",US755:ABC_wrtv_ind
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29435
 #EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US756ABC_wftv_orl.png",US756:ABC_wftv_orl
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29434
-#EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US757ABC_wfaa_dal.png",US757:ABC_wfaa_dal
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29433
 #EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US758ABC_kgo_sfo.png",US758:ABC_kgo_sfo
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29432
-#EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US759ABC_wpvi_phi.png",US759:ABC_wpvi_phi
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29431
 #EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US760ABC_wtvd_raleigh.png",US760:ABC_wtvd_raleigh
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29430
-#EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US761ABC_wplg_mia.png",US761:ABC_wplg_mia
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29429
 #EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US762ABC_kfsn_fresno.png",US762:ABC_kfsn_fresno
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29428
-#EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US763ABC_ksat_saa.png",US763:ABC_ksat_saa
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29427
 #EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US764ABC_kmbc_kan.png",US764:ABC_kmbc_kan
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29426
-#EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US765ABC-wews-cla.png",US765:ABC-wews-cla
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29425
 #EXTINF:-1 group-title="USA ABC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US766ABC_WSYX_CLM.png",US766:ABC_WSYX_CLM
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29424
-#EXTINF:-1 group-title="USA ABC",US825:ABC 7 WZVN
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/31575
 #EXTINF:-1 group-title="USA ABC",US899:ABC WPBF
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/66004
 #EXTINF:-1 group-title="USA ABC",US883:ABC 2 (WMAR) Baltimore
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60134
-#EXTINF:-1 group-title="USA NBA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/USA-----|NBA|------------------------------------.png",USA:-----|NBA|------------------------------------
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60615
 #EXTINF:-1 group-title="USA NBA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US060NBA-TV.png",US060:NBA-TV
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3108
-#EXTINF:-1 group-title="USA NBA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US665NBALeaguePass01.png",US665:NBA League Pass 01
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29525
-#EXTINF:-1 group-title="USA NBA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US666NBALeaguePass02.png",US666:NBA League Pass 02
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29524
-#EXTINF:-1 group-title="USA NBA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US667NBALeaguePass03.png",US667:NBA League Pass 03
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29523
-#EXTINF:-1 group-title="USA NBA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US668NBALeaguePass04.png",US668:NBA League Pass 04
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29522
-#EXTINF:-1 group-title="USA NBA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US669NBALeaguePass05.png",US669:NBA League Pass 05
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29521
-#EXTINF:-1 group-title="USA NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/USA-----|NFL|------------------------------------.png",USA:-----|NFL|------------------------------------
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60613
 #EXTINF:-1 group-title="USA NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US064NFL-Network.png",US064:NFL-Network
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3104
 #EXTINF:-1 group-title="USA NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US089NFLRedZone.png",US089:NFL RedZone
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3079
-#EXTINF:-1 group-title="USA NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US618NFL1.png",US618:NFL-Browns SD
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29572
-#EXTINF:-1 group-title="USA NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US619NFL2.png",US619:NFL-Buccaneers FHD
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29571
-#EXTINF:-1 group-title="USA NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US620NFL3.png",US620:NFL-Buccaneers HD
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29570
-#EXTINF:-1 group-title="USA NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US621NFL4HD.png",US621:NFL-Buccaneers SD
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29569
-#EXTINF:-1 group-title="USA NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US622NFL5.png",US622:NFL-Cardinals FHD
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29568
-#EXTINF:-1 group-title="USA NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US623NFL6.png",US623:NFL-Cardinals HD
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29567
-#EXTINF:-1 group-title="USA NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US624NFL7.png",US624:NFL-Cardinals SD
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29566
-#EXTINF:-1 group-title="USA NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US625NFL8.png",US625:NFL-Chargers FHD
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29565
-#EXTINF:-1 group-title="USA NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US626NFL9.png",US626:NFL-Chargers HD
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29564
-#EXTINF:-1 group-title="USA NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US627NFL14.png",US627:NFL-Chargers SD
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29563
-#EXTINF:-1 group-title="USA NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US628NFL15.png",US628:NFL-Chiefs FHD
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29562
-#EXTINF:-1 group-title="USA NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US629NFLN.png",US629:NFL-Chiefs HD
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29561
-#EXTINF:-1 group-title="USA NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US645NFLChannelHD.png",US645:NFL-Chiefs SD
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29545
-#EXTINF:-1 group-title="USA NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US646NFLGamepass1.png",US646:NFL-49ers FHD
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29544
-#EXTINF:-1 group-title="USA NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US647NFLGAMEPASS2.png",US647:NFL-49ers HD
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29543
-#EXTINF:-1 group-title="USA NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US648NFLGAMEPASS3.png",US648:NFL-49ers SD
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29542
-#EXTINF:-1 group-title="USA NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US649NFLGAMEPASS4.png",US649:NFL-Bears FHD
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29541
-#EXTINF:-1 group-title="USA NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US650NFLGAMEPASS5.png",US650:NFL-Bears HD
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29540
-#EXTINF:-1 group-title="USA NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US651NFLGAMEPASS6.png",US651:NFL-Bears SD
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29539
-#EXTINF:-1 group-title="USA NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US652NFLGAMEPASS7.png",US652:NFL-Bengals FHD
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29538
-#EXTINF:-1 group-title="USA NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US653NFLGAMEPASS8.png",US653:NFL-Bengals HD
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29537
-#EXTINF:-1 group-title="USA NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US654NFLGAMEPASS9.png",US654:NFL-Bengals SD
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29536
-#EXTINF:-1 group-title="USA NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US655NFLGAMEPASS10.png",US655:NFL-Bills FHD
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29535
-#EXTINF:-1 group-title="USA NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US656NFLGAMEPASS11.png",US656:NFL-Bills HD
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29534
-#EXTINF:-1 group-title="USA NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US657NFLGAMEPASS12.png",US657:NFL-Bills SD
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29533
-#EXTINF:-1 group-title="USA NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US658NFLGAMEPASS13.png",US658:NFL-Broncos FHD
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29532
-#EXTINF:-1 group-title="USA NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US659NFLGamepass14.png",US659:NFL-Broncos HD
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29531
-#EXTINF:-1 group-title="USA NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US660PPVBOXING1.png",US660:NFL-Broncos SD
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/53491
-#EXTINF:-1 group-title="USA NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US661PVVBOXING2.png",US661:NFL-Browns FHD
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29529
-#EXTINF:-1 group-title="USA MLB" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/USA-----|MLB|------------------------------------.png",USA:-----|MLB|------------------------------------
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60614
 #EXTINF:-1 group-title="USA MLB" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US056MLB-Network.png",US056:MLB-Network
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3112
-#EXTINF:-1 group-title="USA MLB" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US630MLB01.png",US630:MLB 01
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29560
-#EXTINF:-1 group-title="USA MLB" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US631MLB02.png",US631:MLB 02
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29559
-#EXTINF:-1 group-title="USA MLB" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US632MLB03.png",US632:MLB 03
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29558
-#EXTINF:-1 group-title="USA MLB" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US633MLB04.png",US633:MLB 04
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29557
-#EXTINF:-1 group-title="USA MLB" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US634MLB05.png",US634:MLB 05
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29556
-#EXTINF:-1 group-title="USA MLB" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US635MLB06.png",US635:MLB 06
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29555
-#EXTINF:-1 group-title="USA MLB" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US636MLB07.png",US636:MLB 07
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29554
-#EXTINF:-1 group-title="USA MLB" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US637MLB08.png",US637:MLB 08
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29553
-#EXTINF:-1 group-title="USA MLB" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US638MLB09.png",US638:MLB 09
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29552
-#EXTINF:-1 group-title="USA MLB" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US639MLB10.png",US639:MLB 10
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29551
-#EXTINF:-1 group-title="USA MLB" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US640MLB11.png",US640:MLB 11
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29550
-#EXTINF:-1 group-title="USA MLB" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US641MLB12.png",US641:MLB 12
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29549
-#EXTINF:-1 group-title="USA MLB" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US642MLB13.png",US642:MLB 13
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29548
-#EXTINF:-1 group-title="USA MLB" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US643MLB14.png",US643:MLB 14
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29547
-#EXTINF:-1 group-title="USA MLB" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US644MLB15.png",US644:MLB 15
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29546
-#EXTINF:-1 group-title="USA NHL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/USA-----|NHL|------------------------------------.png",USA:-----|NHL|------------------------------------
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60616
-#EXTINF:-1 group-title="USA Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US736NHLNETWORK.png",US736:NHL NETWORK
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29454
-#EXTINF:-1 group-title="USA NHL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US675NHLCentreIce782.png",US675:NHL Montreal Canadiens
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29515
-#EXTINF:-1 group-title="USA NHL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US676NHLCentreIce783.png",US676:NHL Minnesota Wild
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29514
-#EXTINF:-1 group-title="USA NHL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US677NHLGame1.png",US677:NHL Seattle Kraken
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29513
-#EXTINF:-1 group-title="USA NHL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US678NHLGame2.png",US678:NHL Winnipeg Jets
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29512
-#EXTINF:-1 group-title="USA NHL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US679NHLGame3.png",US679:NHL Washington Capitals
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29511
-#EXTINF:-1 group-title="USA NHL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US680NHLGame4.png",US680:NHL Vegas Golden Knights
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29510
-#EXTINF:-1 group-title="USA NHL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US681NHLGame5.png",US681:NHL Vancouver Canucks
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29509
-#EXTINF:-1 group-title="USA NHL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US682NHLGame6.png",US682:NHL Toronto Maple Leafs
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29508
-#EXTINF:-1 group-title="USA NHL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US683NHLGame7.png",US683:NHL Tampa Bay Lightning
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29507
-#EXTINF:-1 group-title="USA NHL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US684NHLGame8.png",US684:NHL St Louis Blues
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29506
-#EXTINF:-1 group-title="USA NHL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US685NHLGame9.png",US685:NHL San Jose Sharks
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29505
-#EXTINF:-1 group-title="USA NHL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US686NHLGame10.png",US686:NHL Pittsburgh Penguins
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29504
-#EXTINF:-1 group-title="USA NHL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US687NHLGame11.png",US687:NHL Ottawa Senators
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29503
-#EXTINF:-1 group-title="USA NHL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US688NHLGame12.png",US688:NHL New York Rangers
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29502
-#EXTINF:-1 group-title="USA NHL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US689NHLGame13.png",US689:NHL New York Islanders
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29501
-#EXTINF:-1 group-title="USA NHL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US690NHLGame14.png",US690:NHL New Jersey Devils
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29500
-#EXTINF:-1 group-title="USA NHL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US691NHLGame15.png",US691:NHL Nashville Predators
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29499
-#EXTINF:-1 group-title="USA NHL",US905:NHL Arizona Coyotes
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60968
-#EXTINF:-1 group-title="USA NHL",US904:NHL Boston Bruins
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60967
-#EXTINF:-1 group-title="USA NHL",US906:NHL Anaheim Ducks
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60969
 #EXTINF:-1 group-title="USA NHL",US907:NHL Alternate
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60970
-#EXTINF:-1 group-title="USA NHL",US908:NHL Los Angeles Kings
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/59221
-#EXTINF:-1 group-title="USA NHL",US910:NHL Edmonton Oilers
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/59223
-#EXTINF:-1 group-title="USA NHL",US909:NHL Florida Panthers
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/59222
-#EXTINF:-1 group-title="USA NHL",US911:NHL Detroit Red Wings
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/59229
-#EXTINF:-1 group-title="USA NHL",US912:NHL Dallas Stars
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/59230
-#EXTINF:-1 group-title="USA NHL",US913:NHL Columbus Blue Jackets
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/59231
-#EXTINF:-1 group-title="USA NHL",US914:NHL Colorado Avalanche
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/59237
-#EXTINF:-1 group-title="USA NHL",US915:NHL Chicago Blackhawks
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/59241
-#EXTINF:-1 group-title="USA NHL",US916:NHL Carolina Hurricanes
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/59243
-#EXTINF:-1 group-title="USA NHL",US917:NHL Calgary Flames
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/59244
-#EXTINF:-1 group-title="USA NHL",US918:NHL Buffalo Sabres
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/59245
-#EXTINF:-1 group-title="Olympic 2022",USA:-----|Olympic|---------------------------------
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/76139
 #EXTINF:-1 group-title="Olympic 2022" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/",US674:Olympics 2022
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29516
-#EXTINF:-1 group-title="Olympic 2022" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/",US673:Olympics 2022 1
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29517
 #EXTINF:-1 group-title="Olympic 2022" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/",US672:Olympics 2022 2
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29518
 #EXTINF:-1 group-title="English" tvg-logo="http://a2.aatvbox.club:8880/images/3orpAS3dmy8DifTYphy9bgSGb0i_small.jpg",EN:All Star Musicals
@@ -1742,8 +1434,6 @@ http://ay82.aatvbox.club:8880/movie/xzyc6m0969/Tw6LYDceHP/39490.mkv
 http://ay82.aatvbox.club:8880/movie/xzyc6m0969/Tw6LYDceHP/39512.mkv
 #EXTINF:-1 group-title="English" tvg-logo="http://a2.aatvbox.club:8880/images/ixANIbPRTNMAstlqJa2FlfBesyQ_small.jpg",EN:Insidious Chapter 3
 http://ay82.aatvbox.club:8880/movie/xzyc6m0969/Tw6LYDceHP/39562.mkv
-#EXTINF:-1 group-title="English" tvg-logo="http://mu01e.okcomputer.club:8880/images/nb9fc9INMg8kQ8L7sE7XTNsZnUX_small.jpg",EN:Insidious The Last Key
-http://ay82.aatvbox.club:8880/movie/xzyc6m0969/Tw6LYDceHP/39563.mp4
 #EXTINF:-1 group-title="English" tvg-logo="http://mu01e.okcomputer.club:8880/images/c7978578e6a7ca561c59885d106fbe3b.jpg",EN:Justice League vs. the Fatal Five - 2019
 http://ay82.aatvbox.club:8880/movie/xzyc6m0969/Tw6LYDceHP/61267.mp4
 #EXTINF:-1 group-title="English" tvg-logo="http://a2.aatvbox.club:8880/images/27SiV4EBHcTBMz4IKANjhX5iIoX_small.jpg",EN:Krampus
@@ -1772,18 +1462,10 @@ http://ay82.aatvbox.club:8880/movie/xzyc6m0969/Tw6LYDceHP/72245.mp4
 http://ay82.aatvbox.club:8880/movie/xzyc6m0969/Tw6LYDceHP/72248.mkv
 #EXTINF:-1 group-title="English" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)
 http://ay82.aatvbox.club:8880/movie/xzyc6m0969/Tw6LYDceHP/72757.mkv
-#EXTINF:-1 group-title="English" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/omy5CiDMQnGqQUEJ9gNLOGPZQFW.jpg",Prometheus (2012)
-http://ay82.aatvbox.club:8880/movie/xzyc6m0969/Tw6LYDceHP/73343.mp4
 #EXTINF:-1 group-title="English" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/80x3w24LD9tSnDPa9KivX2iejgh.jpg",COVID-21: Lethal Virus (2021)
 http://ay82.aatvbox.club:8880/movie/xzyc6m0969/Tw6LYDceHP/74390.mkv
-#EXTINF:-1 group-title="English" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wj0PpS8cvXCNB3Wvhe6w5k0Nnke.jpg",Deadly Illusions (2021)
-http://ay82.aatvbox.club:8880/movie/xzyc6m0969/Tw6LYDceHP/74402.mp4
-#EXTINF:-1 group-title="English" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhIRPRlVLsn2GFxLUf9FUB9a9hP.jpg",Exodus (2021)
-http://ay82.aatvbox.club:8880/movie/xzyc6m0969/Tw6LYDceHP/74404.mp4
 #EXTINF:-1 group-title="English" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wurKlC3VKUgcfsn0K51MJYEleS2.jpg",Furious 7 (2015)
 http://ay82.aatvbox.club:8880/movie/xzyc6m0969/Tw6LYDceHP/74920.mp4
-#EXTINF:-1 group-title="English" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cm2ffqb3XovzA5ZSzyN3jnn8qv0.jpg",The Fast and the Furious: Tokyo Drift (2006)
-http://ay82.aatvbox.club:8880/movie/xzyc6m0969/Tw6LYDceHP/74933.mp4
 #EXTINF:-1 group-title="English" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOGyzGtkimmZ7AsDWg36g1Qss7y.jpg",The Penthouse (2021)
 http://ay82.aatvbox.club:8880/movie/xzyc6m0969/Tw6LYDceHP/75254.mp4
 #EXTINF:-1 group-title="English" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Rt8a34ihddoOXBOL2zutqYYqNx.jpg",Scare Us (2021)
@@ -1814,30 +1496,6 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30154
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30130
 #EXTINF:-1 group-title="CA Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA087AHC.png",CA087:Super Channel Fuse
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/30227
-#EXTINF:-1 group-title="XXX-West" tvg-logo="http://a2.aatvbox.club:8880/images/BigTitsAtSchool.20.03.15.Bella.Rolland.Old.Man.On.Campus.jpg",BigTitsAtSchool.20.03.15.Bella.Rolland.Old.Man.On.Campus
-http://ay82.aatvbox.club:8880/movie/xzyc6m0969/Tw6LYDceHP/64752.mp4
-#EXTINF:-1 group-title="XXX-West" tvg-logo="http://a2.aatvbox.club:8880/images/BrazzersExxtra.20.03.19.Desiree.Dulce.Used.jpg",BrazzersExxtra.20.03.19.Desiree.Dulce.Used
-http://ay82.aatvbox.club:8880/movie/xzyc6m0969/Tw6LYDceHP/64761.mp4
-#EXTINF:-1 group-title="XXX-West" tvg-logo="http://a2.aatvbox.club:8880/images/BrazzersExxtra.20.06.08.Madison.Ivy.And.Kendra.Sunderland.Bodacious.Bikini.Threesome.jpg",BrazzersExxtra.20.06.08.Madison.Ivy.And.Kendra.Sunderland.Bodacious.Bikini.Threesome
-http://ay82.aatvbox.club:8880/movie/xzyc6m0969/Tw6LYDceHP/64766.mp4
-#EXTINF:-1 group-title="XXX-West" tvg-logo="http://a2.aatvbox.club:8880/images/MommyGotBoobs.20.03.14.Holly.Hotwife.Just.Ignore.Him.jpg",MommyGotBoobs.20.03.14.Holly.Hotwife.Just.Ignore.Him
-http://ay82.aatvbox.club:8880/movie/xzyc6m0969/Tw6LYDceHP/64780.mp4
-#EXTINF:-1 group-title="XXX-West" tvg-logo="http://a2.aatvbox.club:8880/images/BabyGotBoobs.20.04.03.Jade.Kush.Shadowplay.2.jpg",BabyGotBoobs.20.04.03.Jade.Kush.Shadowplay.2
-http://ay82.aatvbox.club:8880/movie/xzyc6m0969/Tw6LYDceHP/65343.mp4
-#EXTINF:-1 group-title="XXX-West" tvg-logo="http://a2.aatvbox.club:8880/images/BrazzersExxtra.20.03.25.Payton.Preslee.Pounding.Paytons.Pussy.jpg",BrazzersExxtra.20.03.25.Payton.Preslee.Pounding.Paytons.Pussy
-http://ay82.aatvbox.club:8880/movie/xzyc6m0969/Tw6LYDceHP/65355.mp4
-#EXTINF:-1 group-title="XXX-West" tvg-logo="http://a2.aatvbox.club:8880/images/BrazzersExxtra.20.04.03.Lana.Sharapova.Pocket.Pussy.Anal.jpg",BrazzersExxtra.20.04.03.Lana.Sharapova.Pocket.Pussy.Anal
-http://ay82.aatvbox.club:8880/movie/xzyc6m0969/Tw6LYDceHP/65362.mp4
-#EXTINF:-1 group-title="XXX-West" tvg-logo="http://a2.aatvbox.club:8880/images/DayWithAPornstar.20.04.19.Hime.Marie.Himes.Cleaning.House.jpg",DayWithAPornstar.20.04.19.Hime.Marie.Himes.Cleaning.House
-http://ay82.aatvbox.club:8880/movie/xzyc6m0969/Tw6LYDceHP/65384.mp4
-#EXTINF:-1 group-title="XXX-West" tvg-logo="http://a2.aatvbox.club:8880/images/DayWithAPornstar.20.05.17.Jessica.Starling.Jessica.Makes.Music.jpg",DayWithAPornstar.20.05.17.Jessica.Starling.Jessica.Makes.Music
-http://ay82.aatvbox.club:8880/movie/xzyc6m0969/Tw6LYDceHP/65393.mp4
-#EXTINF:-1 group-title="XXX-West" tvg-logo="http://a2.aatvbox.club:8880/images/DoctorAdventures.20.04.04.Kira.Noir.Jailhouse.Fuck.4.jpg",DoctorAdventures.20.04.04.Kira.Noir.Jailhouse.Fuck.4
-http://ay82.aatvbox.club:8880/movie/xzyc6m0969/Tw6LYDceHP/65395.mp4
-#EXTINF:-1 group-title="XXX-West" tvg-logo="http://a2.aatvbox.club:8880/images/DoctorAdventures.20.05.08.Abella.Danger.Use.It.Or.Lose.It.jpg",DoctorAdventures.20.05.08.Abella.Danger.Use.It.Or.Lose.It
-http://ay82.aatvbox.club:8880/movie/xzyc6m0969/Tw6LYDceHP/65397.mp4
-#EXTINF:-1 group-title="XXX-West" tvg-logo="http://a2.aatvbox.club:8880/images/TeensLikeItBig.20.04.08.Leda.Bear.Pussycraft.jpg",TeensLikeItBig.20.04.08.Leda.Bear.Pussycraft
-http://ay82.aatvbox.club:8880/movie/xzyc6m0969/Tw6LYDceHP/65420.mp4
 #EXTINF:-1 group-title="XXX-VIP",VIP004:Hustler TV
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/2982
 #EXTINF:-1 group-title="XXX-VIP",VIP007:Venus HD
@@ -1898,20 +1556,10 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60904
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60929
 #EXTINF:-1 group-title="UK Ent" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK0045USA.png",UK004:5USA
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/2953
-#EXTINF:-1 group-title="UK Ent" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK181BritishMuslimTV.png",UK181:British Muslim TV
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/28878
 #EXTINF:-1 group-title="UK Ent" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/",UK333:GUSTO TV
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/49956
-#EXTINF:-1 group-title="UK Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK138VICELAND.png",UK138:Rush Sport 1 - 3pm (Match Time)
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/28921
-#EXTINF:-1 group-title="UK Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/",UK322:Rush Sport 2 - 3pm (Match Time)
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/28729
-#EXTINF:-1 group-title="UK Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK283PopMax.png",UK283:Rush Sport 3 - 3pm (Match Time)
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/28776
 #EXTINF:-1 group-title="UK Cinema" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK237ELEVENSPORTS2FHD.png",UK237:Star Plus
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/28822
-#EXTINF:-1 group-title="UK Cinema" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK325STARGOLD.png",UK325:B4U PLUS
-http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/28734
 #EXTINF:-1 group-title="INTERNET RADIO" tvg-logo="http://p2086.securepoint.io:2086/images/6f199fdb77f6d3bf1b3b2fd5bb776abd.PNG",RADIO: LA MEGA 97.9
 http://mains.services:2086/live/dorec14/Chuckman5525$/100037.m3u8
 #EXTINF:-1 group-title="FOX/BALLY SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bally_sports_logo.svg/440px-Bally_sports_logo.svg.png",US : BALLY SPORTS TENNESSEE
