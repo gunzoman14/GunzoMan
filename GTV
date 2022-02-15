@@ -469,7 +469,7 @@ http://ky-iptv.com:80/godmode1/godmode1/1101242.ts
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://picon-13398.kxcdn.com/starplus.jpg",IN: STAR PLUS USA
 http://qqtv.nl:8080/live/maham/999999/409670.m3u8
 #EXTINF:-1 group-title="GAMERS" tvg-id="VENN.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zVoX1fM.jpg" group-title="US Channels",US: VENN
-http://ky-tv.cc:25461/live/David59459/2354545444/1589695.ts
+http://mains.services:2086/dorec14/Chuckman5525$/99599
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/beINSports.us.png",...beIN SPORTS HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:BEIN_SPORTS.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/beINSports.us.png",...beIN SPORTS HD
@@ -661,17 +661,17 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60573
 #EXTINF:-1 group-title="NEWS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/Euronews.png",PT: EURONEWS
 http://grandiptv.xyz:8080/robnichols/k6GGtQm8/610
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",PT: SPORT TV +
-http://ky-tv.cc:25461/David59459/2354545444/399394
+http://qqtv.nl:8080/maham/999999/185025
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",PT: SPORT TV 1
-http://ky-tv.cc:25461/David59459/2354545444/399398
+http://qqtv.nl:8080/maham/999999/26627
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",PT: SPORT TV 1 HD
 http://mains.services:2086/dorec14/Chuckman5525$/92132
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",PT: SPORT TV 2 HD
-http://ky-tv.cc:25461/David59459/2354545444/399401
+http://qqtv.nl:8080/maham/999999/26628
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",PT: SPORT TV 2 HD
 http://mains.services:2086/dorec14/Chuckman5525$/92133
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",PT: SPORT TV 3 HD
-http://ky-tv.cc:25461/David59459/2354545444/399401
+http://qqtv.nl:8080/maham/999999/26629
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",PT: SPORT TV 3 HD
 http://mains.services:2086/dorec14/Chuckman5525$/92134
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",PT: SPORT TV 4 HD
@@ -716,8 +716,6 @@ http://grandiptv.xyz:8080/robnichols/k6GGtQm8/8523
 http://mains.services:2086/dorec14/Chuckman5525$/17914
 #EXTINF:-1 group-title="● CLASSICS TV SHOW" tvg-logo="https://c8.alamy.com/comp/RN8C33/chuck-norris-walker-texas-ranger-1993-RN8C33.jpg",24/7 Walker Texas Ranger
 http://ky-tv.cc:25461/David59459/2354545444/1355987
-#EXTINF:-1,USA MC Radio Gospel
-http://ky-tv.cc:25461/David59459/2354545444/1568020
 #EXTINF:-1,RADIO: GOSPEL FM (JAMAICA)
 http://mains.services:2086/live/dorec14/Chuckman5525$/101144.m3u8
 #EXTINF:-1,RADIO: CARIBBEAN HOT FM
