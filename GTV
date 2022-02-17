@@ -189,7 +189,7 @@ http://mains.services:2086/dorec14/Chuckman5525$/99322
 #EXTINF:-1 group-title="COURT" tvg-logo="https://pbs.twimg.com/profile_images/3343381775/86b9811a36c2108168d9a21fd6af3752_400x400.jpeg",USA: Justice Central
 https://linear-90.frequency.stream/dist/localnow/90/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="COURT" tvg-logo="https://pbs.twimg.com/profile_images/3343381775/86b9811a36c2108168d9a21fd6af3752_400x400.jpeg",USA: Justice Central
-http://ky-tv.cc:25461/live/David59459/2354545444/175887.ts
+http://mains.services:2086/dorec14/Chuckman5525$/95442
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/CoziTV.us.png",..COZI
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:COZI_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/CTVToronto.ca.png",CA: CTV NEWS HD 
@@ -293,7 +293,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:HALLMARK.smil/playl
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/hallmark-drama-us.png",..HALLMARK DRAMA
 http://qqtv.nl:8080/maham/999999/52973
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/hallmark-drama-us.png",..HALLMARK DRAMA
-http://ky-tv.cc:25461/live/David59459/2354545444/175866.ts
+http://mains.services:2086/dorec14/Chuckman5525$/14869
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/hallmark-drama-us.png",..HALLMARK DRAMA
 http://grandiptv.xyz:8080/robnichols/k6GGtQm8/1419339
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2019/11/hallmarkmoviesnow-logo-purple-block.png",..HALLMARK MOVIES & MYSTERIES
@@ -345,7 +345,7 @@ https://lnc-news12.tubi.video/index.m3u8
 #EXTINF:-1 group-title="NOLLYWOOD" tvg-logo="https://picon-13398.kxcdn.com/africamagicigboza.jpg",CAR: AFRICA CHANNEL 
 http://qqtv.nl:8080/maham/999999/154457
 #EXTINF:-1 group-title="NOLLYWOOD" tvg-logo="https://cdn-africamagic.dstv.com/images/Channel/2016/10/19/369/4/11_showcase.png",Africa Magic Showcase
-http://ky-tv.cc:25461/live/David59459/2354545444/1089435.ts
+http://mains.services:2086/dorec14/Chuckman5525$/102435
 #EXTINF:-1 group-title="NOLLYWOOD" tvg-logo=",Pluto TV Demand Africa
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f061242a7951e00075d7413/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=172&deviceId=5f061242a7951e00075d7413&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/NatGeo.us.png",..NATIONAL GEOGRAPHIC
@@ -393,7 +393,7 @@ http://mains.services:2086/dorec14/Chuckman5525$/55946
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/PopTV.us.png",..POP
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/PopTV.us.png",..POP
-http://ky-tv.cc:25461/live/David59459/2354545444/1621092.ts
+http://mains.services:2086/dorec14/Chuckman5525$/100044
 #EXTINF:-1 group-title="RELIGION MOVIES" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/positiv.png",..POSI TV
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:POSITIV.smil/playlist.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://static.epg.best/us/ReelzChannel.us.png",..REEL
@@ -536,12 +536,10 @@ http://qqtv.nl:8080/live/maham/999999/392997.m3u8
 http://grandiptv.xyz:8080/robnichols/k6GGtQm8/636
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/flow-sports-car.png",CAR: FLOW SPORTS
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:FLOW_SPORTS.smil/playlist.m3u8
-#EXTINF:-1,Carib Flow Sports 2
-http://ky-tv.cc:25461/live/David59459/2354545444/1698483.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/flow-sports-car.png",CAR: RUSH SPORTS PLUS
 http://mains.services:2086/dorec14/Chuckman5525$/101249
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",Movistar Formula 1 HD
-http://ky-tv.cc:25461/live/David59459/2354545444/388228.ts
+http://qqtv.nl:8080/maham/999999/412188
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg",...SKY SPORTS F1 HD
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/2876
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg",...SKY SPORTS F1 HD
@@ -573,7 +571,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:NBA_TV.smil/playlist.
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",Sky Sport NBA HD
 http://mains.services:2086/dorec14/Chuckman5525$/94129
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",Sport NBA HD
-http://ky-tv.cc:25461/David59459/2354545444/387161
+http://qqtv.nl:8080/maham/999999/4997
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://ky-iptv.com:25461/images/6c6ad98cd6ab16b698bcae1106fd38ae.png",...NHL NETWORK
 http://grandiptv.xyz:8080/robnichols/k6GGtQm8/1419010
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png",...NHL NETWORK
@@ -583,7 +581,7 @@ http://grandiptv.xyz:8080/robnichols/k6GGtQm8/1419077
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/olympic-channel-us.png",SPORTS: Olympic Channel
 http://mains.services:2086/live/dorec14/Chuckman5525$/14975.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/olympic-channel-us.png",SPORTS: Olympic Channel
-http://ky-tv.cc:25461/David59459/2354545444/220440
+http://qqtv.nl:8080/maham/999999/434553
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.logolynx.com/images/logolynx/2b/2b52c6b9bf43351da5d3e38a626c6997.jpeg",PRO SPORTS
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:PRO_SPORTS.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/1M4zMdC.png",..SKY SPORT RACING
@@ -707,9 +705,7 @@ http://qqtv.nl:8080/maham/999999/4945
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://westfaironline.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-01-at-10.49.41-AM.png",...YES NETWORK HD
 http://grandiptv.xyz:8080/robnichols/k6GGtQm8/1420471
 #EXTINF:-1 group-title="● CLASSICS" tvg-logo="http://011011011.com:8080/images/5c2d7d6a0f9f4aa5fd9fee5d14163cd2.jpg",24/7 Sanford and Son
-http://ky-tv.cc:25461/David59459/2354545444/1040222
-#EXTINF:-1 group-title="● CLASSICS" tvg-logo="http://011011011.com:8080/images/5c2d7d6a0f9f4aa5fd9fee5d14163cd2.jpg",24/7 Sanford and Son
-http://ky-tv.cc:25461/David59459/2354545444/1002055
+http://mains.services:2086/dorec14/Chuckman5525$/93486
 #EXTINF:-1 group-title="Unsorted" tvg-logo="Logo N/A",24/7: Tom And Jerry
 http://grandiptv.xyz:8080/robnichols/k6GGtQm8/8523
 #EXTINF:-1 group-title="Unsorted" tvg-logo="Logo N/A",24/7: Tom And Jerry
@@ -720,10 +716,6 @@ http://ky-tv.cc:25461/David59459/2354545444/1355987
 http://mains.services:2086/live/dorec14/Chuckman5525$/101144.m3u8
 #EXTINF:-1,RADIO: CARIBBEAN HOT FM
 http://mains.services:2086/live/dorec14/Chuckman5525$/48015.m3u8
-#EXTINF:-1,MC Radio | Hit List
-http://ky-tv.cc:25461/David59459/2354545444/1574602
-#EXTINF:-1,US: MC Hip Hop & R&B HD
-http://ky-tv.cc:25461/David59459/2354545444/1574623
 #EXTINF:-1,Music Videos 4
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
 #EXTINF:-1,Stingray Karaoke
