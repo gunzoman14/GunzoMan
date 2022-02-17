@@ -618,6 +618,8 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SPORTSMAX_2.smil/pl
 http://qqtv.nl:8080/live/maham/999999/311867.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/SEC_Network_Logo.png",...ESPN SEC NETWORK HD
 http://qqtv.nl:8080/maham/999999/60414
+#EXTINF:-1,Sky Sport Beijing 2
+https://hostcloud.network/live/athos5681/798171/104371.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsactionuk.jpg",Sky Sports Action HD
 http://grandiptv.xyz:8080/robnichols/k6GGtQm8/67
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-news-uk.png",...SKY SPORTS NEWS HD
