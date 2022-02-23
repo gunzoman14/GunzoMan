@@ -190,6 +190,8 @@ http://mains.services:2086/dorec14/Chuckman5525$/95519
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="COURT" tvg-logo="http://xtream-coders.com/x0/entertainment/courttv.png",USA: Court Mystery
 http://mains.services:2086/dorec14/Chuckman5525$/99322
+#EXTINF:-1,24/7 JUDGE JUDY
+http://vmp343.ddnsking.com:80/bowl300/bowl300/430642
 #EXTINF:-1 group-title="COURT" tvg-logo="https://pbs.twimg.com/profile_images/3343381775/86b9811a36c2108168d9a21fd6af3752_400x400.jpeg",USA: Justice Central
 https://linear-90.frequency.stream/dist/localnow/90/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="COURT" tvg-logo="https://pbs.twimg.com/profile_images/3343381775/86b9811a36c2108168d9a21fd6af3752_400x400.jpeg",USA: Justice Central
