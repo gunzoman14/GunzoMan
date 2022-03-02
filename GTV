@@ -45,7 +45,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:A&E.smil/playlist.m
 #EXTINF:-1 group-title="ANIMALS" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png",..ANIMAL PLANET HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ANIMAL_PLANET.smil/playlist.m3u8
 #EXTINF:-1 group-title="ANIMALS" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png",..ANIMAL PLANET WEST HD
-http://m1-4k.websecureme.net/3C92CCC625F4224/2I6tGeo0mD/360515
+http://185.231.174.6:25461/3C92CCC625F4224/nkOsYCwSj4/360515?token=QxsKBEAOFA1DCVVRUwZWAwRVUwEHVVgCAgRXUF5QBFFdDFQDC1YCVVATG0QXFhdQAF48WgVDAwQGA1QHUxgXEUtcEDpaAhQNQwcDVFxbUBdNERdaDAQbDQEFVQBUAQVVCwxOR0MPUhVbEw5fXUBJFwRLF1YTD1hbb1cEQA9XUEYCVxcJX0oUWA9uUwMJAwtRQwlBA0NNG15DQ0MMCEFZCBQbAAxHFFdDBBMNRFBSVQJDH0FQDhRXQ0JKQwxEYGFGFBsHHUcDWEQIXllEXkARRkMfQVoSPktSQ0cTUwdZUBYaA0BVEUoUWgBJaAULDAtQAkcKXA8SGw0SAkMaRFlaClFNDRdsFl9TQwsVV1JQUgVDH0FGEgRLaFlDQwxEBQZVFghSVR1XAAVPAARSRh8=
 #EXTINF:-1 tvg-name="AXS_TV_NOW" tvg-id="23ecf3" tvg-logo="https://i.imgur.com/J8brM2F.png" group-title=",..AXS TV
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://xtream-coders.com/x0/entertainment/axstv.png",..AXS TV
