@@ -49,7 +49,7 @@ http://m1-4k.websecureme.net/3C92CCC625F4224/2I6tGeo0mD/360515
 #EXTINF:-1 tvg-name="AXS_TV_NOW" tvg-id="23ecf3" tvg-logo="https://i.imgur.com/J8brM2F.png" group-title=",..AXS TV
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://xtream-coders.com/x0/entertainment/axstv.png",..AXS TV
-http://m1-4k.websecureme.net/3C92CCC625F4224/gcknj8KIIY/360572
+http://194.120.230.71:25461/3C92CCC625F4224/GEIJJpjImx/360572?token=QxsKBEAOFA1DCVIEBgMDVFICVgECVwoOUwNYAF8MVwEMAVtRUQIHBlMTG0QXFhdQAF48WgVDAwQGA1QBVBgXEUtcEDpaAhQNQwcDVFxbUBdNERdaDAQbDQEFVQBUAAxTDQtOR0MPUhVbEwRVU1VQF00RBksVBEtZUV8+UgNCXAddG1gLRgpaG0NeWTkABwhUD1dBCUNRGxsSWhJGRA5bEVRVTkdRD0JFAEVSRF5AUAJXCkEfQwJWQl5HE09EDhcwbBtOR1YeQlIPQl4JCkBfFxVAQR9DCEpoQlYSQhRRVAldS0BfEVYUG0NcVh47AQpbD1YARwgOV0QSCUMHRBgXCVdXCxFcFGlHCFUVXEZaVAJUEU8RFBJcRW9aERRcFgRXCRdTVQNIBwFTHwZVUEAY
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/pt/AXN.pt.png",PT: AXN HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:AXN.smil/chunklist_b2500000_slen.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/pt/AXN.pt.png",PT: AXN HD
