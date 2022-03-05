@@ -1,5 +1,5 @@
 #EXTINF:-1,#EXTM3U
- x-tvg-url="http://qqtv.nl:8080/xmltv.php?username=maham&password=999999&type=m3u_plus&output=m3u8"
+#EXTM3U x-tvg-url="http://qqtv.nl:8080/xmltv.php?username=maham&password=999999&type=m3u_plus&output=m3u8"
 #EXTM3U x-tvg-url="http://springtube.me:8080/xmltv.php?username=Pad8p24qc6&password=GNA9DBbQUx&type=m3u_plus&output=m3u8"
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CAR: CNC3 TRINIDAD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:CNC3.smil/playlist.m3u8
@@ -190,7 +190,7 @@ http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3056
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/820?cb=20190417224656",MY: CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="COURT" tvg-logo="http://xtream-coders.com/x0/entertainment/courttv.png",USA: Court Mystery
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/1511324
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/74150
 #EXTINF:-1,24/7 JUDGE JUDY
 http://vmp343.ddnsking.com:80/bowl300/bowl300/430642
 #EXTINF:-1 group-title="COURT" tvg-logo="https://pbs.twimg.com/profile_images/3343381775/86b9811a36c2108168d9a21fd6af3752_400x400.jpeg",USA: Justice Central
@@ -248,9 +248,7 @@ http://grandiptv.xyz:8080/robnichols/k6GGtQm8/1419222
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/epix-hits-us.png",..EPIX HITS HD
 http://qqtv.nl:8080/Airport111/Airport111/395572
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/epix-hits-us.png",..EPIX HITS HD
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/1511429
-#EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/epix-hits-us.png",..EPIX HITS HD
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/1419056
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/22907
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cooking-channel-us.png",CA: COOKING CHANNEL
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:COOKING.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cooking-channel-us.png",CA: COOKING CHANNEL
@@ -275,10 +273,8 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FX.smil/playlist.m3u8
 http://qqtv.nl:8080/live/Airport111/Airport111/7886.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/fxx-us.png",..FXX HD
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3126
-#EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://picon-13398.kxcdn.com/fxmus.jpg",..FXM
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/1419071
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/fxm-movie-channel-us.png",..FXM
-http://mains.services:2086/dorec14/Chuckman5525$/1271
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/22905
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/FYI.us.png",CA: FYI
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FYI.smil/playlist.m3u8
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://static.epg.best/us/Grit.us.png",..GRIT TV HD
@@ -298,9 +294,9 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:HALLMARK.smil/playl
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/hallmark-drama-us.png",..HALLMARK DRAMA
 http://qqtv.nl:8080/Airport111/Airport111/52973
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/hallmark-drama-us.png",..HALLMARK DRAMA
-http://mains.services:2086/dorec14/Chuckman5525$/14869
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/22885
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/hallmark-drama-us.png",..HALLMARK DRAMA
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/1419339
+http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29457
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2019/11/hallmarkmoviesnow-logo-purple-block.png",..HALLMARK MOVIES & MYSTERIES
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:HALLMARK_MM.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/HGTV.us.png",..HGTV US
@@ -418,7 +414,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SONY_INDIA.smil/pla
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/SundanceTV.us.png",..SUNDANCE TV
 http://qqtv.nl:8080/live/Airport111/Airport111/67142.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/SundanceTV.us.png",..SUNDANCE TV
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/1419368
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/22860
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/SundanceTV.us.png",..SUNDANCE TV
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/29857
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/mx/Space.mx.png",..SPACE HD
@@ -470,7 +466,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:ZEE_CINEMA.smil/chu
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dd/Zee_TV_2017.svg/revision/latest/scale-to-width-down/200?cb=20191222192526",IN: ZEE HD USA
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:ZEETV.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/14/Zee_World.jpg/revision/latest/scale-to-width-down/80?cb=20180625105234",Zee World
-http://ky-iptv.com:80/godmode1/godmode1/1101242.ts
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/33628
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://picon-13398.kxcdn.com/starplus.jpg",IN: STAR PLUS USA
 http://qqtv.nl:8080/live/Airport111/Airport111/409670.m3u8
 #EXTINF:-1 group-title="GAMERS" tvg-id="VENN.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zVoX1fM.jpg" group-title="US Channels",US: VENN
@@ -484,91 +480,77 @@ http://qqtv.nl:8080/live/Airport111/Airport111/7866.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/boxnation.jpg",...BOX NATION UK
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3075
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/boxnation.jpg",...BOX NATION UK
-http://mains.services:2086/dorec14/Chuckman5525$/67081
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/17004
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png",...BT SPORT 1 HD UK
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",...BT SPORT 1 HD UK
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/7
-#EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",...BT SPORT 1 HD UK
-http://mains.services:2086/dorec14/Chuckman5525$/67062
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/374
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-2-uk.png",...BT SPORT 2 HD UK
 http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://p.kindpng.com/picc/s/23-238823_bt-sport-2-logo-hd-png-download.png",...BT SPORT 2 HD UK
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/11
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://p.kindpng.com/picc/s/23-238823_bt-sport-2-logo-hd-png-download.png",...BT SPORT 2 HD UK
-http://mains.services:2086/dorec14/Chuckman5525$/67063
+http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/2942
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-3-uk.png",...BT SPORT 3 HD UK
 http://93.152.174.144:4000/play/btsport3/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsport3hd.jpg",...BT SPORT 3 HD UK
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/2941
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsport3.jpg",...BT SPORT 3 HD UK
-http://mains.services:2086/dorec14/Chuckman5525$/67075
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsport3.jpg",...BT SPORT 3 HD UK
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/15
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/1282
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsportespn.jpg",...BT SPORT ESPN
 hhttp://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/2940
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsportespn.jpg",...BT SPORT ESPN
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/19
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsportespn.jpg",...BT SPORT ESPN
-http://mains.services:2086/dorec14/Chuckman5525$/67076
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/587
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/cbbssportsnetworkus.jpg",...CBS SPORTS NETWORK HD
 http://qqtv.nl:8080/Airport111/Airport111/7992
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/cbbssportsnetworkus.jpg",...CBS SPORTS NETWORK HD
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/1418969
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/8398
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",...CBS SPORTS NETWORK HD
 https://cbsshg09-cbsshg09-ms.global.ssl.fastly.net/cbss54g2/master/cbss54g2_7.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",...ESPN 1 HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:ESPN_CARIBBEAN.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",...ESPN 1 HD
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/2769
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/5227
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN2.us.png",...ESPN 2 HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ESPN2_CARIBBEAN.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN2.us.png",...ESPN 2 HD
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/2768
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/5386
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPNNews.us.png",...ESPN NEWS HD
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/1419076
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/10771
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPNU.us.png",...ESPNU HD
 http://qqtv.nl:8080/live/Airport111/Airport111/7895.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPNU.us.png",...ESPNU HD
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/1419031
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/26665
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg",...EUROSOPRT 1 HD
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/2917
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg",...EUROSOPRT 1 HD
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/404
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/1634
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg",...EUROSPORT 2 HD
 http://qqtv.nl:8080/live/Airport111/Airport111/392997.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg",...EUROSPORT 2 HD
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/636
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/66149
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/flow-sports-car.png",CAR: FLOW SPORTS
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:FLOW_SPORTS.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/flow-sports-car.png",CAR: RUSH SPORTS PLUS
-http://vmp343.ddnsking.com:80/bowl300/bowl300/16529
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/20249
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/caribbean/flow-sports-car.png",CAR: RUSH SPORTS PLUS
-http://mains.services:2086/dorec14/Chuckman5525$/101249
+http://vmp343.ddnsking.com:80/bowl300/bowl300/16529
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",Movistar Formula 1 HD
 http://qqtv.nl:8080/Airport111/Airport111/412188
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg",...SKY SPORTS F1 HD
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/2876
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg",...SKY SPORTS F1 HD
-http://mains.services:2086/dorec14/Chuckman5525$/101046
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/30345
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-f1-icon-uk.png?raw=true",...SKY SPORTS F1 HD
-http://mains.services:2086/dorec14/Chuckman5525$/101046
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/8177
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/FoxSports1.us.png",...FOX SPORTS 1 HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOXSPORTS1.smil/playlist.m3u8
 #EXTINF:-1,Fox Soccer Plus
-http://mains.services:2086/dorec14/Chuckman5525$/188
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/12568
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/FoxSports2.us.png",...FOX SPORTS 2 HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOXSPORTS2.smil/playlist.m3u8
-#EXTINF:-1,SPORTS: Fox Sports 2
-http://mains.services:2086/dorec14/Chuckman5525$/187
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_soccer_plus.png",...FOX SOCCER PLUS HD
-http://qqtv.nl:8080/live/Airport111/Airport111/57429.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://ky-iptv.com:25461/images/e8ccb8684a90849a67cab859f50e6c96.png",...FOX SOCCER PLUS HD
-http://mains.services:2086/dorec14/Chuckman5525$/11926
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/mlb-network-us.png",...MLB NETWORK HD
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/1418965
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/10737
 #EXTINF:-1,SPORTS: MSG
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/1420494
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/21705
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBCSNWashington.us.png",..NBCSN WASHINGTON PLUS HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NBCSPORTS.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBCSNWashington.us.png",..NBCSN WASHINGTON PLUS HD
@@ -576,15 +558,15 @@ http://qqtv.nl:8080/live/Airport111/Airport111/148172.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBATV.us.png",...NBA HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:NBA_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",Sky Sport NBA HD
-http://mains.services:2086/dorec14/Chuckman5525$/94129
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/80518
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",Sport NBA HD
 http://qqtv.nl:8080/Airport111/Airport111/4997
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://ky-iptv.com:25461/images/6c6ad98cd6ab16b698bcae1106fd38ae.png",...NHL NETWORK
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/1419010
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/10686
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png",...NHL NETWORK
 http://qqtv.nl:8080/live/Airport111/Airport111/52971.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/olympic-channel-us.png",SPORTS: Olympic Channel
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/1419077
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/22898
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/olympic-channel-us.png",SPORTS: Olympic Channel
 http://mains.services:2086/live/dorec14/Chuckman5525$/14975.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/olympic-channel-us.png",SPORTS: Olympic Channel
@@ -592,25 +574,25 @@ http://qqtv.nl:8080/Airport111/Airport111/434553
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.logolynx.com/images/logolynx/2b/2b52c6b9bf43351da5d3e38a626c6997.jpeg",PRO SPORTS
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:PRO_SPORTS.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/1M4zMdC.png",..SKY SPORT RACING
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/47
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/30340
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/1M4zMdC.png",..SKY SPORT RACING
-http://mains.services:2086/dorec14/Chuckman5525$/47763
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/26015
 #EXTINF:-1,UK Racing FHD
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/675
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/34563
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/ae/DubaiRacing.ae.png",RACING TV
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://uspto.report/TM/90108722/mark.png",SKILLS+THRILLS
 https://ab821aa1fe744f529fcd833dd8e5ed41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SkillsAndThrills/playlist.m3u8?ads.wurl_channel=590&ads.wurl_name=SkillsAndThrills&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=5f74cf7effbe690040689f3e&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="https://picon-13398.kxcdn.com/supersport-golf-za.jpg",...SUPERSPORTS GOLF HD ZA
-http://mains.services:2086/dorec14/Chuckman5525$/99288
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/33649
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="https://picon-13398.kxcdn.com/skysportsgolfuk.jpg",...SKY SPORTS GOLF HD
-http://mains.services:2086/dorec14/Chuckman5525$/67059
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/8175
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="https://picon-13398.kxcdn.com/tsn1ca.jpg",...TSN 1 HD
 http://grandiptv.xyz:8080/robnichols/k6GGtQm8/1495407
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="http://38.143.137.20/logo/prestige/United-States/golf_channel_us.png",...NBC GOLF HD
-http://qqtv.nl:8080/live/Airport111/Airport111/7962.m3u8
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/10687
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="https://picon-13398.kxcdn.com/golfchannel.jpg",...GOLF CHANNEL HD
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/1418966
+http://qqtv.nl:8080/Airport111/Airport111/7962
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8UBR7J74eEannqoVvxfefHXrCNXFtulu9zA&usqp=CAU",NL: ZIGGO SPORT GOLF HD
@@ -623,74 +605,76 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SPORTSMAX_2.smil/pl
 http://mains.services:2086/dorec14/Chuckman5525$/67059
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/SEC_Network_Logo.png",...ESPN SEC NETWORK HD
 http://qqtv.nl:8080/Airport111/Airport111/60414
-#EXTINF:-1,Sky Sport Beijing 2
-https://hostcloud.network/live/athos5681/798171/104371.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsactionuk.jpg",Sky Sports Action HD
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/67
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/30348
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-news-uk.png",...SKY SPORTS NEWS HD
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/30338
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-news-uk.png",...SKY SPORTS NEWS HD
 http://qqtv.nl:8080/Airport111/Airport111/417543
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsnewshqhd.jpg",...SKY SPORTS NEWS HD
 http://qqtv.nl:8080/live/Airport111/Airport111/417543.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-football-uk.png",...SKY SPORTS FOOTBALL HD
-http://qqtv.nl:8080/Airport111/Airport111/417545
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/30344
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsfootballuk.jpg",...SKY SPORTS FOOTBALL HD
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/62
+http://qqtv.nl:8080/Airport111/Airport111/417545
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/twMKgz9.png",...SKY SPORTS FOOTBALL HD
-http://mains.services:2086/dorec14/Chuckman5525$/67057
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/12663
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-cricket-uk.png",WC. SKY SPORTS CRICKET HD
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/2879
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportscricketuk.jpg",WC. SKY SPORTS CRICKET HD
-http://mains.services:2086/dorec14/Chuckman5525$/51106
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/258
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-main-event-uk.png",...SKY SPORTS MAIN EVENT
 http://qqtv.nl:8080/Airport111/Airport111/417546
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmaineventuk.jpg",...SKY SPORTS MAIN EVENT
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/64
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/30342
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmaineventuk.jpg",...SKY SPORTS MAIN EVENT
 http://qqtv.nl:8080/Airport111/Airport111/417546
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmixhd.jpg",...SKY SPORTS MIX HD
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/2882
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",...SKY SPORTS PREMIER LEAGUE HD
-http://qqtv.nl:8080/Airport111/Airport111/417542
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/6684
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",...SKY SPORTS PREMIER LEAGUE HD
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/68
+http://qqtv.nl:8080/Airport111/Airport111/417542
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png",...SUPERSPORT PREMIER LEAGUE HD AF
 http://qqtv.nl:8080/Airport111/Airport111/30957
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-premier-league-za.jpg",...SUPERSPORT PREMIER LEAGUE HD AF
 https://watch.universalsportstv.net:8081/nickhh44/H0011gan/51465
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg",SuperSport LaLiga HD ZA
-http://mains.services:2086/dorec14/Chuckman5525$/90490
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/2409
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg",SuperSport LaLiga HD ZA
-https://free.one24tv.com:443/live/94791643436715/94791643436715/15200.ts
-#EXTINF:-1,beIN LaLiga HD US
-http://mains.services:2086/dorec14/Chuckman5525$/99199
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/68100
 #EXTINF:-1,SuperSport LaLiga HD ZA
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60573
 #EXTINF:-1 group-title="NEWS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/Euronews.png",PT: EURONEWS
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/610
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/12626
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",PT: SPORT TV +
 http://qqtv.nl:8080/Airport111/Airport111/185025
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",PT: SPORT TV 1
 http://qqtv.nl:8080/Airport111/Airport111/26627
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",PT: SPORT TV 1 HD
-http://mains.services:2086/dorec14/Chuckman5525$/92132
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/6494
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",PT: SPORT TV 2 HD
 http://qqtv.nl:8080/Airport111/Airport111/26628
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",PT: SPORT TV 2 HD
-http://mains.services:2086/dorec14/Chuckman5525$/92133
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/6495
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",PT: SPORT TV 3 HD
 http://qqtv.nl:8080/Airport111/Airport111/26629
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",PT: SPORT TV 3 HD
-http://mains.services:2086/dorec14/Chuckman5525$/92134
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/6496
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",PT: SPORT TV 4 HD
-http://mains.services:2086/dorec14/Chuckman5525$/92135
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/6497
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",PT: SPORT TV 4 HD
-http://mains.services:2086/dorec14/Chuckman5525$/92135
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/16053
+#EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",PT: SPORT TV 5 HD
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/6498
+#EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",PT: SPORT TV 6 HD
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/12619
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/NBA_TV_HD.png",PT: SPORT TV NBA HD
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/1427
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/4483
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/TennisChannel.us.png",...TENNIS CHANNEL HD
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/1419012
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/10658
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",USA S Tennis
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/1440532
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/33610
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://images-platform.99static.com//Amj86fsRA0Px-9ijuvh3CPyidbs=/1009x174:4771x3936/fit-in/500x500/projects-files/64/6434/643466/eade489c-1423-4db4-910f-710fedb530cc.jpg",MOTORCYCLIST TV
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/playlist.m3u8
 #EXTINF:-1,DISCOVERY TURBO
@@ -700,25 +684,23 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:WILLOW.smil/playlist.
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/w3eLKLw.png" group-title="USA PLEX",IMPACT Wrestling 
 https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",...WWE NETWORK HD
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/5184
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",...WWE NETWORK HD
 http://qqtv.nl:8080/Airport111/Airport111/325241
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",...WWE NETWORK HD
 http://iptv.tvmalaysia.cc:80/titi3/titi3/6849
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",...WWE NETWORK HD
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/1418950
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/ufcfightpassus.jpg",UFC Fight Pass HD US
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3084
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",USA UFC Network
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/3084
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://westfaironline.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-01-at-10.49.41-AM.png",...YES NETWORK HD
-http://qqtv.nl:8080/Airport111/Airport111/4945
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/18212
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://westfaironline.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-01-at-10.49.41-AM.png",...YES NETWORK HD
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/1420471
+http://qqtv.nl:8080/Airport111/Airport111/4945
 #EXTINF:-1 group-title="● CLASSICS" tvg-logo="http://011011011.com:8080/images/5c2d7d6a0f9f4aa5fd9fee5d14163cd2.jpg",24/7 Sanford and Son
 http://ay82.aatvbox.club:8880/xzyc6m0969/Tw6LYDceHP/60856
 #EXTINF:-1 group-title="Unsorted" tvg-logo="Logo N/A",24/7: Tom And Jerry
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/8523
-#EXTINF:-1 group-title="Unsorted" tvg-logo="Logo N/A",24/7: Tom And Jerry
-http://mains.services:2086/dorec14/Chuckman5525$/17914
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/47996
 #EXTINF:-1 group-title="● CLASSICS TV SHOW" tvg-logo="https://c8.alamy.com/comp/RN8C33/chuck-norris-walker-texas-ranger-1993-RN8C33.jpg",24/7 Walker Texas Ranger
 http://ky-tv.cc:25461/David59459/2354545444/1355987
 #EXTINF:-1,RADIO: GOSPEL FM (JAMAICA)
