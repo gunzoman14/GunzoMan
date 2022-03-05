@@ -1,5 +1,6 @@
 #EXTINF:-1,#EXTM3U
 #EXTM3U x-tvg-url="http://qqtv.nl:8080/xmltv.php?username=maham&password=999999&type=m3u_plus&output=m3u8"
+#EXTM3U x-tvg-url="http://springtube.me:8080/xmltv.php?username=Pad8p24qc6&password=GNA9DBbQUx&type=m3u_plus&output=m3u8"
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CAR: CNC3 TRINIDAD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:CNC3.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",CAR: TTT TRINIDAD
@@ -45,7 +46,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:A&E.smil/playlist.m
 #EXTINF:-1 group-title="ANIMALS" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png",..ANIMAL PLANET HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ANIMAL_PLANET.smil/playlist.m3u8
 #EXTINF:-1 group-title="ANIMALS" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png",..ANIMAL PLANET WEST HD
-http://satelliteiptv.xyz:8080/live/2f6swd46l7/sxd2w9ott7/14393.m3u8
+http://qqtv.nl:8080/Airport111/Airport111/7868
 #EXTINF:-1 tvg-name="AXS_TV_NOW" tvg-id="23ecf3" tvg-logo="https://i.imgur.com/J8brM2F.png" group-title=",..AXS TV
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://xtream-coders.com/x0/entertainment/axstv.png",..AXS TV
@@ -103,13 +104,11 @@ http://194.120.230.41:25461/3C92CCC625F4224/nvIiGEaBpx/383107?token=QxsKBEAOFA1D
 #EXTINF:-1 group-title="Music" tvg-logo="http://xtream-coders.com/x0/entertainment/bet_jams.png",..BET JAMS HD
 http://qqtv.nl:8080/live/Airport111/Airport111/395568.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="http://xtream-coders.com/x0/entertainment/bet_jams.png",..BET JAMS HD
-http://185.231.174.6:25461/3C92CCC625F4224/brtMW0sIjO/361496?token=QxsKBEAOFA1DV1ZSVloADFIKWwFSWFsEAgoEBQMGUVwAXVNVA1YDAFgTG0QXFhdQAF48WgVDAwQGAlUPUBgXEUtcEDpaAhQNQwcDVFxbUBdNERdaDAQbDQEFVQBUAQNWDw9OR0MPUhVbEwZXUFRHGUNWG0cEE1dWXGwFUxBdVgEaAwwQXwoaFQ5faAIBDwRbBRFZEVFDFRVZQBEUXFpACFQVQAdaEkRWFVQVXEZTVgRYEU8RAg5MWURBGBRcFmEwGhVAAEsSU1kSWFgIRlhHQRIRTxEIEmZFVUAVRANVWAFKG1hHA0QaFQxQTzkHDQtbBFAXWg4PShUKEVAUShZYC1ZQFgpBOUZeBRMNRFZaUwFTEU8RFBJcRW9aERRcFgRXCRdTVQNIBwFTHwZVUEAY
+http://satelliteiptv.xyz:8080/live/2f6swd46l7/sxd2w9ott7/684742.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="http://xtream-coders.com/x0/entertainment/bet_soul.png",..BET SOUL HD
 http://qqtv.nl:8080/live/Airport111/Airport111/395573.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="http://xtream-coders.com/x0/entertainment/bet_soul.png",..BET SOUL HD
-http://185.231.174.6:25461/3C92CCC625F4224/brtMW0sIjO/361497?token=QxsKBEAOFA1DV1UAUAQBAlZXVFFVBVhVVgBRBVYAVwVaCFFXV1ZQAAcTG0QXFhdQAF48WgVDAwQGAlUPURgXEUtcEDpaAhQNQwcDVFxbUBdNERdaDAQbDQEFVQBUAQNSCA1OR0MPUhVbEwBRVVFHGUNWG0cEE1dWXGwFUxBdVgEaAwwQXwoaFQ5faAIBDwRbBRFZEVFDFRVZQBEUXFpACFQVQAdaEkRWFVQVXEZTVgdREU8RAg5MWURBGBRcFmEwGhVAAEsSU1kSWFgIRlhHQRIRTxEIEmZFVUAVRANVWAFKG1hHA0QaFQxQTzkHDQtbBFAXWg4PShUKEVAUShZYC1ZQFgpBOUZeBRMNRFZaUwBREU8RFBJcRW9aERRcFgRXCRdTVQNIBwFTHwZVUEAY
-#EXTINF:-1 group-title="Music" tvg-id="LoopHipHopEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yW7WCPm.png" group-title="US Channels",US: Loop Hip-Hop East
-http://122.254.124.41:25461/3C92CCC625F4224/JlqUGKyR0J/560521?token=QxsKBEAOFA1DVQVWV1RWDAMAVwBQVQ4PU1JSAgUMVAJZXQcGBARSB1QTG0QXFhdQAF48WgVDAwIGA1QEVxgXEUtcEDpaAhQNQwcDVFxbUBdNERdaDAQbDQEFVQBUAQNdAABOR0MPUhVbEwVQVFZdF00RBksVBEtZUV8+UgNCXAddG1gLRgpaG0NeWTkABwhUD1dBCUNRGxsSWhJGRA5bEVRVTkdRD0JFAEVSRF5AUQdQBUEfQwJWQl5HE09EDhcwbBtOR1YeQlIPQl4JCkBfFxVAQR9DCEpoQlYSQhRRVAldS0BfEVYUG0NcVh47AQpbD1YARwgOV0QSCUMHRBgXCVdXCxFcFGlHCFUVXEZQXAFQB0EfQxRKUkJsCEZEDhdVCwhMVANWGAZXAxlXV1ZHSA==
+http://satelliteiptv.xyz:8080/live/2f6swd46l7/sxd2w9ott7/661091.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.pngfind.com/pngs/m/165-1655043_retro-tv-png-transparent-png.png",RETRO TV MUSIC
 http://stream.mediawork.cz:1935/retrotv/retrotvHQ1/chunklist_w1328169946.m3u8
 #EXTINF:-1,*Retro Plus TV
@@ -139,7 +138,7 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/55vA85a.png",USA: BOAT SHOW
 https://e99f8e610cd24f40a2c5f054d33aad3a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_TheBoatShow/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/Boomerang.us.png",..BOOMERANG HD
-http://foctv.xyz:25510/Imrany/BB1732/126
+http://qqtv.nl:8080/live/Airport111/Airport111/15543.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/Boomerang.us.png",..CARTOONITO HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BOOMERANG.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BounceTV.us.png",..BOUNCE TV HD
@@ -207,7 +206,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:WPIX.smil/playlist.m3
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/KOMUCW.us.png",..CW (CENTRAL PA) HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:CW11.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/Cp24.ca.png",CA: CP24**
-http://grandiptv.xyz:8080/robnichols/k6GGtQm8/1495523
+http://qqtv.nl:8080/Airport111/Airport111/7919
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://static.epg.best/in/AndFlix.in.png",IN: & FLIX HD
 http://qqtv.nl:8080/Airport111/Airport111/7252
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://static.epg.best/in/AndPrive.in.png",IN: &Prive
@@ -351,7 +350,7 @@ https://lnc-news12.tubi.video/index.m3u8
 #EXTINF:-1 group-title="NOLLYWOOD" tvg-logo="https://picon-13398.kxcdn.com/africamagicigboza.jpg",CAR: AFRICA CHANNEL 
 http://qqtv.nl:8080/Airport111/Airport111/154457
 #EXTINF:-1 group-title="NOLLYWOOD" tvg-logo="https://cdn-africamagic.dstv.com/images/Channel/2016/10/19/369/4/11_showcase.png",Africa Magic Showcase
-http://mains.services:2086/dorec14/Chuckman5525$/102435
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/51115
 #EXTINF:-1 group-title="NOLLYWOOD" tvg-logo=",Pluto TV Demand Africa
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f061242a7951e00075d7413/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=172&deviceId=5f061242a7951e00075d7413&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/NatGeo.us.png",..NATIONAL GEOGRAPHIC
@@ -359,7 +358,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NATGEO.smil/playlist.
 #EXTINF:-1 group-title="ANIMALS" tvg-logo="https://static.epg.best/us/NatGeoWild.us.png",..NAT GEO WILD HD
 http://qqtv.nl:8080/live/Airport111/Airport111/7959.m3u8
 #EXTINF:-1 group-title="ANIMALS" tvg-logo="https://static.epg.best/us/NatGeoWild.us.png",..NAT GEO WILD HD
-http://185.231.174.6:25461/3C92CCC625F4224/Jv6n9iiHsH/360496?token=QxsKBEAOFA1DVVYFV1ZQAVBXBgFWAw0DBAEAVFcBAAddXFUEUgMEDwMTG0QXFhdQAF48WgVDAwQGA1UPUBgXEUtcEDpaAhQNQwcDVFxbUBdNERdaDAQbDQEFVQBUAQdSDQpOR0MPUhVbEwRXVVRHGUNWG0cEE1dWXGwFUxBdVgEaAwwQXwoaFQ5faAIBDwRbBRFZEVFDFRVZQBEUXFpACFQVQAdaEkRWFVQVXEZUVwNREU8RAg5MWURBGBRcFmEwGhVAAEsSU1kSWFgIRlhHQRIRTxEIEmZFVUAVRANVWAFKG1hHA0QaFQxQTzkHDQtbBFAXWg4PShUKEVAUShZYC1ZQFgpBOUZeBRMNRFVUVQRTEU8RFBJcRW9aERRcFgRXCRdTVQNIBwFTHwZVUEAY
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/22874
 #EXTINF:-1 group-title="ANIMALS" tvg-logo="https://www.freelogovector.com/wp-content/uploads/2017/06/23%20-%20PNG%20love%20nature%20copy.jpg",CA: LOVE NATURE
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ANIMALS" tvg-logo="https://lh3.googleusercontent.com/WQ2ho9IeNMbXvlWlPlbjGFPJML3wXo3BZmWGo-JBnOSFz1Ham13Dv3PsDUcTzm_AHDpZ",CA: LOVE NATURE
@@ -657,7 +656,7 @@ http://grandiptv.xyz:8080/robnichols/k6GGtQm8/68
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png",...SUPERSPORT PREMIER LEAGUE HD AF
 http://qqtv.nl:8080/Airport111/Airport111/30957
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-premier-league-za.jpg",...SUPERSPORT PREMIER LEAGUE HD AF
-http://mains.services:2086/dorec14/Chuckman5525$/90491
+https://watch.universalsportstv.net:8081/nickhh44/H0011gan/51465
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg",SuperSport LaLiga HD ZA
 http://mains.services:2086/dorec14/Chuckman5525$/90490
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg",SuperSport LaLiga HD ZA
