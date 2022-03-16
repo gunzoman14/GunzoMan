@@ -369,7 +369,7 @@ https://magellantv-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Xplore.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjU5MDAzNDRf/Xplore_307x307.png" group-title="US Channels",US: Xplore
 https://xplore-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/Newsmax.us.png",USA: NEWSMAX
-http://ky-iptv.com:80/starisborn/starisborn/391595.ts
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1647428600/ei/mG8xYojtJpKkir4Pxu2ZuA4/ip/20.225.90.145/id/FErQVDzgBLo.1/source/yt_live_broadcast/requiressl/yes/tx/24153814/txs/24153813%2C24153814/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPBNvRoV0OxCi3vUqkc7vmYnMFdudnAbkJ3j1RnA_9j9AiEA9MA3Yt-m7rn_pgChk24EHx1c6ExBj7nxmohac5B1SFs%3D/file/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nbc_hd.jpg",..NBC 6 MIAMI HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NBC.smil/chunklist_b1160000_slen.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://static.epg.best/us/MTV.us.png",..MTV
