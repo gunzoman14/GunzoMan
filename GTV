@@ -397,7 +397,7 @@ http://ky-iptv.com:80/starisborn/starisborn/1621092.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://011011011.com:8080/images/a3138fb2ce0613e05ffec4a8951ad0a7.png",..PIXL
 http://ky-iptv.com:80/starisborn/starisborn/1621092.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/PopTV.us.png",..POP
-https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+https://16live00.akamaized.net/POPTV/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/PopTV.us.png",..POP
 http://ky-iptv.com:80/starisborn/starisborn/1355341.ts
 #EXTINF:-1 group-title="RELIGION MOVIES" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/positiv.png",..POSI TV
@@ -487,13 +487,19 @@ http://ky-iptv.com:80/starisborn/starisborn/189910.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/boxnation.jpg",...BOX NATION UK
 http://ky-iptv.com:80/starisborn/starisborn/189910.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png",...BT SPORT 1 HD UK
+https://16live00.akamaized.net/BTSPORTS1/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png",...BT SPORT 1 HD UK
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="Logo N/A",...BT SPORT 1 HD UK
 http://ky-iptv.com:80/starisborn/starisborn/1846762.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-2-uk.png",...BT SPORT 2 HD UK
+https://16live00.akamaized.net/BTSPORTS2/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-2-uk.png",...BT SPORT 2 HD UK
 http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://p.kindpng.com/picc/s/23-238823_bt-sport-2-logo-hd-png-download.png",...BT SPORT 2 HD UK
 http://ky-iptv.com:80/starisborn/starisborn/1400409.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-3-uk.png",...BT SPORT 3 HD UK
+https://16live00.akamaized.net/BTSPORTS3/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-3-uk.png",...BT SPORT 3 HD UK
 http://93.152.174.144:4000/play/btsport3/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsport3hd.jpg",...BT SPORT 3 HD UK
@@ -501,9 +507,13 @@ http://ky-iptv.com:80/starisborn/starisborn/1846767.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsport3.jpg",...BT SPORT 3 HD UK
 http://ky-iptv.com:80/starisborn/starisborn/1846764.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsportespn.jpg",...BT SPORT ESPN
+https://16live00.akamaized.net/BTSPORTS_ESPN/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsportespn.jpg",...BT SPORT ESPN
 http://ky-iptv.com:80/starisborn/starisborn/1846770.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsportespn.jpg",...BT SPORT ESPN
 http://ky-iptv.com:80/starisborn/starisborn/515737.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/cbbssportsnetworkus.jpg",...CBS SPORTS NETWORK HD
+https://16live00.akamaized.net/CBS_SPORTS/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/cbbssportsnetworkus.jpg",...CBS SPORTS NETWORK HD
 http://qqtv.nl:8080/Airport111/Airport111/7992
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/cbbssportsnetworkus.jpg",...CBS SPORTS NETWORK HD
@@ -525,7 +535,7 @@ http://qqtv.nl:8080/live/Airport111/Airport111/7895.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPNU.us.png",...ESPNU HD
 http://ky-iptv.com:80/starisborn/starisborn/220412.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg",...EUROSOPRT 1 HD
-http://ky-iptv.com:80/starisborn/starisborn/187310.ts
+https://16live00.akamaized.net/EUROSPORTS1/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg",...EUROSOPRT 1 HD
 http://ky-iptv.com:80/starisborn/starisborn/1846756.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg",...EUROSPORT 2 HD
