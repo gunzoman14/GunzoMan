@@ -1,6 +1,6 @@
 #EXTINF:-1,#EXTM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/1M4zMdC.png",..SKY SPORT RACING
-http://mains.services:2086/dorec14/Chuckman5525$/47763
+https://16live00.akamaized.net/SKYSPORTSRACES/index.m3u8
 #EXTINF:-1 ,Horse Racing 2
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 #EXTINF:-1 ,Racing.com
@@ -17,3 +17,5 @@ http://mains.services:2086/dorec14/Chuckman5525$/67071
 https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie_1000.m3u8
 #EXTINF:-1,GB : ITV4
 http://mains.services:2086/dorec14/Chuckman5525$/67004
+#EXTINF:-1 ,FOX SPORTS
+http://38.127.211.18/live/c2eds/FoxSports2/HLS/index.m3u8
