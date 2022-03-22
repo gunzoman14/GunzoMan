@@ -196,6 +196,8 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 http://ipflix.click:8080/live/6xbcz47z39/jklgjldfs4255jh/13750.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/820?cb=20190417224656",MY: CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1,Judge Judy
+http://electrotv.us:80/f5KcK7s7Aa/Ii977T2lfh/1861471.ts
 #EXTINF:-1,24/7 JUDGE JUDY
 http://ky-iptv.com:80/f5KcK7s7Aa/Ii977T2lfh/1635202.ts
 #EXTINF:-1 group-title="COURT" tvg-logo="https://pbs.twimg.com/profile_images/3343381775/86b9811a36c2108168d9a21fd6af3752_400x400.jpeg",USA: Justice Central
