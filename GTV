@@ -104,13 +104,13 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:CENTRIC.smil/playlist
 http://qqtv.nl:8080/Trevor/123456/52918
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pngkey.com/png/full/264-2641524_bet-gospel-1-gospel-logo.png",..BET Gospel
 http://qqtv.nl:8080/Trevor/123456/52918
-#EXTINF:-1 group-title="Music" tvg-logo="http://xtream-coders.com/x0/entertainment/bet_jams.png",..BET JAMS HD
+#EXTINF:-1 group-title="Music" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_jams.png",..BET JAMS HD
 http://00322.xyz:8000/Luissgt/IJJD0Y54D8/131327
-#EXTINF:-1 group-title="Music" tvg-logo="http://xtream-coders.com/x0/entertainment/bet_jams.png",..BET JAMS HD
+#EXTINF:-1 group-title="Music" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_jams.png",..BET JAMS HD
 http://qqtv.nl:8080/live/Trevor/123456/395568.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="http://xtream-coders.com/x0/entertainment/bet_soul.png",..BET SOUL HD
+#EXTINF:-1 group-title="Music" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_soul.png",..BET SOUL HD
 http://qqtv.nl:8080/live/Trevor/123456/395573.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="http://xtream-coders.com/x0/entertainment/bet_soul.png",..BET SOUL HD
+#EXTINF:-1 group-title="Music" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_soul.png",..BET SOUL HD
 http://mains.services:2086/dorec14/Chuckman5525$/56109
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.pngfind.com/pngs/m/165-1655043_retro-tv-png-transparent-png.png",RETRO TV MUSIC
 http://stream.mediawork.cz:1935/retrotv/retrotvHQ1/chunklist_w1328169946.m3u8
@@ -122,17 +122,15 @@ https://srv5.zcast.com.br/pedro3742/pedro3742/playlist.m3u8
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:REVOLT.smil/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://i1.sndcdn.com/avatars-uqybZeqknWnyRv13-tdcZKw-t500x500.jpg",V2BEAT
 https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1,USA Gospel Truth TV
-http://ky-iptv.com:80/f5KcK7s7Aa/Ii977T2lfh/1138963.ts
-#EXTINF:-1,Gospel Music Television
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQUtZOjnDDF0jSa-VhUK9XIF03ODugGcIFW76ng=s900-c-k-c0x00ffffff-no-rj",Gospel Music Television
 https://stmv1.srvif.com/gmusic/gmusic/chunklist.m3u8
-#EXTINF:-1, TV Gospel Music
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQUtZOjnDDF0jSa-VhUK9XIF03ODugGcIFW76ng=s900-c-k-c0x00ffffff-no-rj",TV Gospel Music
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
-#EXTINF:-1,USA | HILLSONG CHANNEL
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://www.pngkey.com/png/detail/210-2102708_local-sports-hillsong-channel-logo.png",..HILLSONG CHANNEL
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d486b87428fe37d8cadba44/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Music" tvg-logo="http://static1.squarespace.com/static/5d07b0c8af0f1c0001204144/t/5d07b0f8c2c5b00001d89f93/1560785145428/social+sharing+logo.png?format=1500w",VEVO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="JAMAICA" tvg-logo="https://i.ytimg.com/vi/rmk-Pryx74g/maxresdefault.jpg",Mello TV
+#EXTINF:-1 group-title="JAMAICA" tvg-logo="http://glmtv.pw/logo/prestige/Caribean/MELLO_TV.png",Mello TV
 https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://seeklogo.com/images/A/all-music-logo-C3D748FA36-seeklogo.com.png",ALL MUSIC
 http://mains.services:2086/dorec14/Chuckman5525$/98601
@@ -142,9 +140,9 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:REVOLT.smil/chunkli
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/55vA85a.png",USA: BOAT SHOW
 https://e99f8e610cd24f40a2c5f054d33aad3a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_TheBoatShow/playlist.m3u8
-#EXTINF:-1 tvg-id="KIDS" status="online",Young Hollywood 
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wixstatic.com/media/c0022c_00346a1fad75450091d456228f06829e~mv2.png/v1/fit/w_2500,h_1330,al_c/c0022c_00346a1fad75450091d456228f06829e~mv2.png",Young Hollywood 
 https://younghollywood-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KIDS" status="online",LEGO Channels 
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/414vUJZ9MfL.png",LEGO Channels 
 https://legochannel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/Boomerang.us.png",..BOOMERANG HD
 http://00322.xyz:8000/Luissgt/IJJD0Y54D8/140615
