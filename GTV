@@ -675,7 +675,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/
 #EXTINF:-1,DISCOVERY TURBO
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:DISCOVERY_TURBO.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/WillowCricket.us.png",WC. WILLOW CRICKET USA
-http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:PRO_SPORTS.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:WILLOW.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/w3eLKLw.png" group-title="USA PLEX",IMPACT Wrestling 
 https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",...WWE NETWORK HD
