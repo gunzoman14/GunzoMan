@@ -1,5 +1,5 @@
 #EXTINF:-1,#EXTM3U
-#EXTM3U x-tvg-url="http://qqtv.nl:8080/xmltv.php?username=maham&password=999999&type=m3u_plus&output=m3u8"
+#EXTM3U x-tvg-url="http://ky-iptv.com/xmltv.php?username=duke2&password=duke2&type=m3u_plus&output=m3u8"
 #EXTINF:120,ABC 
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/ABC/HLS/index.m3u8
