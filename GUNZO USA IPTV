@@ -1,725 +1,299 @@
 #EXTINF:-1,#EXTM3U
 #EXTM3U x-tvg-url="http://qqtv.nl:8080/xmltv.php?username=maham&password=999999&type=m3u_plus&output=m3u8"
-#EXTINF:-1 ,Carib: CNC3
-http://qqtv.nl:8080/live/Trevor/123456/272995.m3u8
-#EXTINF:-1 ,Carib: TTT
-http://qqtv.nl:8080/Trevor/123456/154428
-#EXTINF:-1 ,Carib: CCN TV6
-http://qqtv.nl:8080/Trevor/123456/154450
-#EXTINF:-1 ,Carib: Synergy
-http://qqtv.nl:8080/live/Trevor/123456/272996.m3u8
-#EXTINF:-1 ,Carib: Gayelle The Caribbean
-http://qqtv.nl:8080/live/Trevor/123456/413873.m3u8
-#EXTINF:-1 group-title="ENGLISH" tvg-logo="http://38.143.137.20/logo/prestige/Canada/much-ca.png",CA: MUCH MUSIC HD
-http://qqtv.nl:8080/live/Trevor/123456/57404.m3u8
-#EXTINF:-1 group-title="ENGLISH-USA" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/IpB/IpB_large.png",..FOX BUSINESS HD
-http://qqtv.nl:8080/live/Trevor/123456/7984.m3u8
-#EXTINF:-1 group-title="ENGLISH-USA" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbcsn-us.png",..NBCSN WASHINGTON PLUS HD
-http://qqtv.nl:8080/live/Trevor/123456/148172.m3u8
-#EXTINF:-1 group-title="ENGLISH-USA" tvg-logo="http://38.143.137.20/logo/prestige/United-States/hgtv_us.png",..HGTV US
-http://qqtv.nl:8080/live/Trevor/123456/7917.m3u8
-#EXTINF:-1 group-title="ENGLISH-USA" tvg-logo="http://38.143.137.20/logo/prestige/Canada/oprah-winfrey-network-canada-us-ca.png",..OWN US
-http://qqtv.nl:8080/live/Trevor/123456/31010.m3u8
-#EXTINF:-1 group-title="ENGLISH-USA" tvg-logo="http://38.143.137.20/logo/prestige/United-States/tv_one_us.png",..TV ONE HD US
-http://qqtv.nl:8080/live/Trevor/123456/154601.m3u8
-#EXTINF:-1 group-title="ENGLISH-USA" tvg-logo="http://38.143.137.20/logo/prestige/United-States/usa_network_west.png",..USA NETWORK HD
-http://qqtv.nl:8080/live/Trevor/123456/7874.m3u8
-#EXTINF:-1 group-title="ENGLISH-USA" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-1_608.png",..SYFY HD US
-http://qqtv.nl:8080/live/Trevor/123456/7910.m3u8
-#EXTINF:-1 group-title="ENGLISH-USA" tvg-logo="https://sc.dish.com/shared/images/station-logos/tcm.png",..TURNER CLASSIC MOVIES US
-http://qqtv.nl:8080/live/Trevor/123456/15391.m3u8
-#EXTINF:-1 group-title="ENGLISH-USA" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png",..FOX 7 AUSTIN TX HD
-http://qqtv.nl:8080/live/Trevor/123456/148145.m3u8
-#EXTINF:-1 group-title="ENGLISH-USA" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png",..FOX 26 HOUSTON HD
-http://qqtv.nl:8080/live/Trevor/123456/148136.m3u8
-#EXTINF:-1 group-title="ENGLISH-USA" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png",..FOX 28 COLUMBUS HD
-http://qqtv.nl:8080/live/Trevor/123456/148137.m3u8
-#EXTINF:-1 group-title="ENGLISH-USA" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png",..FOX 54 AUGUSTA HD
-http://qqtv.nl:8080/live/Trevor/123456/148144.m3u8
-#EXTINF:-1 group-title="ENGLISH-USA" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs.png",..CBS 11 HOUSTON HD
-http://qqtv.nl:8080/live/Trevor/123456/148108.m3u8
-#EXTINF:-1 group-title="ENGLISH-USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/CBSN_channel_Logo.png/120px-CBSN_channel_Logo.png",..CBS 21 COLUMBUS HD
-http://qqtv.nl:8080/live/Trevor/123456/30424.m3u8
-#EXTINF:-1 group-title="ENGLISH-USA" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png",..NBC 4 COLUMBUS HD
-http://qqtv.nl:8080/live/Trevor/123456/148107.m3u8
-#EXTINF:-1 group-title="ENGLISH-USA" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_us_central.png",..NBC 47 HOUSTON HD
-http://qqtv.nl:8080/live/Trevor/123456/148166.m3u8
-#EXTINF:-1 group-title="ENGLISH-USA" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png",..ABC 13 HOUSTON HD
-http://qqtv.nl:8080/live/Trevor/123456/148095.m3u8
-#EXTINF:-1 group-title="ENGLISH-USA" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png",..ABC 6 COLUMBUS HD
-http://qqtv.nl:8080/live/Trevor/123456/148131.m3u8
-#EXTINF:-1 group-title="SPORTS",CORONAVIRUS PANDEMIC Live Update
-http://qqtv.nl:8080/live/Trevor/123456/322446.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_soccer_plus.png",...FOX SOCCER PLUS HD
-http://qqtv.nl:8080/live/Trevor/123456/57429.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nesn-us.png",...NESN PLUS HD
-http://qqtv.nl:8080/live/Trevor/123456/56438.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/eleven-sports-4-portugal-uk-pt.png",ELEVEN SPORTS HD USA
-http://qqtv.nl:8080/live/Trevor/123456/148452.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://38.143.137.20/logo/prestige/India/atn-punjabi-in-ca.png",WC. ATN CRICKET PLUS HD CANADA
-http://qqtv.nl:8080/live/Trevor/123456/30328.m3u8
-#EXTINF:-1 group-title="CHILDREN" tvg-logo="http://www.vector-logo.net/logo_preview/eps/t/TreeHouse_TV.png",KS: TREEHOUSE HD
-http://qqtv.nl:8080/live/Trevor/123456/69414.m3u8
-#EXTINF:-1 group-title="CHILDREN" tvg-logo="http://38.143.137.20/logo/prestige/Canada/disney_channel_global.png",KS: DISNEY HD EAST US
-http://qqtv.nl:8080/live/Trevor/123456/21101.m3u8
-#EXTINF:-1 group-title="CHILDREN" tvg-logo="http://epg4you.com/logos/disneyxd.png",KS: DISNEY XD US
-http://qqtv.nl:8080/live/Trevor/123456/15497.m3u8
-#EXTINF:-1 group-title="CHILDREN" tvg-logo="http://epg4you.com/logos/nickjr.png",KS: NICK JR US
-http://qqtv.nl:8080/live/Trevor/123456/15446.m3u8
-#EXTINF:-1 group-title="CHILDREN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Teletoon_2011.PNG/220px-Teletoon_2011.PNG",KS: CARTOON NETWORK HD US
-http://qqtv.nl:8080/live/Trevor/123456/4955.m3u8
-#EXTINF:-1 group-title="CHILDREN" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/nick_toons_us.png",KS: NICK MUSIC
-http://qqtv.nl:8080/live/Trevor/123456/21095.m3u8
-#EXTINF:-1 group-title="CHILDREN" tvg-logo="http://epg4you.com/logos/boomerang.png",KS: BOOMERANG US
-http://qqtv.nl:8080/live/Trevor/123456/15543.m3u8
-#EXTINF:-1 group-title="CHILDREN" tvg-logo="http://glmtv.pw/logo/prestige/United-States/universal-kids-us.png",KS: UNIVERSAL KIDS HD US
-http://qqtv.nl:8080/live/Trevor/123456/15387.m3u8
-#EXTINF:-1 group-title="CHILDREN" tvg-logo="http://glmtv.pw/logo/prestige/Canada/disney_channel_global.png",KS: TEENNICK US
-http://qqtv.nl:8080/live/Trevor/123456/392932.m3u8
-#EXTINF:-1 group-title="HBO // LIVE MOVIES" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo_tw.png",**HBO EAST USA
-http://qqtv.nl:8080/live/Trevor/123456/148633.m3u8
-#EXTINF:-1 group-title="HBO // LIVE MOVIES" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo-zone-us.png",**HBO ZONE EAST HD US
-http://qqtv.nl:8080/live/Trevor/123456/7883.m3u8
-#EXTINF:-1 group-title="HBO // LIVE MOVIES" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo-zone-us.png",**HBO ZONE WEST HD US
-http://qqtv.nl:8080/live/Trevor/123456/275730.m3u8
-#EXTINF:-1 group-title="ENGLISH-USA" tvg-logo="http://glmtv.pw/logo/prestige/United-States/sportsman-channel-canada-us-ca.png",..SPORTSMAN CHANNEL
-http://qqtv.nl:8080/live/Trevor/123456/392654.m3u8
-#EXTINF:-1 group-title="ENGLISH-USA" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nbc_sports_bay_area.png",..NBC SPORTS WASHINGTON HD
-http://qqtv.nl:8080/live/Trevor/123456/148161.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/Canada/sportsnet_one.png",*SPORTSNET ONE SD
-http://qqtv.nl:8080/live/Trevor/123456/412868.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102011/sportsnet2011_0.png",...SPORTSNET ONE HD
-http://qqtv.nl:8080/live/Trevor/123456/7982.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/Canada/sportsnet_360.png",*SPORTSNET 360 SD
-http://qqtv.nl:8080/live/Trevor/123456/412867.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.bellaliant.net/binaries/small/content/gallery/common_en/tv/channel-logos/sportsnet_360.png",...SPORTSNET 360 HD
-http://qqtv.nl:8080/live/Trevor/123456/7998.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/Canada/sportsnet_ontario.png",*SPORTSNET ONTARIO SD
-http://qqtv.nl:8080/live/Trevor/123456/412869.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://saskatoon50plushockey.com/wp-content/uploads/2016/10/sportsnet.png",...SPORTSNET ONTARIO HD
-http://qqtv.nl:8080/live/Trevor/123456/7997.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/Canada/sportsnet_east.png",*SPORTSNET EAST SD
-http://qqtv.nl:8080/live/Trevor/123456/412870.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://saskatoon50plushockey.com/wp-content/uploads/2016/10/sportsnet.png",...SPORTSNET EAST HD
-http://qqtv.nl:8080/live/Trevor/123456/60405.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/Canada/sportsnet_west.png",*SPORTSNET WEST SD
-http://qqtv.nl:8080/live/Trevor/123456/412871.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://saskatoon50plushockey.com/wp-content/uploads/2016/10/sportsnet.png",...SPORTSNET WEST HD
-http://qqtv.nl:8080/live/Trevor/123456/4974.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/Canada/sportsnet_pacific.png",*SPORTSNET PACIFIC SD
-http://qqtv.nl:8080/live/Trevor/123456/412872.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://saskatoon50plushockey.com/wp-content/uploads/2016/10/sportsnet.png",...SPORTSNET PACIFIC HD
-http://qqtv.nl:8080/live/Trevor/123456/31952.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/Canada/sportsnet_pacific.png",*SPORTSNET WORLD SD
-http://qqtv.nl:8080/live/Trevor/123456/412873.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://saskatoon50plushockey.com/wp-content/uploads/2016/10/sportsnet.png",...SPORTSNET WORLD HD
-http://qqtv.nl:8080/live/Trevor/123456/4973.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/spectrum-sportsnet-us.png",...SPECTRUM SPORTSNET HD
-http://qqtv.nl:8080/live/Trevor/123456/404429.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/032015/bein_sport_0.png",...beIN SPORTS HD
-http://qqtv.nl:8080/live/Trevor/123456/7866.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://epg4you.com/logos/beinsports.png",...beIN SPORTS Global HD
-http://qqtv.nl:8080/live/Trevor/123456/30237.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/Hong-Kong/now_hk_tv.png",...NOW SPORTS 1 HD HK
-http://qqtv.nl:8080/live/Trevor/123456/30238.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/bein-sports-2-qa-fr.png",***beIN SPORTS XTRA 01 HD
-http://qqtv.nl:8080/live/Trevor/123456/15714.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/bein-sports-3-qa-fr.png",***beIN SPORTS ENG 02 HD
-http://qqtv.nl:8080/live/Trevor/123456/15671.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_05_hd.png",***beIN SPORTS ENG 03 HD
-http://qqtv.nl:8080/live/Trevor/123456/411423.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://glmtv.pw/logo/prestige/United-Kingdom/british_eurosport_2.png",...EUROSPORT 2 HD
-http://qqtv.nl:8080/live/Trevor/123456/392997.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png",...BT SPORT 1 HD UK
-http://qqtv.nl:8080/live/Trevor/123456/265920.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-2-uk.png",...BT SPORT 2 HD UK
-http://qqtv.nl:8080/live/Trevor/123456/265921.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-3-uk.png",...BT SPORT 3 HD UK
-http://qqtv.nl:8080/live/Trevor/123456/265922.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-news-uk.png",...SKY SPORTS NEWS HD
-http://qqtv.nl:8080/live/Trevor/123456/417543.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/Italy/sky-sport-f1-it.png",...SKY SPORTS F1 HD
-http://qqtv.nl:8080/live/Trevor/123456/12814.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-golf-uk.png",...SKY SPORTS GOLF HD
-http://qqtv.nl:8080/live/Trevor/123456/311867.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-arena-uk.png",...SKY SPORTS ARENA HD
-http://qqtv.nl:8080/live/Trevor/123456/417544.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-main-event-uk.png",...SKY SPORTS MAIN EVENT
-http://qqtv.nl:8080/live/Trevor/123456/417546.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-football-uk.png",...SKY SPORTS FOOTBALL HD
-http://qqtv.nl:8080/live/Trevor/123456/417545.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-premier-league-uk.png",...SKY SPORTS PREMIER LEAGUE HD
-http://qqtv.nl:8080/live/Trevor/123456/417542.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png",...RSA SUPERSPORTS VARITY 01 HD AF
-http://qqtv.nl:8080/live/Trevor/123456/311868.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png",...SUPERSPORT PREMIER LEAGUE HD AF
-http://qqtv.nl:8080/live/Trevor/123456/30957.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png",...ZA SUPERSPORTS RUGBY HD AF
-http://qqtv.nl:8080/live/Trevor/123456/30330.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png",...NG SUPERSPORTS RUGBY HD AF
-http://qqtv.nl:8080/live/Trevor/123456/397213.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png",...ZW SUPERSPORTS RUGBY HD AF
-http://qqtv.nl:8080/live/Trevor/123456/395599.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png",...SUPERSPORTS GOLF HD ZA
-http://qqtv.nl:8080/live/Trevor/123456/269696.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox-sports-2-nederland-us-nl.png",...FOX SPORTS SOUTHEAST HD
-http://qqtv.nl:8080/live/Trevor/123456/7862.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox-sports-1-nederland-us-nl.png",...FOX SPORTS 1 HD
-http://qqtv.nl:8080/live/Trevor/123456/7894.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox-sports-2-nederland-us-nl.png",...FOX SPORTS 2 HD
-http://qqtv.nl:8080/live/Trevor/123456/7893.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/IsH/IsH_large.png",...NBC SPORTS NETWORK HD
-http://qqtv.nl:8080/live/Trevor/123456/7995.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-States/cbs-sports-network-us.png",...CBS SPORTS NETWORK HD
-http://qqtv.nl:8080/live/Trevor/123456/7992.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/Canada/tva_sports_ca.png",...TVA SPORTS 1 HD FR
-http://qqtv.nl:8080/live/Trevor/123456/4998.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/Canada/tva_sports_ca.png",...TVA SPORTS 2 HD FR
-http://qqtv.nl:8080/live/Trevor/123456/21030.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/Australia/optus_sport_au.png",...NOW PREMIER SPORTS 1 HD
-http://qqtv.nl:8080/live/Trevor/123456/319618.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/France/trace_fr_sport_stars.png",...TRACE SPORTS STARS
-http://qqtv.nl:8080/live/Trevor/123456/412501.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/eleven-sports-network-uk.png",...SPORTS GRID HD
-http://qqtv.nl:8080/live/Trevor/123456/148451.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/be_in_mena_sports_us.png",...FTF FREE SPORTS HD
-http://qqtv.nl:8080/live/Trevor/123456/315504.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_05_hd.png",...EDGESPORT
-http://qqtv.nl:8080/live/Trevor/123456/411422.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_05_hd.png",...beIN SPORTS CANADA HD
-http://qqtv.nl:8080/live/Trevor/123456/411424.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-States/att-sportsnet-us.png",...AT&T SPORTSNET PITTSBURGH
-http://qqtv.nl:8080/live/Trevor/123456/319613.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-States/att-sportsnet-us.png",...AT&T SPORTSNET SOUTHWEST
-http://qqtv.nl:8080/live/Trevor/123456/319614.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-States/att-sportsnet-us.png",...AT&T SPORTSNET ROCKY MOUNTAIN
-http://qqtv.nl:8080/live/Trevor/123456/319616.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/eleven-sports-1-portugal-uk-pt.png",ELEVEN SPORTS 1 HD FR
-http://qqtv.nl:8080/live/Trevor/123456/148455.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/eleven-sports-2-portugal-uk-pt.png",ELEVEN SPORTS 2 HD FR
-http://qqtv.nl:8080/live/Trevor/123456/148454.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/eleven-sports-3-portugal-uk-pt.png",ELEVEN SPORTS 3 HD FR
-http://qqtv.nl:8080/live/Trevor/123456/148453.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/eleven-sports-4-portugal-uk-pt.png",ELEVEN SPORTS HD USA
-http://qqtv.nl:8080/live/Trevor/123456/148452.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/eleven-sports-1-portugal-uk-pt.png",ELEVEN SPORTS 1 HD [PT]
-http://qqtv.nl:8080/live/Trevor/123456/148450.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/eleven-sports-2-portugal-uk-pt.png",ELEVEN SPORTS 2 HD [PT]
-http://qqtv.nl:8080/live/Trevor/123456/148449.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/eleven-sports-3-portugal-uk-pt.png",ELEVEN SPORTS 3 HD [PT]
-http://qqtv.nl:8080/live/Trevor/123456/148448.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/eleven-sports-4-portugal-uk-pt.png",ELEVEN SPORTS 4 HD [PT]
-http://qqtv.nl:8080/live/Trevor/123456/148447.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-States/eleven-sports-network-uk.png",ELEVEN SPORTS 5 HD [PT]
-http://qqtv.nl:8080/live/Trevor/123456/148446.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-States/eleven-sports-network-uk.png",ELEVEN SPORTS 6 HD [PT]
-http://qqtv.nl:8080/live/Trevor/123456/148445.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/Croatia/arena-sport-1-rs.png",...ARENA SPORT 1 HR
-http://qqtv.nl:8080/live/Trevor/123456/12319.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/Croatia/arena-sport-2-rs.png",...ARENA SPORT 2 HR
-http://qqtv.nl:8080/live/Trevor/123456/12317.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/Croatia/arena-sport-3-rs.png",...ARENA SPORT 3 HR
-http://qqtv.nl:8080/live/Trevor/123456/12315.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/Croatia/arena-sport-4-rs.png",...ARENA SPORT 4 HR
-http://qqtv.nl:8080/live/Trevor/123456/12313.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/Croatia/arena-sport-5-rs.png",...ARENA SPORT 5 HR
-http://qqtv.nl:8080/live/Trevor/123456/12311.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/Croatia/arena-sport-2-rs.png",...ARENA SPORT 1 SRB
-http://qqtv.nl:8080/live/Trevor/123456/12318.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/Croatia/arena-sport-2-rs.png",...ARENA SPORT 2 SRB
-http://qqtv.nl:8080/live/Trevor/123456/12316.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/Croatia/arena-sport-4-rs.png",...ARENA SPORT 4 SRB
-http://qqtv.nl:8080/live/Trevor/123456/12312.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/Croatia/arena-sport-5-rs.png",...ARENA SPORT 5 SRB
-http://qqtv.nl:8080/live/Trevor/123456/12310.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/be_in_mena_sports_us.png",AR: beIN SPORTS NEWS HD
-http://qqtv.nl:8080/live/Trevor/123456/315505.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://epg4you.com/logos/beinsports.png",AR: beIN SPORT 01 HD
-http://qqtv.nl:8080/live/Trevor/123456/30248.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/be_in_mena_sports_us.png",AR: beIN SPORT 02 HD
-http://qqtv.nl:8080/live/Trevor/123456/265924.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://epg4you.com/logos/beinsports3.png",AR: beIN SPORT 03 HD
-http://qqtv.nl:8080/live/Trevor/123456/30246.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://epg4you.com/logos/beinsports4.png",AR: beIN SPORT 04 HD
-http://qqtv.nl:8080/live/Trevor/123456/30245.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://epg4you.com/logos/beinsports5.png",AR: beIN SPORT 05 HD
-http://qqtv.nl:8080/live/Trevor/123456/30244.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://epg4you.com/logos/beinsports6.png",AR: beIN SPORT 06 HD
-http://qqtv.nl:8080/live/Trevor/123456/30243.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://epg4you.com/logos/beinsports7.png",AR: beIN SPORT 07 HD
-http://qqtv.nl:8080/live/Trevor/123456/30242.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/be_in_mena_sports_us.png",AR: beIN SPORTS MAX 04 HD Match Only
-http://qqtv.nl:8080/live/Trevor/123456/15688.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://epg4you.com/logos/beinsports8.png",AR: beIN SPORTS PREMIUM 01 HD
-http://qqtv.nl:8080/live/Trevor/123456/30241.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://epg4you.com/logos/beinsports9.png",AR: beIN SPORTS PREMIUM 02 HD
-http://qqtv.nl:8080/live/Trevor/123456/30240.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://epg4you.com/logos/beinsports10.png",AR: beIN SPORTS PREMIUM 03 HD
-http://qqtv.nl:8080/live/Trevor/123456/30239.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://epg4you.com/logos/beinsports1.png",...FOX SPORTS WISCONSIN HD
-http://qqtv.nl:8080/live/Trevor/123456/31032.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://epg4you.com/logos/beinsports2.png",...FOX SPORTS SAN DIEGO HD
-http://qqtv.nl:8080/live/Trevor/123456/31031.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://epg4you.com/logos/beinsports3.png",...FOX SPORTS SPORTSTIME OHIO HD
-http://qqtv.nl:8080/live/Trevor/123456/31030.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://epg4you.com/logos/beinsports.png",...FOX SPORTS TENNESSEE HD
-http://qqtv.nl:8080/live/Trevor/123456/31029.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://epg4you.com/logos/beinsports.png",...FOX SPORTS WEST HD
-http://qqtv.nl:8080/live/Trevor/123456/31028.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://epg4you.com/logos/beinsports.png",...FOX SPORTS NORTH HD
-http://qqtv.nl:8080/live/Trevor/123456/31027.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://epg4you.com/logos/beinsports.png",...FOX SPORTS SOUTHWEST HD
-http://qqtv.nl:8080/live/Trevor/123456/31026.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://epg4you.com/logos/beinsports.png",...FOX SPORTS SUN HD
-http://qqtv.nl:8080/live/Trevor/123456/31021.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-cricket-uk.png",WC. SKY SPORTS CRICKET HD
-http://qqtv.nl:8080/live/Trevor/123456/30326.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://epg4you.com/logos/willowcricket.png",WC. SUPERSPORT CRICKET HD
-http://qqtv.nl:8080/live/Trevor/123456/30621.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/flow_sports_uk.png",WC. FLOWER SPORTS
-http://qqtv.nl:8080/live/Trevor/123456/275731.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://38.143.137.20/logo/prestige/United-Arab-Emirates/osn_barker_channel.png",WC. OSN SPORTS CRICKET
-http://qqtv.nl:8080/live/Trevor/123456/30599.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://38.143.137.20/logo/prestige/Pakistan/ptv_sports_pk.png",WC. PTV SPORTS
-http://qqtv.nl:8080/live/Trevor/123456/5216.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://38.143.137.20/logo/prestige/India/ten_sports_in_pakistan.png",WC. TEN SPORTS
-http://qqtv.nl:8080/live/Trevor/123456/30574.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_in_1_tamil.png",WC. STAR SPORTS FIRST
-http://qqtv.nl:8080/live/Trevor/123456/30628.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_in_1.png",WC. STAR SPORTS 1
-http://qqtv.nl:8080/live/Trevor/123456/30630.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_in_2.png",WC. STAR SPORTS 2
-http://qqtv.nl:8080/live/Trevor/123456/30629.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_in_3.png",WC. STAR SPORTS 3 HD
-http://qqtv.nl:8080/live/Trevor/123456/7999.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_hk_select_hd_1.png",WC. STAR SPORTS SELECT 1 HD
-http://qqtv.nl:8080/live/Trevor/123456/30539.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_hk_select_hd_2.png",WC. STAR SPORTS SELECT 2 HD
-http://qqtv.nl:8080/live/Trevor/123456/30538.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png",WC. RSA SUPERSPORT CRICKET HD
-http://qqtv.nl:8080/live/Trevor/123456/393845.m3u8
-#EXTINF:-1 group-title="FRENCH" tvg-logo="https://www.sambofrance.com/sites/default/files/styles/medium/public/actualite/image/rmc_sport_fb_0.png",FR: RMC SPORTS 2
-http://qqtv.nl:8080/live/Trevor/123456/31263.m3u8
-#EXTINF:-1 group-title="FRENCH" tvg-logo="http://38.143.137.20/logo/prestige/France/bein-sports-1-qa-fr.png",FR: beIN SPORT 01 HD
-http://qqtv.nl:8080/live/Trevor/123456/31194.m3u8
-#EXTINF:-1 group-title="FRENCH" tvg-logo="http://38.143.137.20/logo/prestige/France/bein-sports-2-qa-fr.png",FR: beIN SPORT 02 HD
-http://qqtv.nl:8080/live/Trevor/123456/31193.m3u8
-#EXTINF:-1 group-title="FRENCH" tvg-logo="http://38.143.137.20/logo/prestige/France/bein-sports-3-qa-fr.png",FR: beIN SPORT 03 HD
-http://qqtv.nl:8080/live/Trevor/123456/31192.m3u8
-#EXTINF:-1 group-title="FRENCH" tvg-logo="http://38.143.137.20/logo/prestige/France/bein-sports-max-4-qa-fr.png",FR: beIN SPORTS MAX 04 HD
-http://qqtv.nl:8080/live/Trevor/123456/31191.m3u8
-#EXTINF:-1 group-title="FRENCH" tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_05_hd.png",FR: beIN SPORTS MAX 05 HD.
-http://qqtv.nl:8080/live/Trevor/123456/31190.m3u8
-#EXTINF:-1 group-title="FRENCH" tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_06_hd.png",FR: beIN SPORTS MAX 06 HD
-http://qqtv.nl:8080/live/Trevor/123456/31189.m3u8
-#EXTINF:-1 group-title="FRENCH" tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_07_hd.png",FR: beIN SPORTS MAX 07 HD
-http://qqtv.nl:8080/live/Trevor/123456/31188.m3u8
-#EXTINF:-1 group-title="FRENCH" tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_08_hd.png",FR: beIN SPORTS MAX 08 HD
-http://qqtv.nl:8080/live/Trevor/123456/31187.m3u8
-#EXTINF:-1 group-title="FRENCH" tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_09_hd.png",FR: beIN SPORTS MAX 09 HD
-http://qqtv.nl:8080/live/Trevor/123456/31186.m3u8
-#EXTINF:-1 group-title="FRENCH" tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_10_hd.png",FR: beIN SPORTS MAX 10 HD
-http://qqtv.nl:8080/live/Trevor/123456/31185.m3u8
-#EXTINF:-1 group-title="SPANISH" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e4/52mx.jpg/revision/latest?cb=20161128033012",MEX: AYM Sport
-http://qqtv.nl:8080/live/Trevor/123456/20113.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://glmtv.pw/logo/prestige/United-States/be_in_mena_sports_espanol.png",DEP* beIN SPORTS N
-http://qqtv.nl:8080/live/Trevor/123456/88419.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://glmtv.pw/logo/prestige/United-States/be_in_mena_sports_espanol.png",DEP* beIN SPORTS EN ESPANOL HD
-http://qqtv.nl:8080/live/Trevor/123456/88420.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://glmtv.pw/logo/prestige/United-States/be_in_mena_sports_espanol.png",DEP* beIN SPORTS LALIGA USA
-http://qqtv.nl:8080/live/Trevor/123456/87458.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://glmtv.pw/logo/prestige/United-States/be_in_mena_sports_espanol.png",DEP* beIN SPORTS LIGA FHD
-http://qqtv.nl:8080/live/Trevor/123456/31019.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png",DEP* WIN SPORTS CO
-http://qqtv.nl:8080/live/Trevor/123456/20234.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://glmtv.pw/logo/prestige/Argentina/tyc_sports.png",DEP* TYC SPORTS HD ARG
-http://qqtv.nl:8080/live/Trevor/123456/20198.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://glmtv.pw/logo/prestige/Argentina/tyc_sports.png",DEP* TYC SPORTS IINTERNATIONAL ARG
-http://qqtv.nl:8080/live/Trevor/123456/389561.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://cdn.livesoccertv.com/images/logo55.png",DEP* SCLARO SPORTS LATAM CO
-http://qqtv.nl:8080/live/Trevor/123456/20130.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/150px-Claro_Sports_logo.svg.png",DEP* CLARO SPORT CO
-http://qqtv.nl:8080/live/Trevor/123456/20162.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://glmtv.pw/logo/prestige/Australia/fox-sports-news-australia-us-au.png",DEP* TNT SPORTS HD CHILE
-http://qqtv.nl:8080/live/Trevor/123456/319612.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png",DEP* TNT SPORTS 2 HD CHILE
-http://qqtv.nl:8080/live/Trevor/123456/400235.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://glmtv.pw/logo/prestige/Argentina/tnt-sports-us-ar.png",DEP* TNT SPORTS 3 HD CHILE
-http://qqtv.nl:8080/live/Trevor/123456/318795.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://glmtv.pw/logo/prestige/United-States/directv-sports-us.png",DEP* DIRECTV SPORT +
-http://qqtv.nl:8080/live/Trevor/123456/20261.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://glmtv.pw/logo/prestige/United-States/directv-sports-us.png",DEP* DIRECTV SPORTS 1 HD
-http://qqtv.nl:8080/live/Trevor/123456/20106.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://glmtv.pw/logo/prestige/United-States/directv-sports-us.png",DEP* DIRECTV SPORTS 2 HD
-http://qqtv.nl:8080/live/Trevor/123456/20311.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://glmtv.pw/logo/prestige/United-States/fox_soccer_plus.png",DEP* FOX SPORT SUR
-http://qqtv.nl:8080/live/Trevor/123456/20128.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://glmtv.pw/logo/prestige/United-States/fox_sports_1_cl.png",DEP* FOX SPORTS 1 MX
-http://qqtv.nl:8080/live/Trevor/123456/20095.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://glmtv.pw/logo/prestige/United-States/fox_sports_2_ar.png",DEP* FOX SPORTS 2 MX
-http://qqtv.nl:8080/live/Trevor/123456/20097.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://glmtv.pw/logo/prestige/United-States/fox_sports_3_lam.png",DEP* FOX SPORTS 3 MX
-http://qqtv.nl:8080/live/Trevor/123456/20096.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png",DEP* FOX SPORTS 2 ARG
-http://qqtv.nl:8080/live/Trevor/123456/20086.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://glmtv.pw/logo/prestige/Mexico/fox_sports_global.png",DEP* FOX SPORTS 3 ARG
-http://qqtv.nl:8080/live/Trevor/123456/20262.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/220px-Fox_Sports_logo1.svg.png",DEP* FOX SPORTS COLOMBIA
-http://qqtv.nl:8080/live/Trevor/123456/20219.m3u8
-#EXTINF:-1 group-title="CHILE -//- PARAGUAY" tvg-logo="http://glmtv.pw/logo/prestige/Chile/tvn-cl.png",CL: TNT SPORTS HD
-http://qqtv.nl:8080/live/Trevor/123456/20053.m3u8
-#EXTINF:-1 group-title="CHILE -//- PARAGUAY" tvg-logo="http://glmtv.pw/logo/prestige/United-States/fox_sports_1_cl.png",CL: FOX SPORTS 1 HD
-http://qqtv.nl:8080/live/Trevor/123456/20084.m3u8
-#EXTINF:-1 group-title="CHILE -//- PARAGUAY" tvg-logo="http://glmtv.pw/logo/prestige/United-States/fox_sports_2_ar.png",CL: FOX SPORTS 2 HD
-http://qqtv.nl:8080/live/Trevor/123456/58292.m3u8
-#EXTINF:-1 group-title="CHILE -//- PARAGUAY" tvg-logo="http://images.mi.tv/channels/cl_cdf-hd_m.png",CL: DIRECTV SPORTS
-http://qqtv.nl:8080/live/Trevor/123456/20406.m3u8
-#EXTINF:-1 group-title="ECUADOR -//- PERU" tvg-logo="http://glmtv.pw/logo/prestige/United-States/directv-sports-us.png",ECU: DIRECTV SPORTS 1 HD
-http://qqtv.nl:8080/live/Trevor/123456/20227.m3u8
-#EXTINF:-1 group-title="ECUADOR -//- PERU" tvg-logo="http://38.143.137.20/logo/prestige/Chile/directv-sports-us.png",ECU: DIRECTV SPORTS 2 HD
-http://qqtv.nl:8080/live/Trevor/123456/20319.m3u8
-#EXTINF:-1 group-title="ECUADOR -//- PERU" tvg-logo="http://38.143.137.20/logo/prestige/Chile/directv-sports-us.png",ECU: DIRECTV SPORTS PLUS HD
-http://qqtv.nl:8080/live/Trevor/123456/20059.m3u8
-#EXTINF:-1 group-title="COLOMBIA -//- VENEZUELA" tvg-logo="http://glmtv.pw/logo/prestige/Colombia/win_sports_co.png",CO: WIN SPORTS HD
-http://qqtv.nl:8080/live/Trevor/123456/20185.m3u8
-#EXTINF:-1 group-title="COLOMBIA -//- VENEZUELA" tvg-logo="http://glmtv.pw/logo/prestige/Colombia/win_sports_co.png",CO: WIN SPORTS PLUS HD
-http://qqtv.nl:8080/live/Trevor/123456/20044.m3u8
-#EXTINF:-1 group-title="CENTRAL AMERICA" tvg-logo="http://glmtv.pw/logo/prestige/Panama/cable_onda_sports_pa_1.png",PANAMA: CABLEONDA SPORTS FC
-http://qqtv.nl:8080/live/Trevor/123456/20177.m3u8
-#EXTINF:-1 group-title="CENTRAL AMERICA" tvg-logo="https://www.pelandoelojo.com/wp-content/uploads/2016/07/Repretel-TV-Tiquicia.png",COSTA RICA: TIGO SPORT COSTA RICA
-http://qqtv.nl:8080/live/Trevor/123456/20159.m3u8
-#EXTINF:-1 group-title="PORTUGUESE" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/sporting_tv_pt.png",PT: SPORTING TV HD
-http://qqtv.nl:8080/live/Trevor/123456/311321.m3u8
-#EXTINF:-1 group-title="PORTUGUESE" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/sport_tv_pt_mais.png",PT: SPORT TV PLUS HD
-http://qqtv.nl:8080/live/Trevor/123456/185025.m3u8
-#EXTINF:-1 group-title="PORTUGUESE" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/sport_tv_pt_1.png",PT: SPORT TV 1 HD
-http://qqtv.nl:8080/live/Trevor/123456/26627.m3u8
-#EXTINF:-1 group-title="PORTUGUESE" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/sport_tv_pt_2.png",PT: SPORT TV 2 HD
-http://qqtv.nl:8080/live/Trevor/123456/26628.m3u8
-#EXTINF:-1 group-title="PORTUGUESE" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/sport_tv_pt_3.png",PT: SPORT TV 3 HD
-http://qqtv.nl:8080/live/Trevor/123456/26629.m3u8
-#EXTINF:-1 group-title="PORTUGUESE" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/sport_tv_pt_4.png",PT: SPORT TV 4 HD
-http://qqtv.nl:8080/live/Trevor/123456/26630.m3u8
-#EXTINF:-1 group-title="PORTUGUESE" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/sport_tv_pt.png",PT: SPORT TV 5 HD
-http://qqtv.nl:8080/live/Trevor/123456/26631.m3u8
-#EXTINF:-1 group-title="PORTUGUESE" tvg-logo="http://38.143.137.20/logo/prestige/Portugal/sporting_tv_pt.png",PT: SPORT TV NBA HD
-http://qqtv.nl:8080/live/Trevor/123456/152464.m3u8
-#EXTINF:-1 group-title="PORTUGUESE" tvg-logo="http://www.logotypes101.com/logos/728/3A065802790EFEBB6F625A0C89983679/eurosport.png",PT: EUROSPORT 1 HD
-http://qqtv.nl:8080/live/Trevor/123456/26615.m3u8
-#EXTINF:-1 group-title="PORTUGUESE" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/british_eurosport_2.png",PT: EUROSPORT 2
-http://qqtv.nl:8080/live/Trevor/123456/26617.m3u8
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bandsports_12_logo.png/180px-Bandsports_12_logo.png",BR: BAND SPORTS HD
-http://qqtv.nl:8080/live/Trevor/123456/26295.m3u8
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="http://glmtv.pw/logo/prestige/Brazil/sportv_br_alternativo.png",BR: SPORTV 1 HD
-http://qqtv.nl:8080/live/Trevor/123456/26385.m3u8
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="http://glmtv.pw/logo/prestige/Brazil/sportv2_br_alternativo.png",BR: SPORTV 2 HD
-http://qqtv.nl:8080/live/Trevor/123456/26341.m3u8
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="http://glmtv.pw/logo/prestige/Brazil/sportv3_br.png",BR: SPORTV 3 HD
-http://qqtv.nl:8080/live/Trevor/123456/26277.m3u8
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="http://glmtv.pw/logo/prestige/Brazil/fox_sports_global.png",BR: FOX SPORTS 1
-http://qqtv.nl:8080/live/Trevor/123456/26283.m3u8
-#EXTINF:-1 group-title="GREEK" tvg-logo="http://glmtv.pw/logo/prestige/Greece/cosmote_gr_sport.png",GR: SPORT PLUS USA
-http://qqtv.nl:8080/live/Trevor/123456/11813.m3u8
-#EXTINF:-1 group-title="GREEK" tvg-logo="http://38.143.137.20/logo/prestige/Greece/ert-sports-gr.png",GR: ERT SPORTS HD
-http://qqtv.nl:8080/live/Trevor/123456/19950.m3u8
-#EXTINF:-1 group-title="GREEK" tvg-logo="http://38.143.137.20/logo/prestige/Greece/nova_gr_sports_1_hd.png",GR: NOVA SPORTS 1 HD
-http://qqtv.nl:8080/live/Trevor/123456/54226.m3u8
-#EXTINF:-1 group-title="GREEK" tvg-logo="http://38.143.137.20/logo/prestige/Greece/nova_gr_sports_2_hd.png",GR: NOVA SPORTS 2 HD
-http://qqtv.nl:8080/live/Trevor/123456/54225.m3u8
-#EXTINF:-1 group-title="GREEK" tvg-logo="http://38.143.137.20/logo/prestige/Greece/nova_gr_sports_3_hd.png",GR: NOVA SPORTS 3 HD
-http://qqtv.nl:8080/live/Trevor/123456/54224.m3u8
-#EXTINF:-1 group-title="GREEK" tvg-logo="http://38.143.137.20/logo/prestige/Greece/nova_gr_sports_4_hd.png",GR: NOVA SPORTS 4 HD
-http://qqtv.nl:8080/live/Trevor/123456/53231.m3u8
-#EXTINF:-1 group-title="GREEK" tvg-logo="http://glmtv.pw/logo/prestige/Greece/cosmote_gr_sport_1_hd.png",GR: S SPORT PLUS 1 HD (MATCH TIME)
-http://qqtv.nl:8080/live/Trevor/123456/392885.m3u8
-#EXTINF:-1 group-title="GREEK" tvg-logo="http://glmtv.pw/logo/prestige/Greece/cosmote_gr_sport_2_hd.png",GR: S SPORT PLUS 2 HD (MATCH TIME)
-http://qqtv.nl:8080/live/Trevor/123456/392886.m3u8
-#EXTINF:-1 group-title="GREEK" tvg-logo="http://glmtv.pw/logo/prestige/Greece/cosmote_gr_sport_3_hd.png",GR: S SPORT PLUS 3 HD (MATCH TIME)
-http://qqtv.nl:8080/live/Trevor/123456/392887.m3u8
-#EXTINF:-1 group-title="GREEK" tvg-logo="http://glmtv.pw/logo/prestige/Greece/cosmote_gr_sport_4_hd.png",GR: S SPORT PLUS 4 HD (MATCH TIME)
-http://qqtv.nl:8080/live/Trevor/123456/392888.m3u8
-#EXTINF:-1 group-title="GREEK" tvg-logo="http://glmtv.pw/logo/prestige/Greece/cosmote_gr_sport_6_hd.png",GR: S SPORT PLUS 6 HD (MATCH TIME)
-http://qqtv.nl:8080/live/Trevor/123456/54228.m3u8
-#EXTINF:-1 group-title="POLISH" tvg-logo="http://glmtv.pw/logo/prestige/Poland/canalplus_pl_sport2.png",PL: CANAL+ SPORT 2 HD
-http://qqtv.nl:8080/live/Trevor/123456/15219.m3u8
-#EXTINF:-1 group-title="POLISH" tvg-logo="http://glmtv.pw/logo/prestige/Poland/canal-plus-sport-3-polska-pl.png",PL: CANAL+ SPORT 3 HD
-http://qqtv.nl:8080/live/Trevor/123456/15213.m3u8
-#EXTINF:-1 group-title="POLISH" tvg-logo="https://4.bp.blogspot.com/-ZxOCQeX81Wc/WUZSg1NIErI/AAAAAAAAGzs/ltyCZuballsKKJiG7iLsCHt00cr9X9AGgCLcBGAs/s1600/nsport.png",PL: NSPORT PL
-http://qqtv.nl:8080/live/Trevor/123456/15228.m3u8
-#EXTINF:-1 group-title="POLISH" tvg-logo="http://epg4you.com/logos/tvpsport.png",PL: TVP SPORT HD
-http://qqtv.nl:8080/live/Trevor/123456/15158.m3u8
-#EXTINF:-1 group-title="POLISH" tvg-logo="http://epg4you.com/logos/eurosport2.png",PL: EUROSPORT 2
-http://qqtv.nl:8080/live/Trevor/123456/15196.m3u8
-#EXTINF:-1 group-title="POLISH" tvg-logo="http://glmtv.pw/logo/prestige/Poland/canalplus_pl_sport.png",PL: CANAL+ SPORT 1 HD
-http://qqtv.nl:8080/live/Trevor/123456/15207.m3u8
-#EXTINF:-1 group-title="POLISH" tvg-logo="http://epg4you.com/logos/polsatsport.png",PL: POLSAT SPORT HD
-http://qqtv.nl:8080/live/Trevor/123456/15170.m3u8
-#EXTINF:-1 group-title="POLISH" tvg-logo="http://epg4you.com/logos/polsatsportextrahd.png",PL: POLSAT SPORT EXTRA HD
-http://qqtv.nl:8080/live/Trevor/123456/15169.m3u8
-#EXTINF:-1 group-title="POLISH" tvg-logo="http://glmtv.pw/logo/prestige/Poland/eleven-sports-1-portugal-uk-pt.png",PL: ELEVEN SPORTS 1 HD
-http://qqtv.nl:8080/live/Trevor/123456/15198.m3u8
-#EXTINF:-1 group-title="POLISH" tvg-logo="http://glmtv.pw/logo/prestige/Poland/eleven-sports-2-portugal-uk-pt.png",PL: ELEVEN SPORTS 2 HD
-http://qqtv.nl:8080/live/Trevor/123456/15200.m3u8
-#EXTINF:-1 group-title="POLISH" tvg-logo="http://glmtv.pw/logo/prestige/Poland/eleven-sports-3-portugal-uk-pt.png",PL: ELEVEN SPORTS 3 HD
-http://qqtv.nl:8080/live/Trevor/123456/15199.m3u8
-#EXTINF:-1 group-title="POLISH" tvg-logo="http://glmtv.pw/logo/prestige/Poland/eleven-sports-4-portugal-uk-pt.png",PL: ELEVEN SPORTS 4 HD
-http://qqtv.nl:8080/live/Trevor/123456/60949.m3u8
-#EXTINF:-1 group-title="POLISH" tvg-logo="http://glmtv.pw/logo/prestige/Poland/polsat_sport_news.png",PL: POLSAT SPORT NEWS HD
-http://qqtv.nl:8080/live/Trevor/123456/330387.m3u8
-#EXTINF:-1 group-title="POLISH" tvg-logo="http://glmtv.pw/logo/prestige/Poland/polsat_sport.png",PL: POLSAT SPORT PREMIUM 01 HD
-http://qqtv.nl:8080/live/Trevor/123456/330386.m3u8
-#EXTINF:-1 group-title="POLISH" tvg-logo="http://glmtv.pw/logo/prestige/Poland/canalplus_pl_ale_kino.png",PL: POLSAT SPORT PREMIUM 02 HD
-http://qqtv.nl:8080/live/Trevor/123456/15226.m3u8
-#EXTINF:-1 group-title="FILLIPINO -//- VIETNAM" tvg-logo="http://38.143.137.20/logo/prestige/Philippines/abs_cbn_sports_action_global.png",PH: ABS CBN Sports Action
-http://qqtv.nl:8080/live/Trevor/123456/319602.m3u8
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="http://glmtv.pw/logo/prestige/Caribean/TVJ_SPORTS.png",CAR: TVJ SPORTS
-http://qqtv.nl:8080/live/Trevor/123456/154409.m3u8
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="http://glmtv.pw/logo/prestige/Caribean/TVJ_SPORTS.png",CAR: TVJ SPORTS- JAMAICA
-http://qqtv.nl:8080/live/Trevor/123456/52913.m3u8
-#EXTINF:-1 group-title="CARIBBEAN",CAR: SPORTSMAX 1
-http://qqtv.nl:8080/live/Trevor/123456/154418.m3u8
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/flow_sports_uk.png",CAR: FLOW SPORTS
-http://qqtv.nl:8080/live/Trevor/123456/52954.m3u8
-#EXTINF:-1 group-title="CARIBBEAN",CAR: SPORTSMAX PLUS
-http://qqtv.nl:8080/live/Trevor/123456/154430.m3u8
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="http://glmtv.pw/logo/prestige/Caribean/SPORTMAX.png",CAR: SPORTSMAX 2
-http://qqtv.nl:8080/live/Trevor/123456/154448.m3u8
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="http://glmtv.pw/logo/prestige/Caribean/ROMANA_TV.png",CAR: RUSH SPORT
-http://qqtv.nl:8080/live/Trevor/123456/154481.m3u8
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="http://glmtv.pw/logo/prestige/Caribean/RUSH_SPORTS.png",CAR: RUSH SPORTS PLUS
-http://qqtv.nl:8080/live/Trevor/123456/154467.m3u8
-#EXTINF:-1 group-title="ITALIAN" tvg-logo="http://38.143.137.20/logo/prestige/Italy/rai_sport_plus_hd.png",IT: RAI SPORT + HD
-http://qqtv.nl:8080/live/Trevor/123456/12695.m3u8
-#EXTINF:-1 group-title="ITALIAN" tvg-logo="http://38.143.137.20/logo/prestige/Italy/sky-sports-24-it.png",IT: SKY SPORT 24 HD
-http://qqtv.nl:8080/live/Trevor/123456/12960.m3u8
-#EXTINF:-1 group-title="ITALIAN" tvg-logo="http://38.143.137.20/logo/prestige/Italy/sky-sport-serie-a-it.png",IT: SKY SPORT SERIE A HD
-http://qqtv.nl:8080/live/Trevor/123456/12702.m3u8
-#EXTINF:-1 group-title="ITALIAN" tvg-logo="http://38.143.137.20/logo/prestige/Italy/sky-sport-football-it.png",IT: SKY SPORT FOOTBALL HD
-http://qqtv.nl:8080/live/Trevor/123456/12969.m3u8
-#EXTINF:-1 group-title="ITALIAN" tvg-logo="http://38.143.137.20/logo/prestige/Italy/sport_italia_it.png",IT: SPORT ITALIA
-http://qqtv.nl:8080/live/Trevor/123456/12765.m3u8
-#EXTINF:-1 group-title="ITALIAN" tvg-logo="http://glmtv.pw/logo/prestige/Canada/dazn.png",IT: DAZN Sport 1 HD
-http://qqtv.nl:8080/live/Trevor/123456/318796.m3u8
-#EXTINF:-1 group-title="ITALIAN" tvg-logo="http://38.143.137.20/logo/prestige/Italy/eurosport_fr_1.png",IT: EUROSPORT 1 HD
-http://qqtv.nl:8080/live/Trevor/123456/12687.m3u8
-#EXTINF:-1 group-title="ITALIAN" tvg-logo="http://38.143.137.20/logo/prestige/Italy/eurosport_fr_2.png",IT: EUROSPORT 2 HD
-http://qqtv.nl:8080/live/Trevor/123456/12686.m3u8
-#EXTINF:-1 group-title="EX-YU",EX-YU: SPORT KLUB 1 HR
-http://qqtv.nl:8080/live/Trevor/123456/16985.m3u8
-#EXTINF:-1 group-title="EX-YU",EX-YU: SPORT KLUB 2 .HR
-http://qqtv.nl:8080/live/Trevor/123456/16986.m3u8
-#EXTINF:-1 group-title="EX-YU",EX-YU: SPORT KLUB 3 HR
-http://qqtv.nl:8080/live/Trevor/123456/16987.m3u8
-#EXTINF:-1 group-title="EX-YU",EX-YU: SPORTKLUB 4 SR
-http://qqtv.nl:8080/live/Trevor/123456/16989.m3u8
-#EXTINF:-1 group-title="EX-YU",EX-YU: SPORTKLUB 5 SR
-http://qqtv.nl:8080/live/Trevor/123456/16990.m3u8
-#EXTINF:-1 group-title="EX-YU",EX-YU: SPORT KLUB 6 HD
-http://qqtv.nl:8080/live/Trevor/123456/16935.m3u8
-#EXTINF:-1 group-title="ARABIC" tvg-logo="https://tv.bdtype.com/uploads/tv_image/sm/oman-tv-sport.png",AR: OMAN TV SPORT
-http://qqtv.nl:8080/live/Trevor/123456/25055.m3u8
-#EXTINF:-1 group-title="ARABIC" tvg-logo="http://glmtv.pw/logo/prestige/UAE/ADSPORT%201.png",AR: AD SPORT 1
-http://qqtv.nl:8080/live/Trevor/123456/151595.m3u8
-#EXTINF:-1 group-title="ARABIC" tvg-logo="http://glmtv.pw/logo/prestige/UAE/ADSPORT%201.png",AR: AD SPORT 2
-http://qqtv.nl:8080/live/Trevor/123456/151590.m3u8
-#EXTINF:-1 group-title="ARABIC",AR: DUBAI AD SPORTS 1 HD
-http://qqtv.nl:8080/live/Trevor/123456/337109.m3u8
-#EXTINF:-1 group-title="ARABIC" tvg-logo="http://glmtv.pw/logo/prestige/United-Arab-Emirates/abu-dhabi-sports-2-ae.png",AR: DUBAI SPORTS HD
-http://qqtv.nl:8080/live/Trevor/123456/14033.m3u8
-#EXTINF:-1 group-title="ARABIC" tvg-logo="https://seeklogo.com/images/N/net-tv-logo-1FAD328458-seeklogo.com.gif",AR: ON SPORTS 3 HD
-http://qqtv.nl:8080/live/Trevor/123456/14005.m3u8
-#EXTINF:-1 group-title="ARABIC",AR: KUWAIT SPORT PLUS HD
-http://qqtv.nl:8080/live/Trevor/123456/13933.m3u8
-#EXTINF:-1 group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Dmc_SPORTS.png",AR: DMC SPORTS [EGYPT]
-http://qqtv.nl:8080/live/Trevor/123456/25051.m3u8
-#EXTINF:-1 group-title="ARABIC" tvg-logo="http://glmtv.pw/logo/prestige/Egypt/sha3beyat-eg.png",AR: SHARJAH SPORT (KUWAIT)
-http://qqtv.nl:8080/live/Trevor/123456/25169.m3u8
-#EXTINF:-1 group-title="ARABIC" tvg-logo="http://glmtv.pw/logo/prestige/UAE/KSA-SPORTS1-HD.png",AR: KSA SPORTS1 HD
-http://qqtv.nl:8080/live/Trevor/123456/25058.m3u8
-#EXTINF:-1 group-title="ARABIC" tvg-logo="http://glmtv.pw/logo/prestige/Iraq/IRAQ_SPORT.png",AR: IRAQ SPORT
-http://qqtv.nl:8080/live/Trevor/123456/25050.m3u8
-#EXTINF:-1 group-title="ARABIC",AR: LIBYA SPORT CHANNEL
-http://qqtv.nl:8080/live/Trevor/123456/336667.m3u8
-#EXTINF:-1 group-title="ARABIC" tvg-logo="http://glmtv.pw/logo/prestige/Kuwait/ktv_sport.png",AR: KUWAIT SPORT
-http://qqtv.nl:8080/live/Trevor/123456/24971.m3u8
-#EXTINF:-1 group-title="ARABIC",AR: KSASPORTS2 HD
-http://qqtv.nl:8080/live/Trevor/123456/151522.m3u8
-#EXTINF:-1 group-title="ARABIC",AR: PALESTINIAN SPORTS
-http://qqtv.nl:8080/live/Trevor/123456/151527.m3u8
-#EXTINF:-1 group-title="ARABIC" tvg-logo="http://glmtv.pw/logo/prestige/Palestine/PALESTINE_SPORTS.png",AR: PALESTINE SPORTS
-http://qqtv.nl:8080/live/Trevor/123456/336655.m3u8
-#EXTINF:-1 group-title="ARABIC" tvg-logo="http://glmtv.pw/logo/prestige/Jordan/sport-tv-jo.png",AR: JORDAN SPORT
-http://qqtv.nl:8080/live/Trevor/123456/25052.m3u8
-#EXTINF:-1 group-title="ARABIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Baladna_dairy_producer_logo.svg/220px-Baladna_dairy_producer_logo.svg.png",AR: DUBAI AD SPORTS 2 HD
-http://qqtv.nl:8080/live/Trevor/123456/24958.m3u8
-#EXTINF:-1 group-title="ARABIC" tvg-logo="http://glmtv.pw/logo/prestige/Egypt/nile_sport_eg.png",AR: NILE SPORT
-http://qqtv.nl:8080/live/Trevor/123456/25077.m3u8
-#EXTINF:-1 group-title="ARABIC" tvg-logo="http://glmtv.pw/logo/prestige/Sudan/ta-seti-sudan-sport-1-sd.png",AR: SUDAN SPORTS HD
-http://qqtv.nl:8080/live/Trevor/123456/337107.m3u8
-#EXTINF:-1 group-title="ARABIC",AR: ON SPORT 1 HD
-http://qqtv.nl:8080/live/Trevor/123456/25046.m3u8
-#EXTINF:-1 group-title="ARABIC",AR: ON SPORT 2 HD
-http://qqtv.nl:8080/live/Trevor/123456/25204.m3u8
-#EXTINF:-1 group-title="ARABIC" tvg-logo="http://glmtv.pw/logo/prestige/FRANCE-AR/IUC.png",AR: AL SHABAB SPORT HD (IRAQ)
-http://qqtv.nl:8080/live/Trevor/123456/336656.m3u8
-#EXTINF:-1 group-title="AFRICAN",AF: GISPORTS TV GHANA
-http://qqtv.nl:8080/live/Trevor/123456/56157.m3u8
-#EXTINF:-1 group-title="AFRICAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Coat_of_arms_of_South_Sudan.svg/250px-Coat_of_arms_of_South_Sudan.svg.png",AF: SUDAN SPORTS TV
-http://qqtv.nl:8080/live/Trevor/123456/53133.m3u8
-#EXTINF:-1 group-title="AFRICAN",AF: AFRICA SPORTS senegal
-http://qqtv.nl:8080/live/Trevor/123456/56057.m3u8
-#EXTINF:-1 group-title="ISRAEL",IL: YES Sport 5 Stars HD
-http://qqtv.nl:8080/live/Trevor/123456/148514.m3u8
-#EXTINF:-1 group-title="ISRAEL",IL: YES Sport 5 GOLD HD
-http://qqtv.nl:8080/live/Trevor/123456/148507.m3u8
-#EXTINF:-1 group-title="ISRAEL",IL: YES SPORT 1 HD
-http://qqtv.nl:8080/live/Trevor/123456/148469.m3u8
-#EXTINF:-1 group-title="ISRAEL",IL: YES SPORT 2 HD
-http://qqtv.nl:8080/live/Trevor/123456/148468.m3u8
-#EXTINF:-1 group-title="ISRAEL",IL: YES Sport 5 live HD
-http://qqtv.nl:8080/live/Trevor/123456/148467.m3u8
-#EXTINF:-1 group-title="INDIAN" tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_in_1_hindi.png",IN: STAR SPORTS 1 HD
-http://qqtv.nl:8080/live/Trevor/123456/30550.m3u8
-#EXTINF:-1 group-title="INDIAN" tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_in_2.png",IN: STAR SPORTS 2 HD
-http://qqtv.nl:8080/live/Trevor/123456/30549.m3u8
-#EXTINF:-1 group-title="INDIAN" tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_hk_select_hd_2.png",IN: STAR SPORTS SELECT 1
-http://qqtv.nl:8080/live/Trevor/123456/7247.m3u8
-#EXTINF:-1 group-title="INDIAN" tvg-logo="http://38.143.137.20/logo/prestige/India/star_sports_hk_select_hd_2.png",IN: STAR SPORTS SELECT 2
-http://qqtv.nl:8080/live/Trevor/123456/7246.m3u8
-#EXTINF:-1 group-title="INDIAN" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5b/DD_Sports_2018.jpg",IN: DD SPORTS
-http://qqtv.nl:8080/live/Trevor/123456/31903.m3u8
-#EXTINF:-1 group-title="URDU" tvg-logo="http://glmtv.pw/logo/prestige/Pakistan/ptv-sports.png",PK: PTV SPORTS HD
-http://qqtv.nl:8080/live/Trevor/123456/94384.m3u8
-#EXTINF:-1 group-title="AFGAN",AFG: RTA SPORTS HD
-http://qqtv.nl:8080/live/Trevor/123456/18479.m3u8
-#EXTINF:-1 group-title="NETHERLAND" tvg-logo="https://d3g8bazd3v1fcj.cloudfront.net/v/2af6de7f/UserFiles/Image/LogosV3/Providers/200px/ziggo.gif",NL: ZIGGO SPORT SELECT HD
-http://qqtv.nl:8080/live/Trevor/123456/11315.m3u8
-#EXTINF:-1 group-title="NETHERLAND" tvg-logo="https://www.nibbletv.info/img/ch/fox-sports-premium.png",NL: FOX SPORTS 1
-http://qqtv.nl:8080/live/Trevor/123456/11312.m3u8
-#EXTINF:-1 group-title="NETHERLAND" tvg-logo="https://www.nibbletv.info/img/ch/fox-sports-premium.png",NL: FOX SPORTS 2
-http://qqtv.nl:8080/live/Trevor/123456/11311.m3u8
-#EXTINF:-1 group-title="NETHERLAND" tvg-logo="https://www.nibbletv.info/img/ch/fox-sports-premium.png",NL: FOX SPORTS 3
-http://qqtv.nl:8080/live/Trevor/123456/11310.m3u8
-#EXTINF:-1 group-title="NETHERLAND" tvg-logo="https://www.nibbletv.info/img/ch/fox-sports-premium.png",NL: FOX SPORTS 4
-http://qqtv.nl:8080/live/Trevor/123456/11309.m3u8
-#EXTINF:-1 group-title="NETHERLAND" tvg-logo="https://www.nibbletv.info/img/ch/fox-sports-premium.png",NL: FOX SPORTS 5
-http://qqtv.nl:8080/live/Trevor/123456/11308.m3u8
-#EXTINF:-1 group-title="NETHERLAND" tvg-logo="https://www.nibbletv.info/img/ch/fox-sports-premium.png",NL: FOX SPORTS 6
-http://qqtv.nl:8080/live/Trevor/123456/11307.m3u8
-#EXTINF:-1 group-title="NETHERLAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/SBS_9_logo.jpg",NL: ZIGGO SPORT GOLF HD
-http://qqtv.nl:8080/live/Trevor/123456/11290.m3u8
-#EXTINF:-1 group-title="NETHERLAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/SBS_9_logo.jpg",NL: EXTREME SPORTS
-http://qqtv.nl:8080/live/Trevor/123456/11289.m3u8
-#EXTINF:-1 group-title="NETHERLAND" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072017/untitled-1_97.png",NL: ZIGGO SPORTS EXTRA
-http://qqtv.nl:8080/live/Trevor/123456/11288.m3u8
-#EXTINF:-1 group-title="NETHERLAND" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072017/untitled-1_97.png",NL: ZIGGO SPORTS VOETBAL
-http://qqtv.nl:8080/live/Trevor/123456/11287.m3u8
-#EXTINF:-1 group-title="CHINESE -//- KOREAN",HK: Now Premier Sports 1 HD
-http://qqtv.nl:8080/live/Trevor/123456/319609.m3u8
-#EXTINF:-1 group-title="CHINESE -//- KOREAN",HK: Now Premier Sports 2
-http://qqtv.nl:8080/live/Trevor/123456/319611.m3u8
-#EXTINF:-1 group-title="GERMAN -//- SWEDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/250px-Eurosport_1_Logo_2015.svg.png",DE: EUROSPORT 1 HD
-http://qqtv.nl:8080/live/Trevor/123456/15627.m3u8
-#EXTINF:-1 group-title="GERMAN -//- SWEDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_2_Logo_2015.png/250px-Eurosport_2_Logo_2015.png",DE: EUROSPORT 2 HD
-http://qqtv.nl:8080/live/Trevor/123456/15626.m3u8
-#EXTINF:-1 group-title="GERMAN -//- SWEDEN" tvg-logo="http://glmtv.pw/logo/prestige/Germany/eurosport_fr_1.png",DE: SKY SPORT 1 HD
-http://qqtv.nl:8080/live/Trevor/123456/318788.m3u8
-#EXTINF:-1 group-title="GERMAN -//- SWEDEN" tvg-logo="http://glmtv.pw/logo/prestige/Canada/dazn.png",DE: DAZN SPORT 1 HD
-http://qqtv.nl:8080/live/Trevor/123456/391223.m3u8
-#EXTINF:-1 group-title="GERMAN -//- SWEDEN" tvg-logo="http://glmtv.pw/logo/prestige/Canada/dazn.png",DE: DAZN SPORT 2 HD
-http://qqtv.nl:8080/live/Trevor/123456/391222.m3u8
-#EXTINF:-1 group-title="UKRANE-//-RUSSIAN" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBeloBeO8lYUX3BkHkgrMYmXmh5rrug1pr5EA=s288-mo-c-c0xffffffff-rj-k-no",UKR: SPORT 1 HD
-http://qqtv.nl:8080/live/Trevor/123456/68482.m3u8
-#EXTINF:-1 group-title="UKRANE-//-RUSSIAN" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDbIa48ONOjW6prkId3SWPT7Oep-LhJVxkyHg=s288-mo-c-c0xffffffff-rj-k-no",UKR: SPORT 2 HD
-http://qqtv.nl:8080/live/Trevor/123456/68475.m3u8
-#EXTINF:-1 group-title="CZECH -//- SLOVAKIA" tvg-logo="http://glmtv.pw/logo/prestige/Czechia/nova_cz_sport_1.png",CZ: NOVA SPORTS 1 HD
-http://qqtv.nl:8080/live/Trevor/123456/53232.m3u8
-#EXTINF:-1 group-title="CZECH -//- SLOVAKIA" tvg-logo="http://glmtv.pw/logo/prestige/Czechia/nova_cz_sport_2.png",CZ: NOVA SPORTS 2 HD
-http://qqtv.nl:8080/live/Trevor/123456/18490.m3u8
-#EXTINF:-1 group-title="CZECH -//- SLOVAKIA" tvg-logo="http://glmtv.pw/logo/prestige/Czechia/sport1_cz.png",CZ: SPORT 1
-http://qqtv.nl:8080/live/Trevor/123456/18484.m3u8
-#EXTINF:-1 group-title="CZECH -//- SLOVAKIA" tvg-logo="http://glmtv.pw/logo/prestige/Czechia/sport2_cz.png",CZ: SPORT 2
-http://qqtv.nl:8080/live/Trevor/123456/18483.m3u8
-#EXTINF:-1 group-title="ROMANIA -//- HUNGARY" tvg-logo="http://glmtv.pw/logo/prestige/Romania/telekom-sport4-hd-ro.png",RO: TELEKOM SPORT 4 HD
-http://qqtv.nl:8080/live/Trevor/123456/14887.m3u8
-#EXTINF:-1 group-title="ROMANIA -//- HUNGARY" tvg-logo="http://38.143.137.20/logo/prestige/Hungary/digi_sport3_hu.png",HU: DIGI SPORT 3 HD
-http://qqtv.nl:8080/live/Trevor/123456/14928.m3u8
-#EXTINF:-1 group-title="ROMANIA -//- HUNGARY" tvg-logo="http://glmtv.pw/logo/prestige/Romania/telekom-sport1-ro.png",RO: TELEKOM SPORT 1 HD
-http://qqtv.nl:8080/live/Trevor/123456/14879.m3u8
-#EXTINF:-1 group-title="ROMANIA -//- HUNGARY" tvg-logo="http://glmtv.pw/logo/prestige/Romania/telekom-sport2-ro.png",RO: TELEKOM SPORT 2 HD
-http://qqtv.nl:8080/live/Trevor/123456/14871.m3u8
-#EXTINF:-1 group-title="ROMANIA -//- HUNGARY" tvg-logo="http://glmtv.pw/logo/prestige/Romania/telekom-sport3-hd-ro.png",RO: TELEKOM SPORT 3 HD
-http://qqtv.nl:8080/live/Trevor/123456/14853.m3u8
-#EXTINF:-1 group-title="ROMANIA -//- HUNGARY" tvg-logo="http://glmtv.pw/logo/prestige/Romania/eurosport_fr_1.png",RO: EUROSPORT 1 HD
-http://qqtv.nl:8080/live/Trevor/123456/14925.m3u8
-#EXTINF:-1 group-title="ROMANIA -//- HUNGARY" tvg-logo="http://glmtv.pw/logo/prestige/Romania/eurosport_fr_2.png",RO: EUROSPORT 2
-http://qqtv.nl:8080/live/Trevor/123456/14936.m3u8
-#EXTINF:-1 group-title="ROMANIA -//- HUNGARY" tvg-logo="http://glmtv.pw/logo/prestige/Romania/digi_sport1_ro.png",RO: DIGI SPORTS 1
-http://qqtv.nl:8080/live/Trevor/123456/14910.m3u8
-#EXTINF:-1 group-title="ROMANIA -//- HUNGARY" tvg-logo="http://glmtv.pw/logo/prestige/Romania/digi_sport2_ro.png",RO: DIGI SPORTS 2
-http://qqtv.nl:8080/live/Trevor/123456/14909.m3u8
-#EXTINF:-1 group-title="ROMANIA -//- HUNGARY" tvg-logo="http://glmtv.pw/logo/prestige/Romania/digi_sport3_ro.png",RO: DIGI SPORTS 3
-http://qqtv.nl:8080/live/Trevor/123456/14874.m3u8
-#EXTINF:-1 group-title="ROMANIA -//- HUNGARY" tvg-logo="http://glmtv.pw/logo/prestige/Romania/digi_sport4_ro.png",RO: DIGI SPORTS 4
-http://qqtv.nl:8080/live/Trevor/123456/14872.m3u8
-#EXTINF:-1 group-title="ROMANIA -//- HUNGARY" tvg-logo="http://38.143.137.20/logo/prestige/Hungary/digi_sport1_hu.png",HU: DIGI SPORT 1 HD
-http://qqtv.nl:8080/live/Trevor/123456/12294.m3u8
-#EXTINF:-1 group-title="ROMANIA -//- HUNGARY" tvg-logo="http://38.143.137.20/logo/prestige/Hungary/digi_sport2_hu.png",HU: DIGI SPORT 2 HD
-http://qqtv.nl:8080/live/Trevor/123456/12293.m3u8
-#EXTINF:-1 group-title="ROMANIA -//- HUNGARY" tvg-logo="http://glmtv.pw/logo/prestige/Hungary/magyar_tv4_sport_hu.png",HU: M4 SPORT HUNGARY
-http://qqtv.nl:8080/live/Trevor/123456/201381.m3u8
-#EXTINF:-1 group-title="BULGARIA -//- SLOVENIJA" tvg-logo="http://38.143.137.20/logo/prestige/Bulgaria/max-sport-3-bg.png",BG: MAX SPORT 3 HD
-http://qqtv.nl:8080/live/Trevor/123456/14163.m3u8
-#EXTINF:-1 group-title="BULGARIA -//- SLOVENIJA" tvg-logo="http://38.143.137.20/logo/prestige/Bulgaria/max-sport-4-bg.png",BG: MAX SPORT 4 HD
-http://qqtv.nl:8080/live/Trevor/123456/14175.m3u8
-#EXTINF:-1 group-title="BULGARIA -//- SLOVENIJA" tvg-logo="http://38.143.137.20/logo/prestige/Bulgaria/diema_sport_bg_2_hd.png",BG: DIEMA SPORT2 HD
-http://qqtv.nl:8080/live/Trevor/123456/14178.m3u8
-#EXTINF:-1 group-title="BULGARIA -//- SLOVENIJA" tvg-logo="http://38.143.137.20/logo/prestige/Bulgaria/diema_sport_bg.png",BG: DIEMA SPORT 1 HD
-http://qqtv.nl:8080/live/Trevor/123456/14179.m3u8
-#EXTINF:-1 group-title="BULGARIA -//- SLOVENIJA" tvg-logo="http://38.143.137.20/logo/prestige/Bulgaria/max-sport-1-bg.png",BG: MAX SPORT 1 HD
-http://qqtv.nl:8080/live/Trevor/123456/14189.m3u8
-#EXTINF:-1 group-title="BULGARIA -//- SLOVENIJA" tvg-logo="http://38.143.137.20/logo/prestige/Bulgaria/max-sport-2-bg.png",BG: MAX SPORT 2 HD
-http://qqtv.nl:8080/live/Trevor/123456/14166.m3u8
-#EXTINF:-1 group-title="KOSOVO -//- ALBANIA" tvg-logo="http://glmtv.pw/logo/prestige/Albania/TRING_SPORT_1.png",AL: TRING SPORT 1 HD
-http://qqtv.nl:8080/live/Trevor/123456/151641.m3u8
-#EXTINF:-1 group-title="KOSOVO -//- ALBANIA" tvg-logo="http://glmtv.pw/logo/prestige/Albania/TRING_SPORT_2.png",AL: TRING SPORT 2 HD
-http://qqtv.nl:8080/live/Trevor/123456/151640.m3u8
-#EXTINF:-1 group-title="KOSOVO -//- ALBANIA" tvg-logo="http://glmtv.pw/logo/prestige/Albania/TRING_SPORT_3.png",AL: TRING SPORT 3 HD
-http://qqtv.nl:8080/live/Trevor/123456/151639.m3u8
-#EXTINF:-1 group-title="KOSOVO -//- ALBANIA" tvg-logo="http://glmtv.pw/logo/prestige/Albania/TRING_SPORT_4.png",AL: TRING SPORT 4 HD
-http://qqtv.nl:8080/live/Trevor/123456/151638.m3u8
-#EXTINF:-1 group-title="KOSOVO -//- ALBANIA" tvg-logo="http://glmtv.pw/logo/prestige/Albania/K_Sport_1.png",AL: K Sport 1
-http://qqtv.nl:8080/live/Trevor/123456/151827.m3u8
-#EXTINF:-1 group-title="KOSOVO -//- ALBANIA" tvg-logo="http://glmtv.pw/logo/prestige/Albania/K_Sport_2.png",AL: K Sport 2
-http://qqtv.nl:8080/live/Trevor/123456/151826.m3u8
-#EXTINF:-1 group-title="KOSOVO -//- ALBANIA" tvg-logo="http://glmtv.pw/logo/prestige/Albania/K_Sport_3.png",AL: K Sport 3
-http://qqtv.nl:8080/live/Trevor/123456/151825.m3u8
-#EXTINF:-1 group-title="KOSOVO -//- ALBANIA" tvg-logo="http://glmtv.pw/logo/prestige/Albania/RTSH_SPORT.png",AL: RTSH SPORT
-http://qqtv.nl:8080/live/Trevor/123456/151741.m3u8
-#EXTINF:-1 group-title="KOSOVO -//- ALBANIA" tvg-logo="http://glmtv.pw/logo/prestige/Albania/SUPER_SPORT_1.png",AL: SUPER SPORT 1 HD
-http://qqtv.nl:8080/live/Trevor/123456/151688.m3u8
-#EXTINF:-1 group-title="KOSOVO -//- ALBANIA" tvg-logo="http://glmtv.pw/logo/prestige/Albania/SUPER_SPORT_2.png",AL: SUPER SPORT 2 HD
-http://qqtv.nl:8080/live/Trevor/123456/151686.m3u8
-#EXTINF:-1 group-title="KOSOVO -//- ALBANIA" tvg-logo="http://glmtv.pw/logo/prestige/Albania/SUPER_SPORT_3.png",AL: SUPER SPORT 3 HD
-http://qqtv.nl:8080/live/Trevor/123456/151684.m3u8
-#EXTINF:-1 group-title="KOSOVO -//- ALBANIA" tvg-logo="http://glmtv.pw/logo/prestige/Albania/SUPER_SPORT_4.png",AL: SUPER SPORT 4 HD
-http://qqtv.nl:8080/live/Trevor/123456/151682.m3u8
-#EXTINF:-1 group-title="KOSOVO -//- ALBANIA" tvg-logo="http://glmtv.pw/logo/prestige/Albania/SUPER_SPORT_5.png",AL: SUPER SPORT 5 HD
-http://qqtv.nl:8080/live/Trevor/123456/151681.m3u8
-#EXTINF:-1 group-title="KOSOVO -//- ALBANIA" tvg-logo="http://glmtv.pw/logo/prestige/Albania/SUPER_SPORT_6.png",AL: SUPER SPORT 6 HD
-http://qqtv.nl:8080/live/Trevor/123456/151679.m3u8
-#EXTINF:-1 group-title="KOSOVO -//- ALBANIA" tvg-logo="http://glmtv.pw/logo/prestige/Albania/TRING_SPORT_NEWS.png",AL: TRING SPORT NEWS HD
-http://qqtv.nl:8080/live/Trevor/123456/151651.m3u8
-#EXTINF:-1 group-title="KOSOVO -//- ALBANIA" tvg-logo="http://glmtv.pw/logo/prestige/Albania/ART_SPORT_1.png",AL: ART Sport 1 HD
-http://qqtv.nl:8080/live/Trevor/123456/151610.m3u8
-#EXTINF:-1 group-title="KOSOVO -//- ALBANIA" tvg-logo="http://glmtv.pw/logo/prestige/Albania/ART_SPORT_2.png",AL: ART Sport 2 HD
-http://qqtv.nl:8080/live/Trevor/123456/151608.m3u8
-#EXTINF:-1 group-title="KOSOVO -//- ALBANIA" tvg-logo="http://glmtv.pw/logo/prestige/Albania/ART_SPORT_3.png",AL: ART Sport 3 HD
-http://qqtv.nl:8080/live/Trevor/123456/151606.m3u8
-#EXTINF:-1 group-title="IRAN -//- TURKISH",IR: IRIB SPORT
-http://qqtv.nl:8080/live/Trevor/123456/53373.m3u8
-#EXTINF:-1 group-title="IRAN -//- TURKISH" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/bein-sports-haber-qa-tr.png",TR: beIN SPORTS HABER HD
-http://qqtv.nl:8080/live/Trevor/123456/15685.m3u8
+#EXTINF:120,ABC 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/ABC/HLS/index.m3u8
+#EXTINF:0,ABC-2 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:ABC.smil/playlist.m3u8
+#EXTINF:0,AE 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:AE.smil/playlist.m3u8
+#EXTINF:0,ALJAZEERA 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:ALJAZEERA.smil/playlist.m3u8
+#EXTINF:0,AMC 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/AMC/HLS/index.m3u8
+#EXTINF:0,BBC_WORLD 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:BBC_WORLD.smil/playlist.m3u8
+#EXTINF:0,BEINSPORTS 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:BEINSPORTS.smil/playlist.m3u8
+#EXTINF:0,BET 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:BET.smil/playlist.m3u8
+#EXTINF:0,CARTOON 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:CARTOON.smil/playlist.m3u8
+#EXTINF:0,CBC 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:CBC.smil/playlist.m3u8
+#EXTINF:0,CBS 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:CBS.smil/playlist.m3u8
+#EXTINF:0,CENTRIC 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:CENTRIC.smil/playlist.m3u8
+#EXTINF:0,CNBC 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:CNBC.smil/playlist.m3u8
+#EXTINF:0,CNN_INTERNATIONAL 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:CNN_INTERNATIONAL.smil/playlist.m3u8
+#EXTINF:0,COMEDY_CENTRAL 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:COMEDY_CENTRAL.smil/playlist.m3u8
+#EXTINF:0,COMET_TV 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:COMET_TV.smil/playlist.m3u8
+#EXTINF:0,COZI_TV 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:COZI_TV.smil/playlist.m3u8
+#EXTINF:0,CTV 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:CTV.smil/playlist.m3u8
+#EXTINF:0,CW 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:CW.smil/playlist.m3u8
+#EXTINF:0,DISCOVERY_KIDS 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:DISCOVERY_KIDS.smil/playlist.m3u8
+#EXTINF:0,DIY 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:DIY.smil/playlist.m3u8
+#EXTINF:0,DW_ENGLISH 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:DW_ENGLISH.smil/playlist.m3u8
+#EXTINF:0,E 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:E.smil/playlist.m3u8
+#EXTINF:0,E1 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/E1/HLS/index.m3u8
+#EXTINF:0,E2 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/E2/HLS/index.m3u8
+#EXTINF:0,E3 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/E3/HLS/index.m3u8
+#EXTINF:0,ESCAPE 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:ESCAPE.smil/playlist.m3u8
+#EXTINF:0,ESPN1 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/ESPN1/HLS/index.m3u8
+#EXTINF:0,ESPN1USA 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8
+#EXTINF:0,ESPN2 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/ESPN2/HLS/index.m3u8
+#EXTINF:0,ESPN2USA 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8
+#EXTINF:0,FLIXX 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:FLIXX.smil/playlist.m3u8
+#EXTINF:0,FLOWSPORTS1 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/FlowSports1/HLS/index.m3u8
+#EXTINF:0,FOOD_NETWORK 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:FOOD_NETWORK.smil/playlist.m3u8
+#EXTINF:0,FOX 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/FOX/HLS/index.m3u8
+#EXTINF:0,FOXNEWS 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/FoxNews/HLS/index.m3u8
+#EXTINF:0,FOXSPORTS1 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/FoxSports1/HLS/index.m3u8
+#EXTINF:0,FOXSPORTS1-2 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:FOXSPORTS1.smil/playlist.m3u8
+#EXTINF:0,FOXSPORTS2 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/FoxSports2/HLS/index.m3u8
+#EXTINF:0,FOXSPORTS2-2 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:FOXSPORTS2.smil/playlist.m3u8
+#EXTINF:0,FREEFORM 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:FREEFORM.smil/playlist.m3u8
+#EXTINF:0,FUSE 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:FUSE.smil/playlist.m3u8
+#EXTINF:0,FX 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:FX.smil/playlist.m3u8
+#EXTINF:0,FYI 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:FYI.smil/playlist.m3u8
+#EXTINF:0,GO_TV 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:GO_TV.smil/playlist.m3u8
+#EXTINF:0,GRIT 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:GRIT.smil/playlist.m3u8
+#EXTINF:0,GSN 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:GSN.smil/playlist.m3u8
+#EXTINF:0,HALLMARK 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:HALLMARK.smil/playlist.m3u8
+#EXTINF:0,HALLMARK_MM 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:HALLMARK_MM.smil/playlist.m3u8
+#EXTINF:0,HBOFAMILY 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/HBOFamily/HLS/index.m3u8
+#EXTINF:0,HBOSIGNATURE 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/HBOSignature/HLS/index.m3u8
+#EXTINF:0,HGPTV 
+#EXTVLCOPT:network-caching=3000
+http://bkm100.gttstreamtv.com/HGPTV/HGPTV.isml/index.m3u8
+#EXTINF:0,HGTV 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:HGTV.smil/playlist.m3u8
+#EXTINF:0,HJTV 
+#EXTVLCOPT:network-caching=3000
+http://bkm100.gttstreamtv.com/HJTV/HJTV.isml/index.m3u8
+#EXTINF:0,INVESTIGATION_DISCOVERY 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:INVESTIGATION_DISCOVERY.smil/playlist.m3u8
+#EXTINF:0,ION 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:ION.smil/playlist.m3u8
+#EXTINF:0,LIFETIME 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/Lifetime/HLS/index.m3u8
+#EXTINF:0,LIFETIME-2 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:LIFETIME.smil/playlist.m3u8
+#EXTINF:0,LMN 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:LMN.smil/playlist.m3u8
+#EXTINF:0,MAXPRIME 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/MaxPrime/HLS/index.m3u8
+#EXTINF:0,ME_TV 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:ME_TV.smil/playlist.m3u8
+#EXTINF:0,MSNBC 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:MSNBC.smil/playlist.m3u8
+#EXTINF:0,MY33 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:MY33.smil/playlist.m3u8
+#EXTINF:0,NBA_TV 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:NBA_TV.smil/playlist.m3u8
+#EXTINF:0,NBC 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:NBC.smil/playlist.m3u8
+#EXTINF:0,NBCSPORTS 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:NBCSPORTS.smil/playlist.m3u8
+#EXTINF:0,NCN GUYANA 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:NCN_GUYANA.smil/playlist.m3u8
+#EXTINF:0,NHKWORLD 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:NHKWORLD.smil/playlist.m3u8
+#EXTINF:0,NICKELODEON 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:NICKELODEON.smil/playlist.m3u8
+#EXTINF:0,NICK_JR 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:NICK_JR.smil/playlist.m3u8
+#EXTINF:0,OWN 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:OWN.smil/playlist.m3u8
+#EXTINF:0,PARAMOUNT 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:PARAMOUNT.smil/playlist.m3u8
+#EXTINF:0,PBS 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:PBS.smil/playlist.m3u8
+#EXTINF:0,PBS_CREATE 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:PBS_CREATE.smil/playlist.m3u8
+#EXTINF:0,PBS_KIDS 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:PBS_KIDS.smil/playlist.m3u8
+#EXTINF:0,QUBO 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:QUBO.smil/playlist.m3u8
+#EXTINF:0,QUEST 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:QUEST.smil/playlist.m3u8
+#EXTINF:0,RUSHHD 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+#EXTINF:0,SCIENCE 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:SCIENCE.smil/playlist.m3u8
+#EXTINF:0,SPORTSMAX1 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/Sportsmax1/HLS/index.m3u8
+#EXTINF:0,SPORTSMAX2 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/Sportsmax2/HLS/index.m3u8
+#EXTINF:0,STARZ 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:STARZ.smil/playlist.m3u8
+#EXTINF:0,TCM 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:TCM.smil/playlist.m3u8
+#EXTINF:0,TEEN_NICK 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:TEEN_NICK.smil/playlist.m3u8
+#EXTINF:0,TLC 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:TLC.smil/playlist.m3u8
+#EXTINF:0,TNT 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:TNT.smil/playlist.m3u8
+#EXTINF:0,TNTLA 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/TNTLA/HLS/index.m3u8
+#EXTINF:0,TNTLA 2 
+#EXTVLCOPT:network-caching=3000
+http://190.108.196.35/live/c2eds/TNTla/HLS_VMX/TNTla.m3u8
+#EXTINF:0,TRUTV 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:TRUTV.smil/playlist.m3u8
+#EXTINF:0,TVG 
+#EXTVLCOPT:network-caching=3000
+http://bkm100.gttstreamtv.com/TVG/TVG.isml/index.m3u8
+#EXTINF:0,UNIVISION 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:UNIVISION.smil/playlist.m3u8
+#EXTINF:0,USA 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/USA/HLS/index.m3u8
+#EXTINF:0,USA-2 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:USA.smil/playlist.m3u8
+#EXTINF:0,WE_TV 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:WE_TV.smil/playlist.m3u8
+#EXTINF:0,WGN 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:WGN.smil/playlist.m3u8
+#EXTINF:0,WILLOW 
+#EXTVLCOPT:network-caching=3000
+http://38.127.211.18/live/c2eds/Willow/HLS/index.m3u8
+#EXTINF:0,WILLOW-2 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:WILLOW.smil/playlist.m3u8
+#EXTINF:0,WPIX 
+#EXTVLCOPT:network-caching=3000
+http://gtv01.airlinktt.co/live/smil:WPIX.smil/playlist.m3u8
 #EXTINF:-1 group-title="ALBANIAN TV" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png",AL : VIZION PLUS TOKSOR
 http://mains.services:2086/lorre/3Jy14gb2kR/93227
 #EXTINF:-1 group-title="BUMBLEBEE TV" tvg-logo="http://p2086.securepoint.io:2086/images/efa72cfe75a48f338be38c22cf5ca740.png",BUMBLEBEETV: CORONAVIRUS GOV
