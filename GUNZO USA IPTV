@@ -1,276 +1,276 @@
 #EXTINF:-1,#EXTM3U
 #EXTM3U x-tvg-url="http://ky-iptv.com/xmltv.php?username=duke2&password=duke2&type=m3u_plus&output=m3u8"
-#EXTINF:120,ABC 
+#EXTINF:120,USA ABC 
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/ABC/HLS/index.m3u8
-#EXTINF:0,ABC-2 
+#EXTINF:0,USA ABC-2 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:ABC.smil/playlist.m3u8
-#EXTINF:0,AE 
+#EXTINF:0,USA AE 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:AE.smil/playlist.m3u8
-#EXTINF:0,ALJAZEERA 
+#EXTINF:0,USA ALJAZEERA 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:ALJAZEERA.smil/playlist.m3u8
-#EXTINF:0,AMC 
+#EXTINF:0,USA AMC 
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/AMC/HLS/index.m3u8
-#EXTINF:0,BBC_WORLD 
+#EXTINF:0,USA BBC_WORLD 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:BBC_WORLD.smil/playlist.m3u8
-#EXTINF:0,BEINSPORTS 
+#EXTINF:0,USA BEINSPORTS 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:BEINSPORTS.smil/playlist.m3u8
-#EXTINF:0,BET 
+#EXTINF:0,USA BET 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:BET.smil/playlist.m3u8
-#EXTINF:0,CARTOON 
+#EXTINF:0,USA CARTOON 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:CARTOON.smil/playlist.m3u8
-#EXTINF:0,CBC 
+#EXTINF:0,CA CBC 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:CBC.smil/playlist.m3u8
-#EXTINF:0,CBS 
+#EXTINF:0,USA CBS 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:CBS.smil/playlist.m3u8
-#EXTINF:0,BET HER
+#EXTINF:0,USA BET HER
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:CENTRIC.smil/playlist.m3u8
-#EXTINF:0,CNBC 
+#EXTINF:0,CA CNBC 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:CNBC.smil/playlist.m3u8
-#EXTINF:0,CNN_INTERNATIONAL 
+#EXTINF:0,USA CNN_INTERNATIONAL 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:CNN_INTERNATIONAL.smil/playlist.m3u8
-#EXTINF:0,COMEDY_CENTRAL 
+#EXTINF:0,USA COMEDY_CENTRAL 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:COMEDY_CENTRAL.smil/playlist.m3u8
-#EXTINF:0,COMET_TV 
+#EXTINF:0,USA COMET_TV 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:COMET_TV.smil/playlist.m3u8
-#EXTINF:0,COZI_TV 
+#EXTINF:0,USA COZI_TV 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:COZI_TV.smil/playlist.m3u8
-#EXTINF:0,CTV 
+#EXTINF:0,CA CTV 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:CTV.smil/playlist.m3u8
-#EXTINF:0,CW 
+#EXTINF:0,USA CW 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:CW.smil/playlist.m3u8
-#EXTINF:0,DISCOVERY_KIDS 
+#EXTINF:0,USA DISCOVERY_KIDS 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:DISCOVERY_KIDS.smil/playlist.m3u8
-#EXTINF:0,DIY 
+#EXTINF:0,USA DIY 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:DIY.smil/playlist.m3u8
-#EXTINF:0,DW_ENGLISH 
+#EXTINF:0,USA DW_ENGLISH 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:DW_ENGLISH.smil/playlist.m3u8
-#EXTINF:0,E 
+#EXTINF:0,USA E 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:E.smil/playlist.m3u8
 #EXTINF:0,E1 
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/E1/HLS/index.m3u8
-#EXTINF:0,E2 
+#EXTINF:0,USA E2 
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/E2/HLS/index.m3u8
-#EXTINF:0,E3 
+#EXTINF:0,USA E3 
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/E3/HLS/index.m3u8
-#EXTINF:0,ESCAPE 
+#EXTINF:0,USA ESCAPE 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:ESCAPE.smil/playlist.m3u8
-#EXTINF:0,ESPN1 
+#EXTINF:0,USA ESPN1 
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/ESPN1/HLS/index.m3u8
-#EXTINF:0,ESPN1USA 
+#EXTINF:0,USA ESPN1USA 
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8
-#EXTINF:0,ESPN2 
+#EXTINF:0,USA ESPN2 
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/ESPN2/HLS/index.m3u8
-#EXTINF:0,ESPN2USA 
+#EXTINF:0,USA ESPN2USA 
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8
-#EXTINF:0,FLIXX 
+#EXTINF:0,USA FLIXX 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:FLIXX.smil/playlist.m3u8
-#EXTINF:0,FLOWSPORTS1 
+#EXTINF:0,USA FLOWSPORTS1 
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/FlowSports1/HLS/index.m3u8
-#EXTINF:0,FOOD_NETWORK 
+#EXTINF:0,USA FOOD_NETWORK 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:FOOD_NETWORK.smil/playlist.m3u8
-#EXTINF:0,FOX 
+#EXTINF:0,USA FOX 
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/FOX/HLS/index.m3u8
 #EXTINF:0,FOXNEWS 
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/FoxNews/HLS/index.m3u8
-#EXTINF:0,FOXSPORTS1 
+#EXTINF:0,USA FOXSPORTS1 
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/FoxSports1/HLS/index.m3u8
-#EXTINF:0,FOXSPORTS1-2 
+#EXTINF:0,USA FOXSPORTS1-2 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:FOXSPORTS1.smil/playlist.m3u8
-#EXTINF:0,FOXSPORTS2 
+#EXTINF:0,USA FOXSPORTS2 
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/FoxSports2/HLS/index.m3u8
-#EXTINF:0,FOXSPORTS2-2 
+#EXTINF:0,USA FOXSPORTS2-2 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:FOXSPORTS2.smil/playlist.m3u8
-#EXTINF:0,FREEFORM 
+#EXTINF:0,USA FREEFORM 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:FREEFORM.smil/playlist.m3u8
-#EXTINF:0,FUSE 
+#EXTINF:0,USA FUSE 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:FUSE.smil/playlist.m3u8
-#EXTINF:0,FX 
+#EXTINF:0,USA FX 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:FX.smil/playlist.m3u8
-#EXTINF:0,FYI 
+#EXTINF:0,USA FYI 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:FYI.smil/playlist.m3u8
-#EXTINF:0,GRIT 
+#EXTINF:0,USA GRIT 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:GRIT.smil/playlist.m3u8
-#EXTINF:0,GSN 
+#EXTINF:0,USA GSN 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:GSN.smil/playlist.m3u8
-#EXTINF:0,HALLMARK 
+#EXTINF:0,USA HALLMARK 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:HALLMARK.smil/playlist.m3u8
-#EXTINF:0,HALLMARK_MM 
+#EXTINF:0,USA HALLMARK_MM 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:HALLMARK_MM.smil/playlist.m3u8
-#EXTINF:0,HBOFAMILY 
+#EXTINF:0,USA HBOFAMILY 
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/HBOFamily/HLS/index.m3u8
-#EXTINF:0,HBOSIGNATURE 
+#EXTINF:0,USA HBOSIGNATURE 
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/HBOSignature/HLS/index.m3u8
-#EXTINF:0,HGTV 
+#EXTINF:0,USA HGTV 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:HGTV.smil/playlist.m3u8
-#EXTINF:0,INVESTIGATION_DISCOVERY 
+#EXTINF:0,USA INVESTIGATION_DISCOVERY 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:INVESTIGATION_DISCOVERY.smil/playlist.m3u8
-#EXTINF:0,ION 
+#EXTINF:0,USA ION 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:ION.smil/playlist.m3u8
-#EXTINF:0,LIFETIME 
+#EXTINF:0,USA LIFETIME 
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/Lifetime/HLS/index.m3u8
-#EXTINF:0,LIFETIME-2 
+#EXTINF:0,USA LIFETIME-2 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:LIFETIME.smil/playlist.m3u8
-#EXTINF:0,LMN 
+#EXTINF:0,USA LMN 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:LMN.smil/playlist.m3u8
-#EXTINF:0,MAXPRIME 
+#EXTINF:0,USA MAXPRIME 
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/MaxPrime/HLS/index.m3u8
-#EXTINF:0,ME_TV 
+#EXTINF:0,USA ME_TV 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:ME_TV.smil/playlist.m3u8
-#EXTINF:0,MSNBC 
+#EXTINF:0,USA MSNBC 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:MSNBC.smil/playlist.m3u8
-#EXTINF:0,MY33 
+#EXTINF:0,USA MY33 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:MY33.smil/playlist.m3u8
-#EXTINF:0,NBA_TV 
+#EXTINF:0,USA NBA_TV 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:NBA_TV.smil/playlist.m3u8
-#EXTINF:0,NBC 
+#EXTINF:0,USA NBC 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:NBC.smil/playlist.m3u8
-#EXTINF:0,NHKWORLD 
+#EXTINF:0,USA NHKWORLD 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:NHKWORLD.smil/playlist.m3u8
-#EXTINF:0,NICKELODEON 
+#EXTINF:0,USA NICKELODEON 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:NICKELODEON.smil/playlist.m3u8
-#EXTINF:0,NICK_JR 
+#EXTINF:0,USA NICK_JR 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:NICK_JR.smil/playlist.m3u8
-#EXTINF:0,OWN 
+#EXTINF:0,USA OWN 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:OWN.smil/playlist.m3u8
-#EXTINF:0,PARAMOUNT 
+#EXTINF:0,USA PARAMOUNT 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:PARAMOUNT.smil/playlist.m3u8
-#EXTINF:0,PBS 
+#EXTINF:0,USA PBS 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:PBS.smil/playlist.m3u8
-#EXTINF:0,PBS_CREATE 
+#EXTINF:0,USA PBS_CREATE 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:PBS_CREATE.smil/playlist.m3u8
-#EXTINF:0,PBS_KIDS 
+#EXTINF:0,USA PBS_KIDS 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:PBS_KIDS.smil/playlist.m3u8
-#EXTINF:0,QUEST 
+#EXTINF:0,USA QUEST 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:QUEST.smil/playlist.m3u8
-#EXTINF:0,FLOW SPORTS RUSHHD 
+#EXTINF:0,USA FLOW SPORTS RUSHHD 
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
-#EXTINF:0,SCIENCE 
+#EXTINF:0,USA SCIENCE 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:SCIENCE.smil/playlist.m3u8
-#EXTINF:0,SPORTSMAX1 
+#EXTINF:0,USA SPORTSMAX1 
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/Sportsmax1/HLS/index.m3u8
-#EXTINF:0,SPORTSMAX2 
+#EXTINF:0,USA SPORTSMAX2 
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/Sportsmax2/HLS/index.m3u8
-#EXTINF:0,STARZ 
+#EXTINF:0,USA STARZ 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:STARZ.smil/playlist.m3u8
-#EXTINF:0,TCM 
+#EXTINF:0,USA TCM 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:TCM.smil/playlist.m3u8
-#EXTINF:0,TEEN_NICK 
+#EXTINF:0,USA TEEN_NICK 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:TEEN_NICK.smil/playlist.m3u8
-#EXTINF:0,TLC 
+#EXTINF:0,USA TLC 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:TLC.smil/playlist.m3u8
-#EXTINF:0,TNT 
+#EXTINF:0,USA TNT 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:TNT.smil/playlist.m3u8
-#EXTINF:0,TNTLA 
+#EXTINF:0,USA TNTLA 
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/TNTLA/HLS/index.m3u8
-#EXTINF:0,TNTLA 2 
+#EXTINF:0,USA TNTLA 2 
 #EXTVLCOPT:network-caching=3000
 http://190.108.196.35/live/c2eds/TNTla/HLS_VMX/TNTla.m3u8
-#EXTINF:0,TRUTV 
+#EXTINF:0,USA TRUTV 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:TRUTV.smil/playlist.m3u8
-#EXTINF:0,UNIVISION 
+#EXTINF:0,USA UNIVISION 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:UNIVISION.smil/playlist.m3u8
-#EXTINF:0,USA 
+#EXTINF:0,USA USA NETWORK
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/USA/HLS/index.m3u8
-#EXTINF:0,USA-2 
+#EXTINF:0,USA USA-2 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:USA.smil/playlist.m3u8
 #EXTINF:0,WE_TV 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:WE_TV.smil/playlist.m3u8
-#EXTINF:0,WGN 
+#EXTINF:0,USA WGN 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:WGN.smil/playlist.m3u8
-#EXTINF:0,WILLOW 
+#EXTINF:0,USA WILLOW 
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/Willow/HLS/index.m3u8
-#EXTINF:0,WILLOW-2 
+#EXTINF:0,USA WILLOW-2 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:WILLOW.smil/playlist.m3u8
-#EXTINF:0,WPIX 
+#EXTINF:0,USA WPIX 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:WPIX.smil/playlist.m3u8
 #EXTINF:-1 group-title="ALBANIAN TV" tvg-logo="https://cdn.countryflags.com/thumbs/albania/flag-round-250.png",AL : VIZION PLUS TOKSOR
@@ -311,15 +311,15 @@ http://mains.services:2086/lorre/3Jy14gb2kR/100998
 http://mains.services:2086/lorre/3Jy14gb2kR/100999
 #EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="http://mains.vip:2086/images/deecb3c1a0a7e958cc7dc9206afa55b1.png",SPORTS : AU OPTUS SPORT 8
 http://mains.services:2086/lorre/3Jy14gb2kR/101000
-#EXTINF:-1 group-title="SAMSUNG TV PLUS US" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png",STVP_US : ABSOLUTE REALITY WETV
+#EXTINF:-1 group-title="SAMSUNG TV PLUS US" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png",STVP_USA : ABSOLUTE REALITY WETV
 http://mains.services:2086/lorre/3Jy14gb2kR/100660
-#EXTINF:-1 group-title="SAMSUNG TV PLUS US" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png",STVP_US : AMC PRESENTS
+#EXTINF:-1 group-title="SAMSUNG TV PLUS US" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png",STVP_USA : AMC PRESENTS
 http://mains.services:2086/lorre/3Jy14gb2kR/100658
-#EXTINF:-1 group-title="SAMSUNG TV PLUS US" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png",STVP_US : ASIANCRUSH
+#EXTINF:-1 group-title="SAMSUNG TV PLUS US" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png",STVP_USA : ASIANCRUSH
 http://mains.services:2086/lorre/3Jy14gb2kR/100751
-#EXTINF:-1 group-title="SAMSUNG TV PLUS US" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png",STVP_US : BAYWATCH
+#EXTINF:-1 group-title="SAMSUNG TV PLUS US" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png",STVP_USA : BAYWATCH
 http://mains.services:2086/lorre/3Jy14gb2kR/100684
-#EXTINF:-1 group-title="SAMSUNG TV PLUS US" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png",STVP_US : BCC GAMING
+#EXTINF:-1 group-title="SAMSUNG TV PLUS US" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png",STVP_USA : BCC GAMING
 http://mains.services:2086/lorre/3Jy14gb2kR/100742
 #EXTINF:-1 group-title="SAMSUNG TV PLUS US" tvg-logo="http://145.239.7.84/logos/SamsungTVPlus.png",STVP_US : BEIN SPORTS XTRA
 http://mains.services:2086/lorre/3Jy14gb2kR/100691
