@@ -1,12 +1,12 @@
 #EXTINF:-1,#EXTM3U
 #EXTM3U x-tvg-url="http://ky-iptv.com/xmltv.php?username=duke2&password=duke2&type=m3u_plus&output=m3u8"
-#EXTINF:120,USA ABC 
+#EXTINF:120,USA ABC 10 WPLG MIAMI
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/ABC/HLS/index.m3u8
-#EXTINF:0,USA ABC-2 
+#EXTINF:0,USA ABC 10 WPLG MIAMI
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:ABC.smil/playlist.m3u8
-#EXTINF:0,USA AE 
+#EXTINF:0,USA A&amp;E UHD
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:AE.smil/playlist.m3u8
 #EXTINF:0,USA ALJAZEERA 
@@ -15,22 +15,19 @@ http://gtv01.airlinktt.co/live/smil:ALJAZEERA.smil/playlist.m3u8
 #EXTINF:0,USA AMC 
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/AMC/HLS/index.m3u8
-#EXTINF:0,USA BBC_WORLD 
+#EXTINF:0,UK BBC World News 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:BBC_WORLD.smil/playlist.m3u8
-#EXTINF:0,USA BEINSPORTS 
-#EXTVLCOPT:network-caching=3000
-http://gtv01.airlinktt.co/live/smil:BEINSPORTS.smil/playlist.m3u8
-#EXTINF:0,USA BET 
+#EXTINF:0,USA BET East
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:BET.smil/playlist.m3u8
-#EXTINF:0,USA CARTOON 
+#EXTINF:0,USA Cartoon Network East
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:CARTOON.smil/playlist.m3u8
-#EXTINF:0,CA CBC 
+#EXTINF:0,CA CBC Toronto 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:CBC.smil/playlist.m3u8
-#EXTINF:0,USA CBS 
+#EXTINF:0,USA CBS 2 WCBS NEW YORK
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:CBS.smil/playlist.m3u8
 #EXTINF:0,USA BET HER
@@ -39,37 +36,37 @@ http://gtv01.airlinktt.co/live/smil:CENTRIC.smil/playlist.m3u8
 #EXTINF:0,CA CNBC 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:CNBC.smil/playlist.m3u8
-#EXTINF:0,USA CNN_INTERNATIONAL 
+#EXTINF:0,UK CNN INTERNATIONAL
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:CNN_INTERNATIONAL.smil/playlist.m3u8
-#EXTINF:0,USA COMEDY_CENTRAL 
+#EXTINF:0,USA Comedy Central East UHD
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:COMEDY_CENTRAL.smil/playlist.m3u8
-#EXTINF:0,USA COMET_TV 
+#EXTINF:0,USA Comet
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:COMET_TV.smil/playlist.m3u8
-#EXTINF:0,USA COZI_TV 
+#EXTINF:0,USA Cozi TV  
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:COZI_TV.smil/playlist.m3u8
-#EXTINF:0,CA CTV 
+#EXTINF:0,CA CTV TORONTO
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:CTV.smil/playlist.m3u8
-#EXTINF:0,USA CW 
+#EXTINF:0,USA CW 39 WSFL MIAMI
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:CW.smil/playlist.m3u8
-#EXTINF:0,USA DISCOVERY_KIDS 
+#EXTINF:0,BR: DISCOVERY KIDS FHD
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:DISCOVERY_KIDS.smil/playlist.m3u8
-#EXTINF:0,USA DIY 
+#EXTINF:0,CA DIY Network
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:DIY.smil/playlist.m3u8
-#EXTINF:0,USA DW_ENGLISH 
+#EXTINF:0,MX: DW FHD
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:DW_ENGLISH.smil/playlist.m3u8
-#EXTINF:0,USA E 
+#EXTINF:0,USA E! Entertainment
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:E.smil/playlist.m3u8
-#EXTINF:0,E1 
+#EXTINF:0,USA E1 
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/E1/HLS/index.m3u8
 #EXTINF:0,USA E2 
@@ -81,97 +78,97 @@ http://38.127.211.18/live/c2eds/E3/HLS/index.m3u8
 #EXTINF:0,USA ESCAPE 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:ESCAPE.smil/playlist.m3u8
-#EXTINF:0,USA ESPN1 
+#EXTINF:0,USA ESPN HD
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/ESPN1/HLS/index.m3u8
-#EXTINF:0,USA ESPN1USA 
+#EXTINF:0,USA ESPN HD
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8
-#EXTINF:0,USA ESPN2 
+#EXTINF:0,USA ESPN 2
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/ESPN2/HLS/index.m3u8
-#EXTINF:0,USA ESPN2USA 
+#EXTINF:0,USA ESPN 2
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8
 #EXTINF:0,USA FLIXX 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:FLIXX.smil/playlist.m3u8
-#EXTINF:0,USA FLOWSPORTS1 
+#EXTINF:0,Carib Flow Sports 
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/FlowSports1/HLS/index.m3u8
-#EXTINF:0,USA FOOD_NETWORK 
+#EXTINF:0,USA Food Network
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:FOOD_NETWORK.smil/playlist.m3u8
-#EXTINF:0,USA FOX 
+#EXTINF:0,USA FOX 7 WSVN MIAMI
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/FOX/HLS/index.m3u8
-#EXTINF:0,FOXNEWS 
+#EXTINF:0,USA Fox News Channel
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/FoxNews/HLS/index.m3u8
-#EXTINF:0,USA FOXSPORTS1 
+#EXTINF:0,USA FOX SPORTS 1 HD
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/FoxSports1/HLS/index.m3u8
-#EXTINF:0,USA FOXSPORTS1-2 
+#EXTINF:0,USA FOX SPORTS 1 HD 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:FOXSPORTS1.smil/playlist.m3u8
-#EXTINF:0,USA FOXSPORTS2 
+#EXTINF:0,USA FOX SPORTS 2 HD
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/FoxSports2/HLS/index.m3u8
-#EXTINF:0,USA FOXSPORTS2-2 
+#EXTINF:0,USA FOX SPORTS 2 HD
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:FOXSPORTS2.smil/playlist.m3u8
-#EXTINF:0,USA FREEFORM 
+#EXTINF:0,USA Freeform
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:FREEFORM.smil/playlist.m3u8
-#EXTINF:0,USA FUSE 
+#EXTINF:0,USA Fuse TV
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:FUSE.smil/playlist.m3u8
-#EXTINF:0,USA FX 
+#EXTINF:0,USA FX East UHD
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:FX.smil/playlist.m3u8
-#EXTINF:0,USA FYI 
+#EXTINF:0,USA FYI
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:FYI.smil/playlist.m3u8
-#EXTINF:0,USA GRIT 
+#EXTINF:0,USA Grit TV
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:GRIT.smil/playlist.m3u8
-#EXTINF:0,USA GSN 
+#EXTINF:0,USA GSN (Game Show Network)
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:GSN.smil/playlist.m3u8
-#EXTINF:0,USA HALLMARK 
+#EXTINF:0,USA Hallmark Channel
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:HALLMARK.smil/playlist.m3u8
-#EXTINF:0,USA HALLMARK_MM 
+#EXTINF:0,USA Hallmark Movies &amp; Mysteries UHD
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:HALLMARK_MM.smil/playlist.m3u8
-#EXTINF:0,USA HBOFAMILY 
+#EXTINF:0,USA HBO Family* 
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/HBOFamily/HLS/index.m3u8
-#EXTINF:0,USA HBOSIGNATURE 
+#EXTINF:0,USA HBO Signature*
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/HBOSignature/HLS/index.m3u8
-#EXTINF:0,USA HGTV 
+#EXTINF:0,USA HGTV East
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:HGTV.smil/playlist.m3u8
-#EXTINF:0,USA INVESTIGATION_DISCOVERY 
+#EXTINF:0,USA ID East UHD
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:INVESTIGATION_DISCOVERY.smil/playlist.m3u8
-#EXTINF:0,USA ION 
+#EXTINF:0,USA ION TV
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:ION.smil/playlist.m3u8
-#EXTINF:0,USA LIFETIME 
+#EXTINF:0,USA Lifetime East UHD
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/Lifetime/HLS/index.m3u8
-#EXTINF:0,USA LIFETIME-2 
+#EXTINF:0,USA Lifetime East UHD
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:LIFETIME.smil/playlist.m3u8
-#EXTINF:0,USA LMN 
+#EXTINF:0,USA Lifetime Movie Network SD
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:LMN.smil/playlist.m3u8
-#EXTINF:0,USA MAXPRIME 
+#EXTINF:0,BR: MAX PRIME 
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/MaxPrime/HLS/index.m3u8
-#EXTINF:0,USA ME_TV 
+#EXTINF:0,USA MeTV
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:ME_TV.smil/playlist.m3u8
 #EXTINF:0,USA MSNBC 
@@ -180,7 +177,7 @@ http://gtv01.airlinktt.co/live/smil:MSNBC.smil/playlist.m3u8
 #EXTINF:0,USA MY33 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:MY33.smil/playlist.m3u8
-#EXTINF:0,USA NBA_TV 
+#EXTINF:0,USA NBA TV UHD
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:NBA_TV.smil/playlist.m3u8
 #EXTINF:0,USA NBC 
@@ -189,16 +186,16 @@ http://gtv01.airlinktt.co/live/smil:NBC.smil/playlist.m3u8
 #EXTINF:0,USA NHKWORLD 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:NHKWORLD.smil/playlist.m3u8
-#EXTINF:0,USA NICKELODEON 
+#EXTINF:0,USA Nickelodeon UHD
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:NICKELODEON.smil/playlist.m3u8
-#EXTINF:0,USA NICK_JR 
+#EXTINF:0,USA Nick Jr East
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:NICK_JR.smil/playlist.m3u8
-#EXTINF:0,USA OWN 
+#EXTINF:0,USA Oprah Winfrey Network OWN
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:OWN.smil/playlist.m3u8
-#EXTINF:0,USA PARAMOUNT 
+#EXTINF:0,USA Paramount East UHD
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:PARAMOUNT.smil/playlist.m3u8
 #EXTINF:0,USA PBS 
@@ -219,13 +216,13 @@ http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
 #EXTINF:0,USA SCIENCE 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:SCIENCE.smil/playlist.m3u8
-#EXTINF:0,USA SPORTSMAX1 
+#EXTINF:0,Carib Sports Max
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/Sportsmax1/HLS/index.m3u8
-#EXTINF:0,USA SPORTSMAX2 
+#EXTINF:0,Carib Sports Max2 
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/Sportsmax2/HLS/index.m3u8
-#EXTINF:0,USA STARZ 
+#EXTINF:0,USA StarZ East
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:STARZ.smil/playlist.m3u8
 #EXTINF:0,USA TCM 
