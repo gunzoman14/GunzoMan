@@ -33,7 +33,7 @@ http://gtv01.airlinktt.co/live/smil:CBC.smil/playlist.m3u8
 #EXTINF:0,CBS 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:CBS.smil/playlist.m3u8
-#EXTINF:0,CENTRIC 
+#EXTINF:0,BET HER
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:CENTRIC.smil/playlist.m3u8
 #EXTINF:0,CNBC 
@@ -132,9 +132,6 @@ http://gtv01.airlinktt.co/live/smil:FX.smil/playlist.m3u8
 #EXTINF:0,FYI 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:FYI.smil/playlist.m3u8
-#EXTINF:0,GO_TV 
-#EXTVLCOPT:network-caching=3000
-http://gtv01.airlinktt.co/live/smil:GO_TV.smil/playlist.m3u8
 #EXTINF:0,GRIT 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:GRIT.smil/playlist.m3u8
@@ -153,15 +150,9 @@ http://38.127.211.18/live/c2eds/HBOFamily/HLS/index.m3u8
 #EXTINF:0,HBOSIGNATURE 
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/HBOSignature/HLS/index.m3u8
-#EXTINF:0,HGPTV 
-#EXTVLCOPT:network-caching=3000
-http://bkm100.gttstreamtv.com/HGPTV/HGPTV.isml/index.m3u8
 #EXTINF:0,HGTV 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:HGTV.smil/playlist.m3u8
-#EXTINF:0,HJTV 
-#EXTVLCOPT:network-caching=3000
-http://bkm100.gttstreamtv.com/HJTV/HJTV.isml/index.m3u8
 #EXTINF:0,INVESTIGATION_DISCOVERY 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:INVESTIGATION_DISCOVERY.smil/playlist.m3u8
@@ -195,12 +186,6 @@ http://gtv01.airlinktt.co/live/smil:NBA_TV.smil/playlist.m3u8
 #EXTINF:0,NBC 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:NBC.smil/playlist.m3u8
-#EXTINF:0,NBCSPORTS 
-#EXTVLCOPT:network-caching=3000
-http://gtv01.airlinktt.co/live/smil:NBCSPORTS.smil/playlist.m3u8
-#EXTINF:0,NCN GUYANA 
-#EXTVLCOPT:network-caching=3000
-http://gtv01.airlinktt.co/live/smil:NCN_GUYANA.smil/playlist.m3u8
 #EXTINF:0,NHKWORLD 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:NHKWORLD.smil/playlist.m3u8
@@ -225,13 +210,10 @@ http://gtv01.airlinktt.co/live/smil:PBS_CREATE.smil/playlist.m3u8
 #EXTINF:0,PBS_KIDS 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:PBS_KIDS.smil/playlist.m3u8
-#EXTINF:0,QUBO 
-#EXTVLCOPT:network-caching=3000
-http://gtv01.airlinktt.co/live/smil:QUBO.smil/playlist.m3u8
 #EXTINF:0,QUEST 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:QUEST.smil/playlist.m3u8
-#EXTINF:0,RUSHHD 
+#EXTINF:0,FLOW SPORTS RUSHHD 
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
 #EXTINF:0,SCIENCE 
@@ -267,9 +249,6 @@ http://190.108.196.35/live/c2eds/TNTla/HLS_VMX/TNTla.m3u8
 #EXTINF:0,TRUTV 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:TRUTV.smil/playlist.m3u8
-#EXTINF:0,TVG 
-#EXTVLCOPT:network-caching=3000
-http://bkm100.gttstreamtv.com/TVG/TVG.isml/index.m3u8
 #EXTINF:0,UNIVISION 
 #EXTVLCOPT:network-caching=3000
 http://gtv01.airlinktt.co/live/smil:UNIVISION.smil/playlist.m3u8
