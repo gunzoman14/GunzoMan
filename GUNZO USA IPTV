@@ -1,5 +1,15 @@
 #EXTINF:-1,#EXTM3U
 #EXTM3U x-tvg-url="http://ky-iptv.com/xmltv.php?username=duke2&password=duke2&type=m3u_plus&output=m3u8"
+#EXTINF:-1 ,CAR: Cnc3 Trinidad
+http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/110129.ts
+#EXTINF:-1 ,CAR: TTT Trinidad
+http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/110203.ts
+#EXTINF:-1 ,CAR: Ccn Tv6 Trinidad
+http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/110123.ts
+#EXTINF:-1 ,CAR: Synergy tv Trinidad
+http://qqtv.nl:8080/live/Airport111/Airport111/272996.m3u8
+#EXTINF:-1 ,CAR: Gayelle The Caribbean
+http://qqtv.nl:8080/live/Airport111/Airport111/413873.m3u8
 #EXTINF:120,USA ABC 10 WPLG MIAMI
 #EXTVLCOPT:network-caching=3000
 http://38.127.211.18/live/c2eds/ABC/HLS/index.m3u8
