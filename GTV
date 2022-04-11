@@ -451,11 +451,11 @@ http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/22860
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/mx/Space.mx.png",..SPACE HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SPACE.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg",**STARZ 
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:STARZ.smil/playlist.m3u8
+http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/1271.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzKidsFamily.us.png",**STARZ KIDS & FAMILY HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:COSMO.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzComedy.us.png",**STARZ COMEDY HD
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:STARZ_COMEDY.smil/playlist.m3u8
+http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/95919.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png",LA: STUDIO UNIVERSAL.
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:STUDIO_UNIVERSAL.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Syfy.us.png",..SYFY HD US
