@@ -1,5 +1,5 @@
 #EXTINF:-1,#EXTM3U
-#EXTM3U x-tvg-url="https://879907813494265587.nicejan.xyz/xmltv.php?username=vv01032&password=3469675&type=m3u"
+#EXTM3U x-tvg-url="http://879907813494265587.nicejan.xyz/xmltv.php?username=vv01032&password=3469675&type=m3u"
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CAR: CNC3 TRINIDAD
 http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/110129.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",CAR: TTT TRINIDAD
