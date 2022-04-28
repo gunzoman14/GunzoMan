@@ -545,6 +545,8 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ESPN2_CARIBBEAN.smi
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPNU.us.png",...ESPNU HD
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/118424
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg",...EUROSOPRT 1 HD
+http://supersonictv.live:25461/marcia/marcia/83479
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg",...EUROSOPRT 1 HD
 http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/31459.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg",...EUROSPORT 2 HD
 http://mains.services:2086/dorec14/Chuckman5525$/72660
