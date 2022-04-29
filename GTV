@@ -103,9 +103,9 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:BET.smil/playlist.m3u
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BetHer.us.png",..BET HER
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:CENTRIC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pngkey.com/png/full/264-2641524_bet-gospel-1-gospel-logo.png",..BET Gospel
-http://supersonictv.live:25461/marcia/marcia/22056
+http://fortv.cc:8080/Ronnie/Ronnie/66080
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pngkey.com/png/full/264-2641524_bet-gospel-1-gospel-logo.png",..BET Gospel
-http://supersonictv.live:25461/marcia/marcia/22056
+http://fortv.cc:8080/Ronnie/Ronnie/66080
 #EXTINF:-1 group-title="Music" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_jams.png",..BET JAMS HD
 http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/109114.ts
 #EXTINF:-1 group-title="Music" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_jams.png",..BET JAMS HD
