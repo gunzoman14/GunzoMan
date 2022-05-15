@@ -33,7 +33,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:KTLA.smil/playlist.m3
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://3abn.org/img/3abn-ogg.png",RELIG: 3ABN
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:3ABN.smil/chunklist_b2160000.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="http://www.netsportmedia.com/wp-content/uploads/2019/03/CBN-400x250.png",USA: CBN News International
-http://879907813494291767.nicejan.xyz:80/vv01032/3469675/291767
+http://581747813260296729.nicejan.xyz:80/vv01032/3469675/296729
 #EXTINF:-1 group-title="RELIGION" tvg-logo="http://www.netsportmedia.com/wp-content/uploads/2019/03/CBN-400x250.png",RELIG: CBN Live
 https://live.chdrstatic.com/cbn/primary/1.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png",..ABC 7 LOS ANGELES HD
@@ -125,9 +125,9 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:REVOLT.smil/playlis
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://i1.sndcdn.com/avatars-uqybZeqknWnyRv13-tdcZKw-t500x500.jpg",V2BEAT
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQUtZOjnDDF0jSa-VhUK9XIF03ODugGcIFW76ng=s900-c-k-c0x00ffffff-no-rj",Gospel Music Television
-https://stmv1.srvif.com/gmusic/gmusic/chunklist.m3u8
-#EXTINF:-1 group-title="RELIGION" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQUtZOjnDDF0jSa-VhUK9XIF03ODugGcIFW76ng=s900-c-k-c0x00ffffff-no-rj",TV Gospel Music
-https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
+https://stmv1.srvif.com/gmusic/gmusic/chunklist_w21866239.m3u8
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://lh3.googleusercontent.com/SqtVPeD53vBXEc7l_biWPAcVIK67Ly5lt4s5f2YpeXC0-AaOMivHNI_iIwwSuSZwV3oK",One Gospel
+http://fortv.cc:8080/Ronnie/Ronnie/121703
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://www.pngkey.com/png/detail/210-2102708_local-sports-hillsong-channel-logo.png",..HILLSONG CHANNEL
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d486b87428fe37d8cadba44/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Music" tvg-logo="http://static1.squarespace.com/static/5d07b0c8af0f1c0001204144/t/5d07b0f8c2c5b00001d89f93/1560785145428/social+sharing+logo.png?format=1500w",VEVO
@@ -135,15 +135,15 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f6
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="http://glmtv.pw/logo/prestige/Caribean/MELLO_TV.png",Mello TV
 https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://logodix.com/logo/853647.jpg",TVJ
-http://mains.services:2086/dorec14/Chuckman5525$/55207
+http://fortv.cc:8080/Ronnie/Ronnie/78918
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://mark.trademarkia.com/logo-images/cvm-television-limited/cvm-tv-77204584.jpg",CVMTV
 http://mains.services:2086/dorec14/Chuckman5525$/101245
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://www.caribbeanhottv.com/wp-content/uploads/2018/07/logo116x90-2.png",HOT 7 TV
 http://mains.services:2086/dorec14/Chuckman5525$/55812
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://photos.live-tv-channels.org/tv-logo/jm-hype-tv-8552-300x225.jpg",HYPETV
-http://mains.services:2086/live/dorec14/Chuckman5525$/101243.m3u8
+http://fortv.cc:8080/Ronnie/Ronnie/99572
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://photos.live-tv-channels.org/tv-logo/jm-real-jamaican-television-3509-300x225.jpg",RETV
-http://mains.services:2086/live/dorec14/Chuckman5525$/101244.m3u8
+http://fortv.cc:8080/Ronnie/Ronnie/21094
 #EXTINF:-1 group-title="GRENADA" tvg-logo="https://gbn.gd/wp-content/uploads/2018/02/gbn-e1519160308358.png",GBN
 http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/110146.ts
 #EXTINF:-1 group-title="Music" tvg-logo="https://seeklogo.com/images/A/all-music-logo-C3D748FA36-seeklogo.com.png",ALL MUSIC
@@ -203,9 +203,9 @@ http://crackle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png",..CGTN ENGLISH HD
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/1fhqoEE.png",..CNN HD
-http://38.127.211.18/live/c2eds/CNN/HLS/index.m3u8
+http://fortv.cc:8080/Ronnie/Ronnie/57398
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/1fhqoEE.png",..CNN HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/211275
+http://fortv.cc:8080/Ronnie/Ronnie/1817
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/1fhqoEE.png",..CNN HD
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/CNN.us.png",..CNN HD
@@ -367,7 +367,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:MSNBC.smil/playlist
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/diJCR16.png",AR: MBC Action HD
 http://879907813494265587.nicejan.xyz:80/vv01032/3469675/265587
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/MBC_Max_TV_Channel_Logo.png",..MBC MAX HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/250429
+http://581747813260265384.nicejan.xyz:80/vv01032/3469675/265384
 #EXTINF:-1 tvg-id="News12NewYork.us" tvg-name="" tvg-logo="https://corporate.tubitv.com/wp-content/uploads/2020/10/News12BlueLogo2.png" group-title="News",..NEWS 12 HD (BROOKLYN)
 https://lnc-news12.tubi.video/index.m3u8
 #EXTINF:-1 group-title="NOLLYWOOD" tvg-logo="https://picon-13398.kxcdn.com/africamagicigboza.jpg",CAR: AFRICA CHANNEL 
@@ -447,19 +447,21 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:SOAC.smil/playlist.
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/in/SonyMax.in.png",IN: SONY MAX HD USA
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SONY.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://www.insidesport.co/wp-content/uploads/2020/06/09a49583-f93f-4082-9406-a26a4fece4de.jpg",IN: SONY HD IND
-http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SONY_INDIA.smil/playlist.m3u8
+http://fortv.cc:8080/Ronnie/Ronnie/125795
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/SundanceTV.us.png",..SUNDANCE TV
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/26976
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/SundanceTV.us.png",..SUNDANCE TV
 http://mains.services:2086/dorec14/Chuckman5525$/95378
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/SundanceTV.us.png",..SUNDANCE TV
-http://879907813494293216.nicejan.xyz:80/vv01032/3469675/293216
+http://581747813260296873.nicejan.xyz:80/vv01032/3469675/296873
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/mx/Space.mx.png",..SPACE HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SPACE.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg",**STARZ 
 http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/1271.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzKidsFamily.us.png",**STARZ KIDS & FAMILY HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:COSMO.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzComedy.us.png",**STARZ COMEDY HD
+http://911059613882301542.eurencode.xyz:80/vv01032/3469675/301542
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzComedy.us.png",**STARZ COMEDY HD
 http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/95919.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png",LA: STUDIO UNIVERSAL.
@@ -469,7 +471,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:SYFY.smil/playlist.m3
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TravelChannel.us.png",..TRAVEL CHANNEL HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:TRAVEL_CHANNEL.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TNT.us.png",..TNT EAST HD
-http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TNT.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:TNT.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TNT.us.png",..TNT LA HD
 http://38.127.211.18/live/c2eds/TNTLA/HLS/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Tnt_series.png",..TNT SERIES HD
@@ -543,9 +545,9 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:ESPN_CARIBBEAN.smil
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN2.us.png",...ESPN 2 HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ESPN2_CARIBBEAN.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPNU.us.png",...ESPNU HD
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/118424
+http://fortv.cc:8080/Ronnie/Ronnie/10255
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg",...EUROSOPRT 1 HD
-http://supersonictv.live:25461/marcia/marcia/83479
+http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/117140
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg",...EUROSOPRT 1 HD
 http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/31459.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg",...EUROSPORT 2 HD
@@ -583,7 +585,7 @@ http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/2873
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png",...NFL NETWORK
 http://mains.services:2086/dorec14/Chuckman5525$/308
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://ky-iptv.com:25461/images/6c6ad98cd6ab16b698bcae1106fd38ae.png",...NHL NETWORK
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/65400
+http://fortv.cc:8080/Ronnie/Ronnie/20179
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/olympic-channel-us.png",SPORTS: Olympic Channel
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/3111
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/olympic-channel-us.png",SPORTS: Olympic Channel
@@ -601,7 +603,7 @@ http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://uspto.report/TM/90108722/mark.png",SKILLS+THRILLS
 https://ab821aa1fe744f529fcd833dd8e5ed41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SkillsAndThrills/playlist.m3u8?ads.wurl_channel=590&ads.wurl_name=SkillsAndThrills&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=5f74cf7effbe690040689f3e&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="http://38.143.137.20/logo/prestige/United-States/golf_channel_us.png",...NBC GOLF HD
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/65436
+http://fortv.cc:8080/Ronnie/Ronnie/9806
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="https://picon-13398.kxcdn.com/supersport-golf-za.jpg",...SUPERSPORTS GOLF HD ZA
 http://879907813494289324.nicejan.xyz:80/vv01032/3469675/289324
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="https://picon-13398.kxcdn.com/supersport-golf-za.jpg",...SUPERSPORTS GOLF HD ZA
@@ -627,11 +629,11 @@ http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/118425
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/SEC_Network_Logo.png",...ESPN SEC NETWORK HD
 http://mains.services:2086/dorec14/Chuckman5525$/1135
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsactionuk.jpg",Sky Sports Action HD
-http://879907813494267309.nicejan.xyz:80/vv01032/3469675/267309
+http://fortv.cc:8080/Ronnie/Ronnie/53705
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-news-uk.png",...SKY SPORTS NEWS HD
 http://mains.services:2086/dorec14/Chuckman5525$/67091
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-news-uk.png",...SKY SPORTS NEWS HD
-http://879907813494274303.nicejan.xyz:80/vv01032/3469675/274303
+http://581747813260274303.nicejan.xyz:80/vv01032/3469675/274303
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsfootballuk.jpg",...SKY SPORTS FOOTBALL HD
 http://mains.services:2086/dorec14/Chuckman5525$/67057
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/twMKgz9.png",...SKY SPORTS FOOTBALL HD
@@ -639,7 +641,7 @@ http://879907813494274301.nicejan.xyz:80/vv01032/3469675/274301
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-cricket-uk.png",WC. SKY SPORTS CRICKET HD
 http://mains.services:2086/dorec14/Chuckman5525$/51106
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportscricketuk.jpg",WC. SKY SPORTS CRICKET HD
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/4903
+http://fortv.cc:8080/Ronnie/Ronnie/10513
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-main-event-uk.png",...SKY SPORTS MAIN EVENT
 http://mains.services:2086/dorec14/Chuckman5525$/67058
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmaineventuk.jpg",...SKY SPORTS MAIN EVENT
@@ -657,7 +659,7 @@ http://mains.services:2086/dorec14/Chuckman5525$/90491
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png",...SUPERSPORT PREMIER LEAGUE HD AF
 http://879907813494289070.nicejan.xyz:80/vv01032/3469675/289070
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-premier-league-za.jpg",...SUPERSPORT PREMIER LEAGUE HD AF
-https://watch.universalsportstv.net:8081/nickhh44/H0011gan/51465
+http://fortv.cc:8080/Ronnie/Ronnie/122350
 #EXTINF:-1 tvg-id="SPORTS" status="online",Real Madrid TV US Version 
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg",SuperSport LaLiga HD ZA
