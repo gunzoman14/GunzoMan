@@ -33,7 +33,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:KTLA.smil/playlist.m3
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://3abn.org/img/3abn-ogg.png",RELIG: 3ABN
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:3ABN.smil/chunklist_b2160000.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="http://www.netsportmedia.com/wp-content/uploads/2019/03/CBN-400x250.png",USA: CBN News International
-http://581747813260296729.nicejan.xyz:80/vv01032/3469675/296729
+http://911059613882301047.eurencode.xyz:80/vv01032/3469675/301047
 #EXTINF:-1 group-title="RELIGION" tvg-logo="http://www.netsportmedia.com/wp-content/uploads/2019/03/CBN-400x250.png",RELIG: CBN Live
 https://live.chdrstatic.com/cbn/primary/1.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png",..ABC 7 LOS ANGELES HD
@@ -274,6 +274,8 @@ http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/35844
 http://mains.services:2086/gmen32/5770346/95368
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/epix-hits-us.png",..EPIX HITS HD
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/35571
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://gustotv.com/wp-content/uploads/2020/04/gustotv-logo.svg", Gusto TV
+https://gustotv-samsung-gb.samsung.wurl.com/manifest/089025e8e07edc059504b28ffd897267.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cooking-channel-us.png",CA: COOKING CHANNEL
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:COOKING.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/FoodNetwork.us.png",..FOOD NETWORK HD 
@@ -367,7 +369,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:MSNBC.smil/playlist
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/diJCR16.png",AR: MBC Action HD
 http://879907813494265587.nicejan.xyz:80/vv01032/3469675/265587
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/MBC_Max_TV_Channel_Logo.png",..MBC MAX HD
-http://581747813260265384.nicejan.xyz:80/vv01032/3469675/265384
+http://mains.services:2086/gmen32/5770346/99013
 #EXTINF:-1 tvg-id="News12NewYork.us" tvg-name="" tvg-logo="https://corporate.tubitv.com/wp-content/uploads/2020/10/News12BlueLogo2.png" group-title="News",..NEWS 12 HD (BROOKLYN)
 https://lnc-news12.tubi.video/index.m3u8
 #EXTINF:-1 group-title="NOLLYWOOD" tvg-logo="https://picon-13398.kxcdn.com/africamagicigboza.jpg",CAR: AFRICA CHANNEL 
@@ -395,7 +397,7 @@ https://xplore-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ANIMALS" tvg-logo="",InWild
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-inwild-samsung-uk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/Newsmax.us.png",USA: NEWSMAX
-http://618377213255292232.nicesun.xyz:80/vv01032/3469675/292232
+http://911059613882301469.eurencode.xyz:80/vv01032/3469675/301469
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nbc_hd.jpg",..NBC 6 MIAMI HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NBC.smil/chunklist_b1160000_slen.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://static.epg.best/us/MTV.us.png",..MTV
