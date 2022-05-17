@@ -452,8 +452,6 @@ http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/1580.ts
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:STARS.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/ShowtimeFamilyZone.us.png",**SHOWTIME 2 HD
 http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/95922.ts
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/ShowtimeFamilyZone.us.png",**SHOWTIME 2 test
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:SHOWTIME_2.smil/chunklist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/gr/SmileTV.gr.png",SMILE
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:SOAC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/in/SonyMax.in.png",IN: SONY MAX HD USA
