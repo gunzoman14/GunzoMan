@@ -271,13 +271,19 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:ESCAPE.smil/playlis
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61FiKePugAL.png",ElectricNOW
 https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/epix-us.png",..EPIX HD
+http://ky-iptv.com:80/April555/April555/176026.m3u8
+#EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/epix-us.png",..EPIX HD
 http://mains.services:2086/gmen32/5770346/95367
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/epix-us.png",..EPIX HD
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/35843
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/epix-2-us.png",..EPIX 2 HD
+http://ky-iptv.com:80/April555/April555/176030.m3u8
+#EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/epix-2-us.png",..EPIX 2 HD
 http://mains.services:2086/gmen32/5770346/95366
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/epix-2-us.png",..EPIX 2 HD
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/35844
+#EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/epix-hits-us.png",..EPIX HITS HD
+http://ky-iptv.com:80/April555/April555/176028.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/epix-hits-us.png",..EPIX HITS HD
 http://mains.services:2086/gmen32/5770346/95368
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/epix-hits-us.png",..EPIX HITS HD
