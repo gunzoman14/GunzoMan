@@ -707,7 +707,7 @@ http://879907813494282653.nicejan.xyz:80/vv01032/3469675/282653
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/NBA_TV_HD.png",PT: SPORT TV NBA HD
 http://879907813494278990.nicejan.xyz:80/vv01032/3469675/278990
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/TennisChannel.us.png",...TENNIS CHANNEL HD
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/23132
+http://qqtv.nl:8080/niloofar/niloofar/7988
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",USA S Tennis
 http://mains.services:2086/gmen32/5770346/99291
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://images-platform.99static.com//Amj86fsRA0Px-9ijuvh3CPyidbs=/1009x174:4771x3936/fit-in/500x500/projects-files/64/6434/643466/eade489c-1423-4db4-910f-710fedb530cc.jpg",MOTORCYCLIST TV
@@ -732,15 +732,15 @@ http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/8918
 http://mains.services:2086/gmen32/5770346/1673
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://westfaironline.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-01-at-10.49.41-AM.png",...YES NETWORK HD
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/55653
-#EXTINF:-1,Baywatch
+#EXTINF:-1 group-title="24/7" tvg-logo="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2019%2F08%2Fbaywatch-tout-1333x2000.jpg",Baywatch
 https://d22ljxpuae2sin.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/BayWatch-Canada-prod/playlist.m3u8?ads.device_did%3D%7BPSID%7D%26ads.device_dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
-#EXTINF:-1 group-title="● CLASSICS" tvg-logo="http://011011011.com:8080/images/5c2d7d6a0f9f4aa5fd9fee5d14163cd2.jpg",24/7 Sanford and Son
+#EXTINF:-1 group-title="24/7" tvg-logo="https://m.media-amazon.com/images/I/51AJa418SVL.jpg",Sanford and Son
 http://mains.services:2086/gmen32/5770346/93486
-#EXTINF:-1 group-title="Unsorted" tvg-logo="Logo N/A",24/7: Tom And Jerry
+#EXTINF:-1 group-title="24/7" tvg-logo="https://cdn.hmv.com/r/w-640/hmv/files/4b/4b9f64f3-5140-4d9e-a134-1eb54d7907cf.jpg",Tom And Jerry
 http://mains.services:2086/gmen32/5770346/17914
-#EXTINF:-1 group-title="● CLASSICS TV SHOW" tvg-logo="https://c8.alamy.com/comp/RN8C33/chuck-norris-walker-texas-ranger-1993-RN8C33.jpg",24/7 Walker Texas Ranger
+#EXTINF:-1 group-title="24/7" tvg-logo="https://c8.alamy.com/comp/RN8C33/chuck-norris-walker-texas-ranger-1993-RN8C33.jpg",24/7 Walker Texas Ranger
 http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/108900.ts
-#EXTINF:-1 group-title="● CLASSICS TV SHOW" tvg-logo="https://c8.alamy.com/comp/RN8C33/chuck-norris-walker-texas-ranger-1993-RN8C33.jpg",24/7 Walker Texas Ranger
+#EXTINF:-1 group-title="24/7" tvg-logo="https://c8.alamy.com/comp/RN8C33/chuck-norris-walker-texas-ranger-1993-RN8C33.jpg",24/7 Walker Texas Ranger
 http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/108900.ts
 #EXTINF:-1,RADIO: UFDV GOSPEL RADIO (JAMAICA)
 http://mains.services:2086/gmen32/5770346/101167
