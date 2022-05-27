@@ -510,6 +510,8 @@ http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/95919.ts
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:STUDIO_UNIVERSAL.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Syfy.us.png",..SYFY HD US
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:SYFY.smil/playlist.m3u8
+#EXTINF:-1 group-title="UK ENTERTAINMENT" tvg-logo="http://p2086.securepoint.io:2086/images/dbfe18be3bf4f90b59549519e4d",UK: SKY ATLANTIC
+http://2690.ovh:25461/34baxmo5/56bwf44u/4851
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TravelChannel.us.png",..TRAVEL CHANNEL HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:TRAVEL_CHANNEL.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TNT.us.png",..TNT EAST HD
