@@ -94,6 +94,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e
 https://contvanime-vizio-ingest.cinedigm.com/master.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/gb/BBCWorldNews.uk.png",..BBC WORLD NEWS HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BBC_WORLD.smil/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/bbcone.png",UK: BBC ONE HD
+http://qqtv.nl:8080/niloofar/niloofar/15548
+#EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/bbctwo.png",UK: BBC TWO HD
+http://fortv.cc:8080/Ronnie/Ronnie/53650
+#EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/bbctwo.png",UK: BBC THREE HD
+http://mains.services:2086/gmen32/5770346/104613
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://img.favpng.com/2/1/18/bbc-america-logo-television-image-png-favpng-tZY7NuNPUFRH26thBhW4aZMji.jpg",..BBC AMERICA HD
 http://ky-iptv.com:80/April555/April555/1846782.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://img.favpng.com/2/1/18/bbc-america-logo-television-image-png-favpng-tZY7NuNPUFRH26thBhW4aZMji.jpg",..BBC AMERICA HD
@@ -372,6 +378,14 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:IFC.smil/playlist.m3u
 http://mains.services:2086/gmen32/5770346/99403
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://deadline.com/wp-content/uploads/2016/10/ion-tv-new-logo-2016.jpg",..ION
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:ION.smil/playlist.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/itv.png",UK: ITV 1
+http://qqtv.nl:8080/niloofar/niloofar/15467
+#EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/itv2hd.png",UK: ITV 2
+http://qqtv.nl:8080/niloofar/niloofar/15466
+#EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/itv3hd.png",UK: ITV 3
+http://qqtv.nl:8080/niloofar/niloofar/15465
+#EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/itv4.png",UK: ITV 4
+http://qqtv.nl:8080/niloofar/niloofar/15464
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/LifetimeNetwork.us.png",..LIFETIME HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:LIFETIME.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://findvectorlogo.com/wp-content/uploads/2020/01/lifetime-movies-vector-logo.png",..Lifetime Movie Network
