@@ -623,392 +623,116 @@ http://mains.services:2086/gmen32/5770346/102047
 http://mains.services:2086/gmen32/5770346/101700
 #EXTINF:-1 group-title="24/7 CHANNELS" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/184296/p184296_b_v8_ab.jpg",24/7 : THE JAMIE FOXX SHOW
 http://mains.services:2086/gmen32/5770346/62319
-#EXTINF:-1 group-title="UK| NEWS" tvg-logo="http://logo.crystalott.net:8080/logos/UNITEDKINGDOM/NEWS/FOXNEWS.png",|UK-SD| FOX NEWS
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/11806
-#EXTINF:-1 group-title="USA| NEWS" tvg-logo="http://logo.crystalott.net:8080/logos//USA.NEWS/FOXHD.png",|US| FOX NEWS CHANNEL HD
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/290991
-#EXTINF:-1 group-title="USA| NEWS" tvg-logo="http://logo.crystalott.net:8080/logos//USA.NEWS/FOX.png",|US| FOX HD
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/291009
-#EXTINF:-1 group-title="USA| NEWS" tvg-logo="http://logo.crystalott.net:8080/logos/USAUPD/FOX%20BUISSNES%20NETWORK.png",|US| FOX BUSINESS NETWORK HD
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/291020
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX (KABB) SAN ANTONIO
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292190
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX (KKFX) LOMPOC
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292198
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX (KRQE) ALBUQUERQUE-SANTA FE
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292202
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX (WBFF) BALTIMORE
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292207
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX (WLUK) GREEN BAY
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292214
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX (WUTV) BUFFALO
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292216
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX (WVAH) CHARLESTON
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292217
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX (WZTV) NASHVILLE
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292218
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX HD (PORTLAND)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292219
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX HD (TRI CITIES)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292220
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 2 HD (DETROIT)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292221
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 2 HD (HONOLULU)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292222
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 2 HD (SAN FRANCISCO)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292223
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 2 HD (ST. LOUIS)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292224
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 4 HD (DALLAS)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292225
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 4 HD (KANSAS CITY)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292226
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 5 HD (SAN DIEGO)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292227
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 5 HD (NEW YORK)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292228
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 5 HD (SAN DIEGO)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292229
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 5 HD (WASHINGTON)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292230
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 5 HD (LAS VEGAS)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292231
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 5 HD (ATLANTA)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292232
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 5 PLUS HD (WASHINGTON)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292233
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 6 HD (BIRMINGHAM)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292234
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 6 HD (MILWAUKEE)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292235
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 7 HD (AUSTIN)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292236
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 7 HD (MIAMI)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292237
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 8 HD (CLEVELAND)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292238
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 8 HD (GREENSBORO)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292239
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 8 HD (HIGH POINT)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292240
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 8 HD (NEW ORLEANS)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292241
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 9 HD (CALDWELL)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292242
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 9 HD (MINNEAPOLIS)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292243
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 9 PLUS HD (MINNEAPOLIS)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292244
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 10 HD (ALABAMA)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292245
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 10 HD (MOBILE)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292246
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 10 XTRA HD (PHOENIX)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292247
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 10 HD (PHOENIX)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292248
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 11 HD (CHARLESTON)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292249
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 11 HD (RENO)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292250
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 11 SD (TUCSON)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292251
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 11 HD (LOS ANGELES)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292252
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 12 HD (PORTLAND)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292253
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 13 HD (ALBUQUERQUE)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292254
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 13 HD (MEMPHIS)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292255
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 13 HD (SEATTLE)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292256
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 13 HD (SALT LAKE CITY)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292257
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 13 HD (TACOMA)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292258
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 13 HD (TAMPA BAY)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292259
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 14 HD (JACKSON)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292260
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 15 HD (FARGO)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292261
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 15 HD (LAFAYETTE)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292262
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 16 HD (LITTLE ROCK)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292263
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 17 HD (DES MOINES)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292264
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 17 HD (GRAND RAPIDS MI)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292265
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 17 HD (NASHVILLE)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292266
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 17 HD (SIOUX FALLS)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292267
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 18 HD (DAVENPORT)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292268
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 19 HD (CINCINNATI)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292269
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 19 HD (NEWPORT)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292270
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 21 HD (ASHEVILLE)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292271
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 21 HD (COLORADO SPRINGS)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292272
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 21 HD (GREENVILLE SC)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292273
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 22 HD (SOUTH BEND)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292274
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 23 HD (ALBANY)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292275
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 23 HD (PORTLAND)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292276
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 23 HD (TULSA)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292277
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 24 HD (CHARLESTON)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292278
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 24 HD (FORT SMITH)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292279
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 24 HD (MACON)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292280
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 25 HD (OKLAHOMA CITY)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292281
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 25 HD (BOSTON)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292282
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 25 HD (OKLAHOMA CITY)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292283
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 26 HD (FRESNO)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292284
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 26 HD (HOUSTON)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292287
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 27 HD (ROANOKE)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292288
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 28 HD (COLUMBUS GA)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292289
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 28 HD (SPOKANE)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292290
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 29 HD (BUFFALO)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292291
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 29 HD (PHILADELPHIA)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292292
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 29 HD (SAN ANTONIO)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292293
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 29 HD (PALM BEACH)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292294
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 29 HD (PHILADELPHIA)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292295
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 29 HD (WEST PALM BEACH)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292296
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 30 HD (JACKSONVILLE)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292297
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 30 HD (MERIDIAN MS)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292298
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 31 HD (DENVER)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292299
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 32 HD (CHICAGO)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292300
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 35 HD (ORLANDO)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292301
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 35 HD (RICHMOND)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292302
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 35 HD (SALINAS)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292303
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 35 PLUS HD (ORLANDO)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292304
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 36 HD (CAPE CORAL)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292305
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 36 HD (TOLEDO)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292306
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 38 HD (CORPUS CHRISTI)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292307
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 40 HD (JACKSON)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292308
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 40 HD (SACRAMENTO)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292309
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 40 HD (SPRINGFIELD)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292310
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 41 HD (LOUISVILLE)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292311
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 41 HD (YAKIMA)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292312
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 43 HD (BLOOMINGTON)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292313
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 43 HD (HARRISBURG)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292314
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 43 HD (KNOXVILLE)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292315
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 43 HD (MYRTLE BEACH)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292316
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 43 HD (VIRGINIA)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292317
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 43 HD (YORK)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292318
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 44 HD (BATON ROUGE)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292319
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 44 HD (BURLINGTON)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292320
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 44 HD (EVANSVILLE)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292321
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 44 HD (WACO)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292322
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 45 HD (BALTIMORE)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292323
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 46 SD (BELMONT NC)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292324
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 46 HD (CHARLOTTE)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292325
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 47 HD (LANSING)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292326
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 49 HD (OSAGE BEACH)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292327
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 50 HD
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292328
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 50 HD (RALEIGH)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292329
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 51 HD (GAINESVILLE)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292330
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 51 HD (LONGVIEW)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292331
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 53 HD (PITTSBURGH)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292332
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 54 HD (AUGUSTA)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292333
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 54 HD (HUNTSVILLE)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292334
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 55 HD (FORT WAYNE)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292335
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 57 HD (COLUMBIA)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292336
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 59 HD (INDIANAPOLIS)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292337
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 61 HD (HARTFORD)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292338
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 62 HD (YOUNGSTOWN)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292339
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 64 HD (PROVIDENCE)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292340
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 67 HD  (TEXAS)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292341
-#EXTINF:-1 group-title="USA| FOX" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX 68 HD (SYRACUSE)
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/292342
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="http://logo.crystalott.net:8080/logos/USA.MISSING/FOXDEPORTESHD.png",|US| FOX DEPORTES HD
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/5900
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png",|US| FOX SPORTS 1 HD
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/5897
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png",|US| FOX SPORTS 2 HD
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/5896
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="http://logo.crystalott.net:8080/logos/USA.MISSING/FOXSOCCERPLUS.png",|US| FOX SOCCER PLUS
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/137668
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png",|US| FOX SPORTS DETROIT]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/137669
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png",|US| FOX SPORTS DETROIT PLUS]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/137670
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png",|US| FOX SPORTS SUN NORTH FLORIDA]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/137671
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png",|US| FOX SPORTS NORTH FLORIDA]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/137672
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png",|US| FOX SPORTS WEST]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/137673
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png",|US| FOX SPORTS OHIO]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/137675
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png",|US| FOX SPORTS SPORTSTIME OHIO]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/137677
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png",|US| FOX SPORTS MIDWEST]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/137678
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png",|US| FOX SPORTS MIDWEST PLUS]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/137679
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png",|US| FOX SPORTS SOUTHWEST]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/137680
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png",|US| FOX SPORTS SOUTH GEORGIA]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/137682
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png",|US| FOX SPORTS NEW ORLEANS]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/137683
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png",|US| FOX SPORTS NEW ORLEANS PLUS]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/137684
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png",|US| FOX SPORTS SAN DIEGO]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/137685
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png",|US| FOX SPORTS SOUTHEAST]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/137688
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png",|US| FOX SPORTS TENNESSEE]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/137690
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png",|US| FOX SPORTS CAROLINAS]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/137691
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png",|US| FOX SPORTS NORTH CAROLINA]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/137692
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png",|US| FOX SPORTS ARIZONA]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/137694
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png",|US| FOX SPORTS ARIZONA PLUS]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/137695
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png",|US| FOX SPORTS INDIANA]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/137696
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png",|US| FOX SPORTS OKLAHOMA]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/137697
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png",|US| FOX SPORTS OKLAHOMA PLUS]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/137698
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png",|US| FOX SPORTS NORTH]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/137699
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png",|US| FOX SPORTS WISCONSIN]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/137701
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png",|US| FOX SPORTS KANSAS CITY]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/137702
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png",|US| FOX SPORTS CINCINNATI PLUS
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/137705
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png",|US| FOX SPORTS PRIME TICKET]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/137706
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX NET ABILENE TX]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/166619
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX NET WILMINGTON NC]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/166620
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX NET WAUSAU]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/166621
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX NET TWIN FALLS ID]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/166622
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX NET SHERMAN TX]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/166623
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX NET SAN ANGELO TX]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/166624
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX NET RAPID CITY]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/166625
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX NET PRESQUE ISLE ME]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/166626
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX NET PARKERSBURG]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/166627
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX NET PANAMA CITY FL]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/166628
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX NET MINOT MD]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/166629
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX NET MEDFORD OR]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/166630
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX NET MARQUETTE MI]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/166631
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX NET LUBBOCK TX]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/166632
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX NET HARRISONBURG VA]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/166633
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX NET DOTHAN AL]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/166634
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX NET CLARKSBURG WV]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/166635
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX NET CHARLOTTESVILLE VA]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/166636
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX NET CHARLES LA]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/166637
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX NET BOWLING GREEN KY]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/166638
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX NET BINGHAMPTON NY]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/166639
-#EXTINF:-1 group-title="USA| SPORTS" tvg-logo="http://logo.crystalott.net:8080/logos/USA.FOX/FOX.png",|US| FOX NET APLENA]
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/166640
-#EXTINF:-1 group-title="AM| CANADA HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png",|CA-HD| FOX NEWS
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/145101
-#EXTINF:-1 group-title="AM| CANADA SD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png",|CA-SD| FOX EAST
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/6425
-#EXTINF:-1 group-title="AM| CANADA SD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png",|CA-SD| FOX WEST
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/6424
-#EXTINF:-1 group-title="AM| CANADA SD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png",|CA-SD| FOX NEWS
-http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/6304
-#EXTINF:-1 group-title="|EN| HORROR / THRILLER" tvg-logo="http://line.crystal-ott.com:80/images/9SchiYEqePQCD9eGiB6R0NeGeO8_big.jpg",|EN| Fox Trap (MULTISUB)
-http://x365.ml:80/movie/SCPPVYNZ/SSFFBAZBKE/176608.mkv
+#EXTINF:-1 group-title="USA",US Fox Sports 1 (D)
+http://fortv.cc:8080/Ronnie/Ronnie/46792
+#EXTINF:-1 group-title="Sports Fanatic's" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/ozg/ozg_large.png",US Fox Soccer Plus (F)
+http://fortv.cc:8080/Ronnie/Ronnie/10458
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.openthebooks.com/assets/1/6/Fox_Business1.png",US Fox Business Network (A)
+http://fortv.cc:8080/Ronnie/Ronnie/17639
+#EXTINF:-1 group-title="USA" tvg-logo="https://juicetv.app/channellogo/foxnews.png",US Fox News (S)
+http://fortv.cc:8080/Ronnie/Ronnie/1818
+#EXTINF:-1 group-title="Sports Fanatic's" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png",US Fox Sports 1 (A)
+http://fortv.cc:8080/Ronnie/Ronnie/1846
+#EXTINF:-1 group-title="Sports Fanatic's" tvg-logo="https://gostreamtv.com/wp-content/uploads/channel-logos/foxs2.png",US Fox Sports 2 (A)
+http://fortv.cc:8080/Ronnie/Ronnie/1847
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (KTTV) Los Angeles (F)
+http://fortv.cc:8080/Ronnie/Ronnie/120655
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (KDVR) Denver (F)
+http://fortv.cc:8080/Ronnie/Ronnie/120663
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (WTIC) Hartford (F)
+http://fortv.cc:8080/Ronnie/Ronnie/120668
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (WFOX) Jacksonville (F)
+http://fortv.cc:8080/Ronnie/Ronnie/120671
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX 32 (WFLD) Chicago (S)
+http://fortv.cc:8080/Ronnie/Ronnie/120689
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (WGMB) Baton Rouge (F)
+http://fortv.cc:8080/Ronnie/Ronnie/120699
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (WVUE) New Orleans (F)
+http://fortv.cc:8080/Ronnie/Ronnie/120706
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (WFXT) Boston (F)
+http://fortv.cc:8080/Ronnie/Ronnie/120709
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX 2 (WJBK) Detroit (S)
+http://fortv.cc:8080/Ronnie/Ronnie/120716
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (KMSP) Minneapolis (F)
+http://fortv.cc:8080/Ronnie/Ronnie/120723
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (WUTV) HD (SP)
+http://fortv.cc:8080/Ronnie/Ronnie/120747
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (WNYW) New York (F)
+http://fortv.cc:8080/Ronnie/Ronnie/120750
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (WJW) HD (SP)
+http://fortv.cc:8080/Ronnie/Ronnie/120756
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (KOKH) Oklahoma City (F)
+http://fortv.cc:8080/Ronnie/Ronnie/120765
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (KOKI) Tulsa (F)
+http://fortv.cc:8080/Ronnie/Ronnie/120769
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (KPTV) Portland (F)
+http://fortv.cc:8080/Ronnie/Ronnie/120772
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (WTXF) Philadelphia (F)
+http://fortv.cc:8080/Ronnie/Ronnie/120775
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (WPGH) Pittsburgh (F)
+http://fortv.cc:8080/Ronnie/Ronnie/120778
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (WTAT) Charleston (F)
+http://fortv.cc:8080/Ronnie/Ronnie/120782
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (WHNS) Greenville (F)
+http://fortv.cc:8080/Ronnie/Ronnie/120787
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (WHBQ) Memphis (F)
+http://fortv.cc:8080/Ronnie/Ronnie/120796
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (KDFW) Dallas (F)
+http://fortv.cc:8080/Ronnie/Ronnie/120805
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (KRIV) Houston (F)
+http://fortv.cc:8080/Ronnie/Ronnie/120814
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (KSTU) Salt Lake City (F)
+http://fortv.cc:8080/Ronnie/Ronnie/120821
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (WTTG) Washington (F)
+http://fortv.cc:8080/Ronnie/Ronnie/120831
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (WTVT) Tampa (F)
+http://fortv.cc:8080/Ronnie/Ronnie/120951
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX 27 (WFXR) Roanoke (H)
+http://fortv.cc:8080/Ronnie/Ronnie/121078
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX 8 (WGHP) Greensboro/High Point/Winston-Salem (H)
+http://fortv.cc:8080/Ronnie/Ronnie/121085
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (WGHP) High Point (F)
+http://fortv.cc:8080/Ronnie/Ronnie/121132
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX 5 (WAGA) Atlanta (S)
+http://fortv.cc:8080/Ronnie/Ronnie/121135
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX 28 (WTGS) Savannah (F)
+http://fortv.cc:8080/Ronnie/Ronnie/121148
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (WZTV) Nashville (F)
+http://fortv.cc:8080/Ronnie/Ronnie/121164
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX 46 CHARLOTTE (Y)
+http://fortv.cc:8080/Ronnie/Ronnie/121167
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX 5 (KVVU) Las Vegas (Y)
+http://fortv.cc:8080/Ronnie/Ronnie/121178
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (WSVN) Miami (F)
+http://fortv.cc:8080/Ronnie/Ronnie/121242
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX 7 (WSVN) Miami (V)
+http://fortv.cc:8080/Ronnie/Ronnie/121244
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX 34 (WDFX) Dothan (V)
+http://fortv.cc:8080/Ronnie/Ronnie/121592
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (WFLX) West Palm Beach (F)
+http://fortv.cc:8080/Ronnie/Ronnie/121595
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (WSYT) Syracuse (F)
+http://fortv.cc:8080/Ronnie/Ronnie/122003
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX 23 (WPFO) Portland/Auburn (F)
+http://fortv.cc:8080/Ronnie/Ronnie/122278
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (WDKY) Lexington (Y)
+http://fortv.cc:8080/Ronnie/Ronnie/125675
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (WGXA) Macon (F)
+http://fortv.cc:8080/Ronnie/Ronnie/134940
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX 40 (WDBD) Jackson (V)
+http://fortv.cc:8080/Ronnie/Ronnie/135292
+#EXTINF:-1 group-title="USA",US Fox News Channel (SP)
+http://fortv.cc:8080/Ronnie/Ronnie/135794
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (WLUK) HD (SP)
+http://fortv.cc:8080/Ronnie/Ronnie/135812
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (WUHF) Rochester (F)
+http://fortv.cc:8080/Ronnie/Ronnie/135877
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (WTTE) Columbus (F)
+http://fortv.cc:8080/Ronnie/Ronnie/136613
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US FOX (WTVC) Chattanooga (F)
+http://fortv.cc:8080/Ronnie/Ronnie/136740
+#EXTINF:-1 group-title="USA | NEWS | REGIONALS",US Fox 23 (KBSI) Paducah/Cape Girardeau/Harrisburg/Mt Verno (V)
+http://fortv.cc:8080/Ronnie/Ronnie/136884
 #EXTINF:-1 group-title="|EN| KIDS" tvg-logo="http://line.crystal-ott.com:80/images/o3b8nenAzu5OJk7sbPJURwmeHSV_big.jpg",|EN| The Fox and the Hound 2
 http://x365.ml:80/movie/SCPPVYNZ/SSFFBAZBKE/15254.mkv
 #EXTINF:-1 group-title="|EN| COMEDY" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmE0YjI1YTEtZDA5NS00NDFkLTkyMTktY2NhY2Q0NzUwMmUyXkEyXkFqcGdeQXVyMTQ2OTU2OTQ@._V1_UY268_CR5,0,182,268_AL_.jpg",|EN| The Fox Hunter (MULTISUB)
