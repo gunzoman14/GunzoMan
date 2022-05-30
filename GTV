@@ -57,7 +57,7 @@ http://mains.services:2086/gmen32/5770346/64154
 #EXTINF:-1 tvg-name="AXS_TV_NOW" tvg-id="23ecf3" tvg-logo="https://i.imgur.com/J8brM2F.png" group-title=",..AXS TV
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://xtream-coders.com/x0/entertainment/axstv.png",..AXS TV
-http://mains.services:2086/gmen32/5770346/95426
+http://fortv.cc:8080/Ronnie/Ronnie/48324
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/pt/AXN.pt.png",BG: AXN TV
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:AXN.smil/chunklist_b2500000_slen.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/pt/AXN.pt.png",BG: AXN TV
@@ -107,7 +107,7 @@ http://ky-iptv.com:80/April555/April555/1846782.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://img.favpng.com/2/1/18/bbc-america-logo-television-image-png-favpng-tZY7NuNPUFRH26thBhW4aZMji.jpg",..BBC AMERICA HD
 http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/1329.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://img.favpng.com/2/1/18/bbc-america-logo-television-image-png-favpng-tZY7NuNPUFRH26thBhW4aZMji.jpg",..BBC AMERICA HD
-http://mains.services:2086/gmen32/5770346/95399
+http://2690.ovh:25461/34baxmo5/56bwf44u/103813
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://38.143.137.20/logo/prestige/Algeria/ALJAZEERA.png",..AL JAZEERA NEWS ENGLISH
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:ALJAZEERA.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ru/RTUS.ru.png",..RT DOCUMENTARY
@@ -125,11 +125,11 @@ http://fortv.cc:8080/Ronnie/Ronnie/66080
 #EXTINF:-1 group-title="Music" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_jams.png",..BET JAMS HD
 http://2690.ovh:25461/34baxmo5/56bwf44u/103818
 #EXTINF:-1 group-title="Music" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_jams.png",..BET JAMS HD
-http://mains.services:2086/gmen32/5770346/56110
+http://2690.ovh:25461/34baxmo5/56bwf44u/103818
 #EXTINF:-1 group-title="Music" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_soul.png",..BET SOUL HD
 http://2690.ovh:25461/34baxmo5/56bwf44u/103819
 #EXTINF:-1 group-title="Music" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_soul.png",..BET SOUL HD
-http://mains.services:2086/gmen32/5770346/56109
+http://2690.ovh:25461/34baxmo5/56bwf44u/103819
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/S/stores-image-uploads-na-prod/3/AmazonStores/ATVPDKIKX0DER/e825a91ae415cbabe5746a25fa02fed6.w2000.h327._CR211%2C0%2C1635%2C327_SX1500_.png" group-title="US",Buzzr
 https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.pngfind.com/pngs/m/165-1655043_retro-tv-png-transparent-png.png",RETRO TV MUSIC
