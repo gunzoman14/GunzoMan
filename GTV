@@ -382,7 +382,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:IFC.smil/playlist.m3u
 http://fortv.cc:8080/Ronnie/Ronnie/16262
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://deadline.com/wp-content/uploads/2016/10/ion-tv-new-logo-2016.jpg",..ION
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:ION.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/512px-ION_Mystery_logo.svg.png" group-title="MainTV", WJLP-DT4 (Ion Mystery)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/512px-ION_Mystery_logo.svg.png" group-title="MainTV",..Ion Mystery
 https://v-ny.theus6tv.tk/hls/33.4/playlist.m3u8
 #EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/itv.png",UK: ITV 1
 http://2690.ovh:25461/34baxmo5/56bwf44u/6032
