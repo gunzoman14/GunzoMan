@@ -91,13 +91,13 @@ https://contvanime-vizio-ingest.cinedigm.com/master.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/gb/BBCWorldNews.uk.png",US| BBC WORLD NEWS HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BBC_WORLD.smil/playlist.m3u8
 #EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/bbcone.png",UK| BBC 1 HD
-http://2690.ovh:25461/34baxmo5/56bwf44u/3785
+http://ky-iptv.com:80/April555/April555/189890.m3u8
 #EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/bbctwo.png",UK| BBC 2 HD
-http://fortv.cc:8080/Ronnie/Ronnie/53650
+http://ky-iptv.com:80/April555/April555/189891.m3u8
 #EXTINF:-1 group-title="UK" tvg-logo="http://p2086.securepoint.io:2086/images/82abc9fc03af14ff768852adcf79f334.png",UK| BBC 3 FHD
-http://t365.in:900/live/7999945608/7543981025/184146.m3u8
+http://ky-iptv.com:80/April555/April555/1851507.m3u8
 #EXTINF:-1 group-title="UK" tvg-logo="http://p2086.securepoint.io:2086/images/02c1098963c6600caa74fcc5e503fd77.png",UK| BBC 4 FHD
-http://t365.in:900/live/7999945608/7543981025/184147.m3u8
+http://ky-iptv.com:80/April555/April555/1858077.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USANEWS/BBCAMERICA.png",US| BBC AMERICA HD
 http://ky-iptv.com:80/April555/April555/1846782.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USANEWS/BBCAMERICA.png",US| BBC AMERICA HD
@@ -107,7 +107,7 @@ http://2690.ovh:25461/34baxmo5/56bwf44u/103813
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://38.143.137.20/logo/prestige/Algeria/ALJAZEERA.png",UK| AL JAZEERA HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:ALJAZEERA.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ru/RTUS.ru.png",UK| RT NEWS FHD
-http://t365.in:900/live/7999945608/7543981025/153849.m3u8
+https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ru/RTUS.ru.png",UK| RT NEWS FHD
 https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BET.us.png",US| BET EAST HD
@@ -119,11 +119,11 @@ http://t365.in:900/live/7999945608/7543981025/376207.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pngkey.com/png/full/264-2641524_bet-gospel-1-gospel-logo.png",..BET Gospel
 http://fortv.cc:8080/Ronnie/Ronnie/66080
 #EXTINF:-1 group-title="Music" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_jams.png",US| BET JAMS HD
-http://t365.in:900/live/7999945608/7543981025/181061.m3u8
+http://ky-iptv.com:80/April555/April555/177077.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_jams.png",US| BET JAMS HD
 http://2690.ovh:25461/34baxmo5/56bwf44u/103818
 #EXTINF:-1 group-title="Music" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_soul.png",US| BET SOUL HD
-http://t365.in:900/live/7999945608/7543981025/181610.m3u8
+http://ky-iptv.com:80/April555/April555/177078.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_soul.png",US| BET SOUL HD
 http://2690.ovh:25461/34baxmo5/56bwf44u/103819
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/LOGO/US/USASTREAMEDCHANNELS/BUZZR.png",US|  (DISTROTV) BUZZR HD
@@ -151,7 +151,7 @@ https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://logodix.com/logo/853647.jpg",CAR| TVJ JAMAICA HD
 http://fortv.cc:8080/Ronnie/Ronnie/78918
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://mark.trademarkia.com/logo-images/cvm-television-limited/cvm-tv-77204584.jpg",CVMTV
-http://t365.in:900/live/7999945608/7543981025/195833.m3u8
+http://ky-iptv.com:80/April555/April555/499709.m3u8
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://www.caribbeanhottv.com/wp-content/uploads/2018/07/logo116x90-2.png",HOT 7 TV
 http://mains.services:2086/clayboy/65Jssx1yS9/55812
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://photos.live-tv-channels.org/tv-logo/jm-hype-tv-8552-300x225.jpg",HYPETV
@@ -173,9 +173,9 @@ https://younghollywood-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/414vUJZ9MfL.png",LEGO Channels 
 https://legochannel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/Boomerang.us.png",US| BOOMERANG HD
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/35825
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/Boomerang.us.png",US| BOOMERANG HD
 http://2690.ovh:25461/34baxmo5/56bwf44u/103823
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/Boomerang.us.png",US| BOOMERANG HD
+http://ky-iptv.com:80/April555/April555/176238.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/Boomerang.us.png",UK| CARTOONITO SD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BOOMERANG.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BounceTV.us.png",US| BOUNCE TV HD
@@ -209,7 +209,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:COMET_TV.smil/playlis
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://sc.dish.com/shared/images/station-logos/APCLR.png",IN: AAPKA COLORS HD USA
 http://2690.ovh:25461/34baxmo5/56bwf44u/4789
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/CMT.us.png",US| CMT HD
-http://t365.in:900/live/7999945608/7543981025/176763.m3u8
+http://2690.ovh:25461/34baxmo5/56bwf44u/34534
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/CMT.us.png",US| CMT HD
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/35813
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://glmtv.pw/logo/prestige/United-Kingdom/comedy-central-deutschland-us-de.png",US| COMEDY CENTRAL HD
@@ -237,6 +237,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/5aec96ec5126c2157123c657/master.m3u
 #EXTINF:-1 group-title="COURT" tvg-logo="https://pbs.twimg.com/profile_images/3343381775/86b9811a36c2108168d9a21fd6af3752_400x400.jpeg",US| JUSTICE CENTRAL  HD
 https://linear-90.frequency.stream/dist/localnow/90/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="COURT" tvg-logo="https://pbs.twimg.com/profile_images/3343381775/86b9811a36c2108168d9a21fd6af3752_400x400.jpeg",US| JUSTICE CENTRAL  HD
+http://t365.in:900/live/7999945608/7543981025/176777.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://ky-iptv.com:80/images/14c7d61b60333e25bc5f68cff33ac6fb.png",USA The Grio TV
 https://v-ny.theus6tv.tk/hls/5.4/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/CoziTV.us.png",US| COZI HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:COZI_TV.smil/playlist.m3u8
