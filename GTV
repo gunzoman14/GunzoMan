@@ -97,7 +97,7 @@ http://2690.ovh:25461/34baxmo5/56bwf44u/3783
 #EXTINF:-1 group-title="UK" tvg-logo="http://p2086.securepoint.io:2086/images/82abc9fc03af14ff768852adcf79f334.png",BBC Three
 http://mains.services:2086/dorec14/Chuckman5525$/104613
 #EXTINF:-1 group-title="UK" tvg-logo="http://p2086.securepoint.io:2086/images/02c1098963c6600caa74fcc5e503fd77.png",BBC 4 
-http://ky-iptv.com:80/shar/shar1234/1858077.m3u8
+https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/bbc.four.uk.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USANEWS/BBCAMERICA.png",BBC America
 http://mytv.fun:8080/i6kgl5ush/5lmb4irdzr/14392
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USANEWS/BBCAMERICA.png",BBC America
@@ -121,11 +121,11 @@ http://tv.nlt.wtf:24561/live/Ashley689/673175/104110.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pngkey.com/png/full/264-2641524_bet-gospel-1-gospel-logo.png",BET Gospel
 http://fortv.cc:8080/Ronnie/Ronnie/66080
 #EXTINF:-1 group-title="Music" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_jams.png",BET Jams
-http://ky-iptv.com:80/shar/shar1234/177077.m3u8
+http://mytv.fun:8080/i6kgl5ush/5lmb4irdzr/684742
 #EXTINF:-1 group-title="Music" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_jams.png",BET Jams
 http://2690.ovh:25461/34baxmo5/56bwf44u/103818
 #EXTINF:-1 group-title="Music" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_soul.png",BET Soul
-http://ky-iptv.com:80/shar/shar1234/177078.m3u8
+http://mytv.fun:8080/i6kgl5ush/5lmb4irdzr/661091
 #EXTINF:-1 group-title="Music" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_soul.png",BET Soul
 http://2690.ovh:25461/34baxmo5/56bwf44u/103819
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/LOGO/US/USASTREAMEDCHANNELS/BUZZR.png",Buzzr TV
@@ -175,7 +175,7 @@ https://legochannel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/Boomerang.us.png",Boomerang
 http://2690.ovh:25461/34baxmo5/56bwf44u/103823
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/Boomerang.us.png",Boomerang
-http://ky-iptv.com:80/shar/shar1234/176238.m3u8
+http://qqtv.nl:8080/niloofar/niloofar/15543
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/Boomerang.us.png",Cartoonito UK
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BOOMERANG.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BounceTV.us.png",Bounce Network
