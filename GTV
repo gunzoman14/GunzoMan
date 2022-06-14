@@ -91,15 +91,15 @@ https://contvanime-vizio-ingest.cinedigm.com/master.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/gb/BBCWorldNews.uk.png",BBC World North America US
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BBC_WORLD.smil/playlist.m3u8
 #EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/bbcone.png",BBC 1
-http://ky-iptv.com:80/shar/shar1234/189890.m3u8
+http://2690.ovh:25461/34baxmo5/56bwf44u/3785
 #EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/bbctwo.png",BBC 2 
-http://ky-iptv.com:80/shar/shar1234/189891.m3u8
+http://2690.ovh:25461/34baxmo5/56bwf44u/3783
 #EXTINF:-1 group-title="UK" tvg-logo="http://p2086.securepoint.io:2086/images/82abc9fc03af14ff768852adcf79f334.png",BBC Three
-http://ky-iptv.com:80/shar/shar1234/1851507.m3u8
+http://mains.services:2086/dorec14/Chuckman5525$/104613
 #EXTINF:-1 group-title="UK" tvg-logo="http://p2086.securepoint.io:2086/images/02c1098963c6600caa74fcc5e503fd77.png",BBC 4 
 http://ky-iptv.com:80/shar/shar1234/1858077.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USANEWS/BBCAMERICA.png",BBC America
-http://ky-iptv.com:80/shar/shar1234/1846782.m3u8
+http://mytv.fun:8080/i6kgl5ush/5lmb4irdzr/14392
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USANEWS/BBCAMERICA.png",BBC America
 http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/1329.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USANEWS/BBCAMERICA.png",BBC America
