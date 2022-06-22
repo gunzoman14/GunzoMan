@@ -95,7 +95,7 @@ http://2690.ovh:25461/34baxmo5/56bwf44u/3785
 #EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/bbctwo.png",BBC 2 
 http://2690.ovh:25461/34baxmo5/56bwf44u/3783
 #EXTINF:-1 group-title="UK" tvg-logo="http://p2086.securepoint.io:2086/images/82abc9fc03af14ff768852adcf79f334.png",BBC Three
-http://mains.services:2086/dorec14/Chuckman5525$/104613
+http://tv.nlt.wtf:24561/live/Ashley689/673175/103408.ts
 #EXTINF:-1 group-title="UK" tvg-logo="http://p2086.securepoint.io:2086/images/02c1098963c6600caa74fcc5e503fd77.png",BBC 4 
 https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/bbc.four.uk.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USANEWS/BBCAMERICA.png",BBC America
@@ -157,7 +157,7 @@ http://mains.services:2086/live/dorec14/Chuckman5525$/101245.m3u8
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://www.caribbeanhottv.com/wp-content/uploads/2018/07/logo116x90-2.png",HOT 7 TV
 http://mains.services:2086/live/dorec14/Chuckman5525$/55812.m3u8
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://photos.live-tv-channels.org/tv-logo/jm-hype-tv-8552-300x225.jpg",HYPETV
-http://mains.services:2086/live/dorec14/Chuckman5525$/101243.m3u8
+http://qqtv.nl:8080/niloofar/niloofar/154458
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://photos.live-tv-channels.org/tv-logo/jm-real-jamaican-television-3509-300x225.jpg",RETV
 http://fortv.cc:8080/Ronnie/Ronnie/21094
 #EXTINF:-1 group-title="GRENADA" tvg-logo="https://gbn.gd/wp-content/uploads/2018/02/gbn-e1519160308358.png",GBN
