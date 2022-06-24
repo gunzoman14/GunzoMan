@@ -153,9 +153,9 @@ https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://logodix.com/logo/853647.jpg",TVJ
 http://fortv.cc:8080/Ronnie/Ronnie/78918
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://mark.trademarkia.com/logo-images/cvm-television-limited/cvm-tv-77204584.jpg",CVMTV
-http://mains.services:2086/live/dorec14/Chuckman5525$/101245.m3u8
+http://mains.services:2086/kixy2030/u8zC9nvB69/101245
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://www.caribbeanhottv.com/wp-content/uploads/2018/07/logo116x90-2.png",HOT 7 TV
-http://mains.services:2086/live/dorec14/Chuckman5525$/55812.m3u8
+http://mains.services:2086/kixy2030/u8zC9nvB69/55812
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://photos.live-tv-channels.org/tv-logo/jm-hype-tv-8552-300x225.jpg",HYPETV
 http://qqtv.nl:8080/niloofar/niloofar/154458
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://photos.live-tv-channels.org/tv-logo/jm-real-jamaican-television-3509-300x225.jpg",RETV
@@ -618,6 +618,8 @@ http://2690.ovh:25461/34baxmo5/56bwf44u/4771
 http://tv.nlt.wtf:24561/live/Ashley689/673175/352.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS.png",FLOW SPORTS 
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:FLOW_SPORTS.smil/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://discoverflow.co/jamaica/sites/discoverflow.co.jamaica/files/flow_1_logo.png",Flow 1
+http://tv.nlt.wtf:24561/live/Ashley689/673175/72966.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/RUSHSPORTS.png",RUSH SPORTS 
 http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/AFRICA/Super%20Sport%2012%20FHD.png",SuperSport Motorsport
