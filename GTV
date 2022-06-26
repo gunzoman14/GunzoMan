@@ -39,7 +39,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:KTLA.smil/playlist.m3
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://3abn.org/img/3abn-ogg.png",3ABN LATINO
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:3ABN.smil/chunklist_b2160000.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="http://www.netsportmedia.com/wp-content/uploads/2019/03/CBN-400x250.png",CBN 
-http://mains.services:2086/live/dorec14/Chuckman5525$/99405.m3u8
+http://tv365.me:900/7439929587/4879165436/400163459
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://lo1.in/LOGO/US/USAGENERAL/Abc.png",ABC (KABC) Los Angeles CA
 http://tv.nlt.wtf:24561/live/Ashley689/673175/71005.ts
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png",ABC (WPLG) Miami FL
@@ -153,9 +153,9 @@ https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://logodix.com/logo/853647.jpg",TVJ
 http://fortv.cc:8080/Ronnie/Ronnie/78918
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://mark.trademarkia.com/logo-images/cvm-television-limited/cvm-tv-77204584.jpg",CVMTV
-http://mains.services:2086/kixy2030/u8zC9nvB69/101245
+http://tv.nlt.wtf:24561/live/Ashley689/673175/72962.ts
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://www.caribbeanhottv.com/wp-content/uploads/2018/07/logo116x90-2.png",HOT 7 TV
-http://mains.services:2086/kixy2030/u8zC9nvB69/55812
+http://tv365.me:900/7439929587/4879165436/13154
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://photos.live-tv-channels.org/tv-logo/jm-hype-tv-8552-300x225.jpg",HYPETV
 http://qqtv.nl:8080/niloofar/niloofar/154458
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://photos.live-tv-channels.org/tv-logo/jm-real-jamaican-television-3509-300x225.jpg",RETV
@@ -238,8 +238,6 @@ http://breakingcable.xyz:80/S7nSey5UX/8746100042/738187
 http://mains.services:2086/dorec14/Chuckman5525$/112112
 #EXTINF:-1,24/7 JUDGE JUDY
 http://ky-iptv.com:80/shar/shar1234/1635487.m3u8
-#EXTINF:-1,USA | JUDGE NOSEY
-http://breakingcable.xyz:80/arthur1/arthur12/738141
 #EXTINF:-1,Nosey
 https://stitcher.pluto.tv/stitch/hls/channel/5aec96ec5126c2157123c657/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=712e368e-b036-11ec-a26a-0242ac110003
 #EXTINF:-1 group-title="COURT" tvg-logo="https://pbs.twimg.com/profile_images/3343381775/86b9811a36c2108168d9a21fd6af3752_400x400.jpeg",Justice Central
@@ -289,13 +287,13 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:ESCAPE.smil/playlis
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61FiKePugAL.png",ElectricNOW
 https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/EPIX.png",EPIX (East)
-https://tvnow.best/api/stream/djkoma@gmx.com/309965/livetv.epg/epix.east.us.m3u8
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/283354
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/EPIX.png",EPIX (East)
 http://t365.in:900/live/7999945608/7543981025/181588.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/EPIX.png",EPIX (East)
 http://2690.ovh:25461/34baxmo5/56bwf44u/103871
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/EPIX.png",EPIX (East)
-https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/epix.east.us.m3u8
+http://tv.nlt.wtf:24561/live/Ashley689/673175/889.ts
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/EPIX2.png",Epix 2
 https://tvnow.best/api/stream/djkoma@gmx.com/309965/livetv.epg/epix2.east.us.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/EPIX2.png",Epix 2
