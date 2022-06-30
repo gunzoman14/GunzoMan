@@ -69,7 +69,7 @@ https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USAENTERTAINMENT/AWE.png",AWE TV Network
 https://aweencore-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USAENTERTAINMENT/AWE.png",AWE TV Network
-http://tv.nlt.wtf:24561/live/Ashley689/673175/71395.ts
+http://hdhd.tk:80/b0003/b0003/19908
 #EXTINF:-1 tvg-id="peopletv.us" tvg-chno="80" tvg-logo="https://i.imgur.com/3wpzACG.png" group-title="STIRR",People TV
 https://dai.google.com/linear/hls/event/Fe9LYYCFR5Csif-I5dyMHg/master.m3u8
 #EXTINF:-1 tvg-id="charge.us" tvg-chno="98" tvg-logo="https://i.imgur.com/6UpMEN1.png" group-title="STIRR",CHARGE 
@@ -115,7 +115,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:BET.smil/playlist.m3u
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BetHer.us.png",Bet Her US
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:CENTRIC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pngkey.com/png/full/264-2641524_bet-gospel-1-gospel-logo.png",BET Gospel
-https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/bet.gospel.us.m3u8
+http://hdhd.tk:80/b0003/b0003/19895
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pngkey.com/png/full/264-2641524_bet-gospel-1-gospel-logo.png",BET Gospel
 http://tv.nlt.wtf:24561/live/Ashley689/673175/104110.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pngkey.com/png/full/264-2641524_bet-gospel-1-gospel-logo.png",BET Gospel
