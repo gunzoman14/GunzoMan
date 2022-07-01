@@ -99,14 +99,14 @@ http://tv.nlt.wtf:24561/live/Ashley689/673175/103408.ts
 #EXTINF:-1 group-title="UK" tvg-logo="http://p2086.securepoint.io:2086/images/02c1098963c6600caa74fcc5e503fd77.png",BBC 4 
 https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/bbc.four.uk.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USANEWS/BBCAMERICA.png",BBC America
-http://mytv.fun:8080/i6kgl5ush/5lmb4irdzr/14392
+http://hdhd.tk:80/b0003/b0003/62
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USANEWS/BBCAMERICA.png",BBC America
 http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/1329.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USANEWS/BBCAMERICA.png",BBC America
 http://2690.ovh:25461/34baxmo5/56bwf44u/103813
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://38.143.137.20/logo/prestige/Algeria/ALJAZEERA.png",AL JAZEERA 
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:ALJAZEERA.smil/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ru/RTUS.ru.png",AL JAZEERA
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ru/RTUS.ru.png",RT US
 https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ru/RTUS.ru.png",RT US
 https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
@@ -151,13 +151,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f6
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/MELLOTV.png",MELLO TV 
 https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://logodix.com/logo/853647.jpg",TVJ
-http://fortv.cc:8080/Ronnie/Ronnie/78918
+http://hdhd.tk:80/b0003/b0003/19839
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://mark.trademarkia.com/logo-images/cvm-television-limited/cvm-tv-77204584.jpg",CVMTV
-http://tv.nlt.wtf:24561/live/Ashley689/673175/72962.ts
+http://n2086.securepoint.io:25461/live/CPhbj3y3NB/QHa6WUFIwe/118996.m3u8
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://www.caribbeanhottv.com/wp-content/uploads/2018/07/logo116x90-2.png",HOT 7 TV
-http://tv365.me:900/7439929587/4879165436/13154
+http://n2086.securepoint.io:25461/live/CPhbj3y3NB/QHa6WUFIwe/56902.m3u8
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://photos.live-tv-channels.org/tv-logo/jm-hype-tv-8552-300x225.jpg",HYPETV
-http://qqtv.nl:8080/niloofar/niloofar/154458
+http://hdhd.tk:80/b0003/b0003/19863
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://photos.live-tv-channels.org/tv-logo/jm-real-jamaican-television-3509-300x225.jpg",RETV
 http://fortv.cc:8080/Ronnie/Ronnie/21094
 #EXTINF:-1 group-title="GRENADA" tvg-logo="https://gbn.gd/wp-content/uploads/2018/02/gbn-e1519160308358.png",GBN
@@ -175,7 +175,7 @@ https://legochannel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/Boomerang.us.png",Boomerang
 http://2690.ovh:25461/34baxmo5/56bwf44u/103823
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/Boomerang.us.png",Boomerang
-http://qqtv.nl:8080/niloofar/niloofar/15543
+http://hdhd.tk:80/b0003/b0003/428
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/Boomerang.us.png",Cartoonito UK
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BOOMERANG.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BounceTV.us.png",Bounce Network
