@@ -233,7 +233,7 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/820?cb=20190417224656",CNA 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1,USA | PLUTO TV COURTROOM
-http://breakingcable.xyz:80/S7nSey5UX/8746100042/738187
+https://stitcher.pluto.tv/stitch/hls/channel/6036e6e7ac69c400072afca2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5b65732e-f882-11ec-97e6-0242ac110003
 #EXTINF:-1,Judge Judy
 http://mains.services:2086/dorec14/Chuckman5525$/112112
 #EXTINF:-1,24/7 JUDGE JUDY
@@ -255,7 +255,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:WPIX.smil/playlist.m3
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/KOMUCW.us.png",CW 39 
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:CW11.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/Cp24.ca.png",CP24
-http://mytv.fun:8080/i6kgl5ush/5lmb4irdzr/37077
+http://hdhd.tk:80/b0003/b0003/28779
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://static.epg.best/in/AndFlix.in.png",IN| &amp; FLIX FHD
 http://qqtv.nl:8080/niloofar/niloofar/7252
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://static.epg.best/in/AndPrive.in.png",&Prive
@@ -339,7 +339,7 @@ http://tv.nlt.wtf:24561/live/Ashley689/673175/833.ts
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/FXX.png",FXX (East)
 https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/fxx.usa.eastern.us.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USAGENERAL/FXM.png",FX Movie Channel
-https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/fx.movie.channel.us.m3u8
+http://hdhd.tk:80/b0003/b0003/19920
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/FYI.us.png",FYI (East)
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FYI.smil/playlist.m3u8
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://static.epg.best/us/Grit.us.png",Grit Network
