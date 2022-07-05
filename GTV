@@ -225,7 +225,7 @@ http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/1fhqoEE.png",CNN US
 http://iptvcdn.airlinktt.co/hlsnmia01/live/smil:CNN_INTERNATIONAL.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/1fhqoEE.png",CNN US
-http://mytv.fun:8080/i6kgl5ush/5lmb4irdzr/6359
+http://gystreamer01.airlinktt.co/ottorigin02/live/smil:CNN_INTERNATIONAL.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/1fhqoEE.png",CNN US
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/CNN.us.png",CNN US
@@ -235,7 +235,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1,USA | PLUTO TV COURTROOM
 https://stitcher.pluto.tv/stitch/hls/channel/6036e6e7ac69c400072afca2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5b65732e-f882-11ec-97e6-0242ac110003
 #EXTINF:-1,Judge Judy
-http://mains.services:2086/dorec14/Chuckman5525$/112112
+http://ky-iptv.com:80/walter6/walter/1635202.ts
 #EXTINF:-1,24/7 JUDGE JUDY
 http://n2086.securepoint.io:25461/CPhbj3y3NB/QHa6WUFIwe/208261
 #EXTINF:-1,Nosey
