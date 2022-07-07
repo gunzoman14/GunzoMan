@@ -39,7 +39,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:KTLA.smil/playlist.m3
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://3abn.org/img/3abn-ogg.png",3ABN LATINO
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:3ABN.smil/chunklist_b2160000.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="http://www.netsportmedia.com/wp-content/uploads/2019/03/CBN-400x250.png",CBN 
-http://tv365.me:900/7439929587/4879165436/400163459
+http://ky-iptv.com:80/walter6/walter/1242287.ts
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://lo1.in/LOGO/US/USAGENERAL/Abc.png",ABC (KABC) Los Angeles CA
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=72040&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png",ABC (WPLG) Miami FL
@@ -687,7 +687,7 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39793&extens
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/1M4zMdC.png",Sky Sports Racing
 http://n2086.securepoint.io:25461/CPhbj3y3NB/QHa6WUFIwe/53987
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/1M4zMdC.png",Sky Sports Racing
-http://ky-iptv.com:80/walter6/walter/189989.ts
+http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/39793
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/ae/DubaiRacing.ae.png",Racing UK
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=117771&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/ae/DubaiRacing.ae.png",Racing UK
@@ -755,13 +755,13 @@ http://tv.nlt.wtf:24561/live/Ashley689/673175/3572.ts
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",Sport TV 2 PT
 http://tv.nlt.wtf:24561/live/Ashley689/673175/3570.ts
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",Sport TV 3 PT
-http://tv.nlt.wtf:24561/live/Ashley689/673175/3569.ts
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=68995&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",Sport TV 4 PT
 http://tv.nlt.wtf:24561/live/Ashley689/673175/3567.ts
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",Sport TV 5 PT
 http://tv.nlt.wtf:24561/live/Ashley689/673175/3565.ts
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",Sport TV 6
-http://t365.in:900/live/7999945608/7543981025/400229659.m3u8
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=249069&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/NBA_TV_HD.png",Sport TV NBA 
 http://ky-iptv.com:80/walter6/walter/399411.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/TennisChannel.us.png",Tennis Channel US
@@ -817,7 +817,7 @@ http://n2086.securepoint.io:25461/CPhbj3y3NB/QHa6WUFIwe/101226
 #EXTINF:-1,MC Radio | Love Songs
 http://n2086.securepoint.io:25461/CPhbj3y3NB/QHa6WUFIwe/65731
 #EXTINF:-1,Music Videos 4
-http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=15029&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 tvg-id="1587" tvg-chno="1587" tvg-name="Stingray Karaoke" group-title="Stingray Music",Stingray Karaoke
 https://stitcher.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=a1164999-b3bf-11ec-bf80-0242ac110003
 #EXTINF:-1 tvg-id="906" tvg-chno="906" tvg-name="Stingray Greatest Hits" group-title="Stingray Music",Stingray Greatest Hits
