@@ -591,7 +591,7 @@ http://93.152.174.144:4000/play/btsport3/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsportespn.jpg",BT Sport ESPN UK
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=23657&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsportespn.jpg",BT Sport ESPN UK
-http://n2086.securepoint.io:25461/live/CPhbj3y3NB/QHa6WUFIwe/53853.m3u8
+http://caspertv.live//play/live.php?mac=00:1A:79:6F:A4:34&stream=22298&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/cbbssportsnetworkus.jpg",CBS Sports Network USA
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=71839&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/cbbssportsnetworkus.jpg",CBS Sports Network USA
