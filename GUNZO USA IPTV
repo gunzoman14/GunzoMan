@@ -16,6 +16,188 @@ http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/110123.ts
 http://ky-iptv.com:80/walter6/walter/1891117.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/synergy-tv-tt.png",CAR: SYNERGY TV TRINIDAD
 http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/110184.ts
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/8578e98eccc6244d6fc1729adc1e79b1.png",CAR: ARTS SD
+http://ky-iptv.com:80/walter6/walter/499437.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/BET_Gospel.svg/revision/latest/scale-to-width-down/340?cb=20170319123823",CAR: BET GOSPEL
+http://ky-iptv.com:80/walter6/walter/499446.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/9a22f180a324c479ae86e70069082af0.png",CAR: BET HER HD
+http://ky-iptv.com:80/walter6/walter/499450.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/fd733799081ecf5f4d5e0ecc9315e30c.png",CAR: CBC TV 8 (BB) HD
+http://ky-iptv.com:80/walter6/walter/499457.m3u8
+#EXTINF:-1 group-title="Caribbean",CAR: COMEDY | HD
+http://ky-iptv.com:80/walter6/walter/499468.m3u8
+#EXTINF:-1 group-title="Caribbean",CAR: CUBA V SD
+http://ky-iptv.com:80/walter6/walter/499470.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/660d4527b0f517171af26b0e98538163.png",CAR: DAYSTAR | SD
+http://ky-iptv.com:80/walter6/walter/499474.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/127b02390f8507af6137fb97dd19fb7b.png",CAR: DISNEY XD | SD
+http://ky-iptv.com:80/walter6/walter/499483.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/6bfe6eddb1b5b8d0ecca5600f4e30d5f.png",CAR: E! ENTERTAINMENT HD
+http://ky-iptv.com:80/walter6/walter/499486.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/a52311b3494514ef0e1047ba6bf04ceb.png",CAR: HLN | SD
+http://ky-iptv.com:80/walter6/walter/499522.m3u8
+#EXTINF:-1 group-title="Caribbean",CAR: LVM | SD
+http://ky-iptv.com:80/walter6/walter/499534.m3u8
+#EXTINF:-1 group-title="Caribbean",CAR: MTM TV | SD
+http://ky-iptv.com:80/walter6/walter/499541.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/43b4d8d2394c89870327e1e7cc62f187.png",CAR: NICK | HD
+http://ky-iptv.com:80/walter6/walter/499556.m3u8
+#EXTINF:-1 group-title="Caribbean",CAR: RETV | HD
+http://ky-iptv.com:80/walter6/walter/499568.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/c2da6e5724195a9aefeabe0a1d537a6d.png",CAR: RNN | HD
+http://ky-iptv.com:80/walter6/walter/499571.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/ba3329aa464b50e0f66b1cd2f9625c72.png",CAR: TELEMUNDO | HD
+http://ky-iptv.com:80/walter6/walter/499591.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/e09b028ea6f853edf4504376a4b1a310.jpg",CAR: TV DIRECT 13 SD
+http://ky-iptv.com:80/walter6/walter/499603.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/4d1273d99b84e86f3f515cb28862e33d.png",CAR: (Haiti) Kajou TV
+http://ky-iptv.com:80/walter6/walter/499621.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/c9be8726e2e4ac4bff7e710901b96e82.png",CAR: (Haiti) Radio Tele Puissance
+http://ky-iptv.com:80/walter6/walter/499623.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/29ba6e2a970b6187f78bcaa90bcc15b0.png",CAR: Cars Tv
+http://ky-iptv.com:80/walter6/walter/499629.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/76edfa5e8debdc3003f4dc6b8ccc8222.png",CAR: CVM JAMAICA
+http://ky-iptv.com:80/walter6/walter/499632.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/5442de79ff814ad266a94a62bdc6b42c.png",CAR: HBO Caribbean
+http://ky-iptv.com:80/walter6/walter/499637.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/b63b8fe328487594c55c9c3524f9da80.png",CAR: IBN (ISLAMIC BROADCASTING NETWORK)
+http://ky-iptv.com:80/walter6/walter/499639.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/9c283eedbb6a25192d85308db171f8f1.png",CAR: RE TV
+http://ky-iptv.com:80/walter6/walter/499642.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/60bd5f58ac1570d918a2e6f2681ad177.png",CAR: TELE ARUBA
+http://ky-iptv.com:80/walter6/walter/499647.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:25461/images/0158f9e80ea26b3ac8ce70967fc44310.png",CAR: TELENORD 8
+http://ky-iptv.com:80/walter6/walter/499655.m3u8
+#EXTINF:-1 group-title="Caribbean",CAR: THM
+http://ky-iptv.com:80/walter6/walter/499658.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/4864abcf0e5e7433cb5b3eb100fba9fc.png",CAR: (Haiti) TMA Caraibes FHD
+http://ky-iptv.com:80/walter6/walter/499659.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:25461/images/8dccd28f2beada81f34a4d447f01704b.png",CAR: TV CARIB (ST MAARTIN)
+http://ky-iptv.com:80/walter6/walter/499661.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/6b3827dac9cfa366937dc81b97607098.png",CAR: TVJ JAMAICA
+http://ky-iptv.com:80/walter6/walter/499662.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/7bfa75245c4d1c439312d95d8da644e3.png",CAR: Church Channel
+http://ky-iptv.com:80/walter6/walter/799718.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/2c2b26ba0e434c3a8981ac90b59b96d7.png",Car: TVJ Sports
+http://ky-iptv.com:80/walter6/walter/1136524.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/e3282fb0b18153e13b343be9ee99f361.png",CAR: TTT Trinidad
+http://ky-iptv.com:80/walter6/walter/1139804.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/eb77631bba396228c09262ac34cbc5ff.png",CAR: JAAGRITI TV
+http://ky-iptv.com:80/walter6/walter/1302492.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/6f30f39b14d2c9890876596936c4ac0d.png",CAR: TRACE URBAN
+http://ky-iptv.com:80/walter6/walter/1368124.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/4f6496e3f5db9ddef1a9756ebe790360.png",CAR: Trace Africa
+http://ky-iptv.com:80/walter6/walter/1369166.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/761b980d1b1ce8b77c4e19cfa62f455c.png",CAR: Trace Latina
+http://ky-iptv.com:80/walter6/walter/1369176.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/1DqjiPGDqkNFuikrhuJtGNXsr2GQ1j8LaL.png",CAR: DBS TV
+http://ky-iptv.com:80/walter6/walter/1418141.m3u8
+#EXTINF:-1 group-title="Caribbean",CAR: HTS TV HD
+http://ky-iptv.com:80/walter6/walter/1418142.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/09b2dd2a8169f76a8bf0bee2e98a6cd4.jpg",CAR: CALABASH
+http://ky-iptv.com:80/walter6/walter/1418143.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/337359d233f934c774738065fd4dd88c.png",CAR: NBC
+http://ky-iptv.com:80/walter6/walter/1418144.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/a7740478a7e4e9bd6bc331cf7e82be14.png",CAR: Parliament Bahamas
+http://ky-iptv.com:80/walter6/walter/1494860.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/f6319a9bd2bf92e20e015bdf0f1f837d.png",CAR: OCTV One Caribbean Television
+http://ky-iptv.com:80/walter6/walter/1583564.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/bb4b8707da3ac42bd0c71f010416fffc.png",CAR: TRINITY
+http://ky-iptv.com:80/walter6/walter/1583582.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/10232d330ad793dc416a983d6e9f345d.png",CAR: TVDirect13
+http://ky-iptv.com:80/walter6/walter/1597375.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/1c7afaafab626b5797821b9db50ec411.png",CAR: Nos Pais TV
+http://ky-iptv.com:80/walter6/walter/1597900.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/3733f874ad73bb7e562cdbc60b55443c.png",CAR: FEVA
+http://ky-iptv.com:80/walter6/walter/1599388.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/c26b8346c546fe9bc447bc8bc16dbbe7.png",CAR: CNS 6 Guyana
+http://ky-iptv.com:80/walter6/walter/1699071.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/68ad004907f82049815fbb7ccb920c27.png",CAR: SVG TV
+http://ky-iptv.com:80/walter6/walter/1705903.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/eb0006fb80257b2c145bdba65cc26fd2.png",CAR: TeleCuracao
+http://ky-iptv.com:80/walter6/walter/1762981.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/111cac02e86fc8991c7dc23450139b2a.png",CAR: SportsMAX
+http://ky-iptv.com:80/walter6/walter/1771404.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/495e4e59219321d7eca07f989b46aed3.png",CAR: SportsMAX 2
+http://ky-iptv.com:80/walter6/walter/1771405.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/e186d55b62ae89401ef4822d84b4c458.png",CAR: Flow Sports
+http://ky-iptv.com:80/walter6/walter/1771406.m3u8
+#EXTINF:-1 group-title="Caribbean",CAR: SPORTSMAX CRICKET HD
+http://ky-iptv.com:80/walter6/walter/1302491.m3u8
+#EXTINF:-1 group-title="Caribbean",CAR: NOS TV FHD
+http://ky-iptv.com:80/walter6/walter/1791662.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/e93946b9486350107b823005d3cd8b71.png",CAR: CALA WESTERN
+http://ky-iptv.com:80/walter6/walter/1807353.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/56bd7fc45777c0956cd11e3e44a7dbfd.png",CAR: CNC3 HD
+http://ky-iptv.com:80/walter6/walter/499464.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/4032fbf553f8c8bc896a231f73728661.png",CAR: ISLAND LUCK
+http://ky-iptv.com:80/walter6/walter/1240330.m3u8
+#EXTINF:-1 group-title="Caribbean",CAR: DBM TV HD
+http://ky-iptv.com:80/walter6/walter/1851152.m3u8
+#EXTINF:-1 group-title="Caribbean",CAR: Télé Conscience Haïtienne (TCH) HD
+http://ky-iptv.com:80/walter6/walter/1851154.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/712db1d3f90421672203f659096f3e94.png",CAR: Bahamas ZNS TV
+http://ky-iptv.com:80/walter6/walter/1120663.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/27271d81feba78c111d9f26a69516517.jpg",CAR: Afrobeats
+http://ky-iptv.com:80/walter6/walter/1863506.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/4c70ab3219865d8cacd0e0dc3876e756.png",CAR: Calabash TV HD
+http://ky-iptv.com:80/walter6/walter/1891094.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/6377195ffc264bc7f657a721765c45c5.png",CAR: UTV
+http://ky-iptv.com:80/walter6/walter/1891095.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/28620db4f7789028615d6d7f315e4a5d.png",CAR: DBS
+http://ky-iptv.com:80/walter6/walter/1891097.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/e5c879a2cafaaa07e2b53836bbe819ca.png",CAR: CHOICE
+http://ky-iptv.com:80/walter6/walter/1891098.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/655ef998f586e856721a8b5676ece2ce.png",CAR: NTN
+http://ky-iptv.com:80/walter6/walter/1891099.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/3102b2bd988be5e0d1be982a4f8d2f2d.png",CAR: GVDTV
+http://ky-iptv.com:80/walter6/walter/1891100.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="https://ia601504.us.archive.org/21/items/hts-news-force/hts%20news%20force.png",CAR: HTS
+http://ky-iptv.com:80/walter6/walter/1891101.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="https://ia601400.us.archive.org/3/items/hot7_20211106_202111/hot7.png",CAR: HOT7 TV
+http://ky-iptv.com:80/walter6/walter/1891102.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="https://ia601501.us.archive.org/24/items/abs_20220129/abs.png",CAR: ABS Antigua
+http://ky-iptv.com:80/walter6/walter/1891103.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="https://ia601501.us.archive.org/24/items/ziz-tv-st-kitts/ZIZ%20tv%20st%20kitts.png",CAR: ZIZ TV ST KTTS
+http://ky-iptv.com:80/walter6/walter/1891104.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/7c1fdcc2940da5a391164c0c40eb1c33.png",CAR: TTT Trinidad
+http://ky-iptv.com:80/walter6/walter/1891105.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/f586b3d7fa3176470b52ea822a74bbc8.png",CAR: CBC Barbados
+http://ky-iptv.com:80/walter6/walter/1891106.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="https://ia601508.us.archive.org/2/items/esperance-tv-png/esperance-tv%20png.png",CAR: ESPÉRANCE TV Martinique
+http://ky-iptv.com:80/walter6/walter/1891110.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/f5b2ad5635bc8547d9ecfec130b876b1.png",CAR: Synergy TV
+http://ky-iptv.com:80/walter6/walter/1891117.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/7036353954fa3d79303c3fdacb159cf4.png",CAR: Tele Louange HAITI
+http://ky-iptv.com:80/walter6/walter/1891122.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/9525382f8592bbccae63023a4e38d74e.png",CAR: RTH 2000 Gospel Haiti
+http://ky-iptv.com:80/walter6/walter/1891124.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/7d672b22d0f37b1e8964fca352f2a652.png",CAR: RTH 2000 Haiti
+http://ky-iptv.com:80/walter6/walter/1891125.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/6561ceb5185d0d0bfbfba73859240aa6.png",CAR: Kajou TV Haiti
+http://ky-iptv.com:80/walter6/walter/1891127.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/66c2f61b13c48e27e107929e05a9bc03.png",CAR: Radio Tele Planet Compas
+http://ky-iptv.com:80/walter6/walter/1891130.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/611ea67e1764bb959a25429e7459f776.png",CAR: RADIO TELE PRINCE Haiti
+http://ky-iptv.com:80/walter6/walter/1891132.m3u8
+#EXTINF:-1 group-title="Caribbean",CAR: Bel Tv Haiti
+http://ky-iptv.com:80/walter6/walter/1891135.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/31babb5e0c67c78c0d0779ce8a7a329f.png",CAR: Telemix Haiti
+http://ky-iptv.com:80/walter6/walter/1891136.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/2d2bc25cea46bebae41631205a3caac5.png",CAR: Radio Televizyon Shilo Haiti
+http://ky-iptv.com:80/walter6/walter/1891139.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/faf5486320216edfc73f282e6de28640.png",CAR: Radio Tele Boston HAITI
+http://ky-iptv.com:80/walter6/walter/1891140.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/98af7f5b6128bad92a48121df2e1dfa0.png",CAR: Radio Tele Puissance Haiti
+http://ky-iptv.com:80/walter6/walter/1891141.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/f0383ed91081c1dbb8cba4e2365e8c9c.jpg",CAR: Radio Tele Planet Compas HD
+http://ky-iptv.com:80/walter6/walter/1832892.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/2c78d3bdee3e326878c9e4753817a29b.png",CAR: CEEN
+http://ky-iptv.com:80/walter6/walter/1925609.m3u8
+#EXTINF:-1 group-title="Caribbean" tvg-logo="http://ky-iptv.com:80/images/34091edb855e98301688e0a904b16c3f.png",CAR: MBC
+http://ky-iptv.com:80/walter6/walter/1952278.m3u8
+#EXTINF:-1 group-title="Caribbean",CAR: ECLAIR TV HD
+http://ky-iptv.com:80/walter6/walter/1851153.m3u8
 #EXTINF:-1 ,USA A&E UHD
 http://ky-iptv.com:80/walter6/walter/175784.ts
 #EXTINF:-1 ,USA AccuWeather
