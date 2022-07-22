@@ -154,7 +154,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f6
 https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://logodix.com/logo/853647.jpg",TVJ
 http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/550818.m3u8
-#EXTINF:-1 group-title="JAMAICA" tvg-logo="http://logo.protv.cc/picons/logos/flowtv.png", FLOW TVJM
+#EXTINF:-1 group-title="JAMAICA" tvg-logo="http://logo.protv.cc/picons/logos/flowtv.png",FLOW TVJM
 http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/550759.m3u8
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://logodix.com/logo/853647.jpg",TVJ
 http://n2086.securepoint.io:25461/CPhbj3y3NB/QHa6WUFIwe/56903
