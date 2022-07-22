@@ -505,6 +505,8 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SONY.smil/chunklist
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://www.insidesport.co/wp-content/uploads/2020/06/09a49583-f93f-4082-9406-a26a4fece4de.jpg",SONY 
 http://fortv.cc:8080/Ronnie/Ronnie/125795
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/SundanceTV.us.png",SundanceTV (East) US
+http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/45477.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/SundanceTV.us.png",SundanceTV (East) US
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=15179&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/SundanceTV.us.png",SundanceTV (East) US
 http://n2086.securepoint.io:25461/live/CPhbj3y3NB/QHa6WUFIwe/54927.m3u8
