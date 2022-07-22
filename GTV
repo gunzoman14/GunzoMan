@@ -310,6 +310,8 @@ https://tvnow.best/api/stream/williamariverawar@gmail.com/090625/livetv.epg/epix
 http://t365.in:900/live/7999945608/7543981025/181575.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/EPIXHITS.png",EPIX Hits
 http://n2086.securepoint.io:25461/live/CPhbj3y3NB/QHa6WUFIwe/56282.m3u8
+#EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://vk.com/clubslynet",24!7 Box TV
+https://hls.247box.live/hls/stream.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://gustotv.com/wp-content/uploads/2020/04/gustotv-logo.svg",Gusto TV
 https://gustotv-samsung-gb.samsung.wurl.com/manifest/089025e8e07edc059504b28ffd897267.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USAENTERTAINMENT/COOKINGCHANNEL.png",Cooking Channel US
