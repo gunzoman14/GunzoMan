@@ -320,11 +320,11 @@ http://t365.in:900/live/7999945608/7543981025/181575.m3u8
 http://n2086.securepoint.io:25461/live/CPhbj3y3NB/QHa6WUFIwe/56282.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://vk.com/clubslynet",24!7 Box TV
 https://hls.247box.live/hls/stream.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://gustotv.com/wp-content/uploads/2020/04/gustotv-logo.svg",Gusto TV
+#EXTINF:-1 group-title="COOKING CHANNEL" tvg-logo="https://gustotv.com/wp-content/uploads/2020/04/gustotv-logo.svg",Gusto TV
 https://gustotv-samsung-gb.samsung.wurl.com/manifest/089025e8e07edc059504b28ffd897267.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USAENTERTAINMENT/COOKINGCHANNEL.png",Cooking Channel US
+#EXTINF:-1 group-title="COOKING CHANNEL" tvg-logo="https://lo1.in/LOGO/US/USAENTERTAINMENT/COOKINGCHANNEL.png",Cooking Channel US
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:COOKING.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/FoodNetwork.us.png",Food Network (East)
+#EXTINF:-1 group-title="COOKING CHANNEL" tvg-logo="https://static.epg.best/us/FoodNetwork.us.png",Food Network (East)
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:FOOD_NETWORK.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png",FOX (WNYW) New York NY
 http://n2086.securepoint.io:25461/CPhbj3y3NB/QHa6WUFIwe/54262
@@ -358,7 +358,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FYI.smil/playlist.m3u
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:GRIT.smil/playlist.m3u8
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://i.imgur.com/ujmPyit.jpg",CineVault Westerns
 https://gsn-cinevault-westerns-1-us.vizio.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="stirr-westerns.us" tvg-chno="205" tvg-logo="https://i.imgur.com/ZRZw2vZ.png" group-title="STIRR",STIRR Westerns
+#EXTINF:-1 group-title="WESTERN" tvg-logo="https://i.imgur.com/ZRZw2vZ.png" group-title="STIRR",STIRR Westerns
 https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://picon-13398.kxcdn.com/starzencorewesternsus.jpg",Starz Westerns US (East) US
 http://ky-iptv.com:80/theruler/theruler/176081.m3u8
