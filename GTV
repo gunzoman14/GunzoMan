@@ -639,6 +639,8 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=23657&extens
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsportespn.jpg",BT Sport ESPN UK
 http://caspertv.live//play/live.php?mac=00:1A:79:6F:A4:34&stream=22298&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/cbbssportsnetworkus.jpg",CBS Sports Network USA
+http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/1281
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/cbbssportsnetworkus.jpg",CBS Sports Network USA
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=71839&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/cbbssportsnetworkus.jpg",CBS Sports Network USA
 http://n2086.securepoint.io:25461/CPhbj3y3NB/QHa6WUFIwe/53420
@@ -648,6 +650,8 @@ https://cbsshg09-cbsshg09-ms.global.ssl.fastly.net/cbss54g2/master/cbss54g2_7.m3
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:ESPN_CARIBBEAN.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN2.us.png",ESPN 2 US
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ESPN2_CARIBBEAN.smil/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPNU.us.png",ESPN U US
+http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/1274
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPNU.us.png",ESPN U US
 http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/90958.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPNU.us.png",ESPN U US
