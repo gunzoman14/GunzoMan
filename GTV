@@ -738,6 +738,8 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39793&extens
 http://n2086.securepoint.io:25461/CPhbj3y3NB/QHa6WUFIwe/53987
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/1M4zMdC.png",Sky Sports Racing
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/39793
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/ae/DubaiRacing.ae.png",Dubai Racing
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/ae/DubaiRacing.ae.png",Racing UK
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=117771&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/ae/DubaiRacing.ae.png",Racing UK
