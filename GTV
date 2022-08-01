@@ -732,18 +732,20 @@ https://e762df33aedf4193b403e95e0e8a581a.mediatailor.us-east-1.amazonaws.com/v1/
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=42928&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.logolynx.com/images/logolynx/2b/2b52c6b9bf43351da5d3e38a626c6997.jpeg",PRO SPORTS
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:PRO_SPORTS.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/1M4zMdC.png",Sky Sports Racing
+#EXTINF:-1 group-title="SPORTS HORSE" tvg-logo="https://i.imgur.com/1M4zMdC.png",Sky Sports Racing
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39793&extension=ts&play_token=TQ6cftyhX8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/1M4zMdC.png",Sky Sports Racing
+#EXTINF:-1 group-title="SPORTS HORSE" tvg-logo="https://i.imgur.com/1M4zMdC.png",Sky Sports Racing
 http://n2086.securepoint.io:25461/CPhbj3y3NB/QHa6WUFIwe/53987
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/1M4zMdC.png",Sky Sports Racing
+#EXTINF:-1 group-title="SPORTS HORSE" tvg-logo="https://i.imgur.com/1M4zMdC.png",Sky Sports Racing
 http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/39793
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/ae/DubaiRacing.ae.png",Dubai Racing
+#EXTINF:-1 group-title="SPORTS HORSE" tvg-logo="https://static.epg.best/ae/DubaiRacing.ae.png",Dubai Racing
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/ae/DubaiRacing.ae.png",Racing UK
+#EXTINF:-1 group-title="SPORTS HORSE" tvg-logo="https://static.epg.best/ae/DubaiRacing.ae.png",Racing UK
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=117771&extension=ts&play_token=TQ6cftyhX8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/ae/DubaiRacing.ae.png",Racing UK
+#EXTINF:-1 group-title="SPORTS HORSE" tvg-logo="https://static.epg.best/ae/DubaiRacing.ae.png",Racing UK
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS HORSE" tvg-logo="https://i.imgur.com/ky1sNul.png" group-title="Sports",Yas 
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://uspto.report/TM/90108722/mark.png",SKILLS+THRILLS
 https://ab821aa1fe744f529fcd833dd8e5ed41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SkillsAndThrills/playlist.m3u8?ads.wurl_channel=590&ads.wurl_name=SkillsAndThrills&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=5f74cf7effbe690040689f3e&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/SPORTSMAX.png",Sports Max 
