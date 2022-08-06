@@ -220,6 +220,8 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=11108&extens
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/CBC.ca.png",CBC Toronto
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:CBC.smil/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/CBC_TV_8.png" group-title="CARIBBEAN TV",CBC TV 8
+https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Cinemax.us.png",CINEMAX 
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:CINEMAX.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/CityTVToronto.ca.png",CITY Toronto CA
