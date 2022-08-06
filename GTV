@@ -765,23 +765,35 @@ http://fortv.cc:8080/Ronnie/Ronnie/17608
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/AFRICA/Super%20Sport%2012%20FHD.png",SuperSport Motorsport
 http://tv.nlt.wtf:24561/live/Ashley689/673175/104134.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg",Sky Sports F1
+http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/98783
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg",Sky Sports F1
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=37068&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg",Sky Sports F1
 http://n2086.securepoint.io:25461/CPhbj3y3NB/QHa6WUFIwe/82729
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/dcf43f17c2443f54cc7e2a3931d58b1f.png",SKY SPORTS ARENA
+http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/98787
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsactionuk.jpg",Sky Sports Action
+http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/98789
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsactionuk.jpg",Sky Sports Action
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=37071&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-news-uk.png",Sky Sports News
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=18362&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-news-uk.png",Sky Sports News
 http://n2086.securepoint.io:25461/CPhbj3y3NB/QHa6WUFIwe/53984
+#EXTINF:-1 group-title="SPORTS EPL" tvg-logo="https://picon-13398.kxcdn.com/skysportsfootballuk.jpg",Sky Sports Football
+http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/98781
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsfootballuk.jpg",Sky Sports Football
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=11658&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/twMKgz9.png",Sky Sports Football
 http://n2086.securepoint.io:25461/CPhbj3y3NB/QHa6WUFIwe/53980
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-cricket-uk.png",Sky Sports Cricket
+http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/98785
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-cricket-uk.png",Sky Sports Cricket
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=37072&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportscricketuk.jpg",Sky Sports Cricket
 http://caspertv.live//play/live.php?mac=00:1A:79:6F:A4:34&stream=22309&extension=ts&play_token=TQ6cftyhX8
+#EXTINF:-1 group-title="SPORTS EPL" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event
+http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/98777
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=37073&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmaineventuk.jpg",Sky Sports Main Event
@@ -790,6 +802,12 @@ http://n2086.securepoint.io:25461/CPhbj3y3NB/QHa6WUFIwe/53982
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=8336&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmixhd.jpg",Sky Sports Mix
 http://n2086.securepoint.io:25461/CPhbj3y3NB/QHa6WUFIwe/53983
+#EXTINF:-1 group-title="SPORTS EPL" tvg-logo="http://p2086.securepoint.io:2086/images/c30c49c69a7e6afb31e9bf77de8572ed.png",PREMIER SPORTS 1
+http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/98771
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/c30c49c69a7e6afb31e9bf77de8572ed.png",PREMIER SPORTS 2
+http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/98770
+#EXTINF:-1 group-title="SPORTS EPL" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",Sky Sports Premier League
+http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/98775
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",Sky Sports Premier League
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/79473
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",Sky Sports Premier League
