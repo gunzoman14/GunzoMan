@@ -820,6 +820,8 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39408&extens
 http://n2086.securepoint.io:25461/CPhbj3y3NB/QHa6WUFIwe/56768
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-premier-league-za.jpg",SuperSport Premier League
 http://fortv.cc:8080/Ronnie/Ronnie/122350
+#EXTINF:-1 group-title="SPORTS EPL" tvg-logo="https://static.epg.best/us/USANetwork.us.png",USA Network (East)
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:USA.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/SPAIN/R.MADRIDTV.png",Real Madrid
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg",SuperSport La Liga
