@@ -616,6 +616,8 @@ http://n2086.securepoint.io:25461/live/Marseille/UET4RmYa8j/53849.m3u8
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/53849
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/boxnation.jpg",Box Nation UK
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=9812&extension=ts&play_token=TQ6cftyhX8
+#EXTINF:-1,UK: SKY SPORTS BOX OFFICE
+http://ky-iptv.com:80/1234554/1234554/1688561.ts
 #EXTINF:-1 group-title="SPORTS EPL" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png",BT Sport 1 UK
 http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/110708
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png",BT Sport 1 UK
