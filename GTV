@@ -91,13 +91,13 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BBC_WORLD.smil/play
 #EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/bbcone.png",BBC 1
 http://king-tv.net:8080/Jp/Za2EzaGxxp/158343.ts
 #EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/bbcone.png",BBC 1
-https://tvnow.best/api/stream/djkoma@gmx.com/309965/livetv.epg/bbc.one.uk.m3u8
+https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/bbc.one.uk.m3u8
 #EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/bbcone.png",BBC 1
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=27700&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/bbctwo.png",BBC 2 
 http://king-tv.net:8080/Jp/Za2EzaGxxp/158344.ts
 #EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/bbctwo.png",BBC 2 
-https://tvnow.best/api/stream/djkoma@gmx.com/309965/livetv.epg/bbc.two.uk.m3u8
+https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/bbc.two.uk.m3u8
 #EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/bbctwo.png",BBC 2 
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=11348&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="UK" tvg-logo="http://p2086.securepoint.io:2086/images/82abc9fc03af14ff768852adcf79f334.png",BBC Three
@@ -457,7 +457,7 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=27938&extens
 #EXTINF:-1 tvg-id="News12NewYork.us" tvg-name="" tvg-logo="https://lo1.in/LOGO/US/USAMIXED/NEWS12.png",News 12 Brooklyn
 https://lnc-news12.tubi.video/index.m3u8
 #EXTINF:-1 group-title="NOLLYWOOD" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/AFRICACHANNEL.png",AFRICA CHANNEL FHD
-http://tv.nlt.wtf:24561/live/Ashley689/673175/103522.ts
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/533607
 #EXTINF:-1 group-title="NOLLYWOOD" tvg-logo="https://lo1.in/LOGO/DSTV/AFRICAMAGICSHOWCASE.png",AFRICA MAGIC SHOWCASE HD
 http://tv.nlt.wtf:24561/live/Ashley689/673175/103523.ts
 #EXTINF:-1 group-title="NOLLYWOOD" tvg-logo="https://i.imgur.com/usExg7v.png" group-title="AFRICA",Africa Magic Urban
@@ -599,7 +599,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:ZEETV.smil/playlist.m
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/ZEEWORLD.PNG",Zee World
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:ZEE_WORLD.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://picon-13398.kxcdn.com/starplus.jpg",Star Plus
-http://tv.nlt.wtf:24561/live/Ashley689/673175/45875.ts
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/280767
 #EXTINF:-1 group-title="SPORTS " tvg-logo="https://static.epg.best/us/beINSports.us.png",beIN Sports 1 US
 http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/1501
 #EXTINF:-1 group-title="SPORTS " tvg-logo="https://static.epg.best/us/beINSports.us.png",beIN Sports 1 US
@@ -715,7 +715,7 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=22896&extens
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA TV USA
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:NBA_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/ITALY/SKYSPORTNBA.png",NBA TV CA
-http://tv.nlt.wtf:24561/live/Ashley689/673175/4028.ts
+http://fortv.cc:8080/jsc/jsc/22995
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CANADA/CANADASPORTSEVENTS/NBATV.png",NBA TV CA
 http://king-tv.net:8080/Jp/Za2EzaGxxp/212280.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png",NFL Network US
@@ -763,7 +763,7 @@ http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/55083
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/SEC_Network_Logo.png",SEC Network US
 http://fortv.cc:8080/jsc/jsc/17608
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/AFRICA/Super%20Sport%2012%20FHD.png",SuperSport Motorsport
-http://tv.nlt.wtf:24561/live/Ashley689/673175/104134.ts
+http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/111010
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg",Sky Sports F1
 http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/98783
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg",Sky Sports F1
@@ -814,12 +814,12 @@ http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/79473
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=37069&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",Sky Sports Premier League
 http://caspertv.live//play/live.php?mac=00:1A:79:6F:A4:34&stream=22314&extension=ts&play_token=TQ6cftyhX8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-premier-league-za.jpg",SuperSport Premier League
+http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/110698
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png",SuperSport Premier League
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39408&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png",SuperSport Premier League
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/56768
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-premier-league-za.jpg",SuperSport Premier League
-http://fortv.cc:8080/jsc/jsc/122350
 #EXTINF:-1 group-title="SPORTS EPL" tvg-logo="https://static.epg.best/us/USANetwork.us.png",USA Network (East)
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:USA.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://smartinvestor.co.ke/wp-content/uploads/2016/07/barca-tv.jpg",BARCA TV
@@ -848,8 +848,12 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=249069&exten
 http://ky-iptv.com:80/Maurice10/Maurice20/1284155.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/TennisChannel.us.png",Tennis Channel US
 http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/811667.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/TennisChannel.us.png",Tennis Channel UK
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/TennisChannel.us.png",Tennis Channel US
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/54914
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/TennisChannel.us.png",SuperSport Tennis
+http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/111011
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",SuperSport Tennis
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=51138&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://images-platform.99static.com//Amj86fsRA0Px-9ijuvh3CPyidbs=/1009x174:4771x3936/fit-in/500x500/projects-files/64/6434/643466/eade489c-1423-4db4-910f-710fedb530cc.jpg",Motorvision
@@ -865,7 +869,7 @@ http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/54844
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/w3eLKLw.png" group-title=",IMPACT WRESTLING 
 https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/w3eLKLw.png" group-title=",IMPACT WRESTLING 
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/111200
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/w3eLKLw.png" group-title=",IMPACT WRESTLING
 http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/866271.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/w3eLKLw.png" group-title=",IMPACT WRESTLING
