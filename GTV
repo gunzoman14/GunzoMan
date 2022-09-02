@@ -179,7 +179,7 @@ http://fortv.cc:8080/jsc/jsc/21094
 #EXTINF:-1 group-title="GRENADA" tvg-logo="https://gbn.gd/wp-content/uploads/2018/02/gbn-e1519160308358.png",GBN
 https://stream-04.nyc.dailymotion.com/sec(kBDwkJsL9-oSpBjjjrqeePxzJT-4TzgRZua0n1FeYHnA75hUBllhUCcQgTXzDIk0)/dm/3/x85vz1r/d/live-1.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://seeklogo.com/images/A/all-music-logo-C3D748FA36-seeklogo.com.png",ALL MUSIC
-http://tv.nlt.wtf:24561/live/Ashley689/673175/100676.ts
+http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/109359
 #EXTINF:-1 group-title="Music" tvg-logo="https://pbs.twimg.com/profile_images/344513261566495012/19d7c82aab902628610c757d79fbd690.jpeg",TEMPO
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:REVOLT.smil/chunklist_b1000000.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/55vA85a.png",BOAT SHOW
@@ -317,7 +317,7 @@ https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/EPIX.png",EPIX (East)
 http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/45582.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/EPIX.png",EPIX (East)
-http://t365.in:900/live/7999945608/7543981025/181588.m3u8
+http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/1360
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/EPIX.png",EPIX (East)
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/53483
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/EPIX2.png",Epix 2
@@ -331,7 +331,7 @@ http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/90956.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/EPIXHITS.png",EPIX Hits
 http://king-tv.net:8080/Jp/Za2EzaGxxp/376178.ts
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/EPIXHITS.png",EPIX Hits
-http://t365.in:900/live/7999945608/7543981025/181575.m3u8
+http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/38629
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/EPIXHITS.png",EPIX Hits
 http://n2086.securepoint.io:25461/live/Marseille/UET4RmYa8j/56282.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="http://logo.protv.cc/picons/logos/THE-MOVIE-CHANNEL-HD.png",THE MOVIE CHANNEL
@@ -881,13 +881,13 @@ http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/866271.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/w3eLKLw.png",IMPACT WRESTLING
 http://king-tv.net:8080/Jp/Za2EzaGxxp/377905.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",WWE Network
+http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/36372
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",WWE Network
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/45462
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",WWE Network
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=101219&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",WWE Network
 http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/54904
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",WWE Network
-http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/45462.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",WWE Network
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/45462
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/ufcfightpassus.jpg",UFC Fight Pass
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=13259&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/ufcfightpassus.jpg",UFC Fight Pass 
