@@ -32,6 +32,8 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:MCTV.smil/playlist.
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:EWTN.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://afraraymond.files.wordpress.com/2020/12/tv-jaagriti-logo.jpg",JAAGRITI TV
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:JAAGRITI.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://media0.giphy.com/avatars/sankhyagestao/UVPKGrjVSFrX.png",SANKHYA TV
+http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:SANKHYA.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://www.livenewsworld.com/wp-content/uploads/2018/11/Trinity-Broadcasting-Network.png",TBN Trinity Broadcasting Network East
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:TBN.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://38.143.137.20/logo/prestige/United-States/ktla5.png",KTLA LA
