@@ -1,7 +1,7 @@
 #EXTINF:-1,#EXTM3U
 #EXTM3U x-tvg-url="https://github.com/Apollo2000/TVGuide/raw/master/utc.lite.xml.gz"
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3
-http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:CNC3.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:CNC3.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TTT.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",TV6
