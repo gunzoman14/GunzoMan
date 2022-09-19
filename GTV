@@ -535,7 +535,7 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=158514&exten
 #EXTINF:-1 group-title="RELIGION MOVIES" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/positiv.png",POSI TV
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:POSITIV.smil/playlist.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://static.epg.best/us/ReelzChannel.us.png",..REEL
-http://httpstreamer01.dc1.airlinktt.co/ottorigin08/live/smil:REEL.smil/playlist.m3u8
+http://ottorigin08.dc1.airlinktt.co:1935/live/smil:REEL.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/reelz-us.png",ReelzChannel
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/95923
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/reelz-us.png",ReelzChannel
