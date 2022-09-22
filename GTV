@@ -57,7 +57,7 @@ http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/1466
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://xtream-coders.com/x0/entertainment/axstv.png",AXS TV
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://xtream-coders.com/x0/entertainment/axstv.png",AXS TV
-http://fortv.cc:8080/jsc/jsc/48324
+http://fortv.cc:8080/carls/1234/48324
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/pt/AXN.pt.png",AXN
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:AXN.smil/chunklist_b2500000_slen.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/pt/AXN.pt.png",AXN
@@ -137,7 +137,7 @@ http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/91767
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pngkey.com/png/full/264-2641524_bet-gospel-1-gospel-logo.png",BET Gospel
 http://n2086.securepoint.io:25461/live/ZudaWKj4eP/dQbUQHUZxL/120798.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pngkey.com/png/full/264-2641524_bet-gospel-1-gospel-logo.png",BET Gospel
-http://fortv.cc:8080/jsc/jsc/66080
+http://fortv.cc:8080/carls/1234/66080
 #EXTINF:-1 group-title="Music" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_jams.png",BET Jams
 http://king-tv.net:8080/Jp/Za2EzaGxxp/376224.ts
 #EXTINF:-1 group-title="Music" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_jams.png",BET Jams
@@ -183,7 +183,7 @@ http://n2086.securepoint.io:25461/live/ZudaWKj4eP/dQbUQHUZxL/56902.m3u8
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://photos.live-tv-channels.org/tv-logo/jm-hype-tv-8552-300x225.jpg",HYPETV
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/118994
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://photos.live-tv-channels.org/tv-logo/jm-real-jamaican-television-3509-300x225.jpg",RETV
-http://fortv.cc:8080/jsc/jsc/21094
+http://fortv.cc:8080/carls/1234/21094
 #EXTINF:-1 group-title="GRENADA" tvg-logo="https://gbn.gd/wp-content/uploads/2018/02/gbn-e1519160308358.png",GBN
 https://stream-04.nyc.dailymotion.com/sec(kBDwkJsL9-oSpBjjjrqeePxzJT-4TzgRZua0n1FeYHnA75hUBllhUCcQgTXzDIk0)/dm/3/x85vz1r/d/live-1.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://seeklogo.com/images/A/all-music-logo-C3D748FA36-seeklogo.com.png",ALL MUSIC
@@ -527,7 +527,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:PARAMOUNT.smil/playli
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyXD.us.png",PBS Kids US
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:PBS_KIDS.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://011011011.com:8080/images/a3138fb2ce0613e05ffec4a8951ad0a7.png",PixL TV
-http://fortv.cc:8080/jsc/jsc/21648
+http://fortv.cc:8080/carls/1234/21648
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/PopTV.us.png",POP (East)
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53940
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/PopTV.us.png",POP (East)
@@ -553,7 +553,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:SOAC.smil/playlist.
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/in/SonyMax.in.png",Sony Movie Channel
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SONY.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://www.insidesport.co/wp-content/uploads/2020/06/09a49583-f93f-4082-9406-a26a4fece4de.jpg",SONY 
-http://fortv.cc:8080/jsc/jsc/125795
+http://fortv.cc:8080/carls/1234/125795
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/SundanceTV.us.png",SundanceTV (East) US
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/1435
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/SundanceTV.us.png",SundanceTV (East) US
@@ -741,13 +741,13 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=22896&extens
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA TV USA
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:NBA_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/ITALY/SKYSPORTNBA.png",NBA TV CA
-http://fortv.cc:8080/jsc/jsc/22995
+http://fortv.cc:8080/carls/1234/22995
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CANADA/CANADASPORTSEVENTS/NBATV.png",NBA TV CA
 http://king-tv.net:8080/Jp/Za2EzaGxxp/212280.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png",NFL Network US
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=26457&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/US/USASPORT/NHLNETWORK.png",NHL Network US
-http://fortv.cc:8080/jsc/jsc/20179
+http://fortv.cc:8080/carls/1234/20179
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/US/USASPORT/OlympicChannel.png",Olympic Channel
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/114608
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/US/USASPORT/OlympicChannel.png",Olympic Channel
@@ -789,7 +789,7 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=15178&extens
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/SEC_Network_Logo.png",SEC Network US
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/55083
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/SEC_Network_Logo.png",SEC Network US
-http://fortv.cc:8080/jsc/jsc/17608
+http://fortv.cc:8080/carls/1234/17608
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/AFRICA/Super%20Sport%2012%20FHD.png",SuperSport Motorsport
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/111010
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg",Sky Sports F1
@@ -865,13 +865,13 @@ http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/111013
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",Sport TV Plus PT
 http://king-tv.net:8080/Jp/Za2EzaGxxp/159084.m3u8
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",Sport TV 1 PT
-http://fortv.cc:8080/jsc/jsc/78513
+http://fortv.cc:8080/carls/1234/78513
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",Sport TV 2 PT
-http://fortv.cc:8080/jsc/jsc/78515
+http://fortv.cc:8080/carls/1234/78515
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",Sport TV 3 PT
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=68995&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",Sport TV 4 PT
-http://fortv.cc:8080/jsc/jsc/78494
+http://fortv.cc:8080/carls/1234/78494
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",Sport TV 5 PT
 http://king-tv.net:8080/Jp/Za2EzaGxxp/159111.ts
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",Sport TV 6
@@ -937,7 +937,7 @@ https://d22ljxpuae2sin.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="24/7" tvg-logo="https://m.media-amazon.com/images/I/51AJa418SVL.jpg",Sanford and Son
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/224473
 #EXTINF:-1 group-title="24/7" tvg-logo="https://cdn.hmv.com/r/w-640/hmv/files/4b/4b9f64f3-5140-4d9e-a134-1eb54d7907cf.jpg",Tom And Jerry
-http://fortv.cc:8080/jsc/jsc/125635
+http://fortv.cc:8080/carls/1234/125635
 #EXTINF:-1 group-title="24/7" tvg-logo="https://c8.alamy.com/comp/RN8C33/chuck-norris-walker-texas-ranger-1993-RN8C33.jpg",Walker Texas Ranger
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/108900
 #EXTINF:-1 group-title="24/7" tvg-logo="https://c8.alamy.com/comp/RN8C33/chuck-norris-walker-texas-ranger-1993-RN8C33.jpg",Walker Texas Ranger
