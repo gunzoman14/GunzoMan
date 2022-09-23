@@ -240,6 +240,8 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:CNBC.smil/playlist.m3
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:COMET_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://sc.dish.com/shared/images/station-logos/APCLR.png",Colors
 http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/157161.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://adma.tmsimg.com/assets/s110288_ll_h15_aa.png?w=360&h=270",CLEO TV
+http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98753
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/CMT.us.png",CMT CA
 http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/90937.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/CMT.us.png",CMT CA
