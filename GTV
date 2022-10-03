@@ -136,24 +136,24 @@ https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:BET.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BetHer.us.png",Bet Her US
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:CENTRIC.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pngkey.com/png/full/264-2641524_bet-gospel-1-gospel-logo.png",BET Gospel
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://media.tv4.live/bet.gospel.us.png",BET Gospel
 http://neomixs.com:8080/oguzonersl/030620Bs5a/284778
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pngkey.com/png/full/264-2641524_bet-gospel-1-gospel-logo.png",BET Gospel
 http://ky-iptv.com:80/zahidkhan123/zahidkhan123/177076.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pngkey.com/png/full/264-2641524_bet-gospel-1-gospel-logo.png",BET Gospel
 http://fortv.cc:8080/carls/1234/66080
-#EXTINF:-1 group-title="Music" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_jams.png",BET Jams
-http://king-tv.net:8080/Jp/Za2EzaGxxp/376224.ts
+#EXTINF:-1 group-title="Music" tvg-logo="https://media.tv4.live/bet.jams.us.png",BET Jams
+http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/109114
 #EXTINF:-1 group-title="Music" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_jams.png",BET Jams
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39309&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="Music" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_jams.png",BET Jams
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/550715
-#EXTINF:-1 group-title="Music" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_soul.png",BET Soul
-http://king-tv.net:8080/Jp/Za2EzaGxxp/117274.ts
+http://king-tv.net:8080/Jp/Za2EzaGxxp/376224.ts
+#EXTINF:-1 group-title="Music" tvg-logo="https://media.tv4.live/bet.soul.us.png",BET Soul
+http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/109115
 #EXTINF:-1 group-title="Music" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_soul.png",BET Soul
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39308&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="Music" tvg-logo="http://glmtv.pw/logo/prestige/United-States/bet_us_soul.png",BET Soul
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/91770
+http://king-tv.net:8080/Jp/Za2EzaGxxp/117274.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/LOGO/US/USASTREAMEDCHANNELS/BUZZR.png",Buzzr TV
 https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.pngfind.com/pngs/m/165-1655043_retro-tv-png-transparent-png.png",RETRO TV MUSIC
@@ -222,11 +222,11 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:BYU.smil/chunklist_
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/599375885ceaac3cabccbed7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/CartoonNetwork.us.png",Cartoon Network (East) US
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:CARTOON.smil/playlist.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://media.tv4.live/adult.swim.east.us.png",Adult Swim
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://media.tv4.live/adult.swim.east.ca.png",Adult Swim East
 http://neomixs.com:8080/oguzonersl/030620Bs5a/263143
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://media.tv4.live/adult.swim.east.us.png",Adult Swim
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://media.tv4.live/adult.swim.east.ca.png",Adult Swim East
 http://wayforward.xyz:25461/Shackett/Shackett/54807
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/CBSKREX.us.png",CBS East
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://media.tv4.live/cbs.eastern.us.png",CBS East
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:CBS.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://media.tv4.live/cbs.reality.uk.png",CBS Reality
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=11108&extension=ts&play_token=TQ6cftyhX8
