@@ -109,7 +109,7 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=11348&extens
 #EXTINF:-1 group-title="UK" tvg-logo="http://p2086.securepoint.io:2086/images/82abc9fc03af14ff768852adcf79f334.png",BBC Three
 http://king-tv.net:8080/Jp/Za2EzaGxxp/158459.ts
 #EXTINF:-1 group-title="UK" tvg-logo="http://logo.protv.cc/picons/logos/bbcearthhd.png", BBC EARTH
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36194
+http://p2052.securepoint.io:2052/Starkeyrestream/WThAV7DQrX/873613
 #EXTINF:-1 group-title="UK" tvg-logo="http://p2086.securepoint.io:2086/images/02c1098963c6600caa74fcc5e503fd77.png",BBC 4 
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98851
 #EXTINF:-1 group-title="UK" tvg-logo="http://p2086.securepoint.io:2086/images/02c1098963c6600caa74fcc5e503fd77.png",BBC 4 
@@ -137,9 +137,9 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:BET.smil/playlist.m3u
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BetHer.us.png",BET HER
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:CENTRIC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://media.tv4.live/bet.gospel.us.png",BET Gospel
-http://ky-iptv.com:80/zahidkhan123/zahidkhan123/177076.ts
+http://ky-iptv.com:80/37258544/29827964/177076.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pngkey.com/png/full/264-2641524_bet-gospel-1-gospel-logo.png",BET Gospel
-http://ky-iptv.com:80/zahidkhan123/zahidkhan123/177076.m3u8
+http://ky-iptv.com:80/37258544/29827964/177076.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pngkey.com/png/full/264-2641524_bet-gospel-1-gospel-logo.png",BET Gospel
 http://fortv.cc:8080/carls/1234/66080
 #EXTINF:-1 group-title="Music" tvg-logo="https://media.tv4.live/bet.jams.us.png",BET JAMS
@@ -223,7 +223,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/599375885
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/CartoonNetwork.us.png",CARTOON NETWORK
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:CARTOON.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://media.tv4.live/adult.swim.east.ca.png",Adult Swim East
-http://ky-iptv.com:80/zahidkhan123/zahidkhan123/228395.ts
+http://ky-iptv.com:80/37258544/29827964/228395.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://media.tv4.live/cbs.eastern.us.png",CBS East
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:CBS.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://media.tv4.live/cbs.reality.uk.png",CBS Reality
@@ -273,9 +273,9 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1,USA | PLUTO TV COURTROOM
 https://stitcher.pluto.tv/stitch/hls/channel/6036e6e7ac69c400072afca2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5b65732e-f882-11ec-97e6-0242ac110003
 #EXTINF:-1,Judge Judy
-http://ky-iptv.com:80/zahidkhan123/zahidkhan123/1635202.m3u8
+http://ky-iptv.com:80/37258544/29827964/1635202.m3u8
 #EXTINF:-1,24/7 JUDGE JUDY
-http://ky-iptv.com:80/zahidkhan123/zahidkhan123/1861471.m3u8
+http://ky-iptv.com:80/37258544/29827964/1861471.m3u8
 #EXTINF:-1,Nosey
 #EXTINF:-1,USA |JUDGE NOSEY UK
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/917048
@@ -342,7 +342,7 @@ http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/1360
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/EPIX.png",EPIX (East)
 http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/45582.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/EPIX.png",EPIX (East)
-http://ky-iptv.com:80/zahidkhan123/zahidkhan123/176026.m3u8
+http://ky-iptv.com:80/37258544/29827964/176026.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/EPIX2.png",Epix 2
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98755
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/EPIX2.png",Epix 2
@@ -354,7 +354,7 @@ http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/90956.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/EPIXHITS.png",EPIX Hits
 http://king-tv.net:8080/Jp/Za2EzaGxxp/376178.ts
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/EPIXHITS.png",EPIX Hits
-http://ky-iptv.com:80/zahidkhan123/zahidkhan123/176028.m3u8
+http://ky-iptv.com:80/37258544/29827964/176028.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="http://logo.protv.cc/picons/logos/THE-MOVIE-CHANNEL-HD.png",THE MOVIE CHANNEL
 http://king-tv.net:8080/Jp/Za2EzaGxxp/173371.ts
 #EXTINF:-1 group-title="COOKING CHANNEL" tvg-logo="https://gustotv.com/wp-content/uploads/2020/04/gustotv-logo.svg",Gusto TV
@@ -394,7 +394,7 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=17308&extens
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USAGENERAL/FXM.png",FX Movie Channel
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/29312
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USAGENERAL/FXM.png",FX Movie Channel
-http://ky-iptv.com:80/zahidkhan123/zahidkhan123/176036.m3u8
+http://ky-iptv.com:80/37258544/29827964/176036.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/FYI.us.png",FYI (East)
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FYI.smil/playlist.m3u8
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://static.epg.best/us/Grit.us.png",Grit Network
@@ -424,7 +424,7 @@ http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/38591
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/hallmark-drama-us.png",HALLMARK DRAMA
 http://king-tv.net:8080/Jp/Za2EzaGxxp/170483.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/hallmark-drama-us.png",HALLMARK DRAMA
-http://ky-iptv.com:80/zahidkhan123/zahidkhan123/175866.m3u8
+http://ky-iptv.com:80/37258544/29827964/175866.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2019/11/hallmarkmoviesnow-logo-purple-block.png",HALLMARK MOVIES
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:HALLMARK_MM.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/HGTV.us.png",HGTV (East) US
@@ -486,7 +486,7 @@ https://lnc-news12.tubi.video/index.m3u8
 #EXTINF:-1 group-title="NOLLYWOOD" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/AFRICACHANNEL.png",AFRICA CHANNEL FHD
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/533607
 #EXTINF:-1 group-title="NOLLYWOOD" tvg-logo="https://lo1.in/LOGO/DSTV/AFRICAMAGICSHOWCASE.png",AFRICA MAGIC FAMILY
-http://ky-iptv.com:80/zahidkhan123/zahidkhan123/2132336.m3u8
+http://ky-iptv.com:80/37258544/29827964/2132336.m3u8
 #EXTINF:-1 group-title="NOLLYWOOD" tvg-logo="https://i.imgur.com/usExg7v.png" group-title="AFRICA",Africa Magic Urban
 http://king-tv.net:8080/Jp/Za2EzaGxxp/378660.ts
 #EXTINF:-1 group-title="NOLLYWOOD" tvg-logo="https://i.imgur.com/usExg7v.png" group-title="AFRICA",Pluto TV Demand Africa
@@ -636,7 +636,7 @@ http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/1501
 #EXTINF:-1 group-title="SPORTS " tvg-logo="https://static.epg.best/us/beINSports.us.png",beIN Sports 1 US
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:BEIN_SPORTS.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/beINSports.us.png",beIN Sports 1 US
-http://ky-iptv.com:80/zahidkhan123/zahidkhan123/220395.m3u8
+http://ky-iptv.com:80/37258544/29827964/220395.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",beIN Sports 1 US
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=9693&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://media.tv4.live/nsw.sydney.bein.sports.2.au.png",beIN Sports 2 AU
@@ -644,7 +644,7 @@ http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/110877
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/boxnation.jpg",Box Nation UK
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/1380
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/boxnation.jpg",Box Nation UK
-http://ky-iptv.com:80/zahidkhan123/zahidkhan123/189910.m3u8
+http://ky-iptv.com:80/37258544/29827964/189910.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/boxnation.jpg",Box Nation UK
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=9812&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS EPL" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png",BT Sport 1 UK
@@ -692,17 +692,11 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=42907&extens
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg",Eurosport 1 UK
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/31459
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg",Eurosport 1 UK
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53894
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg",Eurosport 1 UK
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=141598&extension=ts&play_token=yofOklZ6OX
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg",Eurosport 2 UK
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/31460
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg",Eurosport 2 UK
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=117729&extension=ts&play_token=TQ6cftyhX8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg",Eurosport 2 UK
-http://n2086.securepoint.io:25461/live/Friendship/q60q1kVWvY/53895.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg",Eurosport 2 SNOOKER
-http://neomixs.com:8080/oguzonersl/030620Bs5a/398048
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS.png",FLOW SPORTS 
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:FLOW_SPORTS.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/RUSHSPORTS.png",RUSH SPORTS 
@@ -760,7 +754,7 @@ http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/114608
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/US/USASPORT/OlympicChannel.png",Olympic Channel
 http://king-tv.net:8080/Jp/Za2EzaGxxp/376498.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/US/USASPORT/OlympicChannel.png",Olympic Channel
-http://ky-iptv.com:80/zahidkhan123/zahidkhan123/220440.m3u8
+http://ky-iptv.com:80/37258544/29827964/220440.m3u8
 #EXTINF:-1 group-title="Sweden" tvg-logo="https://seeklogo.com/images/W/World_Championship_of_Poker-logo-A9D5720391-seeklogo.com.png",World Poker Tour 
 https://e762df33aedf4193b403e95e0e8a581a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-ch_WorldPokerTour/playlist.m3u8?ads.wurl_channel=983&ads.wurl_name=WorldPokerTour&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="Sweden" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b960feda-d455-441c-9381-83551e8ce6c7-profile_image-300x300.jpg",Triton Poker 
@@ -896,7 +890,7 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/TennisChannel.us.png",SuperSport Tennis
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/111011
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/TennisChannel.us.png",Tennis Channel US
-http://ky-iptv.com:80/zahidkhan123/zahidkhan123/220448.m3u8
+http://ky-iptv.com:80/37258544/29827964/220448.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://images-platform.99static.com//Amj86fsRA0Px-9ijuvh3CPyidbs=/1009x174:4771x3936/fit-in/500x500/projects-files/64/6434/643466/eade489c-1423-4db4-910f-710fedb530cc.jpg",Motorvision
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=30500&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="CAR SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png",Discovery Turbo UK
@@ -906,7 +900,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:WILLOW.smil/playlis
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/WillowCricket.us.png",Willow Cricket
 http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/45463.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/WillowCricket.us.png",Willow Cricket
-http://ky-iptv.com:80/zahidkhan123/zahidkhan123/1116401.m3u8
+http://ky-iptv.com:80/37258544/29827964/1116401.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/w3eLKLw.png",IMPACT WRESTLING 
 https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/w3eLKLw.png",IMPACT WRESTLING 
@@ -946,7 +940,7 @@ http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/99897
 #EXTINF:-1 group-title="24/7" tvg-logo="https://m.media-amazon.com/images/I/51AJa418SVL.jpg",Sanford and Son
 http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/99897.ts
 #EXTINF:-1 group-title="24/7" tvg-logo="https://m.media-amazon.com/images/I/51AJa418SVL.jpg",Sanford and Son
-http://ky-iptv.com:80/zahidkhan123/zahidkhan123/1862127.m3u8
+http://ky-iptv.com:80/37258544/29827964/1862127.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="https://cdn.hmv.com/r/w-640/hmv/files/4b/4b9f64f3-5140-4d9e-a134-1eb54d7907cf.jpg",Tom And Jerry
 http://fortv.cc:8080/carls/1234/125635
 #EXTINF:-1 group-title="24/7" tvg-logo="https://c8.alamy.com/comp/RN8C33/chuck-norris-walker-texas-ranger-1993-RN8C33.jpg",Walker Texas Ranger
