@@ -44,35 +44,35 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:3ABN.smil/chunklist
 http://megaott.cx:900/t12mgxy282/556175751453161/400318049
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://lo1.in/LOGO/US/USAGENERAL/Abc.png",ABC (KABC) Los Angeles CA
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/38699
-#EXTINF:-1 group-title="NEWS" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png",US| ABC 10 (WPLG) MIAMI
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png",ABC (WPLG) Miami FL
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:ABC.smil/chunklist_b1160000_slen.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://media.tv4.live/abc.wabc.new.york.ny.us.png",US| ABC 7 (WABC) NEW YORK
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://media.tv4.live/abc.wabc.new.york.ny.us.png",ABC (WABC) New York NY
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/109812
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AandE.us.png",CAR| A&amp;E FHD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AandE.us.png",A&E
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:A&E.smil/playlist.m3u8
-#EXTINF:-1 group-title="ANIMALS" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png",US| ANIMAL PLANET HD
+#EXTINF:-1 group-title="ANIMALS" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png",Animal Planet (East) US
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ANIMAL_PLANET.smil/playlist.m3u8
-#EXTINF:-1 group-title="ANIMALS" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png",UK| ANIMAL PLANET FHD
+#EXTINF:-1 group-title="ANIMALS" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png",Animal Planet UK
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/1466
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://xtream-coders.com/x0/entertainment/axstv.png",CAR| AXS TV HD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://xtream-coders.com/x0/entertainment/axstv.png",AXS TV
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://xtream-coders.com/x0/entertainment/axstv.png",CAR| AXS TV HD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://xtream-coders.com/x0/entertainment/axstv.png",AXS TV
 http://fortv.cc:8080/carls/1234/48324
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/pt/AXN.pt.png",MY| AXN HD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/pt/AXN.pt.png",AXN
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:AXN.smil/chunklist_b2500000_slen.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/pt/AXN.pt.png",MY| AXN HD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/pt/AXN.pt.png",AXN
 http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AMC.us.png",US| AMC FHD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AMC.us.png",AMC (East) US
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:AMC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvG9Hg_GVNZCDW65MfTWXcJ0yF7GpaQSN0tw&usqp=CAU",AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USAENTERTAINMENT/AWE.png",CAR| AWE FHD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USAENTERTAINMENT/AWE.png",AWE TV Network
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/89531
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USAENTERTAINMENT/AWE.png",CAR| AWE FHD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USAENTERTAINMENT/AWE.png",AWE TV Network
 https://b08f85ef072648ebbe197a5e5e436549.mediatailor.us-west-2.amazonaws.com/v1/master/d138761b0916ee5f222129c594a33677627df5e3/KlowdTV_AWE_Plus/fast/AWE_Encore/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USAENTERTAINMENT/AWE.png",US| AWE FHD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USAENTERTAINMENT/AWE.png",AWE TV Network
 https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USAENTERTAINMENT/AWE.png",US| AWE FHD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USAENTERTAINMENT/AWE.png",AWE TV Network
 https://aweencore-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="peopletv.us" tvg-chno="80" tvg-logo="https://i.imgur.com/3wpzACG.png" group-title="CA| PEOPLE
 https://dai.google.com/linear/hls/event/Fe9LYYCFR5Csif-I5dyMHg/master.m3u8
@@ -80,7 +80,7 @@ https://dai.google.com/linear/hls/event/Fe9LYYCFR5Csif-I5dyMHg/master.m3u8
 https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
 #EXTINF:-1 tvg-id="dove.us" tvg-chno="56" tvg-logo="https://i.imgur.com/V0u3mgI.png" group-title="STIRR",Dove
 https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USAGENERAL/CometTv.png",US| COMET TV HD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USAGENERAL/CometTv.png",STIRR",COMET
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/gWOqTZg.png",US| (PLUTO) PEOPLE ARE AWESOME HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac65911406400078b8993/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=bd89af6a-97e2-413e-8be3-888c0ba6d814&clientModelNumber=na&deviceDNT=false&deviceId=bd89af6a-97e2-413e-8be3-888c0ba6d814&deviceLat=17.9898&deviceLon=-92.9478&deviceMake=Safari&deviceModel=web&deviceType=web&deviceVersion=12.5&marketingRegion=VE&serverSideAds=true&sessionID=3729f924-b279-11eb-9c37-0242ac110002&sid=3729f924-b279-11eb-9c37-0242ac110002&userId=
@@ -92,13 +92,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b7d32
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="Anime" tvg-logo="https://lo1.in/LOGO/US/USAMIXED/CONTVANIME.png",US|  (TF) CONTV ANIME 
 https://contvanime-vizio-ingest.cinedigm.com/master.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/gb/BBCWorldNews.uk.png",US| BBC WORLD NEWS HD
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/gb/BBCWorldNews.uk.png",BBC WORLD NEWS
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BBC_WORLD.smil/playlist.m3u8
-#EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/bbcone.png",UK| BBC 1 HD
+#EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/bbcone.png",BBC 1
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98851
-#EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/bbcone.png",UK| BBC 1 HD
+#EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/bbcone.png",BBC 1
 http://king-tv.net:8080/Jp/Za2EzaGxxp/158343.ts
-#EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/bbcone.png",UK| BBC 1 HD
+#EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/bbcone.png",BBC 1
 http://king-tv.net:8080/Jp/Za2EzaGxxp/158343.ts
 #EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/bbctwo.png",BBC 2 
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98852
@@ -108,7 +108,7 @@ http://king-tv.net:8080/Jp/Za2EzaGxxp/158344.ts
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=11348&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="UK" tvg-logo="http://p2086.securepoint.io:2086/images/82abc9fc03af14ff768852adcf79f334.png",BBC Three
 http://king-tv.net:8080/Jp/Za2EzaGxxp/158459.ts
-#EXTINF:-1 group-title="UK" tvg-logo="http://logo.protv.cc/picons/logos/bbcearthhd.png", BBC EARTH
+#EXTINF:-1 group-title="UK" tvg-logo="http://logo.protv.cc/picons/logos/bbcearthhd.png",BBC EARTH
 http://p2052.securepoint.io:2052/Starkeyrestream/WThAV7DQrX/873613
 #EXTINF:-1 group-title="UK" tvg-logo="http://p2086.securepoint.io:2086/images/02c1098963c6600caa74fcc5e503fd77.png",BBC 4 
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98851
@@ -173,7 +173,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:HILLSONG.smil/playl
 #EXTINF:-1 group-title="Music" tvg-logo="http://static1.squarespace.com/static/5d07b0c8af0f1c0001204144/t/5d07b0f8c2c5b00001d89f93/1560785145428/social+sharing+logo.png?format=1500w",VEVO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/MELLOTV.png",MELLO TV 
-http://megaott.cx:900/live/1504419863/3B7B8B28/195853.m3u8
+http://megaott.cx:900/live/t12mgxy282/556175751453161/195853.m3u8
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://logodix.com/logo/853647.jpg",TVJ
 http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/550818.m3u8
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="http://logo.protv.cc/picons/logos/flowtv.png",FLOW TVJM
@@ -264,13 +264,13 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:COMEDY_CENTRAL.smil
 http://crackle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png",CGTN 
 http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/1fhqoEE.png",CNN
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/1fhqoEE.png",CNN US
 http://iptvcdn.airlinktt.co/hlsnmia01/live/smil:CNN_INTERNATIONAL.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/1fhqoEE.png",CNN INTERNATIONAL
 http://gystreamer01.airlinktt.co/ottorigin02/live/smil:CNN_INTERNATIONAL.smil/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/1fhqoEE.png",CNN
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/1fhqoEE.png",CNN US
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/CNN.us.png",CNN
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/CNN.us.png",CNN US
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/820?cb=20190417224656",CNA 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
