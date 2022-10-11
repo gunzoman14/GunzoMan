@@ -648,7 +648,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:BEIN_SPORTS.smil/pl
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/beINSports.us.png",beIN Sports 1 US
 http://ky-iptv.com:80/jfink/jfink/220395.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png",beIN Sports 1 US
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=9693&extension=ts&play_token=TQ6cftyhX8
+http://ys-users.com:8080/christa/christa/418383
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://media.tv4.live/nsw.sydney.bein.sports.2.au.png",beIN Sports 2 AU
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/110877
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/boxnation.jpg",Box Nation UK
@@ -660,19 +660,19 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=9812&extensi
 #EXTINF:-1 group-title="SPORTS EPL" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png",BT Sport 1 UK
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/110708
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png",BT Sport 1 UK
-http://neomixs.com:8080/oguzonersl/030620Bs5a/179086
+http://ys-users.com:8080/christa/christa/428237
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png",BT Sport 1 UK
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=9851&extension=ts&play_token=TQ6cftyhX8
+http://megaott.cx:900/live/t12mgxy282/556175751453161/13780.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-2-uk.png",BT Sport 2 UK
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/89213
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-2-uk.png",BT Sport 2 UK
-http://neomixs.com:8080/oguzonersl/030620Bs5a/1298
+http://ys-users.com:8080/christa/christa/428240
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-2-uk.png",BT Sport 2 UK
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=9849&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-3-uk.png",BT Sport 3 UK
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/89212
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-3-uk.png",BT Sport 3 UK
-http://neomixs.com:8080/oguzonersl/030620Bs5a/123269
+http://ys-users.com:8080/christa/christa/428243
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-3-uk.png",BT Sport 3 UK
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=9847&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsportespn.jpg",BT Sport ESPN UK
@@ -680,11 +680,13 @@ http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/89211
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsportespn.jpg",BT Sport ESPN UK
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=23657&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsportespn.jpg",BT Sport ESPN UK
-http://caspertv.live//play/live.php?mac=00:1A:79:6F:A4:34&stream=22298&extension=ts&play_token=TQ6cftyhX8
+http://ys-users.com:8080/christa/christa/428246
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/cbbssportsnetworkus.jpg",CBS Sports Network USA
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/1281
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/cbbssportsnetworkus.jpg",CBS Sports Network USA
 http://neomixs.com:8080/oguzonersl/030620Bs5a/137444
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/cbbssportsnetworkus.jpg",CBS Sports HQ USA
+http://ys-users.com:8080/christa/christa/433795
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",CBS Sports Network USA
 https://cbsshg09-cbsshg09-ms.global.ssl.fastly.net/cbss54g2/master/cbss54g2_7.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/cbbssportsnetworkus.jpg",CBS Sports Network USA
@@ -710,7 +712,7 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=117729&exten
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS.png",FLOW SPORTS 
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:FLOW_SPORTS.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/RUSHSPORTS.png",RUSH SPORTS 
-http://king-tv.net:8080/Jp/Za2EzaGxxp/247617.ts
+http://megaott.cx:900/live/t12mgxy282/556175751453161/376153.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/FoxSports1.us.png",Fox Sports 1
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOXSPORTS1.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/FoxSports2.us.png",Fox Sports 2 
@@ -752,11 +754,11 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=22896&extens
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA TV USA
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:NBA_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/ITALY/SKYSPORTNBA.png",NBA TV CA
-http://fortv.cc:8080/carls/1234/22995
+http://megaott.cx:900/live/t12mgxy282/556175751453161/175804.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CANADA/CANADASPORTSEVENTS/NBATV.png",NBA TV CA
 http://king-tv.net:8080/Jp/Za2EzaGxxp/212280.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png",NFL Network US
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=26457&extension=ts&play_token=TQ6cftyhX8
+http://ys-users.com:8080/christa/christa/418331
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/US/USASPORT/NHLNETWORK.png",NHL Network US
 http://fortv.cc:8080/carls/1234/20179
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/US/USASPORT/OlympicChannel.png",Olympic Channel
@@ -818,6 +820,8 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=37071&extens
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-news-uk.png",Sky Sports News
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98801
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-news-uk.png",Sky Sports News
+http://megaott.cx:900/live/t12mgxy282/556175751453161/191687.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-news-uk.png",Sky Sports News
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=18362&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS EPL" tvg-logo="https://picon-13398.kxcdn.com/skysportsfootballuk.jpg",Sky Sports Football
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98781
@@ -836,7 +840,7 @@ http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98777
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=37073&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmaineventuk.jpg",Sky Sports Main Event
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53982
+http://megaott.cx:900/live/t12mgxy282/556175751453161/191674.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmixhd.jpg",Sky Sports Mix
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98857
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmixhd.jpg",Sky Sports Mix
@@ -850,7 +854,7 @@ http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98775
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",Sky Sports Premier League
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/79473
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",Sky Sports Premier League
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=37069&extension=ts&play_token=TQ6cftyhX8
+http://megaott.cx:900/live/t12mgxy282/556175751453161/153693.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",Sky Sports Premier League
 http://caspertv.live//play/live.php?mac=00:1A:79:6F:A4:34&stream=22314&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-premier-league-za.jpg",SuperSport Premier League
@@ -858,13 +862,15 @@ http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/110698
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png",SuperSport Premier League
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39408&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png",SuperSport Premier League
-http://neomixs.com:8080/oguzonersl/030620Bs5a/375321
+http://megaott.cx:900/live/t12mgxy282/556175751453161/159892.m3u8
 #EXTINF:-1 group-title="SPORTS EPL" tvg-logo="https://static.epg.best/us/USANetwork.us.png",USA Network (East)
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:USA.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://smartinvestor.co.ke/wp-content/uploads/2016/07/barca-tv.jpg",BARCA TV
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/31456
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/SPAIN/R.MADRIDTV.png",Real Madrid TV
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://media.tv4.live/lfc.uk.png",LFC TV UK
+http://megaott.cx:900/live/t12mgxy282/556175751453161/189985.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg",SuperSport La Liga
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/110699
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg",SuperSport La Liga
@@ -946,7 +952,7 @@ http://wayforward.xyz:25461/Shackett/Shackett/54930
 #EXTINF:-1 group-title="24/7" tvg-logo="https://lo1.in/LOGO/US/USAMIXED/BAYWATCH.png",BAYWATCH 
 https://d22ljxpuae2sin.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/BayWatch-Canada-prod/playlist.m3u8?ads.device_did%3D%7BPSID%7D%26ads.device_dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
 #EXTINF:-1 group-title="24/7" tvg-logo="https://m.media-amazon.com/images/I/51AJa418SVL.jpg",Sanford and Son
-http://megaott.cx:900/live/1504419863/3B7B8B28/400453768.m3u8
+http://megaott.cx:900/live/t12mgxy282/556175751453161/400453768.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="https://m.media-amazon.com/images/I/51AJa418SVL.jpg",Sanford and Son
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/99897
 #EXTINF:-1 group-title="24/7" tvg-logo="https://m.media-amazon.com/images/I/51AJa418SVL.jpg",Sanford and Son
@@ -958,11 +964,11 @@ http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/108900
 #EXTINF:-1 group-title="24/7" tvg-logo="https://c8.alamy.com/comp/RN8C33/chuck-norris-walker-texas-ranger-1993-RN8C33.jpg",Walker Texas Ranger
 http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/108900.ts
 #EXTINF:-1,RADIO: Trace Gospel
-http://neomixs.com:8080/oguzonersl/030620Bs5a/283035
+http://megaott.cx:900/live/t12mgxy282/556175751453161/186825.m3u8
 #EXTINF:-1,MC Radio | Reggae
-http://neomixs.com:8080/oguzonersl/030620Bs5a/283141
+http://megaott.cx:900/live/t12mgxy282/556175751453161/7113.m3u8
 #EXTINF:-1,MC Radio | RnB Soul
-http://neomixs.com:8080/oguzonersl/030620Bs5a/283146
+http://megaott.cx:900/live/t12mgxy282/556175751453161/259003.m3u8
 #EXTINF:-1,Music Videos 4
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=15029&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 tvg-id="1587" tvg-chno="1587" tvg-name="Stingray Karaoke" group-title="Stingray Music",Stingray Karaoke
