@@ -1,5 +1,6 @@
 #EXTINF:-1,#EXTM3U
 #EXTM3U x-tvg-url="https://ky-iptv.com/xmltv.php?username=zahidkhan123&password=zahidkhan123&type=m3u_plus&output=m3u8"
+#EXTM3U x-tvg-url="http://megaott.cx:900/xmltv.php?username=1504419863&password=3B7B8B28&type=m3u_plus&output=m3u8"
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CAR: CNC3 TRINIDAD
 https://tvnow.best/api/stream/djkoma@gmx.com/309965/livetv.epg/cnc3.car.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CAR: CNC3 TRINIDAD
