@@ -41,7 +41,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:KTLA.smil/playlist.m3
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://3abn.org/img/3abn-ogg.png",CAR| 3ABN CARIBBEAN SD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:3ABN.smil/chunklist_b2160000.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/CBN.png",CAR|(FLOW) CBN HD
-http://megaott.cx:900/live/1504419863/3B7B8B28/400318049.m3u8
+http://megaott.cx:900/t12mgxy282/556175751453161/400318049
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://lo1.in/LOGO/US/USAGENERAL/Abc.png",US| ABC (KABC) LOS ANGELES HD
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/38699
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png",US| ABC 10 (WPLG) MIAMI
@@ -137,7 +137,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:BET.smil/playlist.m3u
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BetHer.us.png",BET HER
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:CENTRIC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://media.tv4.live/bet.gospel.us.png",BET Gospel
-http://megaott.cx:900/live/1504419863/3B7B8B28/376207.m3u8
+http://megaott.cx:900/live/t12mgxy282/556175751453161/376207.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pngkey.com/png/full/264-2641524_bet-gospel-1-gospel-logo.png",BET Gospel
 http://ky-iptv.com:80/jfink/jfink/177076.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pngkey.com/png/full/264-2641524_bet-gospel-1-gospel-logo.png",BET Gospel
