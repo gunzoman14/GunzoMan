@@ -160,6 +160,8 @@ https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
 http://stream.mediawork.cz:1935/retrotv/retrotvHQ1/chunklist_w1328169946.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.pngkit.com/png/full/104-1049976_media-retro-tv-logo.png",*Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i1.sndcdn.com/avatars-uqybZeqknWnyRv13-tdcZKw-t500x500.jpg" group-title="MUSIC",V2BEAT
+https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1, Web TV Music
 https://srv5.zcast.com.br/pedro3742/pedro3742/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="http://supportstreams.net:80/images/cd295eacbb876a133511393ec217edc9.png",Revolt
