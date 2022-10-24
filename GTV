@@ -763,6 +763,8 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=22896&extens
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=22896&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS NBA" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA los angeles lakers
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/102122
+#EXTINF:-1 group-title="SPORTS NBA" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA golden state warriors
+http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/102118
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA TV USA
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:NBA_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/ITALY/SKYSPORTNBA.png",NBA TV CA
