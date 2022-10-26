@@ -99,7 +99,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BBC_WORLD.smil/play
 #EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/bbcone.png",BBC 1
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98851
 #EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/bbcone.png",BBC 1
-http://king-tv.net:8080/Jp/Za2EzaGxxp/158343.ts
+http://n2086.securepoint.io:25461/Evelyn/Knight/53841
 #EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/bbcone.png",BBC 1
 http://king-tv.net:8080/Jp/Za2EzaGxxp/158343.ts
 #EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/bbctwo.png",BBC 2 
@@ -246,6 +246,8 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=11108&extens
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://media.tv4.live/sky.news.uk.png",Sky News
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98807
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://media.tv4.live/sky.news.uk.png",Sky News
+http://n2086.securepoint.io:25461/Evelyn/Knight/53974
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/CBC.ca.png",CBC Toronto
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:CBC.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/CBC_TV_8.png" group-title="CARIBBEAN TV",CBC TV 8
@@ -472,11 +474,19 @@ http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/96965
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://deadline.com/wp-content/uploads/2016/10/ion-tv-new-logo-2016.jpg",ION
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:ION.smil/playlist.m3u8
 #EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/itv.png",ITV East
+http://n2086.securepoint.io:25461/Evelyn/Knight/53909
+#EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/itv.png",ITV East
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=22815&extension=ts&play_token=TQ6cftyhX8
+#EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/itv2hd.png",ITV 2
+http://n2086.securepoint.io:25461/Evelyn/Knight/53911
 #EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/itv2hd.png",ITV 2
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=11113&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/itv3hd.png",ITV 3
+http://n2086.securepoint.io:25461/Evelyn/Knight/53912
+#EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/itv3hd.png",ITV 3
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=37395&extension=ts&play_token=TQ6cftyhX8
+#EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/itv4.png",ITV 4
+http://n2086.securepoint.io:25461/Evelyn/Knight/53913
 #EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/itv4.png",ITV 4
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=11111&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/LifetimeNetwork.us.png",Lifetime Network (East)
