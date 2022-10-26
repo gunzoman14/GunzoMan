@@ -126,8 +126,12 @@ http://king-tv.net:8080/Jp/Za2EzaGxxp/117271.ts
 http://ys-users.com:8080/christa/christa/417877
 #EXTINF:-1 group-title="MARKET NEWS" tvg-logo="https://media.tv4.live/bloomberg.tv.usa.us.png",Bloomberg US
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/30274
+#EXTINF:-1 group-title="MARKET NEWS" tvg-logo="https://media.tv4.live/bloomberg.tv.usa.us.png",Bloomberg US
+http://n2086.securepoint.io:25461/Evelyn/Knight/53458
 #EXTINF:-1 group-title="MARKET NEWS" tvg-logo="https://media.tv4.live/cnbc.world.us.png",CNBC WORLD
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/36846
+#EXTINF:-1 group-title="MARKET NEWS" tvg-logo="https://media.tv4.live/cnbc.world.us.png",CNBC WORLD
+http://n2086.securepoint.io:25461/Evelyn/Knight/56586
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://38.143.137.20/logo/prestige/Algeria/ALJAZEERA.png",AL JazeeraUK 
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:ALJAZEERA.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ru/RTUS.ru.png",RT US
