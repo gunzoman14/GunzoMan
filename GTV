@@ -804,6 +804,8 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:PRO_SPORTS.smil/pla
 #EXTINF:-1 group-title="SPORTS HORSE" tvg-logo="https://i.imgur.com/1M4zMdC.png",Sky Sports Racing
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98773
 #EXTINF:-1 group-title="SPORTS HORSE" tvg-logo="https://i.imgur.com/1M4zMdC.png",Sky Sports Racing
+http://n2086.securepoint.io:25461/Evelyn/Knight/53987
+#EXTINF:-1 group-title="SPORTS HORSE" tvg-logo="https://i.imgur.com/1M4zMdC.png",Sky Sports Racing
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39793&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS HORSE" tvg-logo="https://i.imgur.com/1M4zMdC.png",Sky Sports Racing
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/83446
@@ -833,6 +835,8 @@ https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/sec.network
 http://fortv.cc:8080/chris2/chris2/17608
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/AFRICA/Super%20Sport%2012%20FHD.png",SuperSport Motorsport
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/111010
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/AFRICA/Super%20Sport%2012%20FHD.png",SuperSport Motorsport
+http://n2086.securepoint.io:25461/Evelyn/Knight/56767
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg",Sky Sports F1
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98783
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg",Sky Sports F1
@@ -846,15 +850,21 @@ http://n2086.securepoint.io:25461/Evelyn/Knight/53977
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsactionuk.jpg",Sky Sports Action
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98789
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsactionuk.jpg",Sky Sports Action
+http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/431478
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsactionuk.jpg",Sky Sports Action
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=37071&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-news-uk.png",Sky Sports News
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98801
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-news-uk.png",Sky Sports News
+http://n2086.securepoint.io:25461/Evelyn/Knight/53984
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-news-uk.png",Sky Sports News
 https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/fdghodsfgh.ss.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-news-uk.png",Sky Sports News
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=18362&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS EPL" tvg-logo="https://picon-13398.kxcdn.com/skysportsfootballuk.jpg",Sky Sports Football
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98781
+#EXTINF:-1 group-title="SPORTS EPL" tvg-logo="https://picon-13398.kxcdn.com/skysportsfootballuk.jpg",Sky Sports Football
+http://n2086.securepoint.io:25461/Evelyn/Knight/53980
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsfootballuk.jpg",Sky Sports Football
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=11658&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/twMKgz9.png",Sky Sports Football
@@ -862,11 +872,15 @@ https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/lvupvmnk.ss
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-cricket-uk.png",Sky Sports Cricket
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98785
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-cricket-uk.png",Sky Sports Cricket
+http://n2086.securepoint.io:25461/Evelyn/Knight/53978
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-cricket-uk.png",Sky Sports Cricket
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=37072&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportscricketuk.jpg",Sky Sports Cricket
 http://caspertv.live//play/live.php?mac=00:1A:79:6F:A4:34&stream=22309&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS EPL" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98777
+#EXTINF:-1 group-title="SPORTS EPL" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event
+http://n2086.securepoint.io:25461/Evelyn/Knight/53982
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=37073&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmaineventuk.jpg",Sky Sports Main Event
@@ -874,13 +888,21 @@ https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/eppvjpkd.ss
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmixhd.jpg",Sky Sports Mix
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98857
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmixhd.jpg",Sky Sports Mix
+http://n2086.securepoint.io:25461/Evelyn/Knight/53983
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmixhd.jpg",Sky Sports Mix
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=8336&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS EPL" tvg-logo="http://p2086.securepoint.io:2086/images/c30c49c69a7e6afb31e9bf77de8572ed.png",Premier 1 UK
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98771
+#EXTINF:-1 group-title="SPORTS EPL" tvg-logo="http://p2086.securepoint.io:2086/images/c30c49c69a7e6afb31e9bf77de8572ed.png",Premier 1 UK
+http://n2086.securepoint.io:25461/Evelyn/Knight/53942
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/c30c49c69a7e6afb31e9bf77de8572ed.png",Premier 2 UK
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98770
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/c30c49c69a7e6afb31e9bf77de8572ed.png",Premier 2 UK
+http://n2086.securepoint.io:25461/Evelyn/Knight/53943
 #EXTINF:-1 group-title="SPORTS EPL" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",Sky Sports Premier League
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98775
+#EXTINF:-1 group-title="SPORTS EPL" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",Sky Sports Premier League
+http://n2086.securepoint.io:25461/Evelyn/Knight/53986
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",Sky Sports Premier League
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/79473
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",Sky Sports Premier League
@@ -889,6 +911,8 @@ https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/diiefbxx.ss
 http://caspertv.live//play/live.php?mac=00:1A:79:6F:A4:34&stream=22314&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-premier-league-za.jpg",SuperSport Premier League
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/110698
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-premier-league-za.jpg",SuperSport Premier League
+http://n2086.securepoint.io:25461/Evelyn/Knight/56768
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png",SuperSport Premier League
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39408&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png",SuperSport Premier League
@@ -897,12 +921,16 @@ https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/ss.premier.
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:USA.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://smartinvestor.co.ke/wp-content/uploads/2016/07/barca-tv.jpg",BARCA TV
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/31456
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://smartinvestor.co.ke/wp-content/uploads/2016/07/barca-tv.jpg",BARCA TV
+http://93.152.174.144:4000/play/barcatv/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/SPAIN/R.MADRIDTV.png",Real Madrid TV
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://media.tv4.live/lfc.uk.png",LFC TV UK
 https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/lfc.uk.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg",SuperSport La Liga
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/110699
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg",SuperSport La Liga
+http://n2086.securepoint.io:25461/Evelyn/Knight/56765
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg",SuperSport La Liga
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/239076
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg",SuperSport La Liga
@@ -927,6 +955,8 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=249069&exten
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/36787
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/TennisChannel.us.png",Tennis Channel US
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/109215
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/TennisChannel.us.png",Tennis Channel US
+http://n2086.securepoint.io:25461/Evelyn/Knight/54914
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/TennisChannel.us.png",Tennis Channel US
 http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/811667.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://media.tv4.live/tennis.plus.1.us.png",Tennis Plus 1
@@ -982,11 +1012,15 @@ https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/yes.network
 #EXTINF:-1 group-title="24/7" tvg-logo="https://lo1.in/LOGO/US/USAMIXED/BAYWATCH.png",BAYWATCH 
 https://d22ljxpuae2sin.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/BayWatch-Canada-prod/playlist.m3u8?ads.device_did%3D%7BPSID%7D%26ads.device_dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
 #EXTINF:-1 group-title="24/7" tvg-logo="https://m.media-amazon.com/images/I/51AJa418SVL.jpg",Sanford and Son
-http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/99897
+http://n2086.securepoint.io:25461/Evelyn/Knight/224473
 #EXTINF:-1 group-title="24/7" tvg-logo="https://m.media-amazon.com/images/I/51AJa418SVL.jpg",Sanford and Son
 http://ky-iptv.com:80/Mouse/Mouse/1862127.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="https://cdn.hmv.com/r/w-640/hmv/files/4b/4b9f64f3-5140-4d9e-a134-1eb54d7907cf.jpg",Tom And Jerry
 http://fortv.cc:8080/chris2/chris2/125635
+#EXTINF:-1 group-title="24/7" tvg-logo="https://cdn.hmv.com/r/w-640/hmv/files/4b/4b9f64f3-5140-4d9e-a134-1eb54d7907cf.jpg",Tom And Jerry
+http://fortv.cc:8080/chris2/chris2/125635
+#EXTINF:-1 group-title="24/7" tvg-logo="https://c8.alamy.com/comp/RN8C33/chuck-norris-walker-texas-ranger-1993-RN8C33.jpg",Walker Texas Ranger
+http://n2086.securepoint.io:25461/Evelyn/Knight/224821
 #EXTINF:-1 group-title="24/7" tvg-logo="https://c8.alamy.com/comp/RN8C33/chuck-norris-walker-texas-ranger-1993-RN8C33.jpg",Walker Texas Ranger
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/108900
 #EXTINF:-1 group-title="24/7" tvg-logo="https://c8.alamy.com/comp/RN8C33/chuck-norris-walker-texas-ranger-1993-RN8C33.jpg",Walker Texas Ranger
