@@ -519,6 +519,8 @@ http://bamus-eng-roku.amagi.tv/playlist.m3u8
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/xTdXfGJ.png",MagellanTV NOW
 https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://media.tv4.live/smithsonian.channel.usa.us.png",Smithsonian Channel
+http://89.187.175.143:80/4093/index.m3u8
 #EXTINF:-1 tvg-id="Xplore.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjU5MDAzNDRf/Xplore_307x307.png" group-title="US Channels",Xplore
 https://xplore-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ANIMALS" tvg-logo="",InWild
