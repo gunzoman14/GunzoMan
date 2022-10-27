@@ -36,6 +36,8 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:JAAGRITI.smil/playl
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:SANKHYA.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://lo1.in/LOGO/AFRICA/TBN.png",TBN Trinity Broadcasting Network East
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:TBN.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.wesncc.com/wp-content/uploads/2021/03/logofin.png",WESN
+http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:WESN.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://lo1.in/LOGO/US/USALOCAL/KTLALOSANGELES.png",KTLA LA
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:KTLA.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://3abn.org/img/3abn-ogg.png",3ABN Latino
