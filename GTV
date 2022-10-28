@@ -49,6 +49,8 @@ http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/38699
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png",ABC (WPLG) Miami FL
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:ABC.smil/chunklist_b1160000_slen.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://media.tv4.live/abc.wabc.new.york.ny.us.png",ABC (WABC) New York NY
+http://megaott.cx:900/t12mgxy282/556175751453161/183411
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://media.tv4.live/abc.wabc.new.york.ny.us.png",ABC (WABC) New York NY
 http://n2086.securepoint.io:25461/Evelyn/Knight/54062
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://media.tv4.live/abc.wabc.new.york.ny.us.png",ABC (WABC) New York NY
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/109812
@@ -72,6 +74,8 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:AMC.smil/playlist.m
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USAENTERTAINMENT/AWE.png",AWE TV Network
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/89531
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USAENTERTAINMENT/AWE.png",AWE TV Network
+http://megaott.cx:900/t12mgxy282/556175751453161/400406157
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USAENTERTAINMENT/AWE.png",AWE TV Network
 https://b08f85ef072648ebbe197a5e5e436549.mediatailor.us-west-2.amazonaws.com/v1/master/d138761b0916ee5f222129c594a33677627df5e3/KlowdTV_AWE_Plus/fast/AWE_Encore/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USAENTERTAINMENT/AWE.png",AWE TV Network
@@ -101,6 +105,8 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BBC_WORLD.smil/play
 #EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/bbcone.png",BBC 1
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98851
 #EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/bbcone.png",BBC 1
+http://megaott.cx:900/t12mgxy282/556175751453161/400216147
+#EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/bbcone.png",BBC 1
 http://n2086.securepoint.io:25461/Evelyn/Knight/53841
 #EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/bbcone.png",BBC 1
 http://king-tv.net:8080/Jp/Za2EzaGxxp/158343.ts
@@ -122,6 +128,8 @@ http://king-tv.net:8080/Jp/Za2EzaGxxp/158346.ts
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=11354&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USANEWS/BBCAMERICA.png",BBC America
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/1329
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USANEWS/BBCAMERICA.png",BBC America
+http://megaott.cx:900/t12mgxy282/556175751453161/13533
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USANEWS/BBCAMERICA.png",BBC America
 http://king-tv.net:8080/Jp/Za2EzaGxxp/117271.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USANEWS/BBCAMERICA.png",BBC America
@@ -147,17 +155,23 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:CENTRIC.smil/playlist
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://media.tv4.live/bet.gospel.us.png",BET Gospel
 http://ys-users.com:8080/christa/christa/435192
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pngkey.com/png/full/264-2641524_bet-gospel-1-gospel-logo.png",BET Gospel
+http://megaott.cx:900/t12mgxy282/556175751453161/376207
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pngkey.com/png/full/264-2641524_bet-gospel-1-gospel-logo.png",BET Gospel
 http://ky-iptv.com:80/Mouse/Mouse/177076.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pngkey.com/png/full/264-2641524_bet-gospel-1-gospel-logo.png",BET Gospel
 https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/bet.gospel.us.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://media.tv4.live/bet.jams.us.png",BET JAMS
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/109114
 #EXTINF:-1 group-title="Music" tvg-logo="https://media.tv4.live/bet.jams.us.png",BET JAMS
+http://megaott.cx:900/t12mgxy282/556175751453161/181061
+#EXTINF:-1 group-title="Music" tvg-logo="https://media.tv4.live/bet.jams.us.png",BET JAMS
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39309&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="Music" tvg-logo="https://media.tv4.live/bet.jams.us.png",BET JAMS
 http://king-tv.net:8080/Jp/Za2EzaGxxp/376224.ts
 #EXTINF:-1 group-title="Music" tvg-logo="https://media.tv4.live/bet.soul.us.png",BET SOUL
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/109115
+#EXTINF:-1 group-title="Music" tvg-logo="https://media.tv4.live/bet.soul.us.png",BET SOUL
+http://megaott.cx:900/t12mgxy282/556175751453161/181610
 #EXTINF:-1 group-title="Music" tvg-logo="https://media.tv4.live/bet.soul.us.png",BET SOUL
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39308&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="Music" tvg-logo="https://media.tv4.live/bet.soul.us.png",BET SOUL
@@ -192,14 +206,22 @@ http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/550759.m3u8
 https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/tvj.car.m3u8
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://logodix.com/logo/853647.jpg",TVJ
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/110207
+#EXTINF:-1 group-title="JAMAICA" tvg-logo="https://logodix.com/logo/853647.jpg",TVJ Sports
+http://megaott.cx:900/t12mgxy282/556175751453161/195897
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://mark.trademarkia.com/logo-images/cvm-television-limited/cvm-tv-77204584.jpg",CVM
 https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/cvm.car.m3u8
+#EXTINF:-1 group-title="JAMAICA" tvg-logo="https://mark.trademarkia.com/logo-images/cvm-television-limited/cvm-tv-77204584.jpg",CVM
+http://megaott.cx:900/t12mgxy282/556175751453161/195833
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://mark.trademarkia.com/logo-images/cvm-television-limited/cvm-tv-77204584.jpg",CVM
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/110134
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://www.caribbeanhottv.com/wp-content/uploads/2018/07/logo116x90-2.png",HOT 7 TV
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/110151
+#EXTINF:-1 group-title="JAMAICA" tvg-logo="https://www.caribbeanhottv.com/wp-content/uploads/2018/07/logo116x90-2.png",HOT 7 TV
+http://megaott.cx:900/t12mgxy282/556175751453161/13154
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://photos.live-tv-channels.org/tv-logo/jm-hype-tv-8552-300x225.jpg",HYPETV
 https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/hype.car.m3u8
+#EXTINF:-1 group-title="JAMAICA" tvg-logo="https://photos.live-tv-channels.org/tv-logo/jm-hype-tv-8552-300x225.jpg",HYPETV
+http://megaott.cx:900/t12mgxy282/556175751453161/195845
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://photos.live-tv-channels.org/tv-logo/jm-hype-tv-8552-300x225.jpg",HYPETV
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/110152
 #EXTINF:-1 group-title="JAMAICA" tvg-logo="https://photos.live-tv-channels.org/tv-logo/jm-real-jamaican-television-3509-300x225.jpg",RETV
@@ -208,6 +230,8 @@ http://fortv.cc:8080/chris2/chris2/21094
 https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/gospel.broadcasting.network.us.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://seeklogo.com/images/A/all-music-logo-C3D748FA36-seeklogo.com.png",ALL MUSIC
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/109359
+#EXTINF:-1 group-title="Music" tvg-logo="https://seeklogo.com/images/A/all-music-logo-C3D748FA36-seeklogo.com.png",ALL MUSIC
+http://megaott.cx:900/live/t12mgxy282/556175751453161/181085.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://pbs.twimg.com/profile_images/344513261566495012/19d7c82aab902628610c757d79fbd690.jpeg",TEMPO
 http://ys-users.com:8080/christa/christa/435383
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/55vA85a.png",BOAT SHOW
@@ -253,6 +277,8 @@ https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://media.tv4.live/sky.news.uk.png",Sky News
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98807
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://media.tv4.live/sky.news.uk.png",Sky News
+http://megaott.cx:900/t12mgxy282/556175751453161/191677
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://media.tv4.live/sky.news.uk.png",Sky News
 http://n2086.securepoint.io:25461/Evelyn/Knight/53974
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/CBC.ca.png",CBC Toronto
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:CBC.smil/playlist.m3u8
@@ -266,6 +292,8 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:CITY_TV.smil/playli
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:CNBC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://media.tv4.live/cleo.tv.us.png",CLEO TV
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98753
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://media.tv4.live/cleo.tv.us.png",CLEO TV
+http://megaott.cx:900/t12mgxy282/556175751453161/400318034
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Comet.us.png",Comet TV
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:COMET_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://sc.dish.com/shared/images/station-logos/APCLR.png",Colors
