@@ -417,8 +417,8 @@ https://gustotv-samsung-gb.samsung.wurl.com/manifest/089025e8e07edc059504b28ffd8
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:COOKING.smil/playlist.m3u8
 #EXTINF:-1 group-title="COOKING CHANNEL" tvg-logo="https://static.epg.best/us/FoodNetwork.us.png",FOOD NETWORK
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:FOOD_NETWORK.smil/chunklist_b2160000_slen.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png",FOX (WNYW) New York NY
-http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/109548
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png",FOX 
+http://89.187.175.143:80/3101/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/FOXWXIX.us.png",FOX (WSVN) Miami FL
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOX.smil/chunklist_b1160000.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/FoxNews.us.png",FOX News US
@@ -610,6 +610,8 @@ http://ys-users.com:8080/christa/christa/424640
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/PopTV.us.png",POP (East)
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/109201
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/PopTV.us.png",POP (East)
+http://89.187.175.143:80/3097/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/PopTV.us.png",POP (East)
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=158514&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="RELIGION MOVIES" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/positiv.png",POSI TV
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:POSITIV.smil/playlist.m3u8
@@ -617,6 +619,8 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:POSITIV.smil/playli
 http://ottorigin08.dc1.airlinktt.co:1935/live/smil:REEL.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/reelz-us.png",ReelzChannel
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/95923
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/reelz-us.png",ReelzChannel
+http://89.187.175.143:80/3099/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/reelz-us.png",ReelzChannel
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Reelz.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Showtime.us.png",Showtime (East) US
@@ -826,11 +830,7 @@ http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/418144
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBCSNWashington.us.png",NBC Sports Network
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=22896&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS NBA" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA los angeles lakers
-http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/102122
-#EXTINF:-1 group-title="SPORTS NBA" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA los angeles lakers
-http://n2086.securepoint.io:25461/Evelyn/Knight/55085
-#EXTINF:-1 group-title="SPORTS NBA" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA los angeles lakers
-http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/433756
+http://89.187.175.143:80/3116/index.m3u8
 #EXTINF:-1 group-title="SPORTS NBA" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA golden state warriors
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/102118
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA TV USA
