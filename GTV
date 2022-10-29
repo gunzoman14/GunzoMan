@@ -448,7 +448,7 @@ http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/45449.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/FXX.png",FXX (East)
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=17308&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USAGENERAL/FXM.png",FX Movie Channel
-http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/29312
+http://89.187.175.143:80/3076/index.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USAGENERAL/FXM.png",FX Movie Channel
 http://ky-iptv.com:80/Mouse/Mouse/176036.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/FYI.us.png",FYI (East)
@@ -459,8 +459,6 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:GRIT.smil/playlist.
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/550721
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://i.imgur.com/ujmPyit.jpg",CineVault Westerns
 https://gsn-cinevault-westerns-1-us.vizio.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="WESTERN" tvg-logo="https://media.tv4.live/screenpix.westerns.us.png",ScreenPix Westerns
-http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/114259
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://media.tv4.live/screenpix.westerns.us.png",ScreenPix Westerns
 http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/418095
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://i.imgur.com/ZRZw2vZ.png" group-title="STIRR",STIRR Westerns
@@ -750,7 +748,7 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=23657&extens
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsportespn.jpg",BT Sport ESPN UK
 http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/428246
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/cbbssportsnetworkus.jpg",CBS Sports Network USA
-http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/1281
+http://89.187.175.143:80/4073/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/cbbssportsnetworkus.jpg",CBS Sports Network USA
 http://ys-users.com:8080/christa/christa/367048
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/cbbssportsnetworkus.jpg",CBS Sports HQ USA
@@ -840,7 +838,7 @@ https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/nba.tv.cana
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CANADA/CANADASPORTSEVENTS/NBATV.png",NBA TV CA
 http://king-tv.net:8080/Jp/Za2EzaGxxp/212280.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png",NFL Network US
-http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/418331
+http://89.187.175.143:80/4001/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/US/USASPORT/NHLNETWORK.png",NHL Network US
 http://89.187.175.143:80/3053/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/US/USASPORT/NHLNETWORK.png",NHL Network US
@@ -1080,7 +1078,7 @@ http://fortv.cc:8080/chris2/chris2/125635
 #EXTINF:-1 group-title="24/7" tvg-logo="https://cdn.hmv.com/r/w-640/hmv/files/4b/4b9f64f3-5140-4d9e-a134-1eb54d7907cf.jpg",Tom And Jerry
 http://fortv.cc:8080/chris2/chris2/125635
 #EXTINF:-1 group-title="24/7" tvg-logo="https://c8.alamy.com/comp/RN8C33/chuck-norris-walker-texas-ranger-1993-RN8C33.jpg",Walker Texas Ranger
-http://n2086.securepoint.io:25461/Evelyn/Knight/224821
+http://89.187.175.143:80/4129/index.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="https://c8.alamy.com/comp/RN8C33/chuck-norris-walker-texas-ranger-1993-RN8C33.jpg",Walker Texas Ranger
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/108900
 #EXTINF:-1 group-title="24/7" tvg-logo="https://c8.alamy.com/comp/RN8C33/chuck-norris-walker-texas-ranger-1993-RN8C33.jpg",Walker Texas Ranger
