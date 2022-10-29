@@ -137,7 +137,7 @@ http://ys-users.com:8080/christa/christa/417877
 #EXTINF:-1 group-title="MARKET NEWS" tvg-logo="https://media.tv4.live/bloomberg.tv.usa.us.png",Bloomberg US
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/30274
 #EXTINF:-1 group-title="MARKET NEWS" tvg-logo="https://media.tv4.live/bloomberg.tv.usa.us.png",Bloomberg US
-http://n2086.securepoint.io:25461/Evelyn/Knight/53458
+http://89.187.175.143:80/3086/index.m3u8
 #EXTINF:-1 group-title="MARKET NEWS" tvg-logo="https://media.tv4.live/cnbc.world.us.png",CNBC WORLD
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/36846
 #EXTINF:-1 group-title="MARKET NEWS" tvg-logo="https://media.tv4.live/cnbc.world.us.png",CNBC WORLD
@@ -426,7 +426,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOX_NEWS.smil/playlis
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/IpB/IpB_large.png",FOX Business Network
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/27167
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/IpB/IpB_large.png",FOX Business Network
-http://n2086.securepoint.io:25461/Evelyn/Knight/53392
+http://89.187.175.143:80/3089/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/IpB/IpB_large.png",FOX Business Network
 http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/45575.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/IpB/IpB_large.png",FOX Business Network
@@ -762,6 +762,8 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ESPN2_CARIBBEAN.smi
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPNU.us.png",ESPN U US
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/1274
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPNU.us.png",ESPN U US
+http://89.187.175.143:80/3044/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPNU.us.png",ESPN U US
 http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/90958.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPNU.us.png",ESPN U US
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=42907&extension=ts&play_token=TQ6cftyhX8
@@ -840,6 +842,8 @@ http://king-tv.net:8080/Jp/Za2EzaGxxp/212280.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png",NFL Network US
 http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/418331
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/US/USASPORT/NHLNETWORK.png",NHL Network US
+http://89.187.175.143:80/3053/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/US/USASPORT/NHLNETWORK.png",NHL Network US
 http://fortv.cc:8080/chris2/chris2/20179
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/US/USASPORT/OlympicChannel.png",Olympic Channel
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/114608
@@ -879,6 +883,8 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SPORTSMAX.smil/play
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SPORTSMAX_2.smil/playlist.m3u
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/SEC_Network_Logo.png",SEC Network US
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/1419
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/SEC_Network_Logo.png",SEC Network US
+http://89.187.175.143:80/3054/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/SEC_Network_Logo.png",SEC Network US
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=15178&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/SEC_Network_Logo.png",SEC Network US
@@ -1039,6 +1045,8 @@ http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/866271.m3u8
 http://king-tv.net:8080/Jp/Za2EzaGxxp/377905.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",WWE Network
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/36372
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",WWE Network
+http://89.187.175.143:80/3075/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",WWE Network
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/45462
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",WWE Network
