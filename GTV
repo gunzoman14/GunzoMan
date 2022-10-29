@@ -152,18 +152,16 @@ https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:BET.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BetHer.us.png",Bet Her US
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:CENTRIC.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pngkey.com/png/full/264-2641524_bet-gospel-1-gospel-logo.png",BET Gospel
+http://89.187.175.143:80/4166/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://media.tv4.live/bet.gospel.us.png",BET Gospel
 http://ys-users.com:8080/christa/christa/435192
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pngkey.com/png/full/264-2641524_bet-gospel-1-gospel-logo.png",BET Gospel
-http://megaott.cx:900/t12mgxy282/556175751453161/376207
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pngkey.com/png/full/264-2641524_bet-gospel-1-gospel-logo.png",BET Gospel
 http://ky-iptv.com:80/Mouse/Mouse/177076.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pngkey.com/png/full/264-2641524_bet-gospel-1-gospel-logo.png",BET Gospel
 https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/bet.gospel.us.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://media.tv4.live/bet.jams.us.png",BET JAMS
-http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/109114
-#EXTINF:-1 group-title="Music" tvg-logo="https://media.tv4.live/bet.jams.us.png",BET JAMS
-http://megaott.cx:900/t12mgxy282/556175751453161/181061
+http://89.187.175.143:80/4165/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://media.tv4.live/bet.jams.us.png",BET JAMS
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39309&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="Music" tvg-logo="https://media.tv4.live/bet.jams.us.png",BET JAMS
@@ -259,7 +257,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:B4U_MOVIES.smil/pla
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cloudimages.broadwayworld.com/columnpic10/680E249A3D1-E3CA-237F-4D3CC456586AFA37.jpg",byu
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:BYU.smil/chunklist_b1160000.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/CARSTV.png" group-title="AM | CARIBBEAN",CAR| CARS TV FHD
-http://ys-users.com:8080/christa/christa/404870
+http://89.187.175.143:80/4168/index.m3u8
 #EXTINF:-1 group-title="ANIMALS" tvg-logo="http://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png",Cats 24/7
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/599375885ceaac3cabccbed7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/CartoonNetwork.us.png",CARTOON NETWORK
@@ -394,9 +392,7 @@ http://n2086.securepoint.io:25461/Evelyn/Knight/56279
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/EPIX.png",EPIX (East)
 http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/45582.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/EPIX2.png",Epix 2
-http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98755
-#EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/EPIX2.png",Epix 2
-http://n2086.securepoint.io:25461/Evelyn/Knight/56280
+http://89.187.175.143:80/4173/index.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/EPIX2.png",Epix 2
 http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/90955.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/EPIXHITS.png",EPIX Hits
