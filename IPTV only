@@ -137,7 +137,7 @@ http://ys-users.com:8080/christa/christa/417877
 #EXTINF:-1 group-title="MARKET NEWS" tvg-logo="https://media.tv4.live/bloomberg.tv.usa.us.png",Bloomberg US
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/30274
 #EXTINF:-1 group-title="MARKET NEWS" tvg-logo="https://media.tv4.live/bloomberg.tv.usa.us.png",Bloomberg US
-http://n2086.securepoint.io:25461/Evelyn/Knight/53458
+http://89.187.175.143:80/3086/index.m3u8
 #EXTINF:-1 group-title="MARKET NEWS" tvg-logo="https://media.tv4.live/cnbc.world.us.png",CNBC WORLD
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/36846
 #EXTINF:-1 group-title="MARKET NEWS" tvg-logo="https://media.tv4.live/cnbc.world.us.png",CNBC WORLD
@@ -152,18 +152,16 @@ https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:BET.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BetHer.us.png",Bet Her US
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:CENTRIC.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pngkey.com/png/full/264-2641524_bet-gospel-1-gospel-logo.png",BET Gospel
+http://89.187.175.143:80/4166/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://media.tv4.live/bet.gospel.us.png",BET Gospel
 http://ys-users.com:8080/christa/christa/435192
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pngkey.com/png/full/264-2641524_bet-gospel-1-gospel-logo.png",BET Gospel
-http://megaott.cx:900/t12mgxy282/556175751453161/376207
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pngkey.com/png/full/264-2641524_bet-gospel-1-gospel-logo.png",BET Gospel
 http://ky-iptv.com:80/Mouse/Mouse/177076.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pngkey.com/png/full/264-2641524_bet-gospel-1-gospel-logo.png",BET Gospel
 https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/bet.gospel.us.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://media.tv4.live/bet.jams.us.png",BET JAMS
-http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/109114
-#EXTINF:-1 group-title="Music" tvg-logo="https://media.tv4.live/bet.jams.us.png",BET JAMS
-http://megaott.cx:900/t12mgxy282/556175751453161/181061
+http://89.187.175.143:80/4165/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://media.tv4.live/bet.jams.us.png",BET JAMS
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39309&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="Music" tvg-logo="https://media.tv4.live/bet.jams.us.png",BET JAMS
@@ -241,7 +239,7 @@ https://younghollywood-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/414vUJZ9MfL.png",LEGO Channels 
 https://legochannel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/Boomerang.us.png",Boomerang
-http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/1683
+http://89.187.175.143:80/3110/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/Boomerang.us.png",Boomerang
 http://ys-users.com:8080/christa/christa/418379
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/Boomerang.us.png",Boomerang
@@ -259,7 +257,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:B4U_MOVIES.smil/pla
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cloudimages.broadwayworld.com/columnpic10/680E249A3D1-E3CA-237F-4D3CC456586AFA37.jpg",byu
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:BYU.smil/chunklist_b1160000.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/CARSTV.png" group-title="AM | CARIBBEAN",CAR| CARS TV FHD
-http://ys-users.com:8080/christa/christa/404870
+http://89.187.175.143:80/4168/index.m3u8
 #EXTINF:-1 group-title="ANIMALS" tvg-logo="http://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png",Cats 24/7
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/599375885ceaac3cabccbed7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/CartoonNetwork.us.png",CARTOON NETWORK
@@ -388,15 +386,11 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:ESCAPE.smil/playlis
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61FiKePugAL.png",ElectricNOW
 https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/EPIX.png",EPIX (East)
-http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/1360
-#EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/EPIX.png",EPIX (East)
-http://n2086.securepoint.io:25461/Evelyn/Knight/56279
+http://89.187.175.143:80/3020/index.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/EPIX.png",EPIX (East)
 http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/45582.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/EPIX2.png",Epix 2
-http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98755
-#EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/EPIX2.png",Epix 2
-http://n2086.securepoint.io:25461/Evelyn/Knight/56280
+http://89.187.175.143:80/4173/index.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/EPIX2.png",Epix 2
 http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/90955.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/EPIXHITS.png",EPIX Hits
@@ -417,8 +411,8 @@ https://gustotv-samsung-gb.samsung.wurl.com/manifest/089025e8e07edc059504b28ffd8
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:COOKING.smil/playlist.m3u8
 #EXTINF:-1 group-title="COOKING CHANNEL" tvg-logo="https://static.epg.best/us/FoodNetwork.us.png",FOOD NETWORK
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:FOOD_NETWORK.smil/chunklist_b2160000_slen.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png",FOX (WNYW) New York NY
-http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/109548
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://38.143.137.20/logo/prestige/United-States/fox_sports_lam_hd.png",FOX 
+http://89.187.175.143:80/3101/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/FOXWXIX.us.png",FOX (WSVN) Miami FL
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOX.smil/chunklist_b1160000.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/FoxNews.us.png",FOX News US
@@ -426,7 +420,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOX_NEWS.smil/playlis
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/IpB/IpB_large.png",FOX Business Network
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/27167
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/IpB/IpB_large.png",FOX Business Network
-http://n2086.securepoint.io:25461/Evelyn/Knight/53392
+http://89.187.175.143:80/3089/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/IpB/IpB_large.png",FOX Business Network
 http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/45575.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/IpB/IpB_large.png",FOX Business Network
@@ -448,7 +442,7 @@ http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/45449.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/FXX.png",FXX (East)
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=17308&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USAGENERAL/FXM.png",FX Movie Channel
-http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/29312
+http://89.187.175.143:80/3076/index.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/US/USAGENERAL/FXM.png",FX Movie Channel
 http://ky-iptv.com:80/Mouse/Mouse/176036.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/FYI.us.png",FYI (East)
@@ -459,8 +453,6 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:GRIT.smil/playlist.
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/550721
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://i.imgur.com/ujmPyit.jpg",CineVault Westerns
 https://gsn-cinevault-westerns-1-us.vizio.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="WESTERN" tvg-logo="https://media.tv4.live/screenpix.westerns.us.png",ScreenPix Westerns
-http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/114259
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://media.tv4.live/screenpix.westerns.us.png",ScreenPix Westerns
 http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/418095
 #EXTINF:-1 group-title="WESTERN" tvg-logo="https://i.imgur.com/ZRZw2vZ.png" group-title="STIRR",STIRR Westerns
@@ -610,6 +602,8 @@ http://ys-users.com:8080/christa/christa/424640
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/PopTV.us.png",POP (East)
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/109201
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/PopTV.us.png",POP (East)
+http://89.187.175.143:80/3097/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/PopTV.us.png",POP (East)
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=158514&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="RELIGION MOVIES" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/positiv.png",POSI TV
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:POSITIV.smil/playlist.m3u8
@@ -617,6 +611,8 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:POSITIV.smil/playli
 http://ottorigin08.dc1.airlinktt.co:1935/live/smil:REEL.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/reelz-us.png",ReelzChannel
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/95923
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/reelz-us.png",ReelzChannel
+http://89.187.175.143:80/3099/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/reelz-us.png",ReelzChannel
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Reelz.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Showtime.us.png",Showtime (East) US
@@ -644,7 +640,7 @@ http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/1435
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/mx/Space.mx.png",SPACE HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SPACE.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://media.tv4.live/starz.eastern.us.png",Starz (East) US
-http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/1435
+http://89.187.175.143:80/3035/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://media.tv4.live/starz.eastern.us.png",Starz (East) US
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/45480
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://media.tv4.live/starz.eastern.us.png",Starz (East) US
@@ -654,7 +650,7 @@ http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/89055
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzKidsFamily.us.png",Starz Encore Family (East) US
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:COSMO.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzComedy.us.png",Starz Comedy (East) US
-http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/95919
+http://89.187.175.143:80/3041/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzComedy.us.png",Starz Comedy (East) US
 http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/45494.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzComedy.us.png",Starz Comedy (East) US
@@ -742,11 +738,11 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=9847&extensi
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsportespn.jpg",BT Sport ESPN UK
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/89211
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsportespn.jpg",BT Sport ESPN UK
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=23657&extension=ts&play_token=TQ6cftyhX8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsportespn.jpg",BT Sport ESPN UK
 http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/428246
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/btsportespn.jpg",BT Sport ESPN UK
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=23657&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/cbbssportsnetworkus.jpg",CBS Sports Network USA
-http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/1281
+http://89.187.175.143:80/4073/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/cbbssportsnetworkus.jpg",CBS Sports Network USA
 http://ys-users.com:8080/christa/christa/367048
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/cbbssportsnetworkus.jpg",CBS Sports HQ USA
@@ -762,15 +758,21 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ESPN2_CARIBBEAN.smi
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPNU.us.png",ESPN U US
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/1274
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPNU.us.png",ESPN U US
+http://89.187.175.143:80/3044/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPNU.us.png",ESPN U US
 http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/90958.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPNU.us.png",ESPN U US
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=42907&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg",Eurosport 1 UK
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/31459
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg",Eurosport 1 UK
+http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/360767
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg",Eurosport 1 UK
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=141598&extension=ts&play_token=yofOklZ6OX
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg",Eurosport 2 UK
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/31460
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg",Eurosport 2 UK
+http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/360768
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg",Eurosport 2 UK
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=117729&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS.png",FLOW SPORTS 
@@ -784,25 +786,27 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOXSPORTS2.smil/playl
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/US/USAFOXSPORT/FOXSOCCERPLUS.png",FOX Soccer Plus
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/33472
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/US/USAFOXSPORT/FOXSOCCERPLUS.png",FOX Soccer Plus
+http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/418210
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/US/USAFOXSPORT/FOXSOCCERPLUS.png",FOX Soccer Plus
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=9661&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="http://38.143.137.20/logo/prestige/United-States/golf_channel_us.png",US| NBC GOLF CHANNEL HD
-http://n2086.securepoint.io:25461/Evelyn/Knight/53726
+http://89.187.175.143:80/3013/index.m3u8
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="http://38.143.137.20/logo/prestige/United-States/golf_channel_us.png",US| NBC GOLF CHANNEL HD
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/1479
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="https://picon-13398.kxcdn.com/supersport-golf-za.jpg",SuperSport Golf
-http://n2086.securepoint.io:25461/Evelyn/Knight/56763
+http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/425457
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="https://picon-13398.kxcdn.com/supersport-golf-za.jpg",SuperSport Golf
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/111012
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="https://picon-13398.kxcdn.com/supersport-golf-za.jpg",SuperSport Golf
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/425667
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="https://picon-13398.kxcdn.com/skysportsgolfuk.jpg",Sky Sports Golf
-http://n2086.securepoint.io:25461/Evelyn/Knight/53981
+http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/428295
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="https://picon-13398.kxcdn.com/skysportsgolfuk.jpg",Sky Sports Golf
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98779
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="https://picon-13398.kxcdn.com/tsn1ca.jpg",TSN 1 CA
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=10921&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="http://38.143.137.20/logo/prestige/United-States/golf_channel_us.png",Golf Channel US
-http://n2086.securepoint.io:25461/Evelyn/Knight/55065
+http://ky-iptv.com:80/Mouse/Mouse/1383047.m3u8
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="http://38.143.137.20/logo/prestige/United-States/golf_channel_us.png",Golf Channel US
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115702&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS GOLF" tvg-logo="https://picon-13398.kxcdn.com/golfchannel.jpg",Golf Channel US
@@ -816,7 +820,7 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=15009&extens
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/US/USASPORT/Msg.png",MSG US
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=15177&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBCSNWashington.us.png",NBC Sports Network
-http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/1731
+http://ky-iptv.com:80/Mouse/Mouse/514056.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBCSNWashington.us.png",NBC Sports Network
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/234677
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBCSNWashington.us.png",NBC Sports Network
@@ -824,11 +828,7 @@ http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/418144
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBCSNWashington.us.png",NBC Sports Network
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=22896&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS NBA" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA los angeles lakers
-http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/102122
-#EXTINF:-1 group-title="SPORTS NBA" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA los angeles lakers
-http://n2086.securepoint.io:25461/Evelyn/Knight/55085
-#EXTINF:-1 group-title="SPORTS NBA" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA los angeles lakers
-http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/433756
+http://89.187.175.143:80/3116/index.m3u8
 #EXTINF:-1 group-title="SPORTS NBA" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA golden state warriors
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/102118
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA TV USA
@@ -838,7 +838,9 @@ https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/nba.tv.cana
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CANADA/CANADASPORTSEVENTS/NBATV.png",NBA TV CA
 http://king-tv.net:8080/Jp/Za2EzaGxxp/212280.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png",NFL Network US
-http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/418331
+http://89.187.175.143:80/4001/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/US/USASPORT/NHLNETWORK.png",NHL Network US
+http://89.187.175.143:80/3053/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/US/USASPORT/NHLNETWORK.png",NHL Network US
 http://fortv.cc:8080/chris2/chris2/20179
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/US/USASPORT/OlympicChannel.png",Olympic Channel
@@ -856,7 +858,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:PRO_SPORTS.smil/pla
 #EXTINF:-1 group-title="SPORTS HORSE" tvg-logo="https://i.imgur.com/1M4zMdC.png",Sky Sports Racing
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98773
 #EXTINF:-1 group-title="SPORTS HORSE" tvg-logo="https://i.imgur.com/1M4zMdC.png",Sky Sports Racing
-http://n2086.securepoint.io:25461/Evelyn/Knight/53987
+http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/428306
 #EXTINF:-1 group-title="SPORTS HORSE" tvg-logo="https://i.imgur.com/1M4zMdC.png",Sky Sports Racing
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39793&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS HORSE" tvg-logo="https://i.imgur.com/1M4zMdC.png",Sky Sports Racing
@@ -872,13 +874,11 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://uspto.report/TM/90108722/mark.png",SKILLS+THRILLS
 https://ab821aa1fe744f529fcd833dd8e5ed41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SkillsAndThrills/playlist.m3u8?ads.wurl_channel=590&ads.wurl_name=SkillsAndThrills&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=5f74cf7effbe690040689f3e&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/SPORTSMAX.png",Sports Max 
-http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/110178
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/SPORTSMAX.png",Sports Max 
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SPORTSMAX.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/SPORTSMAX2.png",Sports Max 2 
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SPORTSMAX_2.smil/playlist.m3u
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/SEC_Network_Logo.png",SEC Network US
-http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/1419
+http://89.187.175.143:80/3054/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/SEC_Network_Logo.png",SEC Network US
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=15178&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/SEC_Network_Logo.png",SEC Network US
@@ -888,7 +888,7 @@ http://fortv.cc:8080/chris2/chris2/17608
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/AFRICA/Super%20Sport%2012%20FHD.png",SuperSport Motorsport
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/111010
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/AFRICA/Super%20Sport%2012%20FHD.png",SuperSport Motorsport
-http://n2086.securepoint.io:25461/Evelyn/Knight/56767
+http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/425461
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg",Sky Sports F1
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98783
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg",Sky Sports F1
@@ -898,7 +898,7 @@ http://fortv.cc:8080/chris2/chris2/35244
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/dcf43f17c2443f54cc7e2a3931d58b1f.png",SKY SPORTS ARENA
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98787
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/dcf43f17c2443f54cc7e2a3931d58b1f.png",SKY SPORTS ARENA
-http://n2086.securepoint.io:25461/Evelyn/Knight/53977
+http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/431479
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsactionuk.jpg",Sky Sports Action
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98789
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsactionuk.jpg",Sky Sports Action
@@ -908,7 +908,7 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=37071&extens
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-news-uk.png",Sky Sports News
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98801
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-news-uk.png",Sky Sports News
-http://n2086.securepoint.io:25461/Evelyn/Knight/53984
+http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/431480
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-news-uk.png",Sky Sports News
 https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/fdghodsfgh.ss.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-news-uk.png",Sky Sports News
@@ -916,7 +916,7 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=18362&extens
 #EXTINF:-1 group-title="SPORTS EPL" tvg-logo="https://picon-13398.kxcdn.com/skysportsfootballuk.jpg",Sky Sports Football
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98781
 #EXTINF:-1 group-title="SPORTS EPL" tvg-logo="https://picon-13398.kxcdn.com/skysportsfootballuk.jpg",Sky Sports Football
-http://n2086.securepoint.io:25461/Evelyn/Knight/53980
+http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/428292
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsfootballuk.jpg",Sky Sports Football
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=11658&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/twMKgz9.png",Sky Sports Football
@@ -924,7 +924,7 @@ https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/lvupvmnk.ss
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-cricket-uk.png",Sky Sports Cricket
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98785
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-cricket-uk.png",Sky Sports Cricket
-http://n2086.securepoint.io:25461/Evelyn/Knight/53978
+http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/377942
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-cricket-uk.png",Sky Sports Cricket
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=37072&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportscricketuk.jpg",Sky Sports Cricket
@@ -932,7 +932,7 @@ http://caspertv.live//play/live.php?mac=00:1A:79:6F:A4:34&stream=22309&extension
 #EXTINF:-1 group-title="SPORTS EPL" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98777
 #EXTINF:-1 group-title="SPORTS EPL" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event
-http://n2086.securepoint.io:25461/Evelyn/Knight/53982
+http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/428298
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=37073&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmaineventuk.jpg",Sky Sports Main Event
@@ -940,21 +940,21 @@ https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/eppvjpkd.ss
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmixhd.jpg",Sky Sports Mix
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98857
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmixhd.jpg",Sky Sports Mix
-http://n2086.securepoint.io:25461/Evelyn/Knight/53983
+http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/428300
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmixhd.jpg",Sky Sports Mix
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=8336&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS EPL" tvg-logo="http://p2086.securepoint.io:2086/images/c30c49c69a7e6afb31e9bf77de8572ed.png",Premier 1 UK
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98771
 #EXTINF:-1 group-title="SPORTS EPL" tvg-logo="http://p2086.securepoint.io:2086/images/c30c49c69a7e6afb31e9bf77de8572ed.png",Premier 1 UK
-http://n2086.securepoint.io:25461/Evelyn/Knight/53942
+http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/434253
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/c30c49c69a7e6afb31e9bf77de8572ed.png",Premier 2 UK
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98770
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/c30c49c69a7e6afb31e9bf77de8572ed.png",Premier 2 UK
-http://n2086.securepoint.io:25461/Evelyn/Knight/53943
+http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/428317
 #EXTINF:-1 group-title="SPORTS EPL" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",Sky Sports Premier League
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98775
 #EXTINF:-1 group-title="SPORTS EPL" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",Sky Sports Premier League
-http://n2086.securepoint.io:25461/Evelyn/Knight/53986
+http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/405957
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",Sky Sports Premier League
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/79473
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",Sky Sports Premier League
@@ -964,7 +964,7 @@ http://caspertv.live//play/live.php?mac=00:1A:79:6F:A4:34&stream=22314&extension
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-premier-league-za.jpg",SuperSport Premier League
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/110698
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-premier-league-za.jpg",SuperSport Premier League
-http://n2086.securepoint.io:25461/Evelyn/Knight/56768
+http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/434144
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png",SuperSport Premier League
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39408&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png",SuperSport Premier League
@@ -982,7 +982,7 @@ https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/lfc.uk.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg",SuperSport La Liga
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/110699
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg",SuperSport La Liga
-http://n2086.securepoint.io:25461/Evelyn/Knight/56765
+http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/434250
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg",SuperSport La Liga
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/239076
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg",SuperSport La Liga
@@ -1008,7 +1008,7 @@ http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/36787
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/TennisChannel.us.png",Tennis Channel US
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/109215
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/TennisChannel.us.png",Tennis Channel US
-http://n2086.securepoint.io:25461/Evelyn/Knight/54914
+http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/418374
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/TennisChannel.us.png",Tennis Channel US
 http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/811667.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://media.tv4.live/tennis.plus.1.us.png",Tennis Plus 1
@@ -1016,7 +1016,7 @@ http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/109215
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/TennisChannel.us.png",Tennis Channel UK
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/TennisChannel.us.png",SuperSport Tennis
-http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/111011
+http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/425466
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/TennisChannel.us.png",Tennis Channel US
 http://ky-iptv.com:80/Mouse/Mouse/220448.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://images-platform.99static.com//Amj86fsRA0Px-9ijuvh3CPyidbs=/1009x174:4771x3936/fit-in/500x500/projects-files/64/6434/643466/eade489c-1423-4db4-910f-710fedb530cc.jpg",Motorvision
@@ -1039,6 +1039,8 @@ http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/866271.m3u8
 http://king-tv.net:8080/Jp/Za2EzaGxxp/377905.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",WWE Network
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/36372
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",WWE Network
+http://89.187.175.143:80/3075/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",WWE Network
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/45462
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",WWE Network
@@ -1064,7 +1066,7 @@ https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/yes.network
 #EXTINF:-1 group-title="24/7" tvg-logo="https://lo1.in/LOGO/US/USAMIXED/BAYWATCH.png",BAYWATCH 
 https://d22ljxpuae2sin.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/BayWatch-Canada-prod/playlist.m3u8?ads.device_did%3D%7BPSID%7D%26ads.device_dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
 #EXTINF:-1 group-title="24/7" tvg-logo="https://m.media-amazon.com/images/I/51AJa418SVL.jpg",Sanford and Son
-http://n2086.securepoint.io:25461/Evelyn/Knight/224473
+http://ky-iptv.com:80/Mouse/Mouse/1040222.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="https://m.media-amazon.com/images/I/51AJa418SVL.jpg",Sanford and Son
 http://ky-iptv.com:80/Mouse/Mouse/1862127.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="https://cdn.hmv.com/r/w-640/hmv/files/4b/4b9f64f3-5140-4d9e-a134-1eb54d7907cf.jpg",Tom And Jerry
@@ -1072,7 +1074,7 @@ http://fortv.cc:8080/chris2/chris2/125635
 #EXTINF:-1 group-title="24/7" tvg-logo="https://cdn.hmv.com/r/w-640/hmv/files/4b/4b9f64f3-5140-4d9e-a134-1eb54d7907cf.jpg",Tom And Jerry
 http://fortv.cc:8080/chris2/chris2/125635
 #EXTINF:-1 group-title="24/7" tvg-logo="https://c8.alamy.com/comp/RN8C33/chuck-norris-walker-texas-ranger-1993-RN8C33.jpg",Walker Texas Ranger
-http://n2086.securepoint.io:25461/Evelyn/Knight/224821
+http://89.187.175.143:80/4129/index.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="https://c8.alamy.com/comp/RN8C33/chuck-norris-walker-texas-ranger-1993-RN8C33.jpg",Walker Texas Ranger
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/108900
 #EXTINF:-1 group-title="24/7" tvg-logo="https://c8.alamy.com/comp/RN8C33/chuck-norris-walker-texas-ranger-1993-RN8C33.jpg",Walker Texas Ranger
@@ -1092,1657 +1094,1657 @@ https://ott-linear-channels.stingray.com/155/master_1920x1080_1500kbps.m3u8
 #EXTINF:-1 tvg-id="916" tvg-chno="916" tvg-name="Stingray Urban Beat" group-title="Stingray Music",Stingray Urban Beat
 https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
 #EXTINF:-1 group-title="Latin" tvg-logo="http://ky-iptv.com:80/images/7eae97e6d5e49e69dbe45d7a5db53af0.png",FOX Deportes
-http://ky-iptv.com:80/jfink/jfink/176294.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/176294.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="http://ky-iptv.com:80/images/912a0234221989a96eb2691da73bdf88.png",FOX Business Network
-http://ky-iptv.com:80/jfink/jfink/176949.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/176949.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://ky-iptv.com:80/images/8b66eadc6266d380c634c6226115ac61.png",FOX Soccer Plus
-http://ky-iptv.com:80/jfink/jfink/176986.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/176986.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://ky-iptv.com:80/images/207e4a4859c6f8a03d7d85dfd7b17176.png",FOX SPORTS 1 HD
-http://ky-iptv.com:80/jfink/jfink/220387.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/220387.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://ky-iptv.com:80/images/abe900af84acbfa9f0fa73a8d0e79930.png",FOX SPORTS 2 HD
-http://ky-iptv.com:80/jfink/jfink/220388.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/220388.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://ky-iptv.com:80/images/7eae97e6d5e49e69dbe45d7a5db53af0.png",FOX DEPORTES HD
-http://ky-iptv.com:80/jfink/jfink/220415.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/220415.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.QjFJODILXJ-p_FlTVhP_igHaDr&pid=Api&rs=1&c=1&qlt=95&w=177&h=88",FOX (KHON) Honolulu HI
-http://ky-iptv.com:80/jfink/jfink/517236.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517236.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.kd4Icl73YYDH0R0C7G2HHAHaJ9&pid=Api&rs=1&c=1&qlt=95&w=58&h=79",FOX (KTVI) St Louis MO
-http://ky-iptv.com:80/jfink/jfink/517237.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517237.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.g6dZkYTbQTAVBF0rOviO7AHaEy&pid=Api&rs=1&c=1&qlt=95&w=187&h=120",FOX (WJBK) Detroit MI
-http://ky-iptv.com:80/jfink/jfink/517239.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517239.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.e9E5_jTVkBXF2nYwjlu_ZQAAAA&pid=Api&rs=1&c=1&qlt=95&w=71&h=103",FOX (KDFW) Dallas TX
-http://ky-iptv.com:80/jfink/jfink/517240.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517240.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="http://ky-iptv.com:80/images/461934d5de588259f89472a9e49b5fad.png",FOX (WDAF) Kansas City MO
-http://ky-iptv.com:80/jfink/jfink/517242.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517242.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.aj6S7Z5yGG89m13HaK7oAgHaED&pid=Api&rs=1&c=1&qlt=95&w=184&h=100",FOX (KVVU) Las Vegas NV
-http://ky-iptv.com:80/jfink/jfink/517244.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517244.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.30nm7U7m05ZAYjIVHG4bCwAAAA&pid=Api&rs=1&c=1&qlt=95&w=69&h=99",FOX (WAGA) Atlanta GA
-http://ky-iptv.com:80/jfink/jfink/517245.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517245.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="http://ky-iptv.com:80/images/d891b1a89ee8fbb1ec75e55faa442310.png",FOX (WNYW) New York NY
-http://ky-iptv.com:80/jfink/jfink/517246.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517246.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.oAMYkZNEz8RpembcSyO4tAAAAA&pid=Api&rs=1&c=1&qlt=95&w=77&h=110",FOX (WTTG) District of Columbia
-http://ky-iptv.com:80/jfink/jfink/517247.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517247.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.5IiPf5rWvO2iVWtr__d9nAHaEo&pid=Api&rs=1&c=1&qlt=95&w=169&h=105",FOX 5 Plus (District of Columbia)
-http://ky-iptv.com:80/jfink/jfink/517248.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517248.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="http://ky-iptv.com:80/images/e9802a119416634067920d49ed70d2cf.png",FOX (KSWB) San Diego CA
-http://ky-iptv.com:80/jfink/jfink/517249.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517249.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.BFJZlrV-vijEDVBeKkTBjwHaKn&pid=Api&rs=1&c=1&qlt=95&w=76&h=109",FOX (WBRC) Birmingham AL
-http://ky-iptv.com:80/jfink/jfink/517250.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517250.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="http://ky-iptv.com:80/images/68bd256dd63ab69db0a7929dd683ea90.png",FOX (WITI) Milwaukee WI
-http://ky-iptv.com:80/jfink/jfink/517251.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517251.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.lOm7cqIdJ-aZxwsOV4Rg3QHaCl&pid=Api&rs=1&c=1&qlt=95&w=300&h=104",FOX (KTBC) Austin TX
-http://ky-iptv.com:80/jfink/jfink/517252.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517252.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.d0T1NGlqdTYZVNVBGJ2rvwHaJv&pid=Api&rs=1&c=1&qlt=95&w=81&h=106",FOX (WSVN) Miami FL
-http://ky-iptv.com:80/jfink/jfink/517253.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517253.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.mppMGhBCq_eRVxCSN8QihQAAAA&pid=Api&rs=1&c=1&qlt=95&w=63&h=91",FOX (WGHP) Greensboro NC
-http://ky-iptv.com:80/jfink/jfink/517254.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517254.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.STWepjwC5f9QLqwGq-eRVAAAAA&pid=Api&rs=1&c=1&qlt=95&w=85&h=113",FOX 8 WGHP HIGH POINT
-http://ky-iptv.com:80/jfink/jfink/517255.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517255.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="http://ky-iptv.com:80/images/f795b80e9605f1f88c80fc0687c9d14a.jpg",FOX (WJW) Cleveland OH
-http://ky-iptv.com:80/jfink/jfink/517256.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517256.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="http://ky-iptv.com:80/images/21f6af2b35ffef9b08c31c121447dfaf.png",FOX (WVUE) New Orleans LA
-http://ky-iptv.com:80/jfink/jfink/517257.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517257.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.MqsGm7tatVw64PU3ZisxWAAAAA&pid=Api&rs=1&c=1&qlt=95&w=67&h=96",FOX (WFTC) Minneapolis MN
-http://ky-iptv.com:80/jfink/jfink/517258.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517258.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Q5uxssbXtoojxmm_DvTb0QAAAA&pid=Api&rs=1&c=1&qlt=95&w=190&h=114",FOX (KNIN) Boise ID
-http://ky-iptv.com:80/jfink/jfink/517259.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517259.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b3/WFTC_2017.jpeg/revision/latest/scale-to-width-down/185?cb=20171229134823",FOX 9+ WFTC SAINT PAUL
-http://ky-iptv.com:80/jfink/jfink/517260.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517260.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://s.yimg.com/fz/api/res/1.2/8q7Tfq3gS8PQYk_B9f1..w--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTE4MDtxPTgwO3c9MTgw/https://s.yimg.com/zb/imgv1/b6899c8c-dc63-3e91-87f5-cfd5c13c52e0/t_500x300",FOX (KSAZ) Phoenix AZ
-http://ky-iptv.com:80/jfink/jfink/517262.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517262.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.m3DNC-JcEcv4JxS3szxfYwHaDN&pid=Api&rs=1&c=1&qlt=95&w=256&h=110",FOX (KTVI) St Louis MO
-http://ky-iptv.com:80/jfink/jfink/517264.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517264.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Q0J7_EcmGRNhqT_sQK3tqgAAAA&pid=Api&rs=1&c=1&qlt=95&w=309&h=97",FOX (KMSB) Tucson AZ
-http://ky-iptv.com:80/jfink/jfink/517265.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517265.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="http://ky-iptv.com:80/images/545b941e49f942209e740f91aab2a283.png",FOX (WLUK) Green Bay WI
-http://ky-iptv.com:80/jfink/jfink/517268.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517268.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/KPTV-logo2002-Prototype.jpg/revision/latest/scale-to-width-down/200?cb=20190806124637",FOX (KPTV) Portland OR
-http://ky-iptv.com:80/jfink/jfink/517270.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517270.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.RmYNFVU_LLzTzuMCBSFrzQHaGq&pid=Api&rs=1&c=1&qlt=95&w=104&h=94",FOX (KCPQ) Tacoma WA
-http://ky-iptv.com:80/jfink/jfink/517271.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517271.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="http://ky-iptv.com:80/images/7b2a111cd9a5e8aa72c275e19887e22f.png",FOX (KSTU) Salt Lake City UT
-http://ky-iptv.com:80/jfink/jfink/517272.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517272.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.3n95N1laAK0QVL7AAGaYSAAAAA&pid=Api&rs=1&c=1&qlt=95&w=72&h=102",FOX (WHBQ) Memphis TN
-http://ky-iptv.com:80/jfink/jfink/517273.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517273.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Bw4v9JJ18w9BxoFqf4ioeQAAAA&pid=Api&rs=1&c=1&qlt=95&w=65&h=101",FOX (WTVT) Tampa Bay FL
-http://ky-iptv.com:80/jfink/jfink/517274.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517274.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.9oKyaoWDG0yqQUcwyo0lxQHaDS&pid=Api&rs=1&c=1&qlt=95&w=239&h=106",FOX (KADN) Lafayette LA
-http://ky-iptv.com:80/jfink/jfink/517276.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517276.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.g9Am7a8jK1yCg6SGILS-dgAAAA&pid=Api&rs=1&c=1&qlt=95&w=202&h=120",FOX (KVRR) Fargo ND
-http://ky-iptv.com:80/jfink/jfink/517277.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517277.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.gNZYxogbNTFAAeGWHC-YUgAAAA&pid=Api&rs=1&c=1&qlt=95&w=86&h=120",FOX (KLRT) Little Rock AR
-http://ky-iptv.com:80/jfink/jfink/517278.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517278.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.8WOi1EDEoGg9NXS6GTwMXQAAAA&pid=Api&rs=1&c=1&qlt=95&w=241&h=100",FOX (KDSM) Des Moines IA
-http://ky-iptv.com:80/jfink/jfink/517279.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517279.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/Adjusted128dith.gif/revision/latest?cb=20191225200025",FOX (KTTW) Sioux Falls SD
-http://ky-iptv.com:80/jfink/jfink/517280.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517280.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.EwTMFIYwm5w5jwVpBN1m0QAAAA&pid=Api&rs=1&c=1&qlt=95&w=67&h=103",FOX (WXMI) Grand Rapids MI
-http://ky-iptv.com:80/jfink/jfink/517281.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517281.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://s.yimg.com/fz/api/res/1.2/WMWk_F_LTYhycxp7FJin3g--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTE4MDtxPTgwO3c9MTgw/https://s.yimg.com/zb/imgv1/a2d4d90b-f2c2-3d6a-9eb6-11811422eab6/t_500x300",FOX (WZTV) Nashville TN
-http://ky-iptv.com:80/jfink/jfink/517282.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517282.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="http://ky-iptv.com:80/images/ac8e66dec6aa1b0db4a2d5976068057d.png",FOX (WXIX) Cincinnati OH
-http://ky-iptv.com:80/jfink/jfink/517284.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517284.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f9/FOX19_2001_Vertical.svg/revision/latest/scale-to-width-down/110?cb=20190628061833",FOX 19 WXIX NEWPORT
-http://ky-iptv.com:80/jfink/jfink/517285.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517285.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.6wSv0sjFxSKCyxq1bcNw9QHaDt&pid=Api&rs=1&c=1&qlt=95&w=154&h=77",FOX 21 KXRM COLORADO SPRINGS
-http://ky-iptv.com:80/jfink/jfink/517287.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517287.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.nI02TzEAoWqgpgf_0LWz9gHaEZ&pid=Api&rs=1&c=1&qlt=95&w=202&h=120",FOX (WHNS) Greenville SC
-http://ky-iptv.com:80/jfink/jfink/517288.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517288.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.PCRAIJdijXitJEaaDOj9FgHaET&pid=Api&rs=1&c=1&qlt=95&w=180&h=104",FOX (KOKI) Tulsa OK
-http://ky-iptv.com:80/jfink/jfink/517292.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517292.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.ev2x_QWTdKPdL_gdvK8pggHaCV&pid=Api&rs=1&c=1&qlt=95&w=278&h=87",FOX (WPFO) Portland ME
-http://ky-iptv.com:80/jfink/jfink/517293.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517293.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.A8oyQ_DrCMABG3yReBJPiwHaCa&pid=Api&rs=1&c=1&qlt=95&w=252&h=81",FOX (WXXA) Albany NY
-http://ky-iptv.com:80/jfink/jfink/517294.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517294.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.qDn4m3_BEeJdUbA3JtY-TgAAAA&pid=Api&rs=1&c=1&qlt=95&w=109&h=97",FOX 24 KFTA FORT SMITH
-http://ky-iptv.com:80/jfink/jfink/517295.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517295.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.qy23o1IGkkRFSqCUALPBMwHaDs&pid=Api&rs=1&c=1&qlt=95&w=202&h=100",FOX (KSASTV) Wichita KS
-http://ky-iptv.com:80/jfink/jfink/517296.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517296.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.7TLNLN9KgnPOkz8fT9e3UgAAAA&pid=Api&rs=1&c=1&qlt=95&w=260&h=103",FOX 24 WTAT CHARLESTON
-http://ky-iptv.com:80/jfink/jfink/517298.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517298.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.uWvaxYUy-yUvyRbYfkYkUwAAAA&pid=Api&rs=1&c=1&qlt=95&w=97&h=94",FOX 25 KOKH OKLAHOMA CITY
-http://ky-iptv.com:80/jfink/jfink/517299.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517299.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.QD8dWObdSR2Wc4OKfr6wtwHaKA&pid=Api&rs=1&c=1&qlt=95&w=59&h=80",FOX 25 WFXT BOSTON
-http://ky-iptv.com:80/jfink/jfink/517300.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517300.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.rCplMkpx-Gevfjtkh1UdAQAAAA&pid=Api&rs=1&c=1&qlt=95&w=103&h=103",FOX 25 WLAX LA CROSSE
-http://ky-iptv.com:80/jfink/jfink/517301.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517301.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.gubA58NUiErp4WA58bnqoQAAAA&pid=Api&rs=1&c=1&qlt=95&w=367&h=66",FOX 26 KMPH FRESNO
-http://ky-iptv.com:80/jfink/jfink/517302.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517302.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.JOxTCT3f5TQSiU6IF0ExuQAAAA&pid=Api&rs=1&c=1&qlt=95&w=57&h=81",FOX 26 KRIV HOUSTON
-http://ky-iptv.com:80/jfink/jfink/517303.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517303.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.1LjYKSoqS273_zZ-hegXcQHaD4&pid=Api&rs=1&c=1&qlt=95&w=219&h=114",FOX 26 WSFX WILMINGTON
-http://ky-iptv.com:80/jfink/jfink/517304.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517304.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.a0pf3nMlJspV_kDbuHyqiAAAAA&pid=Api&rs=1&c=1&qlt=95&w=201&h=67",FOX 27 WFXR ROANOKE
-http://ky-iptv.com:80/jfink/jfink/517306.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517306.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Nh-MeNNmCTPITgzJ8oJHBwHaFj&pid=Api&rs=1&c=1&qlt=95&w=151&h=113",FOX 28 KAYU SPOKANE
-http://ky-iptv.com:80/jfink/jfink/517307.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517307.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.-Hzum7nbeSStdtK04Zj8dgAAAA&pid=Api&rs=1&c=1&qlt=95&w=172&h=65",FOX 28 KFXA CEDAR RAPIDS
-http://ky-iptv.com:80/jfink/jfink/517308.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517308.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.vhlgPdKskb9pEqj27mAzFQAAAA&pid=Api&rs=1&c=1&qlt=95&w=325&h=106",FOX 28 WTTE COLUMBUS
-http://ky-iptv.com:80/jfink/jfink/517310.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517310.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="http://ky-iptv.com:80/images/8283066555ca529096157cffc88b7564.PNG",FOX 29 KABB SAN ANTONIO
-http://ky-iptv.com:80/jfink/jfink/517311.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517311.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.kWq9dw4WWqZJBvqq9WOzBwAAAA&pid=Api&rs=1&c=1&qlt=95&w=195&h=108",FOX 29 WFLX WEST PALM/FORT PIERCE
-http://ky-iptv.com:80/jfink/jfink/517312.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517312.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.alblka7vUtVoD8YKpSADPwAAAA&pid=Api&rs=1&c=1&qlt=95&w=258&h=103",FOX 29 WTXF PHILADELPHIA
-http://ky-iptv.com:80/jfink/jfink/517313.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517313.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Ucj9U9KFHNUjODanAs3hrgHaDN&pid=Api&rs=1&c=1&qlt=95&w=261&h=113",FOX 29 WUTV BUFFALO
-http://ky-iptv.com:80/jfink/jfink/517314.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517314.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="http://ky-iptv.com:80/images/9b6c84019e61cf2a36c2ef8d5f2821dd.jpg",FOX 30 WFOX JACKSONVILLE
-http://ky-iptv.com:80/jfink/jfink/517315.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517315.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="http://ky-iptv.com:80/images/028aa688c8da695f4af8550cdaee9e15.png",FOX 30 WGBC MERIDIAN
-http://ky-iptv.com:80/jfink/jfink/517316.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517316.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.sbWN-yufRzoYL1r58QXhWQHaCl&pid=Api&rs=1&c=1&qlt=95&w=331&h=115",FOX 31 KDVR DENVER
-http://ky-iptv.com:80/jfink/jfink/517317.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517317.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.BtJYM1FBz5N9C7o5v2Br3wHaDO&pid=Api&rs=1&c=1&qlt=95&w=269&h=117",FOX 31 WUHF ROCHESTER
-http://ky-iptv.com:80/jfink/jfink/517318.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517318.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.ngq4tNS-ZIgJMuFekRUgsQHaIS&pid=Api&rs=1&c=1&qlt=95&w=100&h=112",FOX 32 WFLD CHICAGO
-http://ky-iptv.com:80/jfink/jfink/517319.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517319.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.CeAaHnNHX6icJja5Kc-bRQAAAA&pid=Api&rs=1&c=1&qlt=95&w=177&h=79",FOX 33 KMSS SHREVEPORT
-http://ky-iptv.com:80/jfink/jfink/517320.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517320.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.QLDvB_F3X3Xl9Ta4zFHmnwHaEr&pid=Api&rs=1&c=1&qlt=95&w=161&h=101",FOX 34 KLSR EUGENE
-http://ky-iptv.com:80/jfink/jfink/517321.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517321.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.yspmTV97iF_oxsDUpl5yWQHaCi&pid=Api&rs=1&c=1&qlt=95&w=263&h=90",FOX 35 KCBA SALINAS
-http://ky-iptv.com:80/jfink/jfink/517322.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517322.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.6rLkRxI6XQjtHLJApoyG5gAAAA&pid=Api&rs=1&c=1&qlt=95&w=68&h=98",FOX 35 WOFL ORLANDO
-http://ky-iptv.com:80/jfink/jfink/517323.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517323.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.LOANwRqRji3xXE1w1A8JZQAAAA&pid=Api&rs=1&c=1&qlt=95&w=202&h=96",FOX 35 WRLH RICHMOND
-http://ky-iptv.com:80/jfink/jfink/517324.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517324.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.xavn0nJX62_yv5Y-n6Vw7QAAAA&pid=Api&rs=1&c=1&qlt=95&w=73&h=102",FOX 36 WFTX CAPE CORAL
-http://ky-iptv.com:80/jfink/jfink/517325.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517325.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://static.wikia.nocookie.net/dreamlogosandstations/images/9/9c/P-trans.png/revision/latest/scale-to-width-down/180?cb=20200721142315",FOX 36 WUPW TOLEDO
-http://ky-iptv.com:80/jfink/jfink/517326.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517326.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Ir39L1zRH8_qkwlvgoMWgQAAAA&pid=Api&rs=1&c=1&qlt=95&w=302&h=112",FOX 38 KSCC CORPUS CHRISTI
-http://ky-iptv.com:80/jfink/jfink/517327.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517327.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="http://ky-iptv.com:25461/images/3b13bde5747b0aa89c1b09b06e54dfb8.png",FOX 39 WEMT TRI-CITIES
-http://ky-iptv.com:80/jfink/jfink/517328.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517328.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.UrwS6PtH4Jq35RxZ_hU3jwAAAA&pid=Api&rs=1&c=1&qlt=95&w=123&h=123",FOX 40 KTXL SACRAMENTO
-http://ky-iptv.com:80/jfink/jfink/517329.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517329.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.4jOTVyuJQTNj6xC4nF16ewHaB1&pid=Api&rs=1&c=1&qlt=95&w=439&h=108",FOX 40 WDBD JACKSON
-http://ky-iptv.com:80/jfink/jfink/517330.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517330.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.VvU_QJvVZkZhx5piIp_ulQAAAA&pid=Api&rs=1&c=1&qlt=95&w=209&h=107",FOX 40 WGGB SPRINGFIELD
-http://ky-iptv.com:80/jfink/jfink/517331.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517331.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.TnF9F8rOudCzQFvqy13-kAHaD2&pid=Api&rs=1&c=1&qlt=95&w=186&h=96",FOX 41 KCYU YAKIMA
-http://ky-iptv.com:80/jfink/jfink/517332.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517332.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d9/WDRB_2018_Logo.svg/revision/latest/scale-to-width-down/220?cb=20200229084313",FOX 41 WDRB LOUISVILLE
-http://ky-iptv.com:80/jfink/jfink/517333.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517333.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.kZ8o08dvr8pjupjuLanTCQAAAA&pid=Api&rs=1&c=1&qlt=95&w=343&h=101",FOX 43 WPMT YORK
-http://ky-iptv.com:80/jfink/jfink/517335.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517335.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="http://ky-iptv.com:80/images/a167012b4e8a3b09e6d1e95d268eeb6e.png",FOX 43 WTNZ KNOXVILLE
-http://ky-iptv.com:80/jfink/jfink/517336.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517336.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.nhsUxvprQeoyrR-eGkLhDQHaC-&pid=Api&rs=1&c=1&qlt=95&w=217&h=87",FOX 43 WVBT VIRGINIA BEACH
-http://ky-iptv.com:80/jfink/jfink/517337.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517337.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.S0gVV7QFLVSGNo-Fx5xIoAHaFj&pid=Api&rs=1&c=1&qlt=95&w=112&h=84",FOX 43 WYZZ BLOOMINGTON
-http://ky-iptv.com:80/jfink/jfink/517338.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517338.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.09XmaktK6bz6H_Wbwey6gQAAAA&pid=Api&rs=1&c=1&qlt=95&w=134&h=121",FOX 44 KWKT WACO
-http://ky-iptv.com:80/jfink/jfink/517339.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517339.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.amGIieF_OHycX9YpOeQ-NAAAAA&pid=Api&rs=1&c=1&qlt=95&w=94&h=98",FOX 44 WEVV EVANSVILLE
-http://ky-iptv.com:80/jfink/jfink/517340.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517340.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.MtwbD92G85XXq6_yRcMPJgAAAA&pid=Api&rs=1&c=1&qlt=95&w=170&h=121",FOX 44 WFFF BURLINGTON
-http://ky-iptv.com:80/jfink/jfink/517341.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517341.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.tB6TR0usBT7nAS6RknU9ygAAAA&pid=Api&rs=1&c=1&qlt=95&w=105&h=97",FOX 44 WGMB BATON ROUGE
-http://ky-iptv.com:80/jfink/jfink/517342.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517342.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.gQTQseRTE9dcCoD2LodXRwAAAA&pid=Api&rs=1&c=1&qlt=95&w=294&h=123",FOX 45 WBFF BALTIMORE
-http://ky-iptv.com:80/jfink/jfink/517343.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517343.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.m-zaMARaNKy4Nhj3K0ikLgAAAA&pid=Api&rs=1&c=1&qlt=95&w=77&h=94",FOX 45 WRGT DAYTON
-http://ky-iptv.com:80/jfink/jfink/517344.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517344.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.1QnP37qwJj7ihlF3VN09kQAAAA&pid=Api&rs=1&c=1&qlt=95&w=286&h=110",FOX 53 WGPH PITTSBURGH
-http://ky-iptv.com:80/jfink/jfink/517354.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517354.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.s90noUXVryDp-Qsl-NeQvQAAAA&pid=Api&rs=1&c=1&qlt=95&w=241&h=110",FOX 54 WFXG AUGUSTA
-http://ky-iptv.com:80/jfink/jfink/517355.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517355.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.NsxZS8Mz4luR6Ae7ardmwQHaFj&pid=Api&rs=1&c=1&qlt=95&w=159&h=119",FOX 54 WZDX HUNTSVILLE
-http://ky-iptv.com:80/jfink/jfink/517356.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517356.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/WFFT55-2018-alt.jpeg/revision/latest/scale-to-width-down/356?cb=20180307193016",FOX 55 WFFT FORT WAYNE
-http://ky-iptv.com:80/jfink/jfink/517357.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517357.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b2/Fox_55-27_Illinois_Logo.png/revision/latest/scale-to-width-down/200?cb=20121110230202",FOX 55 WRSP SPRINGFIELD
-http://ky-iptv.com:80/jfink/jfink/517358.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517358.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.XTq0I_mO9x1EaWG-Bihe0QAAAA&pid=Api&rs=1&c=1&qlt=95&w=252&h=102",FOX 56 WOLF HAZLETON
-http://ky-iptv.com:80/jfink/jfink/517360.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517360.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.5cBVs15sbIIIEswevmze0AHaEm&pid=Api&rs=1&c=1&qlt=95&w=163&h=101",FOX 59 WXIN INDIANAPOLIS
-http://ky-iptv.com:80/jfink/jfink/517362.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517362.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="http://ky-iptv.com:80/images/0032314e6dc9ded1240d7cc0f7f63b91.png",FOX 61 WTIC HARTFORD
-http://ky-iptv.com:80/jfink/jfink/517363.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517363.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="http://ky-iptv.com:80/images/7ef5ad37cfbefcc66fdc3591e3acc697.jpg",FOX 62 WYFX YOUNGSTOWN
-http://ky-iptv.com:80/jfink/jfink/517364.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517364.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.o30npFfpr3uvBriHbeCgGAHaCe&pid=Api&rs=1&c=1&qlt=95&w=249&h=83",FOX 64 WNAC PROVIDENCE
-http://ky-iptv.com:80/jfink/jfink/517365.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517365.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c5/KMBH_2020.svg/revision/latest/scale-to-width-down/250?cb=20200528031053",FOX 67 KFXV TEXAS
-http://ky-iptv.com:80/jfink/jfink/517367.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517367.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/Wsyt_new.png/revision/latest/scale-to-width-down/220?cb=20170406053020",FOX 68 WSYT SYRACUSE
-http://ky-iptv.com:80/jfink/jfink/517368.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517368.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="http://ky-iptv.com:25461/images/4e740d3fd3824c39910af8600337240f.png",FOXNET HARRISONBURG VA
-http://ky-iptv.com:80/jfink/jfink/517369.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517369.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="http://ky-iptv.com:80/images/288a332de10b823172c98ab81cc9b24c.png",FOXNET CHARLOTTESVILLE VA
-http://ky-iptv.com:80/jfink/jfink/517371.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517371.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="http://ky-iptv.com:25461/images/4e740d3fd3824c39910af8600337240f.png",FOXNET CLARKSBURG WV
-http://ky-iptv.com:80/jfink/jfink/517372.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517372.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="http://ky-iptv.com:80/images/288a332de10b823172c98ab81cc9b24c.png",FOXNET LUBBOCK TX
-http://ky-iptv.com:80/jfink/jfink/517373.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517373.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="http://ky-iptv.com:80/images/d0ee7916b3f59debd19beebd72acdfc0.png",FOX 66 WSMH FLINT
-http://ky-iptv.com:80/jfink/jfink/517366.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517366.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/0a579feaf156583add2fdf57e4978d76.png",FOX 10 (WALA) Alabama
-http://ky-iptv.com:80/jfink/jfink/648471.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648471.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/97aeee2ac3a83e7d18db45ab0f3122be.png",FOX 13 WHBQ Memphis
-http://ky-iptv.com:80/jfink/jfink/648472.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648472.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="https://komornlaw.com/wp-content/uploads/2015/11/Fox-17-Michigan_Michael_Komorn_Law.png",FOX 17 WXMI Grand Rapids
-http://ky-iptv.com:80/jfink/jfink/648473.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648473.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/5a8a65dffb969db94995495e00aff30a.png",FOX 20 WCOV Montgomery
-http://ky-iptv.com:80/jfink/jfink/648474.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648474.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/fadda2556b3ef6c4debf38beb9378dc4.png",FOX 24 KSAS Wichita
-http://ky-iptv.com:80/jfink/jfink/648477.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648477.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/1eb3ab1a30313918322bf6269aa5c83c.png",FOX 25 (KOKH) Oklahoma City
-http://ky-iptv.com:80/jfink/jfink/648478.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648478.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/bb5cc28576f4c52abf051990c1027487.png",FOX 28 WPGX Panama City
-http://ky-iptv.com:80/jfink/jfink/648479.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648479.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:25461/images/db96b0503e3bb8399ec8b13503a27295.png",Fox 30 (WGBC) Meridian
-http://ky-iptv.com:80/jfink/jfink/648480.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648480.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="https://omahabaseballvillage.com/u/partners/229/fox_42_color_png_logo__small.png",FOX 42 Omaha (KPTM)
-http://ky-iptv.com:80/jfink/jfink/648483.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648483.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:25461/images/58b1e5cbce3a8f1f874d56deb7488240.png",FOX 43 (WFXB) Myrtle beach
-http://ky-iptv.com:80/jfink/jfink/648484.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648484.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/WGMB44.png/175px-WGMB44.png",FOX 44 WGMB Baton rouge
-http://ky-iptv.com:80/jfink/jfink/648485.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648485.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/WRGT_Dayton_2019.png",FOX 45 (WRGT) Dayton
-http://ky-iptv.com:80/jfink/jfink/648486.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648486.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/ce211686d8b66434dd4e1ff0a71425e5.png",FOX 47 WSYM Lansing
-http://ky-iptv.com:80/jfink/jfink/648487.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648487.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/777ae74b858f9bd0bb5496efd32436cd.png",FOX 50 Raleigh WRAZ
-http://ky-iptv.com:80/jfink/jfink/648488.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648488.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/bf054b7263791812558d2bd6214d4e68.png",FOX 54 WZDX Huntsville
-http://ky-iptv.com:80/jfink/jfink/648489.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648489.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/ce4832b5cd020e94fe9ef4984aff4de1.png",FOX 6 WBRC Birmingham
-http://ky-iptv.com:80/jfink/jfink/648491.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648491.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/d0ee7916b3f59debd19beebd72acdfc0.png",FOX 66 WSMH Flint
-http://ky-iptv.com:80/jfink/jfink/648492.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648492.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/WSYT_Syracuse_logo.png",FOX 68 WSYT Syracuse
-http://ky-iptv.com:80/jfink/jfink/648493.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648493.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/74d231f0862c8f5d860bef302c457b30.png",FOX 7 (KTBC) Austin
-http://ky-iptv.com:80/jfink/jfink/648494.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648494.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/ec1f4a5b029d42113f8248140a815bfb.png",FOX 9 WTVC-DT Chattanooga
-http://ky-iptv.com:80/jfink/jfink/648495.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648495.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/73f77dcf233d0495a29b3661dc3dd080.png",Fox Atlanta WAGA
-http://ky-iptv.com:80/jfink/jfink/648496.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648496.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/9358c5736e68e369d8eca6bb3c5ac403.png",Fox Austin KTBC
-http://ky-iptv.com:80/jfink/jfink/648497.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648497.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/c4ed61db31c9c17ff200af81c0d2ad51.png",FOX Baltimore WBFF
-http://ky-iptv.com:80/jfink/jfink/648498.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648498.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/e1f026dd452203929a31c0bc2a2f8c8e.png",Fox Boston WFXT
-http://ky-iptv.com:80/jfink/jfink/648500.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648500.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/858b7de755d191a1c62d854937e472aa.png",Fox Busines Network
-http://ky-iptv.com:80/jfink/jfink/648502.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648502.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/df56cf4ddcedf569a8d7f06e6fa4b15a.png",FOX Chicago WFLD
-http://ky-iptv.com:80/jfink/jfink/648503.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648503.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/38a2b565c38dd836cb72610694e5144e.png",FOX Cleveland WJW
-http://ky-iptv.com:80/jfink/jfink/648504.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648504.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/afc16325656bfae645087ef216d6fc5d.png",Fox College Sports Pacific
-http://ky-iptv.com:80/jfink/jfink/648505.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648505.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/WTTE28newlogo.PNG",Fox Columbus WTTE
-http://ky-iptv.com:80/jfink/jfink/648506.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648506.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/23fde36d0c7f64d94fcf92ce26729180.png",FOX Dallas KDFW
-http://ky-iptv.com:80/jfink/jfink/648507.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648507.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/1756d0338481c1bd2a521aa363ea1141.png",Fox Denver KDVR
-http://ky-iptv.com:80/jfink/jfink/648508.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648508.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/507d8f9bf8a1ae063363e7cb4a93d928.png",Fox Detroit WJBK
-http://ky-iptv.com:80/jfink/jfink/648512.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648512.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/545b941e49f942209e740f91aab2a283.png",Fox Green Bay WLUK
-http://ky-iptv.com:80/jfink/jfink/648513.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648513.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/d96b1ff03235d482da3f11a697c45e5f.png",Fox Hartford WTIC
-http://ky-iptv.com:80/jfink/jfink/648514.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648514.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/6e047ed803958e313beeaacf053ac160.png",Fox Houston KRIV
-http://ky-iptv.com:80/jfink/jfink/648515.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648515.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/60158698a08acd0576504564cc5976cf.png",FOX Indianapolis WXIN
-http://ky-iptv.com:80/jfink/jfink/648516.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648516.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/4c38db6cc1592284e0ab37c1fa0d354a.png",FOX Jacksonville WFOX
-http://ky-iptv.com:80/jfink/jfink/648517.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648517.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/89d9fdebd089a000699200e9fd59920d.png",FOX Kansas City WDAF
-http://ky-iptv.com:80/jfink/jfink/648519.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648519.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/9e7b7e46ddaa6658a7b7b4ab6c621749.png",Fox KRQE Albuquerque
-http://ky-iptv.com:80/jfink/jfink/648520.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648520.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/516291dfd50a74f17f82a64a39db90dc.png",FOX Miami WSVN UHD
-http://ky-iptv.com:80/jfink/jfink/648522.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648522.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/68bd256dd63ab69db0a7929dd683ea90.png",Fox Milwaukee WITI
-http://ky-iptv.com:80/jfink/jfink/648523.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648523.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/df6df97c8b4b6e6db8c0fe782fd2d61c.png",Fox Minneapolis KMSP
-http://ky-iptv.com:80/jfink/jfink/648525.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648525.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/63c0e2985648ee4010d24884d3a6e93c.png",FOX Nashville WZTV
-http://ky-iptv.com:80/jfink/jfink/648527.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648527.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/38a2b565c38dd836cb72610694e5144e.png",Fox Network Miami UHD
-http://ky-iptv.com:80/jfink/jfink/648533.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648533.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/c482e5b12ddfe43b09f30b3cfdf4638a.png",Fox New Orleans WVUE
-http://ky-iptv.com:80/jfink/jfink/648535.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648535.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/1418b7ac1cec740ad18030aaec03feba.png",Fox New York SD
-http://ky-iptv.com:80/jfink/jfink/648539.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648539.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="http://ky-iptv.com:80/images/6238892403d97166fc48fd625aad5634.png",Fox News SD
-http://ky-iptv.com:80/jfink/jfink/648545.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648545.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/8a3908e99780b78a6e49097fe84f9574.png",Fox Ocala WOGX
-http://ky-iptv.com:80/jfink/jfink/648546.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648546.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/e4442c3f0b3485fccc428f8615cd8611.png",Fox Orlando WOFL
-http://ky-iptv.com:80/jfink/jfink/648548.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648548.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/89fc459bd8dc9ed1ac78c303aa5811f9.png",Fox Philadelphia WTXF
-http://ky-iptv.com:80/jfink/jfink/648551.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648551.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/KSAZ_logo_2006.png",Fox Phoenix KSAZ
-http://ky-iptv.com:80/jfink/jfink/648552.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648552.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/KSTU_Fox_13_logo.jpg/220px-KSTU_Fox_13_logo.jpg",Fox Salt Lake City KSTU
-http://ky-iptv.com:80/jfink/jfink/648556.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648556.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/Kabblogo.PNG",Fox San Antonio KABB
-http://ky-iptv.com:80/jfink/jfink/648557.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648557.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:25461/images/b137e23227bd8fd2ea46ae1adf9bb93e.png",FOX San Diego KSWB
-http://ky-iptv.com:80/jfink/jfink/648558.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648558.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/99738814eac4d930d055acd008f1b12e.png",Fox San Francisco KTVU
-http://ky-iptv.com:80/jfink/jfink/648560.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648560.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:25461/images/e90925e125311435fe51d138a241a76d.png",Fox Seattle KCPQ
-http://ky-iptv.com:80/jfink/jfink/648562.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648562.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/6f5dc5a5db51b0d6b6e8c8980bfa2558.png",FOX St Louis KTVI
-http://ky-iptv.com:80/jfink/jfink/648564.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648564.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/149c32ac37806855da45343df8015482.png",FOX Tampa WTVT
-http://ky-iptv.com:80/jfink/jfink/648565.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648565.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/7d3fd89ff95f470c84462e84dbd97d69.png",FOX Washington WTTG
-http://ky-iptv.com:80/jfink/jfink/648566.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648566.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/fa7eaff45b1d16e6b1adcfe6522cf5a1.png",FOX WDRB Louisville
-http://ky-iptv.com:80/jfink/jfink/648568.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648568.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/6df33072cf741a11160338d8f29e8571.png",FOX WNAC Providence
-http://ky-iptv.com:80/jfink/jfink/648569.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648569.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/98365633f44ab8a6667fe83e90788f30.png",FOX21 (WHNS) Asheville
-http://ky-iptv.com:80/jfink/jfink/648570.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648570.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/f22fb678e5ba46fbb71a9addc85eaf6a.png",FOX24 (KFTA) Fort Smith
-http://ky-iptv.com:80/jfink/jfink/648573.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648573.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/3963b71e9f34d539319ff218c3d9fc9a.png",FOX28 (KFXA) Cedar Rapids
-http://ky-iptv.com:80/jfink/jfink/648574.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648574.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/172aef11d106f585bf40340ccdb4e9ab.png",FoxNET MID
-http://ky-iptv.com:80/jfink/jfink/648581.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648581.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="https://directory.lankamarket.lk/wp-content/uploads/2019/10/logo-new-deason.png",FoxNET WEST
-http://ky-iptv.com:80/jfink/jfink/648582.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/648582.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="http://ky-iptv.com:80/images/288a332de10b823172c98ab81cc9b24c.png",FOXNET SHERMAN TX
-http://ky-iptv.com:80/jfink/jfink/517375.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517375.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.gey4m2P6-HqU9R4K5umMaQHaCF&pid=Api&rs=1&c=1&qlt=95&w=322&h=90",FOX 46 WJZY BELMONT
-http://ky-iptv.com:80/jfink/jfink/517345.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517345.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.OT2V7jaU3KjZF4N3VkTI9gAAAA&pid=Api&rs=1&c=1&qlt=95&w=103&h=102",FOX 47 WSYM LANSING
-http://ky-iptv.com:80/jfink/jfink/517347.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517347.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.owZCKy_IK1mdIK86Nezs4AAAAA&pid=Api&rs=1&c=1&qlt=95&w=156&h=93",FOX 49 KRBK OSAGE BEACH
-http://ky-iptv.com:80/jfink/jfink/517348.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517348.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.uGBax_UdvQsDgY5Y9cq4gAHaB5&pid=Api&rs=1&c=1&qlt=95&w=312&h=79",FOX 50 WRAZ RALEIGH
-http://ky-iptv.com:80/jfink/jfink/517350.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517350.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.GMcZoYzQr4RK2HzfQLrCdQAAAA&pid=Api&rs=1&c=1&qlt=95&w=426&h=122",FOX 51 KFXK LONGVIEW
-http://ky-iptv.com:80/jfink/jfink/517351.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517351.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.UBXdyLGU-HMqqpWOVqRfewAAAA&pid=Api&rs=1&c=1&qlt=95&w=190&h=84",FOX 51 KFXL LINCOLN NB
-http://ky-iptv.com:80/jfink/jfink/517352.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517352.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.7gM7O5jUN_IKcxuYStDKmgHaKk&pid=Api&rs=1&c=1&qlt=95&w=70&h=100",FOX 51 WOGX OCALA
-http://ky-iptv.com:80/jfink/jfink/517353.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517353.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/02/KBSI_2006.png/revision/latest/scale-to-width-down/200?cb=20111003025559",FOX 23 KBSI CAPE GIRADEAU
-http://ky-iptv.com:80/jfink/jfink/517291.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517291.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.mNjShd3v00N9mQatPJwjzgHaC4&pid=Api&rs=1&c=1&qlt=95&w=282&h=109",FOX 50 WRAZ DURHAM
-http://ky-iptv.com:80/jfink/jfink/517349.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517349.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="http://ky-iptv.com:80/images/1a4b1348304f5589a685ce6343d07347.png",FOX 27 KFNB CASPER/RIVERTON
-http://ky-iptv.com:80/jfink/jfink/517305.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517305.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.m7uqdsrr8M7nJYphmmhM4AAAAA&pid=Api&rs=1&c=1&qlt=95&w=273&h=108",FOX 21 KQDS DULUTH/SUPERIOR
-http://ky-iptv.com:80/jfink/jfink/517286.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517286.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://s.yimg.com/fz/api/res/1.2/XSr2Vrg6kAfY4LAy2pK9Cg--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTE4MDtxPTgwO3c9MTgw/https://s.yimg.com/zb/imgv1/9a5bdf75-53f6-34eb-a52e-8df1e4c47f28/t_500x300",FOX 14 KFOX EL PASO
-http://ky-iptv.com:80/jfink/jfink/517275.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517275.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://s.yimg.com/fz/api/res/1.2/jQo_4ilmcNYAENz8pU4x7A--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTE4MDtxPTgwO3c9MTgw/https://s.yimg.com/zb/imgv1/68a4422d-945d-32e8-8876-1b987dfbc07f/t_500x300",FOX 22 WSBT SOUTH BEND
-http://ky-iptv.com:80/jfink/jfink/517290.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517290.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.JlNgMXBxxKPoRoJnMJ841wHaCj&pid=Api&rs=1&c=1&qlt=95&w=296&h=102",FOX 28 WTGS HARDEEVILLE
-http://ky-iptv.com:80/jfink/jfink/517309.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517309.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.JzgZ0N_Zsy70B_nvNueoYwHaHw&pid=Api&rs=1&c=1&qlt=95&w=103&h=108",FOX 22 KQFX JEFFERSON CITY
-http://ky-iptv.com:80/jfink/jfink/517289.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517289.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.e8BKpZmzjv5qdXhwGy8tDQAAAA&pid=Api&rs=1&c=1&qlt=95&w=487&h=94",FOX 11 WVAH CHARLESTON
-http://ky-iptv.com:80/jfink/jfink/517269.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517269.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="http://ky-iptv.com:80/images/4e1cc8205d767a29afed9c0cc1ec431a.png",FOX 47 WMSN MADISON
-http://ky-iptv.com:80/jfink/jfink/1084367.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/1084367.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.O3zT6oMuD3_EWsXBiEr8dAHaFi&pid=Api&rs=1&c=1&qlt=95&w=162&h=121",FOX 10 WALA ALABAMA
-http://ky-iptv.com:80/jfink/jfink/517263.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517263.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Fc07_nLBNIQf-bwBwRyEZAAAAA&pid=Api&rs=1&c=1&qlt=95&w=93&h=93",FOX 10 KIDY SAN ANGELO
-http://ky-iptv.com:80/jfink/jfink/517261.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517261.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="http://ky-iptv.com:80/images/f779803a67c8fd5e1d115f57fb95a70b.png",FOX 14 (KARD) West Monroe El Dorado
-http://ky-iptv.com:80/jfink/jfink/1189985.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/1189985.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="http://ky-iptv.com:80/images/bded8416f9dacd67e79004e6ef4bd16c.png",FOX 33 WFXV Utica
-http://ky-iptv.com:80/jfink/jfink/1307612.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/1307612.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6b/KTVU_2.jpg/revision/latest/scale-to-width-down/200?cb=20160819233406",FOX 2 KTVU OAKLAND
-http://ky-iptv.com:80/jfink/jfink/517238.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517238.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.mt1NW9sHiUNmR7_mWdL7XAHaDu&pid=Api&rs=1&c=1&qlt=95&w=222&h=111",FOX 56 WDKY DANVILLE
-http://ky-iptv.com:80/jfink/jfink/517359.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517359.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="http://ky-iptv.com:80/images/ff26ae8fc875f5e49c726909116de8a9.png",FOX 14 KCIT Amarillo
-http://ky-iptv.com:80/jfink/jfink/1452805.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/1452805.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.XTCYU2eWZ1s3jgA42KA1rgAAAA&pid=Api&rs=1&c=1&qlt=95&w=114&h=114",FOX 4 KTBY ANCHORAGE
-http://ky-iptv.com:80/jfink/jfink/517241.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517241.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="http://ky-iptv.com:80/images/4392fcbbd806f66ebe7022e92f5c1e87.png",FOX 39 (WQRF) Rockford
-http://ky-iptv.com:80/jfink/jfink/1699308.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/1699308.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="http://ky-iptv.com:80/images/f3f457b16de206009ca09880bddf7e9c.png",FOX 40 WICZ Binghamton
-http://ky-iptv.com:80/jfink/jfink/1667805.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/1667805.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/LWH3xHUj_400x400.jpg/revision/latest/scale-to-width-down/200?cb=20180904210410",FOX 24 WGXA MACON
-http://ky-iptv.com:80/jfink/jfink/517297.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/517297.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/461934d5de588259f89472a9e49b5fad.png",FOX 57 WACH COLUMBIA
-http://ky-iptv.com:80/jfink/jfink/1729837.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/1729837.m3u8
 #EXTINF:-1 group-title="Local - FOX",FOX 32 WFQX Cadillac/Traverse City
-http://ky-iptv.com:80/jfink/jfink/1772818.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/1772818.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://ky-iptv.com:80/images/e5bd01a0cc0cdb89f97616837099fa32.png",FOX Sports Southwest
-http://ky-iptv.com:80/jfink/jfink/1777886.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/1777886.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="http://ky-iptv.com:80/images/9c24254e380d48e735266f17e2515d64.png",FOX 31 (WFXL)  Albany
-http://ky-iptv.com:80/jfink/jfink/1770369.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/1770369.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://ky-iptv.com:80/images/cb2fc411b858bcab8c1b53e13185a0ee.png",FOX Soul
-http://ky-iptv.com:80/jfink/jfink/1791099.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/1791099.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="http://ky-iptv.com:80/images/cc25d5537813dabdcb14bcb3ac9512b5.png",FOX 66 WFXP Erie
-http://ky-iptv.com:80/jfink/jfink/1807369.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/1807369.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="http://ky-iptv.com:80/images/56d45928ecc55d279cb09ab5192217d2.png",FOX 14 WYDO Greenville
-http://ky-iptv.com:80/jfink/jfink/1807987.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/1807987.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="http://ky-iptv.com:80/images/461934d5de588259f89472a9e49b5fad.png",FOX 14 KFJX Joplin
-http://ky-iptv.com:80/jfink/jfink/1841073.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/1841073.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="http://ky-iptv.com:80/images/06d4711bdf88b2a49098b97b1dbd6d85.png",Fox News Channel
-http://ky-iptv.com:80/jfink/jfink/1846754.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/1846754.m3u8
 #EXTINF:-1 group-title="Local - FOX",FOX (KFTA) Fayetteville
-http://ky-iptv.com:80/jfink/jfink/1847117.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/1847117.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="http://ky-iptv.com:80/images/3ab1d367c8e0ae43cfc5128479a549ae.png",FOX 10 WTHI-DT2 Terre Haute
-http://ky-iptv.com:80/jfink/jfink/1673798.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/1673798.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )" tvg-logo="http://ky-iptv.com:80/images/461934d5de588259f89472a9e49b5fad.png",FOX 39 KXOF Laredo
-http://ky-iptv.com:80/jfink/jfink/1928976.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/1928976.m3u8
 #EXTINF:-1 group-title="Local - FOX" tvg-logo="http://ky-iptv.com:80/images/461934d5de588259f89472a9e49b5fad.png",Fox 59 WVNS Beckley
-http://ky-iptv.com:80/jfink/jfink/1948636.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/1948636.m3u8
 #EXTINF:-1 group-title="Local Channels ( Full List )",FOX KBFX Bakersfield
-http://ky-iptv.com:80/jfink/jfink/2052303.m3u8
+http://ky-iptv.com:80/Mouse/Mouse/2052303.m3u8
 #EXTINF:-1 ,NBC SPORTS BAY AREA HD
-http://ky-iptv.com:80/jfink/jfink/220425.ts
+http://ky-iptv.com:80/Mouse/Mouse/220425.ts
 #EXTINF:-1 ,NBC Sports Boston LHD
-http://ky-iptv.com:80/jfink/jfink/220426.ts
+http://ky-iptv.com:80/Mouse/Mouse/220426.ts
 #EXTINF:-1 ,NBC SPORTS (NORTHWEST) | HD
-http://ky-iptv.com:80/jfink/jfink/220428.ts
+http://ky-iptv.com:80/Mouse/Mouse/220428.ts
 #EXTINF:-1 ,NBC SPORTS NORTHWEST | HD
-http://ky-iptv.com:80/jfink/jfink/220429.ts
+http://ky-iptv.com:80/Mouse/Mouse/220429.ts
 #EXTINF:-1 ,NBC SPORTS PHILLY HD
-http://ky-iptv.com:80/jfink/jfink/220430.ts
+http://ky-iptv.com:80/Mouse/Mouse/220430.ts
 #EXTINF:-1 ,NBCSN Bay Area HD
-http://ky-iptv.com:80/jfink/jfink/220432.ts
+http://ky-iptv.com:80/Mouse/Mouse/220432.ts
 #EXTINF:-1 ,NBCSN BOSTON | HD
-http://ky-iptv.com:80/jfink/jfink/220433.ts
+http://ky-iptv.com:80/Mouse/Mouse/220433.ts
 #EXTINF:-1 ,NBCSN CHICAGO PLUS HD
-http://ky-iptv.com:80/jfink/jfink/220434.ts
+http://ky-iptv.com:80/Mouse/Mouse/220434.ts
 #EXTINF:-1 ,NBCSN NORTHWEST | HD
-http://ky-iptv.com:80/jfink/jfink/220435.ts
+http://ky-iptv.com:80/Mouse/Mouse/220435.ts
 #EXTINF:-1 ,NBCSN PHILADELPHIA HD
-http://ky-iptv.com:80/jfink/jfink/220436.ts
+http://ky-iptv.com:80/Mouse/Mouse/220436.ts
 #EXTINF:-1 ,NBCSN WASHINGTON | HD
-http://ky-iptv.com:80/jfink/jfink/220437.ts
+http://ky-iptv.com:80/Mouse/Mouse/220437.ts
 #EXTINF:-1 ,NBC Sport Network
-http://ky-iptv.com:80/jfink/jfink/222492.ts
+http://ky-iptv.com:80/Mouse/Mouse/222492.ts
 #EXTINF:-1 ,NBC Sports Bay Area Plus
-http://ky-iptv.com:80/jfink/jfink/514055.ts
+http://ky-iptv.com:80/Mouse/Mouse/514055.ts
 #EXTINF:-1 ,NBC Sports Boston
-http://ky-iptv.com:80/jfink/jfink/514056.ts
+http://ky-iptv.com:80/Mouse/Mouse/514056.ts
 #EXTINF:-1 ,NBC Sports California
-http://ky-iptv.com:80/jfink/jfink/514057.ts
+http://ky-iptv.com:80/Mouse/Mouse/514057.ts
 #EXTINF:-1 ,NBC Sports California Plus
-http://ky-iptv.com:80/jfink/jfink/514058.ts
+http://ky-iptv.com:80/Mouse/Mouse/514058.ts
 #EXTINF:-1 ,NBC Sports Chicago
-http://ky-iptv.com:80/jfink/jfink/514059.ts
+http://ky-iptv.com:80/Mouse/Mouse/514059.ts
 #EXTINF:-1 ,NBC Sports Chicago Plus LHD
-http://ky-iptv.com:80/jfink/jfink/514061.ts
+http://ky-iptv.com:80/Mouse/Mouse/514061.ts
 #EXTINF:-1 ,NBC Sports Philadelphia Plus
-http://ky-iptv.com:80/jfink/jfink/514063.ts
+http://ky-iptv.com:80/Mouse/Mouse/514063.ts
 #EXTINF:-1 ,NBC Sports Washington
-http://ky-iptv.com:80/jfink/jfink/514064.ts
+http://ky-iptv.com:80/Mouse/Mouse/514064.ts
 #EXTINF:-1 ,NBC Sports Washington LHD
-http://ky-iptv.com:80/jfink/jfink/514065.ts
+http://ky-iptv.com:80/Mouse/Mouse/514065.ts
 #EXTINF:-1 ,NBC Sports Washington Plus
-http://ky-iptv.com:80/jfink/jfink/514066.ts
+http://ky-iptv.com:80/Mouse/Mouse/514066.ts
 #EXTINF:-1 ,NBC 2 KJRH TULSA
-http://ky-iptv.com:80/jfink/jfink/517787.ts
+http://ky-iptv.com:80/Mouse/Mouse/517787.ts
 #EXTINF:-1 ,NBC 2 KNOP NORTH PLATTE
-http://ky-iptv.com:80/jfink/jfink/517788.ts
+http://ky-iptv.com:80/Mouse/Mouse/517788.ts
 #EXTINF:-1 ,NBC 2 KPRC HOUSTON
-http://ky-iptv.com:80/jfink/jfink/517789.ts
+http://ky-iptv.com:80/Mouse/Mouse/517789.ts
 #EXTINF:-1 ,NBC 2 WLBZ BANGOR
-http://ky-iptv.com:80/jfink/jfink/517798.ts
+http://ky-iptv.com:80/Mouse/Mouse/517798.ts
 #EXTINF:-1 ,NBC 3 KCRA SACRAMENTO
-http://ky-iptv.com:80/jfink/jfink/517800.ts
+http://ky-iptv.com:80/Mouse/Mouse/517800.ts
 #EXTINF:-1 ,NBC 3 KIEM EUREKA
-http://ky-iptv.com:80/jfink/jfink/517801.ts
+http://ky-iptv.com:80/Mouse/Mouse/517801.ts
 #EXTINF:-1 ,NBC 3 WSTM SYRACUSE
-http://ky-iptv.com:80/jfink/jfink/517810.ts
+http://ky-iptv.com:80/Mouse/Mouse/517810.ts
 #EXTINF:-1 ,NBC 4 KAMR AMARILLO
-http://ky-iptv.com:80/jfink/jfink/517811.ts
+http://ky-iptv.com:80/Mouse/Mouse/517811.ts
 #EXTINF:-1 ,NBC 4 KFOR OKLAHOMA CITY
-http://ky-iptv.com:80/jfink/jfink/517813.ts
+http://ky-iptv.com:80/Mouse/Mouse/517813.ts
 #EXTINF:-1 ,NBC 4 WRC WASHINGTON DC
-http://ky-iptv.com:80/jfink/jfink/517823.ts
+http://ky-iptv.com:80/Mouse/Mouse/517823.ts
 #EXTINF:-1 ,NBC 4 WSMV NASHVILLE
-http://ky-iptv.com:80/jfink/jfink/517824.ts
+http://ky-iptv.com:80/Mouse/Mouse/517824.ts
 #EXTINF:-1 ,NBC 4 WTMJ MILWAUKEE
-http://ky-iptv.com:80/jfink/jfink/517825.ts
+http://ky-iptv.com:80/Mouse/Mouse/517825.ts
 #EXTINF:-1 ,NBC 4 WYFF GREENVILLE
-http://ky-iptv.com:80/jfink/jfink/517826.ts
+http://ky-iptv.com:80/Mouse/Mouse/517826.ts
 #EXTINF:-1 ,NBC 5 KSL SALT LAKE CITY
-http://ky-iptv.com:80/jfink/jfink/517835.ts
+http://ky-iptv.com:80/Mouse/Mouse/517835.ts
 #EXTINF:-1 ,NBC 5 KXAS FORT WORTH/DALLAS
-http://ky-iptv.com:80/jfink/jfink/517836.ts
+http://ky-iptv.com:80/Mouse/Mouse/517836.ts
 #EXTINF:-1 ,NBC 5 WCYB BRISTOL
-http://ky-iptv.com:80/jfink/jfink/517837.ts
+http://ky-iptv.com:80/Mouse/Mouse/517837.ts
 #EXTINF:-1 ,NBC 5 WLWT CINCINNATI
-http://ky-iptv.com:80/jfink/jfink/517838.ts
+http://ky-iptv.com:80/Mouse/Mouse/517838.ts
 #EXTINF:-1 ,NBC 6 KMIR PALM SPRINGS
-http://ky-iptv.com:80/jfink/jfink/517848.ts
+http://ky-iptv.com:80/Mouse/Mouse/517848.ts
 #EXTINF:-1 ,NBC 6 KPVI POCATELLO
-http://ky-iptv.com:80/jfink/jfink/517849.ts
+http://ky-iptv.com:80/Mouse/Mouse/517849.ts
 #EXTINF:-1 ,NBC 6 KSBY SAN LUIS OBISPO
-http://ky-iptv.com:80/jfink/jfink/517851.ts
+http://ky-iptv.com:80/Mouse/Mouse/517851.ts
 #EXTINF:-1 ,NBC 6 KWQC DAVENPORT
-http://ky-iptv.com:80/jfink/jfink/517852.ts
+http://ky-iptv.com:80/Mouse/Mouse/517852.ts
 #EXTINF:-1 ,NBC 6 WCSH PORTLAND
-http://ky-iptv.com:80/jfink/jfink/517853.ts
+http://ky-iptv.com:80/Mouse/Mouse/517853.ts
 #EXTINF:-1 ,NBC 6 WDSU NEW ORLEANS
-http://ky-iptv.com:80/jfink/jfink/517854.ts
+http://ky-iptv.com:80/Mouse/Mouse/517854.ts
 #EXTINF:-1 ,NBC 6 WECT WILMINGTON
-http://ky-iptv.com:80/jfink/jfink/517855.ts
+http://ky-iptv.com:80/Mouse/Mouse/517855.ts
 #EXTINF:-1 ,NBC 6 WOWT OMAHA
-http://ky-iptv.com:80/jfink/jfink/517858.ts
+http://ky-iptv.com:80/Mouse/Mouse/517858.ts
 #EXTINF:-1 ,NBC 6 WPSD PADUCAH
-http://ky-iptv.com:80/jfink/jfink/517859.ts
+http://ky-iptv.com:80/Mouse/Mouse/517859.ts
 #EXTINF:-1 ,NBC 6 WTVJ MIAMI
-http://ky-iptv.com:80/jfink/jfink/517860.ts
+http://ky-iptv.com:80/Mouse/Mouse/517860.ts
 #EXTINF:-1 ,NBC 6 WVVA BLUEFIELD
-http://ky-iptv.com:80/jfink/jfink/517861.ts
+http://ky-iptv.com:80/Mouse/Mouse/517861.ts
 #EXTINF:-1 ,NBC 7 KPLC LAKE CHARLES
-http://ky-iptv.com:80/jfink/jfink/517862.ts
+http://ky-iptv.com:80/Mouse/Mouse/517862.ts
 #EXTINF:-1 ,NBC 7 KRNV RENO
-http://ky-iptv.com:80/jfink/jfink/517863.ts
+http://ky-iptv.com:80/Mouse/Mouse/517863.ts
 #EXTINF:-1 ,NBC 7 KTFT BOISE
-http://ky-iptv.com:80/jfink/jfink/517864.ts
+http://ky-iptv.com:80/Mouse/Mouse/517864.ts
 #EXTINF:-1 ,NBC 7 KWWL WATERLOO
-http://ky-iptv.com:80/jfink/jfink/517865.ts
+http://ky-iptv.com:80/Mouse/Mouse/517865.ts
 #EXTINF:-1 ,NBC 7 WITN WASHINGTON
-http://ky-iptv.com:80/jfink/jfink/517867.ts
+http://ky-iptv.com:80/Mouse/Mouse/517867.ts
 #EXTINF:-1 ,NBC 7 WJHG PANAMA CITY
-http://ky-iptv.com:80/jfink/jfink/517868.ts
+http://ky-iptv.com:80/Mouse/Mouse/517868.ts
 #EXTINF:-1 ,NBC 7 WPBN TRAVERSE CITY
-http://ky-iptv.com:80/jfink/jfink/517869.ts
+http://ky-iptv.com:80/Mouse/Mouse/517869.ts
 #EXTINF:-1 ,NBC 8 KAIT JONESBORO
-http://ky-iptv.com:80/jfink/jfink/517870.ts
+http://ky-iptv.com:80/Mouse/Mouse/517870.ts
 #EXTINF:-1 ,NBC 8 KGNS LAREDO
-http://ky-iptv.com:80/jfink/jfink/517871.ts
+http://ky-iptv.com:80/Mouse/Mouse/517871.ts
 #EXTINF:-1 ,NBC 8 KGW PORTLAND
-http://ky-iptv.com:80/jfink/jfink/517872.ts
+http://ky-iptv.com:80/Mouse/Mouse/517872.ts
 #EXTINF:-1 ,NBC 8 KSBW SALINAS
-http://ky-iptv.com:80/jfink/jfink/517874.ts
+http://ky-iptv.com:80/Mouse/Mouse/517874.ts
 #EXTINF:-1 ,NBC 8 WFLA TAMPA
-http://ky-iptv.com:80/jfink/jfink/517875.ts
+http://ky-iptv.com:80/Mouse/Mouse/517875.ts
 #EXTINF:-1 ,NBC 8 WGAL LANCASTER
-http://ky-iptv.com:80/jfink/jfink/517876.ts
+http://ky-iptv.com:80/Mouse/Mouse/517876.ts
 #EXTINF:-1 ,NBC 8 WLIO LIMA
-http://ky-iptv.com:80/jfink/jfink/517877.ts
+http://ky-iptv.com:80/Mouse/Mouse/517877.ts
 #EXTINF:-1 ,NBC 8 WOOD GRAND RAPIDS/KALAMAZOO
-http://ky-iptv.com:80/jfink/jfink/517878.ts
+http://ky-iptv.com:80/Mouse/Mouse/517878.ts
 #EXTINF:-1 ,NBC 9 KTSM EL PASO
-http://ky-iptv.com:80/jfink/jfink/517880.ts
+http://ky-iptv.com:80/Mouse/Mouse/517880.ts
 #EXTINF:-1 ,NBC 9 KDENVER
-http://ky-iptv.com:80/jfink/jfink/517881.ts
+http://ky-iptv.com:80/Mouse/Mouse/517881.ts
 #EXTINF:-1 ,NBC 9 KWES ODESSA
-http://ky-iptv.com:80/jfink/jfink/517882.ts
+http://ky-iptv.com:80/Mouse/Mouse/517882.ts
 #EXTINF:-1 ,NBC 9 WNBW GAINESVILLE
-http://ky-iptv.com:80/jfink/jfink/517883.ts
+http://ky-iptv.com:80/Mouse/Mouse/517883.ts
 #EXTINF:-1 ,NBC 9 WTVA TUPELO
-http://ky-iptv.com:80/jfink/jfink/517884.ts
+http://ky-iptv.com:80/Mouse/Mouse/517884.ts
 #EXTINF:-1 ,NBC 10 KTEN ADA
-http://ky-iptv.com:80/jfink/jfink/517885.ts
+http://ky-iptv.com:80/Mouse/Mouse/517885.ts
 #EXTINF:-1 ,NBC 10 KTTC ROCHESTER
-http://ky-iptv.com:80/jfink/jfink/517886.ts
+http://ky-iptv.com:80/Mouse/Mouse/517886.ts
 #EXTINF:-1 ,NBC 10 KTVE EL DORADO
-http://ky-iptv.com:80/jfink/jfink/517887.ts
+http://ky-iptv.com:80/Mouse/Mouse/517887.ts
 #EXTINF:-1 ,NBC 10 WAVY PORTSMOUTH
-http://ky-iptv.com:80/jfink/jfink/517889.ts
+http://ky-iptv.com:80/Mouse/Mouse/517889.ts
 #EXTINF:-1 ,NBC 10 WBIR KNOXVILLE
-http://ky-iptv.com:80/jfink/jfink/517890.ts
+http://ky-iptv.com:80/Mouse/Mouse/517890.ts
 #EXTINF:-1 ,NBC 10 WCAU PHILADELPHIA
-http://ky-iptv.com:80/jfink/jfink/517891.ts
+http://ky-iptv.com:80/Mouse/Mouse/517891.ts
 #EXTINF:-1 ,NBC 10 WGEM QUINCY
-http://ky-iptv.com:80/jfink/jfink/517892.ts
+http://ky-iptv.com:80/Mouse/Mouse/517892.ts
 #EXTINF:-1 ,NBC 10 WIS COLUMBIA
-http://ky-iptv.com:80/jfink/jfink/517894.ts
+http://ky-iptv.com:80/Mouse/Mouse/517894.ts
 #EXTINF:-1 ,NBC 10 WSLS ROANOKE
-http://ky-iptv.com:80/jfink/jfink/517896.ts
+http://ky-iptv.com:80/Mouse/Mouse/517896.ts
 #EXTINF:-1 ,NBC 11 KARE MINNEAPOLIS
-http://ky-iptv.com:80/jfink/jfink/517897.ts
+http://ky-iptv.com:80/Mouse/Mouse/517897.ts
 #EXTINF:-1 ,NBC 11 KCBD LUBBOCK
-http://ky-iptv.com:80/jfink/jfink/517898.ts
+http://ky-iptv.com:80/Mouse/Mouse/517898.ts
 #EXTINF:-1 ,NBC 11 KKCO GRAND JUNCTION
-http://ky-iptv.com:80/jfink/jfink/517899.ts
+http://ky-iptv.com:80/Mouse/Mouse/517899.ts
 #EXTINF:-1 ,NBC 11 KNTV SAN JOSE
-http://ky-iptv.com:80/jfink/jfink/517900.ts
+http://ky-iptv.com:80/Mouse/Mouse/517900.ts
 #EXTINF:-1 ,NBC 11 KTVF FAIRBANKS
-http://ky-iptv.com:80/jfink/jfink/517901.ts
+http://ky-iptv.com:80/Mouse/Mouse/517901.ts
 #EXTINF:-1 ,NBC 11 KVLY FARGO
-http://ky-iptv.com:80/jfink/jfink/517902.ts
+http://ky-iptv.com:80/Mouse/Mouse/517902.ts
 #EXTINF:-1 ,NBC 11 WBAL BALTIMORE
-http://ky-iptv.com:80/jfink/jfink/517903.ts
+http://ky-iptv.com:80/Mouse/Mouse/517903.ts
 #EXTINF:-1 ,NBC 11 WPXI PITTSBURGH
-http://ky-iptv.com:80/jfink/jfink/517904.ts
+http://ky-iptv.com:80/Mouse/Mouse/517904.ts
 #EXTINF:-1 ,NBC 11 WXIA ATLANTA
-http://ky-iptv.com:80/jfink/jfink/517905.ts
+http://ky-iptv.com:80/Mouse/Mouse/517905.ts
 #EXTINF:-1 ,NBC 12 KPNX MESA
-http://ky-iptv.com:80/jfink/jfink/517906.ts
+http://ky-iptv.com:80/Mouse/Mouse/517906.ts
 #EXTINF:-1 ,NBC 12 KTVH HELENA
-http://ky-iptv.com:80/jfink/jfink/517907.ts
+http://ky-iptv.com:80/Mouse/Mouse/517907.ts
 #EXTINF:-1 ,NBC 12 WBOY CLARKSBURG
-http://ky-iptv.com:80/jfink/jfink/517908.ts
+http://ky-iptv.com:80/Mouse/Mouse/517908.ts
 #EXTINF:-1 ,NBC 12 WICU ERIE
-http://ky-iptv.com:80/jfink/jfink/517909.ts
+http://ky-iptv.com:80/Mouse/Mouse/517909.ts
 #EXTINF:-1 ,NBC 12 WJFW RHINELANDER
-http://ky-iptv.com:80/jfink/jfink/517910.ts
+http://ky-iptv.com:80/Mouse/Mouse/517910.ts
 #EXTINF:-1 ,NBC 12 WSFA MONTGOMERY
-http://ky-iptv.com:80/jfink/jfink/517911.ts
+http://ky-iptv.com:80/Mouse/Mouse/517911.ts
 #EXTINF:-1 ,NBC 12 WTLV JACKSONVILLE
-http://ky-iptv.com:80/jfink/jfink/517912.ts
+http://ky-iptv.com:80/Mouse/Mouse/517912.ts
 #EXTINF:-1 ,NBC 12 WWBT RICHMOND
-http://ky-iptv.com:80/jfink/jfink/517913.ts
+http://ky-iptv.com:80/Mouse/Mouse/517913.ts
 #EXTINF:-1 ,NBC 12 WXII GREENSBORO
-http://ky-iptv.com:80/jfink/jfink/517914.ts
+http://ky-iptv.com:80/Mouse/Mouse/517914.ts
 #EXTINF:-1 ,NBC 13 KCWY CASPER/RIVERTON
-http://ky-iptv.com:80/jfink/jfink/517915.ts
+http://ky-iptv.com:80/Mouse/Mouse/517915.ts
 #EXTINF:-1 ,NBC 13 KECI MISSOULA
-http://ky-iptv.com:80/jfink/jfink/517916.ts
+http://ky-iptv.com:80/Mouse/Mouse/517916.ts
 #EXTINF:-1 ,NBC 13 KHNL HONOLULU
-http://ky-iptv.com:80/jfink/jfink/517917.ts
+http://ky-iptv.com:80/Mouse/Mouse/517917.ts
 #EXTINF:-1 ,NBC 13 KYMA YUMA
-http://ky-iptv.com:80/jfink/jfink/517919.ts
+http://ky-iptv.com:80/Mouse/Mouse/517919.ts
 #EXTINF:-1 ,NBC 13 WEAU EAU CLAIRE
-http://ky-iptv.com:80/jfink/jfink/517920.ts
+http://ky-iptv.com:80/Mouse/Mouse/517920.ts
 #EXTINF:-1 ,NBC 13 WHO DES MOINES
-http://ky-iptv.com:80/jfink/jfink/517921.ts
+http://ky-iptv.com:80/Mouse/Mouse/517921.ts
 #EXTINF:-1 ,NBC 13 WNYT ALBANY
-http://ky-iptv.com:80/jfink/jfink/517922.ts
+http://ky-iptv.com:80/Mouse/Mouse/517922.ts
 #EXTINF:-1 ,NBC 13 WREX ROCKFORD
-http://ky-iptv.com:80/jfink/jfink/517923.ts
+http://ky-iptv.com:80/Mouse/Mouse/517923.ts
 #EXTINF:-1 ,NBC 13 WRGX DOTHAN
-http://ky-iptv.com:80/jfink/jfink/517924.ts
+http://ky-iptv.com:80/Mouse/Mouse/517924.ts
 #EXTINF:-1 ,NBC 13 WTHR INDIANAPOLIS
-http://ky-iptv.com:80/jfink/jfink/517925.ts
+http://ky-iptv.com:80/Mouse/Mouse/517925.ts
 #EXTINF:-1 ,NBC 13 WVTM BIRMINGHAM
-http://ky-iptv.com:80/jfink/jfink/517926.ts
+http://ky-iptv.com:80/Mouse/Mouse/517926.ts
 #EXTINF:-1 ,NBC 14 WFIE EVANSVILLE
-http://ky-iptv.com:80/jfink/jfink/517927.ts
+http://ky-iptv.com:80/Mouse/Mouse/517927.ts
 #EXTINF:-1 ,NBC 15 WMTV MADISON
-http://ky-iptv.com:80/jfink/jfink/517928.ts
+http://ky-iptv.com:80/Mouse/Mouse/517928.ts
 #EXTINF:-1 ,NBC 15 WPMI ALABAMA
-http://ky-iptv.com:80/jfink/jfink/517929.ts
+http://ky-iptv.com:80/Mouse/Mouse/517929.ts
 #EXTINF:-1 ,NBC 15 WTAP PARKERSBURG
-http://ky-iptv.com:80/jfink/jfink/517930.ts
+http://ky-iptv.com:80/Mouse/Mouse/517930.ts
 #EXTINF:-1 ,NBC 16 KMTR EUGENE
-http://ky-iptv.com:80/jfink/jfink/517931.ts
+http://ky-iptv.com:80/Mouse/Mouse/517931.ts
 #EXTINF:-1 ,NBC 16 KTGF GREAT FALLS
-http://ky-iptv.com:80/jfink/jfink/517932.ts
+http://ky-iptv.com:80/Mouse/Mouse/517932.ts
 #EXTINF:-1 ,NBC 16 WNDU SOUTH BEND
-http://ky-iptv.com:80/jfink/jfink/517933.ts
+http://ky-iptv.com:80/Mouse/Mouse/517933.ts
 #EXTINF:-1 ,NBC 17 KGET BAKERSFIELD
-http://ky-iptv.com:80/jfink/jfink/517934.ts
+http://ky-iptv.com:80/Mouse/Mouse/517934.ts
 #EXTINF:-1 ,NBC 17 KSNF JOPLIN
-http://ky-iptv.com:80/jfink/jfink/517936.ts
+http://ky-iptv.com:80/Mouse/Mouse/517936.ts
 #EXTINF:-1 ,NBC 17 WAND DECATUR
-http://ky-iptv.com:80/jfink/jfink/517937.ts
+http://ky-iptv.com:80/Mouse/Mouse/517937.ts
 #EXTINF:-1 ,NBC 18 WHIZ ZANESVILLE
-http://ky-iptv.com:80/jfink/jfink/517938.ts
+http://ky-iptv.com:80/Mouse/Mouse/517938.ts
 #EXTINF:-1 ,NBC 18 WLEX LEXINGTON
-http://ky-iptv.com:80/jfink/jfink/517939.ts
+http://ky-iptv.com:80/Mouse/Mouse/517939.ts
 #EXTINF:-1 ,NBC 19 WVGN VIRGIN ISLANDS
-http://ky-iptv.com:80/jfink/jfink/517940.ts
+http://ky-iptv.com:80/Mouse/Mouse/517940.ts
 #EXTINF:-1 ,NBC 20 WBGH BINGHAMTON
-http://ky-iptv.com:80/jfink/jfink/517941.ts
+http://ky-iptv.com:80/Mouse/Mouse/517941.ts
 #EXTINF:-1 ,NBC 21 KNBN RAPID CITY
-http://ky-iptv.com:80/jfink/jfink/517942.ts
+http://ky-iptv.com:80/Mouse/Mouse/517942.ts
 #EXTINF:-1 ,NBC 21 KNPG ST. JOSEPH
-http://ky-iptv.com:80/jfink/jfink/517943.ts
+http://ky-iptv.com:80/Mouse/Mouse/517943.ts
 #EXTINF:-1 ,NBC 21 KTVZ BEND
-http://ky-iptv.com:80/jfink/jfink/517944.ts
+http://ky-iptv.com:80/Mouse/Mouse/517944.ts
 #EXTINF:-1 ,NBC 21 WFMJ YOUNGSTOWN
-http://ky-iptv.com:80/jfink/jfink/517945.ts
+http://ky-iptv.com:80/Mouse/Mouse/517945.ts
 #EXTINF:-1 ,NBC 22 WWLP SPRINGFIELD
-http://ky-iptv.com:80/jfink/jfink/517947.ts
+http://ky-iptv.com:80/Mouse/Mouse/517947.ts
 #EXTINF:-1 ,NBC 23 KAGS BRYAN
-http://ky-iptv.com:80/jfink/jfink/517948.ts
+http://ky-iptv.com:80/Mouse/Mouse/517948.ts
 #EXTINF:-1 ,NBC 23 KNDO YAKIMA
-http://ky-iptv.com:80/jfink/jfink/517949.ts
+http://ky-iptv.com:80/Mouse/Mouse/517949.ts
 #EXTINF:-1 ,NBC 23 KVEO BROWNSVILLE
-http://ky-iptv.com:80/jfink/jfink/517950.ts
+http://ky-iptv.com:80/Mouse/Mouse/517950.ts
 #EXTINF:-1 ,NBC 24 KSEE FRESNO
-http://ky-iptv.com:80/jfink/jfink/517951.ts
+http://ky-iptv.com:80/Mouse/Mouse/517951.ts
 #EXTINF:-1 ,NBC 24 WNWO TOLEDO
-http://ky-iptv.com:80/jfink/jfink/517952.ts
+http://ky-iptv.com:80/Mouse/Mouse/517952.ts
 #EXTINF:-1 ,NBC 25 WEEK PEORIA
-http://ky-iptv.com:80/jfink/jfink/517953.ts
+http://ky-iptv.com:80/Mouse/Mouse/517953.ts
 #EXTINF:-1 ,NBC 25 WEYI SAGINAW
-http://ky-iptv.com:80/jfink/jfink/517954.ts
+http://ky-iptv.com:80/Mouse/Mouse/517954.ts
 #EXTINF:-1 ,NBC 26 WAGT AUGUSTA
-http://ky-iptv.com:80/jfink/jfink/517955.ts
+http://ky-iptv.com:80/Mouse/Mouse/517955.ts
 #EXTINF:-1 ,NBC 26 WGBA GREEN BAY
-http://ky-iptv.com:80/jfink/jfink/517956.ts
+http://ky-iptv.com:80/Mouse/Mouse/517956.ts
 #EXTINF:-1 ,NBC 27 KSNT TOPEKA
-http://ky-iptv.com:80/jfink/jfink/517957.ts
+http://ky-iptv.com:80/Mouse/Mouse/517957.ts
 #EXTINF:-1 ,NBC 28 WBRE WILKES-BARRE
-http://ky-iptv.com:80/jfink/jfink/517958.ts
+http://ky-iptv.com:80/Mouse/Mouse/517958.ts
 #EXTINF:-1 ,NBC 29 WVIR CHARLOTTESVILLE
-http://ky-iptv.com:80/jfink/jfink/517959.ts
+http://ky-iptv.com:80/Mouse/Mouse/517959.ts
 #EXTINF:-1 ,NBC 30 WVIT HARTFORD
-http://ky-iptv.com:80/jfink/jfink/517960.ts
+http://ky-iptv.com:80/Mouse/Mouse/517960.ts
 #EXTINF:-1 ,NBC 30 WVIT NEW BRITAIN
-http://ky-iptv.com:80/jfink/jfink/517961.ts
+http://ky-iptv.com:80/Mouse/Mouse/517961.ts
 #EXTINF:-1 ,NBC 31 WRDE  SALISBURY
-http://ky-iptv.com:80/jfink/jfink/517962.ts
+http://ky-iptv.com:80/Mouse/Mouse/517962.ts
 #EXTINF:-1 ,NBC 33 WVLA BATON ROUGE
-http://ky-iptv.com:80/jfink/jfink/517964.ts
+http://ky-iptv.com:80/Mouse/Mouse/517964.ts
 #EXTINF:-1 ,NBC 36 KXAN AUSTIN
-http://ky-iptv.com:80/jfink/jfink/517965.ts
+http://ky-iptv.com:80/Mouse/Mouse/517965.ts
 #EXTINF:-1 ,NBC 36 WCNC CHARLOTTE
-http://ky-iptv.com:80/jfink/jfink/517966.ts
+http://ky-iptv.com:80/Mouse/Mouse/517966.ts
 #EXTINF:-1 ,NBC 38 WLTZ COLUMBUS
-http://ky-iptv.com:80/jfink/jfink/517967.ts
+http://ky-iptv.com:80/Mouse/Mouse/517967.ts
 #EXTINF:-1 ,NBC 39 KNSD SAN DIEGO
-http://ky-iptv.com:80/jfink/jfink/517968.ts
+http://ky-iptv.com:80/Mouse/Mouse/517968.ts
 #EXTINF:-1 ,NBC 39 WNBJ JACKSON
-http://ky-iptv.com:80/jfink/jfink/517969.ts
+http://ky-iptv.com:80/Mouse/Mouse/517969.ts
 #EXTINF:-1 ,NBC 40 WNKY BOWLING GREEN
-http://ky-iptv.com:80/jfink/jfink/517970.ts
+http://ky-iptv.com:80/Mouse/Mouse/517970.ts
 #EXTINF:-1 ,NBC 40 WTWC TALLAHASSEE
-http://ky-iptv.com:80/jfink/jfink/517971.ts
+http://ky-iptv.com:80/Mouse/Mouse/517971.ts
 #EXTINF:-1 ,NBC 41 KSHB KANSAS CITY
-http://ky-iptv.com:80/jfink/jfink/517972.ts
+http://ky-iptv.com:80/Mouse/Mouse/517972.ts
 #EXTINF:-1 ,NBC 41 WMGT MACON
-http://ky-iptv.com:80/jfink/jfink/517973.ts
+http://ky-iptv.com:80/Mouse/Mouse/517973.ts
 #EXTINF:-1 ,NBC 45 WVNC WATERTOWN
-http://ky-iptv.com:80/jfink/jfink/517974.ts
+http://ky-iptv.com:80/Mouse/Mouse/517974.ts
 #EXTINF:-1 ,NBC 46 KDLT SIOUX FALLS
-http://ky-iptv.com:80/jfink/jfink/517975.ts
+http://ky-iptv.com:80/Mouse/Mouse/517975.ts
 #EXTINF:-1 ,NBC 46 KLAF LAFAYETTE
-http://ky-iptv.com:80/jfink/jfink/517976.ts
+http://ky-iptv.com:80/Mouse/Mouse/517976.ts
 #EXTINF:-1 ,NBC 48 WAFF HUNTSVILLE
-http://ky-iptv.com:80/jfink/jfink/517977.ts
+http://ky-iptv.com:80/Mouse/Mouse/517977.ts
 #EXTINF:-1 ,NBC 51 KNWA FORT SMITH
-http://ky-iptv.com:80/jfink/jfink/517978.ts
+http://ky-iptv.com:80/Mouse/Mouse/517978.ts
 #EXTINF:-1 ,NBC 2 WESH ORLANDO
-http://ky-iptv.com:80/jfink/jfink/517795.ts
+http://ky-iptv.com:80/Mouse/Mouse/517795.ts
 #EXTINF:-1 ,NBC 3 KSNV LAS VEGAS
-http://ky-iptv.com:80/jfink/jfink/517803.ts
+http://ky-iptv.com:80/Mouse/Mouse/517803.ts
 #EXTINF:-1 ,NBC 5 WMC MEMPHIS
-http://ky-iptv.com:80/jfink/jfink/517840.ts
+http://ky-iptv.com:80/Mouse/Mouse/517840.ts
 #EXTINF:-1 ,NBC 4 WNBC NEW YORK
-http://ky-iptv.com:80/jfink/jfink/517827.ts
+http://ky-iptv.com:80/Mouse/Mouse/517827.ts
 #EXTINF:-1 ,NBC 4 WDIV DETROIT
-http://ky-iptv.com:80/jfink/jfink/517821.ts
+http://ky-iptv.com:80/Mouse/Mouse/517821.ts
 #EXTINF:-1 ,NBC 4 WCMH COLUMBUS
-http://ky-iptv.com:80/jfink/jfink/517820.ts
+http://ky-iptv.com:80/Mouse/Mouse/517820.ts
 #EXTINF:-1 ,NBC 5 KING SEATTLE
-http://ky-iptv.com:80/jfink/jfink/517831.ts
+http://ky-iptv.com:80/Mouse/Mouse/517831.ts
 #EXTINF:-1 ,NBC Boston WBTS
-http://ky-iptv.com:80/jfink/jfink/538947.ts
+http://ky-iptv.com:80/Mouse/Mouse/538947.ts
 #EXTINF:-1 ,NBC 25 WXXV Gulfport
-http://ky-iptv.com:80/jfink/jfink/538950.ts
+http://ky-iptv.com:80/Mouse/Mouse/538950.ts
 #EXTINF:-1 ,NBC 3 WSAZ HUNTINGTON
-http://ky-iptv.com:80/jfink/jfink/517809.ts
+http://ky-iptv.com:80/Mouse/Mouse/517809.ts
 #EXTINF:-1 ,NBC 5 WPTV WEST PALM/FORT PIERCE
-http://ky-iptv.com:80/jfink/jfink/517841.ts
+http://ky-iptv.com:80/Mouse/Mouse/517841.ts
 #EXTINF:-1 ,NBC 2 WBBH FORT MYERS
-http://ky-iptv.com:80/jfink/jfink/517791.ts
+http://ky-iptv.com:80/Mouse/Mouse/517791.ts
 #EXTINF:-1 ,NBC 5 WMAQ CHICAGO
-http://ky-iptv.com:80/jfink/jfink/517839.ts
+http://ky-iptv.com:80/Mouse/Mouse/517839.ts
 #EXTINF:-1 ,NBC 9 (WNBW) Gainesville
-http://ky-iptv.com:80/jfink/jfink/648062.ts
+http://ky-iptv.com:80/Mouse/Mouse/648062.ts
 #EXTINF:-1 ,NBC 10 Albany (WALB)
-http://ky-iptv.com:80/jfink/jfink/648602.ts
+http://ky-iptv.com:80/Mouse/Mouse/648602.ts
 #EXTINF:-1 ,NBC 10 Columbia (WIS)
-http://ky-iptv.com:80/jfink/jfink/648603.ts
+http://ky-iptv.com:80/Mouse/Mouse/648603.ts
 #EXTINF:-1 ,NBC 10 Rochester  WHEC
-http://ky-iptv.com:80/jfink/jfink/648604.ts
+http://ky-iptv.com:80/Mouse/Mouse/648604.ts
 #EXTINF:-1 ,NBC 10 WILX Onondaga
-http://ky-iptv.com:80/jfink/jfink/648605.ts
+http://ky-iptv.com:80/Mouse/Mouse/648605.ts
 #EXTINF:-1 ,NBC 10 WJAR Providence
-http://ky-iptv.com:80/jfink/jfink/648606.ts
+http://ky-iptv.com:80/Mouse/Mouse/648606.ts
 #EXTINF:-1 ,NBC 12 WFSA Montgomery
-http://ky-iptv.com:80/jfink/jfink/648607.ts
+http://ky-iptv.com:80/Mouse/Mouse/648607.ts
 #EXTINF:-1 ,NBC 13  WNYT Albany
-http://ky-iptv.com:80/jfink/jfink/648608.ts
+http://ky-iptv.com:80/Mouse/Mouse/648608.ts
 #EXTINF:-1 ,NBC 13 WVTM Birmingham
-http://ky-iptv.com:80/jfink/jfink/648609.ts
+http://ky-iptv.com:80/Mouse/Mouse/648609.ts
 #EXTINF:-1 ,NBC 2 (WDTN) Dayton
-http://ky-iptv.com:80/jfink/jfink/648610.ts
+http://ky-iptv.com:80/Mouse/Mouse/648610.ts
 #EXTINF:-1 ,NBC 25 WEYI Saginaw
-http://ky-iptv.com:80/jfink/jfink/648612.ts
+http://ky-iptv.com:80/Mouse/Mouse/648612.ts
 #EXTINF:-1 ,NBC 3 (WAVE) Louisville
-http://ky-iptv.com:80/jfink/jfink/648613.ts
+http://ky-iptv.com:80/Mouse/Mouse/648613.ts
 #EXTINF:-1 ,NBC 3 KSNW Wichita
-http://ky-iptv.com:80/jfink/jfink/648614.ts
+http://ky-iptv.com:80/Mouse/Mouse/648614.ts
 #EXTINF:-1 ,NBC 3 WRCB Chattanooga
-http://ky-iptv.com:80/jfink/jfink/648615.ts
+http://ky-iptv.com:80/Mouse/Mouse/648615.ts
 #EXTINF:-1 ,NBC 36 (KXAN) Austin
-http://ky-iptv.com:80/jfink/jfink/648617.ts
+http://ky-iptv.com:80/Mouse/Mouse/648617.ts
 #EXTINF:-1 ,NBC 4 (KFOR) Oklahoma City
-http://ky-iptv.com:80/jfink/jfink/648618.ts
+http://ky-iptv.com:80/Mouse/Mouse/648618.ts
 #EXTINF:-1 ,NBC 4 KOB Albuquerque
-http://ky-iptv.com:80/jfink/jfink/648619.ts
+http://ky-iptv.com:80/Mouse/Mouse/648619.ts
 #EXTINF:-1 ,NBC 4 WCMH Columbus
-http://ky-iptv.com:80/jfink/jfink/648620.ts
+http://ky-iptv.com:80/Mouse/Mouse/648620.ts
 #EXTINF:-1 ,NBC 40 (WNKY) Bowling Green
-http://ky-iptv.com:80/jfink/jfink/648621.ts
+http://ky-iptv.com:80/Mouse/Mouse/648621.ts
 #EXTINF:-1 ,NBC 40 WTWC Tallahassee
-http://ky-iptv.com:80/jfink/jfink/648623.ts
+http://ky-iptv.com:80/Mouse/Mouse/648623.ts
 #EXTINF:-1 ,NBC 45 (WVNC) Watertown
-http://ky-iptv.com:80/jfink/jfink/648624.ts
+http://ky-iptv.com:80/Mouse/Mouse/648624.ts
 #EXTINF:-1 ,NBC 48 WAFF Huntsville
-http://ky-iptv.com:80/jfink/jfink/648625.ts
+http://ky-iptv.com:80/Mouse/Mouse/648625.ts
 #EXTINF:-1 ,NBC 5 WMC Memphis
-http://ky-iptv.com:80/jfink/jfink/648626.ts
+http://ky-iptv.com:80/Mouse/Mouse/648626.ts
 #EXTINF:-1 ,NBC 6 Omaha (WOWT)
-http://ky-iptv.com:80/jfink/jfink/648627.ts
+http://ky-iptv.com:80/Mouse/Mouse/648627.ts
 #EXTINF:-1 ,NBC 7 WJHG Panama City
-http://ky-iptv.com:80/jfink/jfink/648629.ts
+http://ky-iptv.com:80/Mouse/Mouse/648629.ts
 #EXTINF:-1 ,NBC 7 WPBN Traverse City
-http://ky-iptv.com:80/jfink/jfink/648630.ts
+http://ky-iptv.com:80/Mouse/Mouse/648630.ts
 #EXTINF:-1 ,NBC 8 (WLIO) Lima
-http://ky-iptv.com:80/jfink/jfink/648631.ts
+http://ky-iptv.com:80/Mouse/Mouse/648631.ts
 #EXTINF:-1 ,NBC 8 WOOD Grand Rapids
-http://ky-iptv.com:80/jfink/jfink/648632.ts
+http://ky-iptv.com:80/Mouse/Mouse/648632.ts
 #EXTINF:-1 ,NBC Atlanta WXIA
-http://ky-iptv.com:80/jfink/jfink/648633.ts
+http://ky-iptv.com:80/Mouse/Mouse/648633.ts
 #EXTINF:-1 ,NBC Baltimore WBAL
-http://ky-iptv.com:80/jfink/jfink/648634.ts
+http://ky-iptv.com:80/Mouse/Mouse/648634.ts
 #EXTINF:-1 ,NBC Buffalo WGRZ
-http://ky-iptv.com:80/jfink/jfink/648635.ts
+http://ky-iptv.com:80/Mouse/Mouse/648635.ts
 #EXTINF:-1 ,NBC Charlotte WCNC
-http://ky-iptv.com:80/jfink/jfink/648636.ts
+http://ky-iptv.com:80/Mouse/Mouse/648636.ts
 #EXTINF:-1 ,NBC Chicago WMAQ
-http://ky-iptv.com:80/jfink/jfink/648637.ts
+http://ky-iptv.com:80/Mouse/Mouse/648637.ts
 #EXTINF:-1 ,NBC Cincinnati WLWT
-http://ky-iptv.com:80/jfink/jfink/648638.ts
+http://ky-iptv.com:80/Mouse/Mouse/648638.ts
 #EXTINF:-1 ,NBC Cleveland WKYC
-http://ky-iptv.com:80/jfink/jfink/648639.ts
+http://ky-iptv.com:80/Mouse/Mouse/648639.ts
 #EXTINF:-1 ,NBC Dallas KXAS
-http://ky-iptv.com:80/jfink/jfink/648640.ts
+http://ky-iptv.com:80/Mouse/Mouse/648640.ts
 #EXTINF:-1 ,NBC Denver KUSA
-http://ky-iptv.com:80/jfink/jfink/648641.ts
+http://ky-iptv.com:80/Mouse/Mouse/648641.ts
 #EXTINF:-1 ,NBC Detroit WDIV
-http://ky-iptv.com:80/jfink/jfink/648642.ts
+http://ky-iptv.com:80/Mouse/Mouse/648642.ts
 #EXTINF:-1 ,NBC East New York SD
-http://ky-iptv.com:80/jfink/jfink/648643.ts
+http://ky-iptv.com:80/Mouse/Mouse/648643.ts
 #EXTINF:-1 ,NBC East UHD (Miami)
-http://ky-iptv.com:80/jfink/jfink/648644.ts
+http://ky-iptv.com:80/Mouse/Mouse/648644.ts
 #EXTINF:-1 ,NBC Green Bay WGBA
-http://ky-iptv.com:80/jfink/jfink/648645.ts
+http://ky-iptv.com:80/Mouse/Mouse/648645.ts
 #EXTINF:-1 ,NBC Hartford WVIT
-http://ky-iptv.com:80/jfink/jfink/648646.ts
+http://ky-iptv.com:80/Mouse/Mouse/648646.ts
 #EXTINF:-1 ,NBC Houston KPRC
-http://ky-iptv.com:80/jfink/jfink/648647.ts
+http://ky-iptv.com:80/Mouse/Mouse/648647.ts
 #EXTINF:-1 ,NBC Jacksonville WTLV
-http://ky-iptv.com:80/jfink/jfink/648648.ts
+http://ky-iptv.com:80/Mouse/Mouse/648648.ts
 #EXTINF:-1 ,NBC Los Angeles KNBC
-http://ky-iptv.com:80/jfink/jfink/648649.ts
+http://ky-iptv.com:80/Mouse/Mouse/648649.ts
 #EXTINF:-1 ,NBC Miami WTVJ
-http://ky-iptv.com:80/jfink/jfink/648650.ts
+http://ky-iptv.com:80/Mouse/Mouse/648650.ts
 #EXTINF:-1 ,NBC Milwaukee WTMJ
-http://ky-iptv.com:80/jfink/jfink/648651.ts
+http://ky-iptv.com:80/Mouse/Mouse/648651.ts
 #EXTINF:-1 ,NBC Minneapolis KARE
-http://ky-iptv.com:80/jfink/jfink/648652.ts
+http://ky-iptv.com:80/Mouse/Mouse/648652.ts
 #EXTINF:-1 ,NBC Nashville WSMV
-http://ky-iptv.com:80/jfink/jfink/648653.ts
+http://ky-iptv.com:80/Mouse/Mouse/648653.ts
 #EXTINF:-1 ,NBC New Orleans WDSU
-http://ky-iptv.com:80/jfink/jfink/648654.ts
+http://ky-iptv.com:80/Mouse/Mouse/648654.ts
 #EXTINF:-1 ,NBC Orlando WESH
-http://ky-iptv.com:80/jfink/jfink/648655.ts
+http://ky-iptv.com:80/Mouse/Mouse/648655.ts
 #EXTINF:-1 ,NBC Philadelphia WCAU
-http://ky-iptv.com:80/jfink/jfink/648656.ts
+http://ky-iptv.com:80/Mouse/Mouse/648656.ts
 #EXTINF:-1 ,NBC Phoenix KPNX
-http://ky-iptv.com:80/jfink/jfink/648657.ts
+http://ky-iptv.com:80/Mouse/Mouse/648657.ts
 #EXTINF:-1 ,NBC Pittsburgh WPXI
-http://ky-iptv.com:80/jfink/jfink/648658.ts
+http://ky-iptv.com:80/Mouse/Mouse/648658.ts
 #EXTINF:-1 ,NBC Portland KGW
-http://ky-iptv.com:80/jfink/jfink/648659.ts
+http://ky-iptv.com:80/Mouse/Mouse/648659.ts
 #EXTINF:-1 ,NBC Raleigh WRAL
-http://ky-iptv.com:80/jfink/jfink/648660.ts
+http://ky-iptv.com:80/Mouse/Mouse/648660.ts
 #EXTINF:-1 ,NBC Sacramento KCRA
-http://ky-iptv.com:80/jfink/jfink/648661.ts
+http://ky-iptv.com:80/Mouse/Mouse/648661.ts
 #EXTINF:-1 ,NBC San Diego KNSD
-http://ky-iptv.com:80/jfink/jfink/648662.ts
+http://ky-iptv.com:80/Mouse/Mouse/648662.ts
 #EXTINF:-1 ,NBC San Francisco KNTV
-http://ky-iptv.com:80/jfink/jfink/648663.ts
+http://ky-iptv.com:80/Mouse/Mouse/648663.ts
 #EXTINF:-1 ,NBC Seattle KING
-http://ky-iptv.com:80/jfink/jfink/648664.ts
+http://ky-iptv.com:80/Mouse/Mouse/648664.ts
 #EXTINF:-1 ,NBC St Louis KSDK
-http://ky-iptv.com:80/jfink/jfink/648665.ts
+http://ky-iptv.com:80/Mouse/Mouse/648665.ts
 #EXTINF:-1 ,NBC TAMPA WFLA
-http://ky-iptv.com:80/jfink/jfink/648666.ts
+http://ky-iptv.com:80/Mouse/Mouse/648666.ts
 #EXTINF:-1 ,NBC Washington WRC
-http://ky-iptv.com:80/jfink/jfink/648667.ts
+http://ky-iptv.com:80/Mouse/Mouse/648667.ts
 #EXTINF:-1 ,NBC Winston Salem WXII
-http://ky-iptv.com:80/jfink/jfink/648669.ts
+http://ky-iptv.com:80/Mouse/Mouse/648669.ts
 #EXTINF:-1 ,NBC WLBT Jackson
-http://ky-iptv.com:80/jfink/jfink/648670.ts
+http://ky-iptv.com:80/Mouse/Mouse/648670.ts
 #EXTINF:-1 ,NBC WLEX Lexington
-http://ky-iptv.com:80/jfink/jfink/648671.ts
+http://ky-iptv.com:80/Mouse/Mouse/648671.ts
 #EXTINF:-1 ,NBC WNBJ Jackson
-http://ky-iptv.com:80/jfink/jfink/648672.ts
+http://ky-iptv.com:80/Mouse/Mouse/648672.ts
 #EXTINF:-1 ,NBC WPSD Paducah
-http://ky-iptv.com:80/jfink/jfink/648673.ts
+http://ky-iptv.com:80/Mouse/Mouse/648673.ts
 #EXTINF:-1 ,NBC WTHR Indianapolis
-http://ky-iptv.com:80/jfink/jfink/648674.ts
+http://ky-iptv.com:80/Mouse/Mouse/648674.ts
 #EXTINF:-1 ,NBC11 (KCBD) Lubbock
-http://ky-iptv.com:80/jfink/jfink/648675.ts
+http://ky-iptv.com:80/Mouse/Mouse/648675.ts
 #EXTINF:-1 ,NBC15 WPMI Alabama
-http://ky-iptv.com:80/jfink/jfink/648676.ts
+http://ky-iptv.com:80/Mouse/Mouse/648676.ts
 #EXTINF:-1 ,NBC2 (KTUU) Anchorage
-http://ky-iptv.com:80/jfink/jfink/648677.ts
+http://ky-iptv.com:80/Mouse/Mouse/648677.ts
 #EXTINF:-1 ,NBC2 (WCBD) Charleston
-http://ky-iptv.com:80/jfink/jfink/648678.ts
+http://ky-iptv.com:80/Mouse/Mouse/648678.ts
 #EXTINF:-1 ,NBC23 (KAGS) Bryan
-http://ky-iptv.com:80/jfink/jfink/648679.ts
+http://ky-iptv.com:80/Mouse/Mouse/648679.ts
 #EXTINF:-1 ,NBC3 (KSNV) Las Vegas
-http://ky-iptv.com:80/jfink/jfink/648680.ts
+http://ky-iptv.com:80/Mouse/Mouse/648680.ts
 #EXTINF:-1 ,NBC3 (WSTM) Syracuse
-http://ky-iptv.com:80/jfink/jfink/648681.ts
+http://ky-iptv.com:80/Mouse/Mouse/648681.ts
 #EXTINF:-1 ,NBC33 (WVLA) Baton Rouge
-http://ky-iptv.com:80/jfink/jfink/648682.ts
+http://ky-iptv.com:80/Mouse/Mouse/648682.ts
 #EXTINF:-1 ,NBC51 (KNWA) Fort Smith
-http://ky-iptv.com:80/jfink/jfink/648683.ts
+http://ky-iptv.com:80/Mouse/Mouse/648683.ts
 #EXTINF:-1 ,NBC8 (KOMU) Jefferson City
-http://ky-iptv.com:80/jfink/jfink/648684.ts
+http://ky-iptv.com:80/Mouse/Mouse/648684.ts
 #EXTINF:-1 ,NBC 10 NECN Boston
-http://ky-iptv.com:80/jfink/jfink/648685.ts
+http://ky-iptv.com:80/Mouse/Mouse/648685.ts
 #EXTINF:-1 ,NBC 3 KSAN SAN ANGELO
-http://ky-iptv.com:80/jfink/jfink/517802.ts
+http://ky-iptv.com:80/Mouse/Mouse/517802.ts
 #EXTINF:-1 ,NBC 6 KBJR WISCONSIN
-http://ky-iptv.com:80/jfink/jfink/517845.ts
+http://ky-iptv.com:80/Mouse/Mouse/517845.ts
 #EXTINF:-1 ,NBC 3 WAVE LOUISVILLE
-http://ky-iptv.com:80/jfink/jfink/517805.ts
+http://ky-iptv.com:80/Mouse/Mouse/517805.ts
 #EXTINF:-1 ,NBC 2 KTUU ANCHORAGE
-http://ky-iptv.com:80/jfink/jfink/517790.ts
+http://ky-iptv.com:80/Mouse/Mouse/517790.ts
 #EXTINF:-1 ,NBC 2 WCBD CHARLESTON
-http://ky-iptv.com:80/jfink/jfink/517792.ts
+http://ky-iptv.com:80/Mouse/Mouse/517792.ts
 #EXTINF:-1 ,NBC 2 WDTN DAYTON
-http://ky-iptv.com:80/jfink/jfink/517793.ts
+http://ky-iptv.com:80/Mouse/Mouse/517793.ts
 #EXTINF:-1 ,NBC 2 WESH DAYTONA BEACH
-http://ky-iptv.com:80/jfink/jfink/517794.ts
+http://ky-iptv.com:80/Mouse/Mouse/517794.ts
 #EXTINF:-1 ,NBC 2 WGRZ BUFFALO
-http://ky-iptv.com:80/jfink/jfink/517796.ts
+http://ky-iptv.com:80/Mouse/Mouse/517796.ts
 #EXTINF:-1 ,NBC 2 WKTV UTICA
-http://ky-iptv.com:80/jfink/jfink/517797.ts
+http://ky-iptv.com:80/Mouse/Mouse/517797.ts
 #EXTINF:-1 ,NBC 3 WKYC CLEVELAND
-http://ky-iptv.com:80/jfink/jfink/517806.ts
+http://ky-iptv.com:80/Mouse/Mouse/517806.ts
 #EXTINF:-1 ,NBC 3 WLBT JACKSON
-http://ky-iptv.com:80/jfink/jfink/517807.ts
+http://ky-iptv.com:80/Mouse/Mouse/517807.ts
 #EXTINF:-1 ,NBC 3 WSAV SAVANNAH
-http://ky-iptv.com:80/jfink/jfink/517808.ts
+http://ky-iptv.com:80/Mouse/Mouse/517808.ts
 #EXTINF:-1 ,NBC 4 KNBC LOS ANGELES
-http://ky-iptv.com:80/jfink/jfink/517814.ts
+http://ky-iptv.com:80/Mouse/Mouse/517814.ts
 #EXTINF:-1 ,NBC 4 KOB ALBUQUERQUE
-http://ky-iptv.com:80/jfink/jfink/517816.ts
+http://ky-iptv.com:80/Mouse/Mouse/517816.ts
 #EXTINF:-1 ,NBC 4 KSNB SUPERIOR
-http://ky-iptv.com:80/jfink/jfink/517817.ts
+http://ky-iptv.com:80/Mouse/Mouse/517817.ts
 #EXTINF:-1 ,NBC 4 KTI SIOUX CITY
-http://ky-iptv.com:80/jfink/jfink/517818.ts
+http://ky-iptv.com:80/Mouse/Mouse/517818.ts
 #EXTINF:-1 ,NBC 4 KVOA TUCSON
-http://ky-iptv.com:80/jfink/jfink/517819.ts
+http://ky-iptv.com:80/Mouse/Mouse/517819.ts
 #EXTINF:-1 ,NBC 4 WOAI SAN ANTONIO
-http://ky-iptv.com:80/jfink/jfink/517822.ts
+http://ky-iptv.com:80/Mouse/Mouse/517822.ts
 #EXTINF:-1 ,NBC 5 KALB LOUISIANA
-http://ky-iptv.com:80/jfink/jfink/517828.ts
+http://ky-iptv.com:80/Mouse/Mouse/517828.ts
 #EXTINF:-1 ,NBC 5 KATH JUNEAU/DOUGLAS
-http://ky-iptv.com:80/jfink/jfink/517829.ts
+http://ky-iptv.com:80/Mouse/Mouse/517829.ts
 #EXTINF:-1 ,NBC 5 KFYR BISMARK
-http://ky-iptv.com:80/jfink/jfink/517830.ts
+http://ky-iptv.com:80/Mouse/Mouse/517830.ts
 #EXTINF:-1 ,NBC 5 KOAA PUEBLO
-http://ky-iptv.com:80/jfink/jfink/517832.ts
+http://ky-iptv.com:80/Mouse/Mouse/517832.ts
 #EXTINF:-1 ,NBC 5 KOBI MEDFORD
-http://ky-iptv.com:80/jfink/jfink/517833.ts
+http://ky-iptv.com:80/Mouse/Mouse/517833.ts
 #EXTINF:-1 ,NBC 5 KSDK ST. LOUIS
-http://ky-iptv.com:80/jfink/jfink/517834.ts
+http://ky-iptv.com:80/Mouse/Mouse/517834.ts
 #EXTINF:-1 ,NBC 5 WPTZ PLATTSBURGH
-http://ky-iptv.com:80/jfink/jfink/517842.ts
+http://ky-iptv.com:80/Mouse/Mouse/517842.ts
 #EXTINF:-1 ,NBC 5 WRAL DURHAM/RALEIGH
-http://ky-iptv.com:80/jfink/jfink/517843.ts
+http://ky-iptv.com:80/Mouse/Mouse/517843.ts
 #EXTINF:-1 ,NBC 6 KBJR DULUTH
-http://ky-iptv.com:80/jfink/jfink/517844.ts
+http://ky-iptv.com:80/Mouse/Mouse/517844.ts
 #EXTINF:-1 ,NBC 6 KCEN TEMPLE
-http://ky-iptv.com:80/jfink/jfink/517846.ts
+http://ky-iptv.com:80/Mouse/Mouse/517846.ts
 #EXTINF:-1 ,NBC 6 KHQ SPOKANE
-http://ky-iptv.com:80/jfink/jfink/517847.ts
+http://ky-iptv.com:80/Mouse/Mouse/517847.ts
 #EXTINF:-1 ,NBC UNIVERSO
-http://ky-iptv.com:80/jfink/jfink/975701.ts
+http://ky-iptv.com:80/Mouse/Mouse/975701.ts
 #EXTINF:-1 ,NBC 10 WHEC ROCHESTER
-http://ky-iptv.com:80/jfink/jfink/517893.ts
+http://ky-iptv.com:80/Mouse/Mouse/517893.ts
 #EXTINF:-1 ,NBC 21 WPTA FORT WAYNE
-http://ky-iptv.com:80/jfink/jfink/517946.ts
+http://ky-iptv.com:80/Mouse/Mouse/517946.ts
 #EXTINF:-1 ,NBC 17 KMOL VICTORIA
-http://ky-iptv.com:80/jfink/jfink/517935.ts
+http://ky-iptv.com:80/Mouse/Mouse/517935.ts
 #EXTINF:-1 ,NBC 13 KTVM MONTANA
-http://ky-iptv.com:80/jfink/jfink/517918.ts
+http://ky-iptv.com:80/Mouse/Mouse/517918.ts
 #EXTINF:-1 ,NBC 9 KRBC ABILENE
-http://ky-iptv.com:80/jfink/jfink/517879.ts
+http://ky-iptv.com:80/Mouse/Mouse/517879.ts
 #EXTINF:-1 ,NBC 8 KOMU JEFFERSON CITY
-http://ky-iptv.com:80/jfink/jfink/517873.ts
+http://ky-iptv.com:80/Mouse/Mouse/517873.ts
 #EXTINF:-1 ,NBC 6 KRIS CORPUS CHRISTI
-http://ky-iptv.com:80/jfink/jfink/517850.ts
+http://ky-iptv.com:80/Mouse/Mouse/517850.ts
 #EXTINF:-1 ,NBC 4 KARK LITTLE ROCK
-http://ky-iptv.com:80/jfink/jfink/517812.ts
+http://ky-iptv.com:80/Mouse/Mouse/517812.ts
 #EXTINF:-1 ,NBC 3 KYTV SPRINGFIELD
-http://ky-iptv.com:80/jfink/jfink/517804.ts
+http://ky-iptv.com:80/Mouse/Mouse/517804.ts
 #EXTINF:-1 ,NBC 2 WTWO TERRE HAUTE
-http://ky-iptv.com:80/jfink/jfink/517799.ts
+http://ky-iptv.com:80/Mouse/Mouse/517799.ts
 #EXTINF:-1 ,NBC 11 KKCO GRAND JUNCTION
-http://ky-iptv.com:80/jfink/jfink/181325.ts
+http://ky-iptv.com:80/Mouse/Mouse/181325.ts
 #EXTINF:-1 ,NBC 10 WJAR RHODE ISLAND
-http://ky-iptv.com:80/jfink/jfink/517895.ts
+http://ky-iptv.com:80/Mouse/Mouse/517895.ts
 #EXTINF:-1 ,NBC 8 WYCN-LD
-http://ky-iptv.com:80/jfink/jfink/518090.ts
+http://ky-iptv.com:80/Mouse/Mouse/518090.ts
 #EXTINF:-1 ,NBC 6 WJAC JOHNSTOWN
-http://ky-iptv.com:80/jfink/jfink/517856.ts
+http://ky-iptv.com:80/Mouse/Mouse/517856.ts
 #EXTINF:-1 ,NBC Dateline
-http://ky-iptv.com:80/jfink/jfink/1383046.ts
+http://ky-iptv.com:80/Mouse/Mouse/1383046.ts
 #EXTINF:-1 ,NBC Golf Pass
-http://ky-iptv.com:80/jfink/jfink/1383047.ts
+http://ky-iptv.com:80/Mouse/Mouse/1383047.ts
 #EXTINF:-1 ,NBC Sports
-http://ky-iptv.com:80/jfink/jfink/1383049.ts
+http://ky-iptv.com:80/Mouse/Mouse/1383049.ts
 #EXTINF:-1 ,NBC Sports Philadelphia
-http://ky-iptv.com:80/jfink/jfink/1565710.ts
+http://ky-iptv.com:80/Mouse/Mouse/1565710.ts
 #EXTINF:-1 ,NBC 6 WLUC Marquette
-http://ky-iptv.com:80/jfink/jfink/648628.ts
+http://ky-iptv.com:80/Mouse/Mouse/648628.ts
 #EXTINF:-1 ,NBC  (WYCN) Nashua
-http://ky-iptv.com:80/jfink/jfink/182027.ts
+http://ky-iptv.com:80/Mouse/Mouse/182027.ts
 #EXTINF:-1 ,NBC 10 WALB ALBANY
-http://ky-iptv.com:80/jfink/jfink/517888.ts
+http://ky-iptv.com:80/Mouse/Mouse/517888.ts
 #EXTINF:-1 ,NBC 32 WMBF MYRTLE BEACH
-http://ky-iptv.com:80/jfink/jfink/517963.ts
+http://ky-iptv.com:80/Mouse/Mouse/517963.ts
 #EXTINF:-1 ,NBC 32 (WMBF) Myrtle beach
-http://ky-iptv.com:80/jfink/jfink/648616.ts
+http://ky-iptv.com:80/Mouse/Mouse/648616.ts
 #EXTINF:-1 ,NBC News NOW
-http://ky-iptv.com:80/jfink/jfink/2007315.ts
+http://ky-iptv.com:80/Mouse/Mouse/2007315.ts
 #EXTINF:-1 ,NBC 6 WLUC MARQUETTE
-http://ky-iptv.com:80/jfink/jfink/517857.ts
+http://ky-iptv.com:80/Mouse/Mouse/517857.ts
 #EXTINF:-1 ,NBC 7 WDAM HATTIESBURG
-http://ky-iptv.com:80/jfink/jfink/517866.ts
+http://ky-iptv.com:80/Mouse/Mouse/517866.ts
 #EXTINF:-1 ,CBS Sports Network
-http://ky-iptv.com:80/jfink/jfink/176607.ts
+http://ky-iptv.com:80/Mouse/Mouse/176607.ts
 #EXTINF:-1 ,CBSN News HD
-http://ky-iptv.com:80/jfink/jfink/209624.ts
+http://ky-iptv.com:80/Mouse/Mouse/209624.ts
 #EXTINF:-1 ,CBSN Boston
-http://ky-iptv.com:80/jfink/jfink/399823.ts
+http://ky-iptv.com:80/Mouse/Mouse/399823.ts
 #EXTINF:-1 ,CBSN Bay Area
-http://ky-iptv.com:80/jfink/jfink/399822.ts
+http://ky-iptv.com:80/Mouse/Mouse/399822.ts
 #EXTINF:-1 ,CBSN New York
-http://ky-iptv.com:80/jfink/jfink/399829.ts
+http://ky-iptv.com:80/Mouse/Mouse/399829.ts
 #EXTINF:-1 ,CBSN Pittsburgh
-http://ky-iptv.com:80/jfink/jfink/399831.ts
+http://ky-iptv.com:80/Mouse/Mouse/399831.ts
 #EXTINF:-1 ,CBSN Denver
-http://ky-iptv.com:80/jfink/jfink/399826.ts
+http://ky-iptv.com:80/Mouse/Mouse/399826.ts
 #EXTINF:-1 ,CBSN Minnesota
-http://ky-iptv.com:80/jfink/jfink/399828.ts
+http://ky-iptv.com:80/Mouse/Mouse/399828.ts
 #EXTINF:-1 ,CBSN Chicago
-http://ky-iptv.com:80/jfink/jfink/399824.ts
+http://ky-iptv.com:80/Mouse/Mouse/399824.ts
 #EXTINF:-1 ,CBSN Philly
-http://ky-iptv.com:80/jfink/jfink/399830.ts
+http://ky-iptv.com:80/Mouse/Mouse/399830.ts
 #EXTINF:-1 ,CBS 2 KBOI BOISE
-http://ky-iptv.com:80/jfink/jfink/517518.ts
+http://ky-iptv.com:80/Mouse/Mouse/517518.ts
 #EXTINF:-1 ,CBS 2 KCBS LOS ANGELES
-http://ky-iptv.com:80/jfink/jfink/517519.ts
+http://ky-iptv.com:80/Mouse/Mouse/517519.ts
 #EXTINF:-1 ,CBS 2 KDKA PITTSBURGH
-http://ky-iptv.com:80/jfink/jfink/517520.ts
+http://ky-iptv.com:80/Mouse/Mouse/517520.ts
 #EXTINF:-1 ,CBS 2 KGAN CEDAR RAPIDS
-http://ky-iptv.com:80/jfink/jfink/517521.ts
+http://ky-iptv.com:80/Mouse/Mouse/517521.ts
 #EXTINF:-1 ,CBS 2 KREM SPOKANE
-http://ky-iptv.com:80/jfink/jfink/517522.ts
+http://ky-iptv.com:80/Mouse/Mouse/517522.ts
 #EXTINF:-1 ,CBS 2 KTVN RENO
-http://ky-iptv.com:80/jfink/jfink/517523.ts
+http://ky-iptv.com:80/Mouse/Mouse/517523.ts
 #EXTINF:-1 ,CBS 2 KUTV SALT LAKE CITY
-http://ky-iptv.com:80/jfink/jfink/517524.ts
+http://ky-iptv.com:80/Mouse/Mouse/517524.ts
 #EXTINF:-1 ,CBS 2 WBBM CHICAGO
-http://ky-iptv.com:80/jfink/jfink/517525.ts
+http://ky-iptv.com:80/Mouse/Mouse/517525.ts
 #EXTINF:-1 ,CBS 2 WCBS NEW YORK
-http://ky-iptv.com:80/jfink/jfink/517526.ts
+http://ky-iptv.com:80/Mouse/Mouse/517526.ts
 #EXTINF:-1 ,CBS 2 WFMY GREENSBORO
-http://ky-iptv.com:80/jfink/jfink/517527.ts
+http://ky-iptv.com:80/Mouse/Mouse/517527.ts
 #EXTINF:-1 ,CBS 3 KMTV OMAHA
-http://ky-iptv.com:80/jfink/jfink/517529.ts
+http://ky-iptv.com:80/Mouse/Mouse/517529.ts
 #EXTINF:-1 ,CBS 3 KYW PHILADELPHIA
-http://ky-iptv.com:80/jfink/jfink/517530.ts
+http://ky-iptv.com:80/Mouse/Mouse/517530.ts
 #EXTINF:-1 ,CBS 3 WBTV CHARLOTTE
-http://ky-iptv.com:80/jfink/jfink/517531.ts
+http://ky-iptv.com:80/Mouse/Mouse/517531.ts
 #EXTINF:-1 ,CBS 3 WCAX BURLINGTON
-http://ky-iptv.com:80/jfink/jfink/517532.ts
+http://ky-iptv.com:80/Mouse/Mouse/517532.ts
 #EXTINF:-1 ,CBS 3 WFSB HARTFORD
-http://ky-iptv.com:80/jfink/jfink/517534.ts
+http://ky-iptv.com:80/Mouse/Mouse/517534.ts
 #EXTINF:-1 ,CBS 3 WISC MADISON
-http://ky-iptv.com:80/jfink/jfink/517535.ts
+http://ky-iptv.com:80/Mouse/Mouse/517535.ts
 #EXTINF:-1 ,CBS 3 WSHM SPRINGFIELD
-http://ky-iptv.com:80/jfink/jfink/517536.ts
+http://ky-iptv.com:80/Mouse/Mouse/517536.ts
 #EXTINF:-1 ,CBS 3 WWAY WILMINGTON
-http://ky-iptv.com:80/jfink/jfink/517537.ts
+http://ky-iptv.com:80/Mouse/Mouse/517537.ts
 #EXTINF:-1 ,CBS 3 WWMT KALAMAZOO
-http://ky-iptv.com:80/jfink/jfink/517538.ts
+http://ky-iptv.com:80/Mouse/Mouse/517538.ts
 #EXTINF:-1 ,CBS 4 KCNC DENVER
-http://ky-iptv.com:80/jfink/jfink/517539.ts
+http://ky-iptv.com:80/Mouse/Mouse/517539.ts
 #EXTINF:-1 ,CBS 4 KDBC EL PASO
-http://ky-iptv.com:80/jfink/jfink/517540.ts
+http://ky-iptv.com:80/Mouse/Mouse/517540.ts
 #EXTINF:-1 ,CBS 4 KMOV ST. LOUIS
-http://ky-iptv.com:80/jfink/jfink/517543.ts
+http://ky-iptv.com:80/Mouse/Mouse/517543.ts
 #EXTINF:-1 ,CBS 4 WBZ BOSTON
-http://ky-iptv.com:80/jfink/jfink/517544.ts
+http://ky-iptv.com:80/Mouse/Mouse/517544.ts
 #EXTINF:-1 ,CBS 4 WCBI COLUMBUS
-http://ky-iptv.com:80/jfink/jfink/517545.ts
+http://ky-iptv.com:80/Mouse/Mouse/517545.ts
 #EXTINF:-1 ,CBS 4 WCCO MINNEAPOLIS/ST. PAUL
-http://ky-iptv.com:80/jfink/jfink/517546.ts
+http://ky-iptv.com:80/Mouse/Mouse/517546.ts
 #EXTINF:-1 ,CBS 4 WFOR MIAMI
-http://ky-iptv.com:80/jfink/jfink/517547.ts
+http://ky-iptv.com:80/Mouse/Mouse/517547.ts
 #EXTINF:-1 ,CBS 4 WIVB BUFFALO
-http://ky-iptv.com:80/jfink/jfink/517550.ts
+http://ky-iptv.com:80/Mouse/Mouse/517550.ts
 #EXTINF:-1 ,CBS 4 WWL NEW ORLEANS
-http://ky-iptv.com:80/jfink/jfink/517551.ts
+http://ky-iptv.com:80/Mouse/Mouse/517551.ts
 #EXTINF:-1 ,CBS 5 KCTV KANSAS CITY
-http://ky-iptv.com:80/jfink/jfink/517552.ts
+http://ky-iptv.com:80/Mouse/Mouse/517552.ts
 #EXTINF:-1 ,CBS 5 KENS SAN ANTONIO
-http://ky-iptv.com:80/jfink/jfink/517553.ts
+http://ky-iptv.com:80/Mouse/Mouse/517553.ts
 #EXTINF:-1 ,CBS 5 KGMB HONOLULU
-http://ky-iptv.com:80/jfink/jfink/517554.ts
+http://ky-iptv.com:80/Mouse/Mouse/517554.ts
 #EXTINF:-1 ,CBS 5 KPHO PHOENIX
-http://ky-iptv.com:80/jfink/jfink/517555.ts
+http://ky-iptv.com:80/Mouse/Mouse/517555.ts
 #EXTINF:-1 ,CBS 5 KPIX SAN FRANCISCO
-http://ky-iptv.com:80/jfink/jfink/517556.ts
+http://ky-iptv.com:80/Mouse/Mouse/517556.ts
 #EXTINF:-1 ,CBS 5 WCSC CHARLESTON
-http://ky-iptv.com:80/jfink/jfink/517558.ts
+http://ky-iptv.com:80/Mouse/Mouse/517558.ts
 #EXTINF:-1 ,CBS 5 WFRV GREEN BAY
-http://ky-iptv.com:80/jfink/jfink/517559.ts
+http://ky-iptv.com:80/Mouse/Mouse/517559.ts
 #EXTINF:-1 ,CBS 5 WTVF NASHVILLE
-http://ky-iptv.com:80/jfink/jfink/517562.ts
+http://ky-iptv.com:80/Mouse/Mouse/517562.ts
 #EXTINF:-1 ,CBS 5 WTVH SYRACUSE
-http://ky-iptv.com:80/jfink/jfink/517563.ts
+http://ky-iptv.com:80/Mouse/Mouse/517563.ts
 #EXTINF:-1 ,CBS 6 KOIN PORTLAND
-http://ky-iptv.com:80/jfink/jfink/517564.ts
+http://ky-iptv.com:80/Mouse/Mouse/517564.ts
 #EXTINF:-1 ,CBS 6 KOTV TULSA
-http://ky-iptv.com:80/jfink/jfink/517565.ts
+http://ky-iptv.com:80/Mouse/Mouse/517565.ts
 #EXTINF:-1 ,CBS 6 WKMG ORLANDO
-http://ky-iptv.com:80/jfink/jfink/517566.ts
+http://ky-iptv.com:80/Mouse/Mouse/517566.ts
 #EXTINF:-1 ,CBS 6 WLNS LANSING
-http://ky-iptv.com:80/jfink/jfink/517567.ts
+http://ky-iptv.com:80/Mouse/Mouse/517567.ts
 #EXTINF:-1 ,CBS 7 KIRO SEATTLE
-http://ky-iptv.com:80/jfink/jfink/517569.ts
+http://ky-iptv.com:80/Mouse/Mouse/517569.ts
 #EXTINF:-1 ,CBS 7 WDBJ ROANOKE
-http://ky-iptv.com:80/jfink/jfink/517570.ts
+http://ky-iptv.com:80/Mouse/Mouse/517570.ts
 #EXTINF:-1 ,CBS 7 WHIO DAYTON
-http://ky-iptv.com:80/jfink/jfink/517571.ts
+http://ky-iptv.com:80/Mouse/Mouse/517571.ts
 #EXTINF:-1 ,CBS 7 WSPA SPARTANBURG
-http://ky-iptv.com:80/jfink/jfink/517572.ts
+http://ky-iptv.com:80/Mouse/Mouse/517572.ts
 #EXTINF:-1 ,CBS 8 KCCI DES MOINES
-http://ky-iptv.com:80/jfink/jfink/517573.ts
+http://ky-iptv.com:80/Mouse/Mouse/517573.ts
 #EXTINF:-1 ,CBS 8 WROC ROCHESTER
-http://ky-iptv.com:80/jfink/jfink/517574.ts
+http://ky-iptv.com:80/Mouse/Mouse/517574.ts
 #EXTINF:-1 ,CBS 8 KFMB SAN DIEGO
-http://ky-iptv.com:80/jfink/jfink/517576.ts
+http://ky-iptv.com:80/Mouse/Mouse/517576.ts
 #EXTINF:-1 ,CBS 8 KLAS LAS VEGAS
-http://ky-iptv.com:80/jfink/jfink/517577.ts
+http://ky-iptv.com:80/Mouse/Mouse/517577.ts
 #EXTINF:-1 ,CBS 8 WAKA SELMA
-http://ky-iptv.com:80/jfink/jfink/517578.ts
+http://ky-iptv.com:80/Mouse/Mouse/517578.ts
 #EXTINF:-1 ,CBS 8 WKBT LA CROSSE
-http://ky-iptv.com:80/jfink/jfink/517579.ts
+http://ky-iptv.com:80/Mouse/Mouse/517579.ts
 #EXTINF:-1 ,CBS 8 WVLT KNOXVILLE
-http://ky-iptv.com:80/jfink/jfink/517580.ts
+http://ky-iptv.com:80/Mouse/Mouse/517580.ts
 #EXTINF:-1 ,CBS 9 KCAL LOS ANGELES
-http://ky-iptv.com:80/jfink/jfink/517581.ts
+http://ky-iptv.com:80/Mouse/Mouse/517581.ts
 #EXTINF:-1 ,CBS 9 KWTV OKLAHOMA CITY
-http://ky-iptv.com:80/jfink/jfink/517582.ts
+http://ky-iptv.com:80/Mouse/Mouse/517582.ts
 #EXTINF:-1 ,CBS 9 WNCT GREENVILLE
-http://ky-iptv.com:80/jfink/jfink/517583.ts
+http://ky-iptv.com:80/Mouse/Mouse/517583.ts
 #EXTINF:-1 ,CBS 9 WWASHINGTON DC
-http://ky-iptv.com:80/jfink/jfink/517584.ts
+http://ky-iptv.com:80/Mouse/Mouse/517584.ts
 #EXTINF:-1 ,CBS 9 WWTV CADILLAC
-http://ky-iptv.com:80/jfink/jfink/517585.ts
+http://ky-iptv.com:80/Mouse/Mouse/517585.ts
 #EXTINF:-1 ,CBS 10 KLFY LAFAYETTE
-http://ky-iptv.com:80/jfink/jfink/517586.ts
+http://ky-iptv.com:80/Mouse/Mouse/517586.ts
 #EXTINF:-1 ,CBS 10 KOLN LINCOLN Nebraska
-http://ky-iptv.com:80/jfink/jfink/517587.ts
+http://ky-iptv.com:80/Mouse/Mouse/517587.ts
 #EXTINF:-1 ,CBS 10 KOLR SPRINGFIELD
-http://ky-iptv.com:80/jfink/jfink/517588.ts
+http://ky-iptv.com:80/Mouse/Mouse/517588.ts
 #EXTINF:-1 ,CBS 10 KWTX WACO
-http://ky-iptv.com:80/jfink/jfink/517589.ts
+http://ky-iptv.com:80/Mouse/Mouse/517589.ts
 #EXTINF:-1 ,CBS 10 KZTV CORPUS CHRISTI
-http://ky-iptv.com:80/jfink/jfink/517590.ts
+http://ky-iptv.com:80/Mouse/Mouse/517590.ts
 #EXTINF:-1 ,CBS 10 WBNS COLUMBUS
-http://ky-iptv.com:80/jfink/jfink/517591.ts
+http://ky-iptv.com:80/Mouse/Mouse/517591.ts
 #EXTINF:-1 ,CBS 11 KELO SIOUX FALLS
-http://ky-iptv.com:80/jfink/jfink/517595.ts
+http://ky-iptv.com:80/Mouse/Mouse/517595.ts
 #EXTINF:-1 ,CBS 11 KHOU HOUSTON
-http://ky-iptv.com:80/jfink/jfink/517596.ts
+http://ky-iptv.com:80/Mouse/Mouse/517596.ts
 #EXTINF:-1 ,CBS 11 KKTV COLORADO SPRINGS
-http://ky-iptv.com:80/jfink/jfink/517597.ts
+http://ky-iptv.com:80/Mouse/Mouse/517597.ts
 #EXTINF:-1 ,CBS 11 KTHV LITTLE ROCK
-http://ky-iptv.com:80/jfink/jfink/517598.ts
+http://ky-iptv.com:80/Mouse/Mouse/517598.ts
 #EXTINF:-1 ,CBS 11 KTVT DALLAS/FORT WORTH
-http://ky-iptv.com:80/jfink/jfink/517600.ts
+http://ky-iptv.com:80/Mouse/Mouse/517600.ts
 #EXTINF:-1 ,CBS 11 WINK FORT MYERS
-http://ky-iptv.com:80/jfink/jfink/517601.ts
+http://ky-iptv.com:80/Mouse/Mouse/517601.ts
 #EXTINF:-1 ,CBS 11 WJHL TRI-CITIES
-http://ky-iptv.com:80/jfink/jfink/517602.ts
+http://ky-iptv.com:80/Mouse/Mouse/517602.ts
 #EXTINF:-1 ,CBS 11 WTOC SAVANNAH
-http://ky-iptv.com:80/jfink/jfink/517603.ts
+http://ky-iptv.com:80/Mouse/Mouse/517603.ts
 #EXTINF:-1 ,CBS 11 WTOL TOLEDO
-http://ky-iptv.com:80/jfink/jfink/517604.ts
+http://ky-iptv.com:80/Mouse/Mouse/517604.ts
 #EXTINF:-1 ,CBS 12 KFVS CAPE GIRARDEAU
-http://ky-iptv.com:80/jfink/jfink/517606.ts
+http://ky-iptv.com:80/Mouse/Mouse/517606.ts
 #EXTINF:-1 ,CBS 12 KSLA SHREVEPORT
-http://ky-iptv.com:80/jfink/jfink/517607.ts
+http://ky-iptv.com:80/Mouse/Mouse/517607.ts
 #EXTINF:-1 ,CBS 12 WDEF CHATTANOOGA
-http://ky-iptv.com:80/jfink/jfink/517608.ts
+http://ky-iptv.com:80/Mouse/Mouse/517608.ts
 #EXTINF:-1 ,CBS 12 WKRC CINCINNATI
-http://ky-iptv.com:80/jfink/jfink/517610.ts
+http://ky-iptv.com:80/Mouse/Mouse/517610.ts
 #EXTINF:-1 ,CBS 12 WPEC WEST PALM BEACH
-http://ky-iptv.com:80/jfink/jfink/517611.ts
+http://ky-iptv.com:80/Mouse/Mouse/517611.ts
 #EXTINF:-1 ,CBS 12 WPRI PROVIDENCE
-http://ky-iptv.com:80/jfink/jfink/517612.ts
+http://ky-iptv.com:80/Mouse/Mouse/517612.ts
 #EXTINF:-1 ,CBS 13 KOLD TUCSON
-http://ky-iptv.com:80/jfink/jfink/517614.ts
+http://ky-iptv.com:80/Mouse/Mouse/517614.ts
 #EXTINF:-1 ,CBS 13 KOVR SACRAMENTO
-http://ky-iptv.com:80/jfink/jfink/517615.ts
+http://ky-iptv.com:80/Mouse/Mouse/517615.ts
 #EXTINF:-1 ,CBS 13 KOVR STOCKTON
-http://ky-iptv.com:80/jfink/jfink/517616.ts
+http://ky-iptv.com:80/Mouse/Mouse/517616.ts
 #EXTINF:-1 ,CBS 13 KRQE ALBUQUERQUE
-http://ky-iptv.com:80/jfink/jfink/517618.ts
+http://ky-iptv.com:80/Mouse/Mouse/517618.ts
 #EXTINF:-1 ,CBS 13 KVAL EUGENE
-http://ky-iptv.com:80/jfink/jfink/517619.ts
+http://ky-iptv.com:80/Mouse/Mouse/517619.ts
 #EXTINF:-1 ,CBS 13 WGME PORTLAND
-http://ky-iptv.com:80/jfink/jfink/517621.ts
+http://ky-iptv.com:80/Mouse/Mouse/517621.ts
 #EXTINF:-1 ,CBS 13 WJZ BALTIMORE
-http://ky-iptv.com:80/jfink/jfink/517622.ts
+http://ky-iptv.com:80/Mouse/Mouse/517622.ts
 #EXTINF:-1 ,CBS 13 WMAZ GEORGIA
-http://ky-iptv.com:80/jfink/jfink/517623.ts
+http://ky-iptv.com:80/Mouse/Mouse/517623.ts
 #EXTINF:-1 ,CBS 13 WOWK HUNTINGTON
-http://ky-iptv.com:80/jfink/jfink/517624.ts
+http://ky-iptv.com:80/Mouse/Mouse/517624.ts
 #EXTINF:-1 ,CBS 15 WANE FORT WAYNE
-http://ky-iptv.com:80/jfink/jfink/517625.ts
+http://ky-iptv.com:80/Mouse/Mouse/517625.ts
 #EXTINF:-1 ,CBS 19 KYTX Tyler
-http://ky-iptv.com:80/jfink/jfink/517628.ts
+http://ky-iptv.com:80/Mouse/Mouse/517628.ts
 #EXTINF:-1 ,CBS 19 WLTX COLUMBIA
-http://ky-iptv.com:80/jfink/jfink/517629.ts
+http://ky-iptv.com:80/Mouse/Mouse/517629.ts
 #EXTINF:-1 ,CBS 19 WOIO CLEVELAND
-http://ky-iptv.com:80/jfink/jfink/517630.ts
+http://ky-iptv.com:80/Mouse/Mouse/517630.ts
 #EXTINF:-1 ,CBS 19 WOIO SHAKER HEIGHTS
-http://ky-iptv.com:80/jfink/jfink/517631.ts
+http://ky-iptv.com:80/Mouse/Mouse/517631.ts
 #EXTINF:-1 ,CBS 21 WHP HARRISBURG
-http://ky-iptv.com:80/jfink/jfink/517632.ts
+http://ky-iptv.com:80/Mouse/Mouse/517632.ts
 #EXTINF:-1 ,CBS 22 WYOU SCRANTON
-http://ky-iptv.com:80/jfink/jfink/517633.ts
+http://ky-iptv.com:80/Mouse/Mouse/517633.ts
 #EXTINF:-1 ,CBS 27 WKBN YOUNGSTOWN
-http://ky-iptv.com:80/jfink/jfink/517634.ts
+http://ky-iptv.com:80/Mouse/Mouse/517634.ts
 #EXTINF:-1 ,CBS 27 WKYT LEXINGTON
-http://ky-iptv.com:80/jfink/jfink/517635.ts
+http://ky-iptv.com:80/Mouse/Mouse/517635.ts
 #EXTINF:-1 ,CBS 29 KBAK BAKERSFIELD
-http://ky-iptv.com:80/jfink/jfink/517636.ts
+http://ky-iptv.com:80/Mouse/Mouse/517636.ts
 #EXTINF:-1 ,CBS 29 KIMA YAKIMA
-http://ky-iptv.com:80/jfink/jfink/517637.ts
+http://ky-iptv.com:80/Mouse/Mouse/517637.ts
 #EXTINF:-1 ,CBS 30 KXJB FARGO VALLEY
-http://ky-iptv.com:80/jfink/jfink/517638.ts
+http://ky-iptv.com:80/Mouse/Mouse/517638.ts
 #EXTINF:-1 ,CBS 32 WLKY LOUISVILLE
-http://ky-iptv.com:80/jfink/jfink/517640.ts
+http://ky-iptv.com:80/Mouse/Mouse/517640.ts
 #EXTINF:-1 ,CBS 42 KEYE AUSTIN
-http://ky-iptv.com:80/jfink/jfink/517641.ts
+http://ky-iptv.com:80/Mouse/Mouse/517641.ts
 #EXTINF:-1 ,CBS 42 WIAT BIRMINGHAM
-http://ky-iptv.com:80/jfink/jfink/517642.ts
+http://ky-iptv.com:80/Mouse/Mouse/517642.ts
 #EXTINF:-1 ,CBS 46 KION MONTEREY
-http://ky-iptv.com:80/jfink/jfink/517643.ts
+http://ky-iptv.com:80/Mouse/Mouse/517643.ts
 #EXTINF:-1 ,CBS 46 WGCL ATLANTA
-http://ky-iptv.com:80/jfink/jfink/517644.ts
+http://ky-iptv.com:80/Mouse/Mouse/517644.ts
 #EXTINF:-1 ,CBS 47 KGPE FRESNO
-http://ky-iptv.com:80/jfink/jfink/517645.ts
+http://ky-iptv.com:80/Mouse/Mouse/517645.ts
 #EXTINF:-1 ,CBS 47 WJAX JACKSONVILLE
-http://ky-iptv.com:80/jfink/jfink/517646.ts
+http://ky-iptv.com:80/Mouse/Mouse/517646.ts
 #EXTINF:-1 ,CBS 58 WDJT MILWAUKEE
-http://ky-iptv.com:80/jfink/jfink/517647.ts
+http://ky-iptv.com:80/Mouse/Mouse/517647.ts
 #EXTINF:-1 ,CBS 62 WWJ DETROIT
-http://ky-iptv.com:80/jfink/jfink/517648.ts
+http://ky-iptv.com:80/Mouse/Mouse/517648.ts
 #EXTINF:-1 ,CBS (WAFB) Baton Rouge
-http://ky-iptv.com:80/jfink/jfink/517783.ts
+http://ky-iptv.com:80/Mouse/Mouse/517783.ts
 #EXTINF:-1 ,CBS News
-http://ky-iptv.com:80/jfink/jfink/517979.ts
+http://ky-iptv.com:80/Mouse/Mouse/517979.ts
 #EXTINF:-1 ,CBS 13 (WLOX-DT2) Gulfport
-http://ky-iptv.com:80/jfink/jfink/538949.ts
+http://ky-iptv.com:80/Mouse/Mouse/538949.ts
 #EXTINF:-1 ,AL | Selma | CBS WAKA
-http://ky-iptv.com:80/jfink/jfink/648025.ts
+http://ky-iptv.com:80/Mouse/Mouse/648025.ts
 #EXTINF:-1 ,AR | Little Rock | CBS KTHV
-http://ky-iptv.com:80/jfink/jfink/648027.ts
+http://ky-iptv.com:80/Mouse/Mouse/648027.ts
 #EXTINF:-1 ,AZ | Tucson | CBS KOLD
-http://ky-iptv.com:80/jfink/jfink/648031.ts
+http://ky-iptv.com:80/Mouse/Mouse/648031.ts
 #EXTINF:-1 ,CA | Fresno | CBS KGPE
-http://ky-iptv.com:80/jfink/jfink/648038.ts
+http://ky-iptv.com:80/Mouse/Mouse/648038.ts
 #EXTINF:-1 ,CA | Monterey | CBS KION
-http://ky-iptv.com:80/jfink/jfink/648041.ts
+http://ky-iptv.com:80/Mouse/Mouse/648041.ts
 #EXTINF:-1 ,CA | Santa Maria | CBS KCOY
-http://ky-iptv.com:80/jfink/jfink/648050.ts
+http://ky-iptv.com:80/Mouse/Mouse/648050.ts
 #EXTINF:-1 ,CBS KOLR Springfield
-http://ky-iptv.com:80/jfink/jfink/648051.ts
+http://ky-iptv.com:80/Mouse/Mouse/648051.ts
 #EXTINF:-1 ,CO | Colorado Springs | CBS KKTV
-http://ky-iptv.com:80/jfink/jfink/648052.ts
+http://ky-iptv.com:80/Mouse/Mouse/648052.ts
 #EXTINF:-1 ,FL | Fort Myers | CBS WINK
-http://ky-iptv.com:80/jfink/jfink/648060.ts
+http://ky-iptv.com:80/Mouse/Mouse/648060.ts
 #EXTINF:-1 ,CBS Jacksonville WJAX
-http://ky-iptv.com:80/jfink/jfink/648063.ts
+http://ky-iptv.com:80/Mouse/Mouse/648063.ts
 #EXTINF:-1 ,FL | West Palm Beach | CBS WPEC
-http://ky-iptv.com:80/jfink/jfink/648069.ts
+http://ky-iptv.com:80/Mouse/Mouse/648069.ts
 #EXTINF:-1 ,GA | Augusta | CBS WRDW
-http://ky-iptv.com:80/jfink/jfink/648074.ts
+http://ky-iptv.com:80/Mouse/Mouse/648074.ts
 #EXTINF:-1 ,GA | Savannah | CBS WTOC
-http://ky-iptv.com:80/jfink/jfink/648081.ts
+http://ky-iptv.com:80/Mouse/Mouse/648081.ts
 #EXTINF:-1 ,HI | Honolulu | CBS KGMB
-http://ky-iptv.com:80/jfink/jfink/648084.ts
+http://ky-iptv.com:80/Mouse/Mouse/648084.ts
 #EXTINF:-1 ,IA | Cedar Rapids | CBS KGAN
-http://ky-iptv.com:80/jfink/jfink/648087.ts
+http://ky-iptv.com:80/Mouse/Mouse/648087.ts
 #EXTINF:-1 ,IA | Davenport | CBS WHBF
-http://ky-iptv.com:80/jfink/jfink/648088.ts
+http://ky-iptv.com:80/Mouse/Mouse/648088.ts
 #EXTINF:-1 ,IA | Des Moines-Ames | CBS KCCI
-http://ky-iptv.com:80/jfink/jfink/648092.ts
+http://ky-iptv.com:80/Mouse/Mouse/648092.ts
 #EXTINF:-1 ,ID | Boise | CBS KBOI
-http://ky-iptv.com:80/jfink/jfink/648097.ts
+http://ky-iptv.com:80/Mouse/Mouse/648097.ts
 #EXTINF:-1 ,IL | Peoria | CBS WMBD
-http://ky-iptv.com:80/jfink/jfink/648105.ts
+http://ky-iptv.com:80/Mouse/Mouse/648105.ts
 #EXTINF:-1 ,IN | Evansville | CBS WEVV
-http://ky-iptv.com:80/jfink/jfink/648109.ts
+http://ky-iptv.com:80/Mouse/Mouse/648109.ts
 #EXTINF:-1 ,IN | Fort Wayne | CBS WANE
-http://ky-iptv.com:80/jfink/jfink/648111.ts
+http://ky-iptv.com:80/Mouse/Mouse/648111.ts
 #EXTINF:-1 ,CBS 12 KWCH Wichita
-http://ky-iptv.com:80/jfink/jfink/648117.ts
+http://ky-iptv.com:80/Mouse/Mouse/648117.ts
 #EXTINF:-1 ,LA | Alexandria | CBS 5 KALB
-http://ky-iptv.com:80/jfink/jfink/648121.ts
+http://ky-iptv.com:80/Mouse/Mouse/648121.ts
 #EXTINF:-1 ,LA | Baton Rouge | CBS WAFB
-http://ky-iptv.com:80/jfink/jfink/648124.ts
+http://ky-iptv.com:80/Mouse/Mouse/648124.ts
 #EXTINF:-1 ,LA | Lafayette | CBS KLFY
-http://ky-iptv.com:80/jfink/jfink/648128.ts
+http://ky-iptv.com:80/Mouse/Mouse/648128.ts
 #EXTINF:-1 ,MS | Columbus | CBS WCBI
-http://ky-iptv.com:80/jfink/jfink/648150.ts
+http://ky-iptv.com:80/Mouse/Mouse/648150.ts
 #EXTINF:-1 ,NC | Goldsboro | CBS WNCN
-http://ky-iptv.com:80/jfink/jfink/648161.ts
+http://ky-iptv.com:80/Mouse/Mouse/648161.ts
 #EXTINF:-1 ,NC | Wilmington | CBS WWAY
-http://ky-iptv.com:80/jfink/jfink/648166.ts
+http://ky-iptv.com:80/Mouse/Mouse/648166.ts
 #EXTINF:-1 ,NE | Lincoln | CBS KOLN
-http://ky-iptv.com:80/jfink/jfink/648171.ts
+http://ky-iptv.com:80/Mouse/Mouse/648171.ts
 #EXTINF:-1 ,NE | Omaha | CBS KMTV
-http://ky-iptv.com:80/jfink/jfink/648173.ts
+http://ky-iptv.com:80/Mouse/Mouse/648173.ts
 #EXTINF:-1 ,NE | Omaha | CBS KMTV
-http://ky-iptv.com:80/jfink/jfink/648174.ts
+http://ky-iptv.com:80/Mouse/Mouse/648174.ts
 #EXTINF:-1 ,NV | Las Vegas | CBS KLAS
-http://ky-iptv.com:80/jfink/jfink/648178.ts
+http://ky-iptv.com:80/Mouse/Mouse/648178.ts
 #EXTINF:-1 ,NV | Reno | CBS KTVN
-http://ky-iptv.com:80/jfink/jfink/648180.ts
+http://ky-iptv.com:80/Mouse/Mouse/648180.ts
 #EXTINF:-1 ,NY | New York | CBS WCBS
-http://ky-iptv.com:80/jfink/jfink/648186.ts
+http://ky-iptv.com:80/Mouse/Mouse/648186.ts
 #EXTINF:-1 ,NY | Rochester | CBS WROC
-http://ky-iptv.com:80/jfink/jfink/648191.ts
+http://ky-iptv.com:80/Mouse/Mouse/648191.ts
 #EXTINF:-1 ,NY | Schenectady | CBS WRGB
-http://ky-iptv.com:80/jfink/jfink/648192.ts
+http://ky-iptv.com:80/Mouse/Mouse/648192.ts
 #EXTINF:-1 ,NY | Syracuse | CBS WTVH
-http://ky-iptv.com:80/jfink/jfink/648193.ts
+http://ky-iptv.com:80/Mouse/Mouse/648193.ts
 #EXTINF:-1 ,OH | Toledo | CBS WTOL
-http://ky-iptv.com:80/jfink/jfink/648199.ts
+http://ky-iptv.com:80/Mouse/Mouse/648199.ts
 #EXTINF:-1 ,OH | Youngstown | CBS WKBN
-http://ky-iptv.com:80/jfink/jfink/648202.ts
+http://ky-iptv.com:80/Mouse/Mouse/648202.ts
 #EXTINF:-1 ,OR | Portland | CBS KOIN
-http://ky-iptv.com:80/jfink/jfink/648214.ts
+http://ky-iptv.com:80/Mouse/Mouse/648214.ts
 #EXTINF:-1 ,PA | Harrisburg | CBS WHP
-http://ky-iptv.com:80/jfink/jfink/648218.ts
+http://ky-iptv.com:80/Mouse/Mouse/648218.ts
 #EXTINF:-1 ,PA | Wilkes-Barre | CBS WYOU
-http://ky-iptv.com:80/jfink/jfink/648225.ts
+http://ky-iptv.com:80/Mouse/Mouse/648225.ts
 #EXTINF:-1 ,SC | Charleston | CBS WCSC
-http://ky-iptv.com:80/jfink/jfink/648228.ts
+http://ky-iptv.com:80/Mouse/Mouse/648228.ts
 #EXTINF:-1 ,SC | Spartanburg | CBS WSPA
-http://ky-iptv.com:80/jfink/jfink/648231.ts
+http://ky-iptv.com:80/Mouse/Mouse/648231.ts
 #EXTINF:-1 ,TN | Knoxville | CBS WVLT
-http://ky-iptv.com:80/jfink/jfink/648237.ts
+http://ky-iptv.com:80/Mouse/Mouse/648237.ts
 #EXTINF:-1 ,TN-VA | Tri-Cities | CBS WJHL
-http://ky-iptv.com:80/jfink/jfink/648240.ts
+http://ky-iptv.com:80/Mouse/Mouse/648240.ts
 #EXTINF:-1 ,TX | Corpus Christi | CBS KZTV
-http://ky-iptv.com:80/jfink/jfink/648248.ts
+http://ky-iptv.com:80/Mouse/Mouse/648248.ts
 #EXTINF:-1 ,TX | El Paso | CBS KDBC
-http://ky-iptv.com:80/jfink/jfink/648251.ts
+http://ky-iptv.com:80/Mouse/Mouse/648251.ts
 #EXTINF:-1 ,TX | Fort Worth | CBS KTXA
-http://ky-iptv.com:80/jfink/jfink/648253.ts
+http://ky-iptv.com:80/Mouse/Mouse/648253.ts
 #EXTINF:-1 ,TX | Harlingen | CBS KGBT
-http://ky-iptv.com:80/jfink/jfink/648254.ts
+http://ky-iptv.com:80/Mouse/Mouse/648254.ts
 #EXTINF:-1 ,TX | Nacogdoches | CBS KYTX
-http://ky-iptv.com:80/jfink/jfink/648261.ts
+http://ky-iptv.com:80/Mouse/Mouse/648261.ts
 #EXTINF:-1 ,CBS 4 (WIVB) Buffalo
-http://ky-iptv.com:80/jfink/jfink/648271.ts
+http://ky-iptv.com:80/Mouse/Mouse/648271.ts
 #EXTINF:-1 ,CBS 12 WDEF Chattanooga
-http://ky-iptv.com:80/jfink/jfink/648375.ts
+http://ky-iptv.com:80/Mouse/Mouse/648375.ts
 #EXTINF:-1 ,CBS 13 (WBTW) Florence
-http://ky-iptv.com:80/jfink/jfink/648376.ts
+http://ky-iptv.com:80/Mouse/Mouse/648376.ts
 #EXTINF:-1 ,CBS 13 (WMAZ) Georgia
-http://ky-iptv.com:80/jfink/jfink/648377.ts
+http://ky-iptv.com:80/Mouse/Mouse/648377.ts
 #EXTINF:-1 ,CBS 18 WECP Panama City
-http://ky-iptv.com:80/jfink/jfink/648378.ts
+http://ky-iptv.com:80/Mouse/Mouse/648378.ts
 #EXTINF:-1 ,CBS 19 (KYTX) Tyler
-http://ky-iptv.com:80/jfink/jfink/648379.ts
+http://ky-iptv.com:80/Mouse/Mouse/648379.ts
 #EXTINF:-1 ,CBS 19 Cleveland WOIO
-http://ky-iptv.com:80/jfink/jfink/648380.ts
+http://ky-iptv.com:80/Mouse/Mouse/648380.ts
 #EXTINF:-1 ,CBS 19 Columbia (WLTX)
-http://ky-iptv.com:80/jfink/jfink/648381.ts
+http://ky-iptv.com:80/Mouse/Mouse/648381.ts
 #EXTINF:-1 ,CBS 19 WHNT Huntsville
-http://ky-iptv.com:80/jfink/jfink/648382.ts
+http://ky-iptv.com:80/Mouse/Mouse/648382.ts
 #EXTINF:-1 ,CBS 22 South Bend (WSBT)
-http://ky-iptv.com:80/jfink/jfink/648383.ts
+http://ky-iptv.com:80/Mouse/Mouse/648383.ts
 #EXTINF:-1 ,CBS 3 (WSHM) Springfield
-http://ky-iptv.com:80/jfink/jfink/648384.ts
+http://ky-iptv.com:80/Mouse/Mouse/648384.ts
 #EXTINF:-1 ,CBS 3 WWMT Kalamazoo
-http://ky-iptv.com:80/jfink/jfink/648386.ts
+http://ky-iptv.com:80/Mouse/Mouse/648386.ts
 #EXTINF:-1 ,CBS 30 (KXJB) Fargo
-http://ky-iptv.com:80/jfink/jfink/648387.ts
+http://ky-iptv.com:80/Mouse/Mouse/648387.ts
 #EXTINF:-1 ,CBS 42 (KEYE) Austin
-http://ky-iptv.com:80/jfink/jfink/648388.ts
+http://ky-iptv.com:80/Mouse/Mouse/648388.ts
 #EXTINF:-1 ,CBS 5 WNEM Bay City
-http://ky-iptv.com:80/jfink/jfink/648389.ts
+http://ky-iptv.com:80/Mouse/Mouse/648389.ts
 #EXTINF:-1 ,CBS 5 WTVH Syracuse
-http://ky-iptv.com:80/jfink/jfink/648390.ts
+http://ky-iptv.com:80/Mouse/Mouse/648390.ts
 #EXTINF:-1 ,CBS 6 (WCTV) Tallahassee
-http://ky-iptv.com:80/jfink/jfink/648391.ts
+http://ky-iptv.com:80/Mouse/Mouse/648391.ts
 #EXTINF:-1 ,CBS 6 KOTV Tulsa
-http://ky-iptv.com:80/jfink/jfink/648392.ts
+http://ky-iptv.com:80/Mouse/Mouse/648392.ts
 #EXTINF:-1 ,CBS 6 WLNS Lansing
-http://ky-iptv.com:80/jfink/jfink/648393.ts
+http://ky-iptv.com:80/Mouse/Mouse/648393.ts
 #EXTINF:-1 ,CBS 7 (WHIO) Dayton
-http://ky-iptv.com:80/jfink/jfink/648394.ts
+http://ky-iptv.com:80/Mouse/Mouse/648394.ts
 #EXTINF:-1 ,CBS 8 WAKA Selma
-http://ky-iptv.com:80/jfink/jfink/648395.ts
+http://ky-iptv.com:80/Mouse/Mouse/648395.ts
 #EXTINF:-1 ,CBS 9 (KWTV) Oklahoma City
-http://ky-iptv.com:80/jfink/jfink/648396.ts
+http://ky-iptv.com:80/Mouse/Mouse/648396.ts
 #EXTINF:-1 ,CBS 9 WWTV Cadillac
-http://ky-iptv.com:80/jfink/jfink/648397.ts
+http://ky-iptv.com:80/Mouse/Mouse/648397.ts
 #EXTINF:-1 ,CBS Atlanta WGCL
-http://ky-iptv.com:80/jfink/jfink/648398.ts
+http://ky-iptv.com:80/Mouse/Mouse/648398.ts
 #EXTINF:-1 ,CBS Baltimore WJZ
-http://ky-iptv.com:80/jfink/jfink/648399.ts
+http://ky-iptv.com:80/Mouse/Mouse/648399.ts
 #EXTINF:-1 ,CBS Boston WBZ
-http://ky-iptv.com:80/jfink/jfink/648400.ts
+http://ky-iptv.com:80/Mouse/Mouse/648400.ts
 #EXTINF:-1 ,CBS Charlotte WBTV
-http://ky-iptv.com:80/jfink/jfink/648402.ts
+http://ky-iptv.com:80/Mouse/Mouse/648402.ts
 #EXTINF:-1 ,CBS Chicago WBBM
-http://ky-iptv.com:80/jfink/jfink/648403.ts
+http://ky-iptv.com:80/Mouse/Mouse/648403.ts
 #EXTINF:-1 ,CBS Cincinnati WKRC
-http://ky-iptv.com:80/jfink/jfink/648404.ts
+http://ky-iptv.com:80/Mouse/Mouse/648404.ts
 #EXTINF:-1 ,CBS Columbus WBNS
-http://ky-iptv.com:80/jfink/jfink/648405.ts
+http://ky-iptv.com:80/Mouse/Mouse/648405.ts
 #EXTINF:-1 ,CBS Dallas KTVT
-http://ky-iptv.com:80/jfink/jfink/648406.ts
+http://ky-iptv.com:80/Mouse/Mouse/648406.ts
 #EXTINF:-1 ,CBS Denver KCNC
-http://ky-iptv.com:80/jfink/jfink/648407.ts
+http://ky-iptv.com:80/Mouse/Mouse/648407.ts
 #EXTINF:-1 ,CBS Detroit WWJ
-http://ky-iptv.com:80/jfink/jfink/648408.ts
+http://ky-iptv.com:80/Mouse/Mouse/648408.ts
 #EXTINF:-1 ,CBS East SD
-http://ky-iptv.com:80/jfink/jfink/648409.ts
+http://ky-iptv.com:80/Mouse/Mouse/648409.ts
 #EXTINF:-1 ,CBS East Miami UHD
-http://ky-iptv.com:80/jfink/jfink/648410.ts
+http://ky-iptv.com:80/Mouse/Mouse/648410.ts
 #EXTINF:-1 ,CBS Greensboro WFMY
-http://ky-iptv.com:80/jfink/jfink/648411.ts
+http://ky-iptv.com:80/Mouse/Mouse/648411.ts
 #EXTINF:-1 ,CBS Hartford WFSB
-http://ky-iptv.com:80/jfink/jfink/648412.ts
+http://ky-iptv.com:80/Mouse/Mouse/648412.ts
 #EXTINF:-1 ,CBS Houston KHOU
-http://ky-iptv.com:80/jfink/jfink/648413.ts
+http://ky-iptv.com:80/Mouse/Mouse/648413.ts
 #EXTINF:-1 ,CBS Indianapolis WTTV
-http://ky-iptv.com:80/jfink/jfink/648414.ts
+http://ky-iptv.com:80/Mouse/Mouse/648414.ts
 #EXTINF:-1 ,CBS Kansas City KCTV
-http://ky-iptv.com:80/jfink/jfink/648416.ts
+http://ky-iptv.com:80/Mouse/Mouse/648416.ts
 #EXTINF:-1 ,CBS KCAL Los Angeles
-http://ky-iptv.com:80/jfink/jfink/648417.ts
+http://ky-iptv.com:80/Mouse/Mouse/648417.ts
 #EXTINF:-1 ,CBS Los Angeles KCBS
-http://ky-iptv.com:80/jfink/jfink/648418.ts
+http://ky-iptv.com:80/Mouse/Mouse/648418.ts
 #EXTINF:-1 ,CBS Miami WFOR
-http://ky-iptv.com:80/jfink/jfink/648419.ts
+http://ky-iptv.com:80/Mouse/Mouse/648419.ts
 #EXTINF:-1 ,CBS Minneapolis WCCO
-http://ky-iptv.com:80/jfink/jfink/648420.ts
+http://ky-iptv.com:80/Mouse/Mouse/648420.ts
 #EXTINF:-1 ,CBS New Orleans WWL
-http://ky-iptv.com:80/jfink/jfink/648422.ts
+http://ky-iptv.com:80/Mouse/Mouse/648422.ts
 #EXTINF:-1 ,CBS New York SD
-http://ky-iptv.com:80/jfink/jfink/648423.ts
+http://ky-iptv.com:80/Mouse/Mouse/648423.ts
 #EXTINF:-1 ,CBS New York WCBS
-http://ky-iptv.com:80/jfink/jfink/648424.ts
+http://ky-iptv.com:80/Mouse/Mouse/648424.ts
 #EXTINF:-1 ,CBS NEWS SD
-http://ky-iptv.com:80/jfink/jfink/648425.ts
+http://ky-iptv.com:80/Mouse/Mouse/648425.ts
 #EXTINF:-1 ,CBS Orlando WKMG
-http://ky-iptv.com:80/jfink/jfink/648426.ts
+http://ky-iptv.com:80/Mouse/Mouse/648426.ts
 #EXTINF:-1 ,CBS Phoenix KPHO
-http://ky-iptv.com:80/jfink/jfink/648427.ts
+http://ky-iptv.com:80/Mouse/Mouse/648427.ts
 #EXTINF:-1 ,CBS Pittsburgh KDKA
-http://ky-iptv.com:80/jfink/jfink/648428.ts
+http://ky-iptv.com:80/Mouse/Mouse/648428.ts
 #EXTINF:-1 ,CBS POP
-http://ky-iptv.com:80/jfink/jfink/648429.ts
+http://ky-iptv.com:80/Mouse/Mouse/648429.ts
 #EXTINF:-1 ,CBS Sacramento KOVR
-http://ky-iptv.com:80/jfink/jfink/648430.ts
+http://ky-iptv.com:80/Mouse/Mouse/648430.ts
 #EXTINF:-1 ,CBS San Antonio KENS
-http://ky-iptv.com:80/jfink/jfink/648431.ts
+http://ky-iptv.com:80/Mouse/Mouse/648431.ts
 #EXTINF:-1 ,CBS San Diego KFMB
-http://ky-iptv.com:80/jfink/jfink/648432.ts
+http://ky-iptv.com:80/Mouse/Mouse/648432.ts
 #EXTINF:-1 ,CBS San Francisco KCBS
-http://ky-iptv.com:80/jfink/jfink/648433.ts
+http://ky-iptv.com:80/Mouse/Mouse/648433.ts
 #EXTINF:-1 ,CBS San Francisco KPIX
-http://ky-iptv.com:80/jfink/jfink/648434.ts
+http://ky-iptv.com:80/Mouse/Mouse/648434.ts
 #EXTINF:-1 ,CBS Seattle KIRO
-http://ky-iptv.com:80/jfink/jfink/648435.ts
+http://ky-iptv.com:80/Mouse/Mouse/648435.ts
 #EXTINF:-1 ,CBS St Louis KMOV
-http://ky-iptv.com:80/jfink/jfink/648436.ts
+http://ky-iptv.com:80/Mouse/Mouse/648436.ts
 #EXTINF:-1 ,CBS Tampa WTSP
-http://ky-iptv.com:80/jfink/jfink/648437.ts
+http://ky-iptv.com:80/Mouse/Mouse/648437.ts
 #EXTINF:-1 ,CBS Washington WUSA
-http://ky-iptv.com:80/jfink/jfink/648438.ts
+http://ky-iptv.com:80/Mouse/Mouse/648438.ts
 #EXTINF:-1 ,CBS WDJT Milwaukee
-http://ky-iptv.com:80/jfink/jfink/648439.ts
+http://ky-iptv.com:80/Mouse/Mouse/648439.ts
 #EXTINF:-1 ,CBS WJTV Jackson
-http://ky-iptv.com:80/jfink/jfink/648440.ts
+http://ky-iptv.com:80/Mouse/Mouse/648440.ts
 #EXTINF:-1 ,CBS WKYT Lexington
-http://ky-iptv.com:80/jfink/jfink/648441.ts
+http://ky-iptv.com:80/Mouse/Mouse/648441.ts
 #EXTINF:-1 ,CBS WLKY Louisville
-http://ky-iptv.com:80/jfink/jfink/648442.ts
+http://ky-iptv.com:80/Mouse/Mouse/648442.ts
 #EXTINF:-1 ,CBS WPRI Providence
-http://ky-iptv.com:80/jfink/jfink/648443.ts
+http://ky-iptv.com:80/Mouse/Mouse/648443.ts
 #EXTINF:-1 ,CBS13 (KLBK) Lubbock
-http://ky-iptv.com:80/jfink/jfink/648444.ts
+http://ky-iptv.com:80/Mouse/Mouse/648444.ts
 #EXTINF:-1 ,CBS3 (KBTX) Bryan
-http://ky-iptv.com:80/jfink/jfink/648445.ts
+http://ky-iptv.com:80/Mouse/Mouse/648445.ts
 #EXTINF:-1 ,CBS4 (WGFL) Gainesville
-http://ky-iptv.com:80/jfink/jfink/648446.ts
+http://ky-iptv.com:80/Mouse/Mouse/648446.ts
 #EXTINF:-1 ,Salt Lake City | CBS KUTV
-http://ky-iptv.com:80/jfink/jfink/648686.ts
+http://ky-iptv.com:80/Mouse/Mouse/648686.ts
 #EXTINF:-1 ,VA | Roanoke | CBS WDBJ
-http://ky-iptv.com:80/jfink/jfink/648693.ts
+http://ky-iptv.com:80/Mouse/Mouse/648693.ts
 #EXTINF:-1 ,VT | Burlington | CBS WCAX
-http://ky-iptv.com:80/jfink/jfink/648698.ts
+http://ky-iptv.com:80/Mouse/Mouse/648698.ts
 #EXTINF:-1 ,WA | Spokane | CBS KREM
-http://ky-iptv.com:80/jfink/jfink/648700.ts
+http://ky-iptv.com:80/Mouse/Mouse/648700.ts
 #EXTINF:-1 ,WA | Yakima | CBS KIMA
-http://ky-iptv.com:80/jfink/jfink/648704.ts
+http://ky-iptv.com:80/Mouse/Mouse/648704.ts
 #EXTINF:-1 ,WI | Green Bay | CBS WFRV
-http://ky-iptv.com:80/jfink/jfink/648707.ts
+http://ky-iptv.com:80/Mouse/Mouse/648707.ts
 #EXTINF:-1 ,WI | La Crosse | CBS WKBT
-http://ky-iptv.com:80/jfink/jfink/648708.ts
+http://ky-iptv.com:80/Mouse/Mouse/648708.ts
 #EXTINF:-1 ,WI | Madison | CBS WISC
-http://ky-iptv.com:80/jfink/jfink/648711.ts
+http://ky-iptv.com:80/Mouse/Mouse/648711.ts
 #EXTINF:-1 ,WY | Laramie | CBS KXJB
-http://ky-iptv.com:80/jfink/jfink/648723.ts
+http://ky-iptv.com:80/Mouse/Mouse/648723.ts
 #EXTINF:-1 ,CBSN Los Angeles
-http://ky-iptv.com:80/jfink/jfink/399827.ts
+http://ky-iptv.com:80/Mouse/Mouse/399827.ts
 #EXTINF:-1 ,CBS 4 KGBT HARLINGEN
-http://ky-iptv.com:80/jfink/jfink/517541.ts
+http://ky-iptv.com:80/Mouse/Mouse/517541.ts
 #EXTINF:-1 ,MI | Lansing | CBS WLNS
-http://ky-iptv.com:80/jfink/jfink/648142.ts
+http://ky-iptv.com:80/Mouse/Mouse/648142.ts
 #EXTINF:-1 ,CBS 17 WNCN RALEIGH/DURHAM
-http://ky-iptv.com:80/jfink/jfink/517626.ts
+http://ky-iptv.com:80/Mouse/Mouse/517626.ts
 #EXTINF:-1 ,CBS 5 WKRG MOBILE
-http://ky-iptv.com:80/jfink/jfink/517560.ts
+http://ky-iptv.com:80/Mouse/Mouse/517560.ts
 #EXTINF:-1 ,CBS 12 WRDW AUGUSTA
-http://ky-iptv.com:80/jfink/jfink/517613.ts
+http://ky-iptv.com:80/Mouse/Mouse/517613.ts
 #EXTINF:-1 ,CBS 3 KBTX BRYAN
-http://ky-iptv.com:80/jfink/jfink/517528.ts
+http://ky-iptv.com:80/Mouse/Mouse/517528.ts
 #EXTINF:-1 ,CBS 22 KTVA ANCHORAGE
-http://ky-iptv.com:80/jfink/jfink/517599.ts
+http://ky-iptv.com:80/Mouse/Mouse/517599.ts
 #EXTINF:-1 ,CBS 31 WMBD PEORIA
-http://ky-iptv.com:80/jfink/jfink/517639.ts
+http://ky-iptv.com:80/Mouse/Mouse/517639.ts
 #EXTINF:-1 ,AL | Mobile | CBS WKRG
-http://ky-iptv.com:80/jfink/jfink/648023.ts
+http://ky-iptv.com:80/Mouse/Mouse/648023.ts
 #EXTINF:-1 ,MI | Bay City | CBS WNEM
-http://ky-iptv.com:80/jfink/jfink/648140.ts
+http://ky-iptv.com:80/Mouse/Mouse/648140.ts
 #EXTINF:-1 ,CBS 4 WHBF DAVENPORT/ROCK ISLAND
-http://ky-iptv.com:80/jfink/jfink/517549.ts
+http://ky-iptv.com:80/Mouse/Mouse/517549.ts
 #EXTINF:-1 ,CBS 5 WABI BANGOR
-http://ky-iptv.com:80/jfink/jfink/517557.ts
+http://ky-iptv.com:80/Mouse/Mouse/517557.ts
 #EXTINF:-1 ,CBS 4 WGFL GAINESVILLE
-http://ky-iptv.com:80/jfink/jfink/517548.ts
+http://ky-iptv.com:80/Mouse/Mouse/517548.ts
 #EXTINF:-1 ,CBS 6 WRGB ALBANY
-http://ky-iptv.com:80/jfink/jfink/517568.ts
+http://ky-iptv.com:80/Mouse/Mouse/517568.ts
 #EXTINF:-1 ,CBS 10/55 WLNY RIVERHEAD NY
-http://ky-iptv.com:80/jfink/jfink/517594.ts
+http://ky-iptv.com:80/Mouse/Mouse/517594.ts
 #EXTINF:-1 ,CBS 6 (RICHMOND VA) | HD
-http://ky-iptv.com:80/jfink/jfink/924762.ts
+http://ky-iptv.com:80/Mouse/Mouse/924762.ts
 #EXTINF:-1 ,CBS WINK FORT MYERS
-http://ky-iptv.com:80/jfink/jfink/517678.ts
+http://ky-iptv.com:80/Mouse/Mouse/517678.ts
 #EXTINF:-1 ,CBS 13 KRCG JEFFERSON CITY
-http://ky-iptv.com:80/jfink/jfink/517617.ts
+http://ky-iptv.com:80/Mouse/Mouse/517617.ts
 #EXTINF:-1 ,CBS 12 WJTV JACKSON
-http://ky-iptv.com:80/jfink/jfink/517609.ts
+http://ky-iptv.com:80/Mouse/Mouse/517609.ts
 #EXTINF:-1 ,CBS 13 WBTW FLORENCE
-http://ky-iptv.com:80/jfink/jfink/517620.ts
+http://ky-iptv.com:80/Mouse/Mouse/517620.ts
 #EXTINF:-1 ,Topeka CBS 13 (WIBW)
-http://ky-iptv.com:80/jfink/jfink/1180164.ts
+http://ky-iptv.com:80/Mouse/Mouse/1180164.ts
 #EXTINF:-1 ,CBS 17 WNCN GOLDSBORO
-http://ky-iptv.com:80/jfink/jfink/517627.ts
+http://ky-iptv.com:80/Mouse/Mouse/517627.ts
 #EXTINF:-1 ,CBS 10 WTSP ST. PETERSBURG
-http://ky-iptv.com:80/jfink/jfink/517593.ts
+http://ky-iptv.com:80/Mouse/Mouse/517593.ts
 #EXTINF:-1 ,CBS 8 (KNOE) Monroeâ€“El Dorado (H)
-http://ky-iptv.com:80/jfink/jfink/1189986.ts
+http://ky-iptv.com:80/Mouse/Mouse/1189986.ts
 #EXTINF:-1 ,CBS 12 KCOY SANTA MARIA
-http://ky-iptv.com:80/jfink/jfink/517605.ts
+http://ky-iptv.com:80/Mouse/Mouse/517605.ts
 #EXTINF:-1 ,CBS 57 (WYMT-DT) Hazard
-http://ky-iptv.com:80/nas21/nas21/1279548.ts
+http://ky-iptv.com:80/Mouse/Mouse/1279548.ts
 #EXTINF:-1 ,CBS Nashville WTVF
-http://ky-iptv.com:80/nas21/nas21/648421.ts
+http://ky-iptv.com:80/Mouse/Mouse/648421.ts
 #EXTINF:-1 ,CBS 10 WTAJ ALTOONA
-http://ky-iptv.com:80/nas21/nas21/517592.ts
+http://ky-iptv.com:80/Mouse/Mouse/517592.ts
 #EXTINF:-1 ,CBS 10 KFDA Amarillo
-http://ky-iptv.com:80/nas21/nas21/1407189.ts
+http://ky-iptv.com:80/Mouse/Mouse/1407189.ts
 #EXTINF:-1 ,CBS 3 WCIA CHAMPAIGN
-http://ky-iptv.com:80/nas21/nas21/517533.ts
+http://ky-iptv.com:80/Mouse/Mouse/517533.ts
 #EXTINF:-1 ,CBS 3 (WTKR) Hampton Roads
-http://ky-iptv.com:80/nas21/nas21/1643443.ts
+http://ky-iptv.com:80/Mouse/Mouse/1643443.ts
 #EXTINF:-1 ,PA | Altoona | CBS WTAJ
-http://ky-iptv.com:80/nas21/nas21/648216.ts
+http://ky-iptv.com:80/Mouse/Mouse/648216.ts
 #EXTINF:-1 ,CBS 23 (WIFR-LD) Rockford
-http://ky-iptv.com:80/nas21/nas21/1699306.ts
+http://ky-iptv.com:80/Mouse/Mouse/1699306.ts
 #EXTINF:-1 ,CBS 3 WREG Memphis
-http://ky-iptv.com:80/nas21/nas21/648385.ts
+http://ky-iptv.com:80/Mouse/Mouse/648385.ts
 #EXTINF:-1 ,CBS 4 WTVY Dothan
-http://ky-iptv.com:80/nas21/nas21/1778157.ts
+http://ky-iptv.com:80/Mouse/Mouse/1778157.ts
 #EXTINF:-1 ,CBS 35 WSEE Erie
-http://ky-iptv.com:80/nas21/nas21/1807368.ts
+http://ky-iptv.com:80/Mouse/Mouse/1807368.ts
 #EXTINF:-1 ,CBS 7 KOAM Joplin
-http://ky-iptv.com:80/nas21/nas21/1841072.ts
+http://ky-iptv.com:80/Mouse/Mouse/1841072.ts
 #EXTINF:-1 ,CBS 6 (KAUZ) Wichita Falls
-http://ky-iptv.com:80/nas21/nas21/1821733.ts
+http://ky-iptv.com:80/Mouse/Mouse/1821733.ts
 #EXTINF:-1 ,CBS 3 (WRBL) Columbus
-http://ky-iptv.com:80/nas21/nas21/1651173.ts
+http://ky-iptv.com:80/Mouse/Mouse/1651173.ts
 #EXTINF:-1 ,CBSN Dallas
-http://ky-iptv.com:80/nas21/nas21/399825.ts
+http://ky-iptv.com:80/Mouse/Mouse/399825.ts
 #EXTINF:-1 ,CBS WWNY Carthage
-http://ky-iptv.com:80/nas21/nas21/1929301.ts
+http://ky-iptv.com:80/Mouse/Mouse/1929301.ts
 #EXTINF:-1 ,US CBS 18 WLFI-DT Lafayette
-http://ky-iptv.com:80/nas21/nas21/1832255.ts
+http://ky-iptv.com:80/Mouse/Mouse/1832255.ts
 #EXTINF:-1 ,CBS 10 WTHI Terre Haute
-http://ky-iptv.com:80/nas21/nas21/1673799.ts
+http://ky-iptv.com:80/Mouse/Mouse/1673799.ts
 #EXTINF:-1 ,UK CBS Justice
-http://ky-iptv.com:80/nas21/nas21/189917.ts
+http://ky-iptv.com:80/Mouse/Mouse/189917.ts
 #EXTINF:-1 ,UK CBS Reality
-http://ky-iptv.com:80/nas21/nas21/189918.ts
+http://ky-iptv.com:80/Mouse/Mouse/189918.ts
 #EXTINF:-1 ,UK CBS DRAMA
-http://ky-iptv.com:80/nas21/nas21/391272.ts
+http://ky-iptv.com:80/Mouse/Mouse/391272.ts
 #EXTINF:-1 ,UK CBS Action
-http://ky-iptv.com:80/nas21/nas21/189916.ts
+http://ky-iptv.com:80/Mouse/Mouse/189916.ts
 
