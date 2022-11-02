@@ -51,7 +51,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:ABC.smil/chunklist_b1
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://media.tv4.live/abc.wabc.new.york.ny.us.png",ABC (WABC) New York NY
 http://megaott.cx:900/t12mgxy282/556175751453161/183411
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://media.tv4.live/abc.wabc.new.york.ny.us.png",ABC (WABC) New York NY
-http://n2086.securepoint.io:25461/Evelyn/Knight/54062
+http://ky-iptv.com:80/yjjaptg5av/9Zgc3CA6DQ/648292.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://media.tv4.live/abc.wabc.new.york.ny.us.png",ABC (WABC) New York NY
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/109812
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AandE.us.png",A&E
@@ -109,21 +109,21 @@ http://megaott.cx:900/t12mgxy282/556175751453161/400216147
 #EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/bbcone.png",BBC 1
 http://n2086.securepoint.io:25461/Evelyn/Knight/53841
 #EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/bbcone.png",BBC 1
-http://king-tv.net:8080/Jp/Za2EzaGxxp/158343.ts
+http://king-tv.net:8080/Jp/Za2EzaGxxp/158343
 #EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/bbctwo.png",BBC 2 
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98852
 #EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/bbctwo.png",BBC 2 
-http://king-tv.net:8080/Jp/Za2EzaGxxp/158344.ts
+http://king-tv.net:8080/Jp/Za2EzaGxxp/158344
 #EXTINF:-1 group-title="UK" tvg-logo="http://epg4you.com/logos/bbctwo.png",BBC 2 
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=11348&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="UK" tvg-logo="http://p2086.securepoint.io:2086/images/82abc9fc03af14ff768852adcf79f334.png",BBC Three
-http://king-tv.net:8080/Jp/Za2EzaGxxp/158459.ts
+http://king-tv.net:8080/Jp/Za2EzaGxxp/158459
 #EXTINF:-1 group-title="UK" tvg-logo="http://logo.protv.cc/picons/logos/bbcearthhd.png",BBC EARTH
 http://p2052.securepoint.io:2052/Starkeyrestream/WThAV7DQrX/873613
 #EXTINF:-1 group-title="UK" tvg-logo="http://p2086.securepoint.io:2086/images/02c1098963c6600caa74fcc5e503fd77.png",BBC 4 
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98851
 #EXTINF:-1 group-title="UK" tvg-logo="http://p2086.securepoint.io:2086/images/02c1098963c6600caa74fcc5e503fd77.png",BBC 4 
-http://king-tv.net:8080/Jp/Za2EzaGxxp/158346.ts
+http://king-tv.net:8080/Jp/Za2EzaGxxp/158346
 #EXTINF:-1 group-title="UK" tvg-logo="http://p2086.securepoint.io:2086/images/02c1098963c6600caa74fcc5e503fd77.png",BBC 4 
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=11354&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USANEWS/BBCAMERICA.png",BBC America
@@ -131,7 +131,7 @@ http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/1329
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USANEWS/BBCAMERICA.png",BBC America
 http://megaott.cx:900/t12mgxy282/556175751453161/13533
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USANEWS/BBCAMERICA.png",BBC America
-http://king-tv.net:8080/Jp/Za2EzaGxxp/117271.ts
+http://king-tv.net:8080/Jp/Za2EzaGxxp/117271
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USANEWS/BBCAMERICA.png",BBC America
 http://ys-users.com:8080/christa/christa/417877
 #EXTINF:-1 group-title="MARKET NEWS" tvg-logo="https://media.tv4.live/bloomberg.tv.usa.us.png",Bloomberg US
@@ -165,7 +165,7 @@ http://89.187.175.143:80/4165/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://media.tv4.live/bet.jams.us.png",BET JAMS
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39309&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="Music" tvg-logo="https://media.tv4.live/bet.jams.us.png",BET JAMS
-http://king-tv.net:8080/Jp/Za2EzaGxxp/376224.ts
+http://king-tv.net:8080/Jp/Za2EzaGxxp/376224
 #EXTINF:-1 group-title="Music" tvg-logo="https://media.tv4.live/bet.soul.us.png",BET SOUL
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/109115
 #EXTINF:-1 group-title="Music" tvg-logo="https://media.tv4.live/bet.soul.us.png",BET SOUL
@@ -173,7 +173,7 @@ http://megaott.cx:900/t12mgxy282/556175751453161/181610
 #EXTINF:-1 group-title="Music" tvg-logo="https://media.tv4.live/bet.soul.us.png",BET SOUL
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39308&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="Music" tvg-logo="https://media.tv4.live/bet.soul.us.png",BET SOUL
-http://king-tv.net:8080/Jp/Za2EzaGxxp/117274.ts
+http://king-tv.net:8080/Jp/Za2EzaGxxp/117274
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/LOGO/US/USASTREAMEDCHANNELS/BUZZR.png",Buzzr TV
 https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.pngfind.com/pngs/m/165-1655043_retro-tv-png-transparent-png.png",RETRO TV MUSIC
@@ -301,7 +301,7 @@ http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/90937.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/CMT.us.png",CMT
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=16852&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/CMT.us.png",CMT (East)
-http://king-tv.net:8080/Jp/Za2EzaGxxp/340210.ts
+http://king-tv.net:8080/Jp/Za2EzaGxxp/340210
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://glmtv.pw/logo/prestige/United-Kingdom/comedy-central-deutschland-us-de.png",Comedy Central US
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:COMEDY_CENTRAL.smil/playlist.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="CrackleXUMO.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/XAQpMY6.png" group-title="Movies",Crackle 
@@ -348,7 +348,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:CW11.smil/playlist.m3
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/Cp24.ca.png",CP24
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/36921
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/Cp24.ca.png",CP24
-http://king-tv.net:8080/Jp/Za2EzaGxxp/150445.ts
+http://king-tv.net:8080/Jp/Za2EzaGxxp/150445
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/Cp24.ca.png",CP24
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=17566&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://static.epg.best/in/AndFlix.in.png",IN| &amp; FLIX FHD
@@ -404,7 +404,7 @@ http://ky-iptv.com:80/yjjaptg5av/9Zgc3CA6DQ/176028.m3u8
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/hdnet-movies-us.png",HD Net Movies
 http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/367100
 #EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="http://logo.protv.cc/picons/logos/THE-MOVIE-CHANNEL-HD.png",THE MOVIE CHANNEL
-http://king-tv.net:8080/Jp/Za2EzaGxxp/173371.ts
+http://king-tv.net:8080/Jp/Za2EzaGxxp/173371
 #EXTINF:-1 group-title="COOKING CHANNEL" tvg-logo="https://gustotv.com/wp-content/uploads/2020/04/gustotv-logo.svg",Gusto TV
 https://gustotv-samsung-gb.samsung.wurl.com/manifest/089025e8e07edc059504b28ffd897267.m3u8
 #EXTINF:-1 group-title="COOKING CHANNEL" tvg-logo="https://lo1.in/LOGO/US/USAENTERTAINMENT/COOKINGCHANNEL.png",Cooking Channel US
@@ -472,7 +472,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:HALLMARK.smil/playlis
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/hallmark-drama-us.png",HALLMARK DRAMA
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/38591
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/hallmark-drama-us.png",HALLMARK DRAMA
-http://king-tv.net:8080/Jp/Za2EzaGxxp/170483.ts
+http://king-tv.net:8080/Jp/Za2EzaGxxp/170483
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/hallmark-drama-us.png",HALLMARK DRAMA
 http://ky-iptv.com:80/yjjaptg5av/9Zgc3CA6DQ/175866.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2019/11/hallmarkmoviesnow-logo-purple-block.png",HALLMARK MOVIES
@@ -533,8 +533,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73&live=1&app_b
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://xtream-coders.com/x0/entertainment/me_tv.png",MeTV
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:ME_TV.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/MGM.us.png",MGM US
-http://sabretv.xyz:80/play/IIaNt1_RglmrvIRV43d-KEubQEhCnLXdF9LxmmNjef8/m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/MSNBC.us.png",MSNBC US
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:MSNBC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/MBCGROUP/mbcaction.png",Mbc Action
@@ -548,7 +546,7 @@ http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/533607
 #EXTINF:-1 group-title="NOLLYWOOD" tvg-logo="https://lo1.in/LOGO/DSTV/AFRICAMAGICSHOWCASE.png",AFRICA MAGIC FAMILY
 http://ky-iptv.com:80/yjjaptg5av/9Zgc3CA6DQ/2132336.m3u8
 #EXTINF:-1 group-title="NOLLYWOOD" tvg-logo="https://i.imgur.com/usExg7v.png" group-title="AFRICA",Africa Magic Urban
-http://king-tv.net:8080/Jp/Za2EzaGxxp/378660.ts
+http://king-tv.net:8080/Jp/Za2EzaGxxp/378660
 #EXTINF:-1 group-title="NOLLYWOOD" tvg-logo="https://i.imgur.com/usExg7v.png" group-title="AFRICA",Pluto TV Demand Africa
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f061242a7951e00075d7413/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=172&deviceId=5f061242a7951e00075d7413&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/NatGeo.us.png",National Geographic US (East)
@@ -836,7 +834,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:NBA_TV.smil/playlist.
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/ITALY/SKYSPORTNBA.png",NBA TV CA
 https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/nba.tv.canada.ca.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CANADA/CANADASPORTSEVENTS/NBATV.png",NBA TV CA
-http://king-tv.net:8080/Jp/Za2EzaGxxp/212280.ts
+http://king-tv.net:8080/Jp/Za2EzaGxxp/212280
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png",NFL Network US
 http://89.187.175.143:80/4001/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/US/USASPORT/NHLNETWORK.png",NHL Network US
@@ -846,7 +844,7 @@ http://fortv.cc:8080/chris2/chris2/20179
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/US/USASPORT/OlympicChannel.png",Olympic Channel
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/114608
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/US/USASPORT/OlympicChannel.png",Olympic Channel
-http://king-tv.net:8080/Jp/Za2EzaGxxp/376498.ts
+http://king-tv.net:8080/Jp/Za2EzaGxxp/376498
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/US/USASPORT/OlympicChannel.png",Olympic Channel
 http://ky-iptv.com:80/yjjaptg5av/9Zgc3CA6DQ/220440.m3u8
 #EXTINF:-1 group-title="Sweden" tvg-logo="https://seeklogo.com/images/W/World_Championship_of_Poker-logo-A9D5720391-seeklogo.com.png",World Poker Tour 
@@ -990,7 +988,7 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39406&extens
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg",SuperSport MáXimo 1
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/111013
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",Sport TV Plus PT
-http://king-tv.net:8080/Jp/Za2EzaGxxp/159084.m3u8
+http://king-tv.net:8080/Jp/Za2EzaGxxp/159084
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",Sport TV 1 PT
 http://fortv.cc:8080/chris2/chris2/78513
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",Sport TV 2 PT
@@ -1000,7 +998,7 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=68995&extens
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",Sport TV 4 PT
 http://fortv.cc:8080/chris2/chris2/167745
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",Sport TV 5 PT
-http://king-tv.net:8080/Jp/Za2EzaGxxp/159111.ts
+http://king-tv.net:8080/Jp/Za2EzaGxxp/159111
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png",Sport TV 6
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=249069&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="SPORTS PORTUGAL" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/NBA_TV_HD.png",Sport TV NBA 
@@ -1036,7 +1034,7 @@ http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/111200
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/w3eLKLw.png",IMPACT WRESTLING
 http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/866271.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/w3eLKLw.png",IMPACT WRESTLING
-http://king-tv.net:8080/Jp/Za2EzaGxxp/377905.ts
+http://king-tv.net:8080/Jp/Za2EzaGxxp/377905
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",WWE Network
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/36372
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",WWE Network
