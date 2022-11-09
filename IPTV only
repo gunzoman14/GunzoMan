@@ -887,6 +887,36 @@ http://fortv.cc:8080/chris2/chris2/17608
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/111010
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/AFRICA/Super%20Sport%2012%20FHD.png",SuperSport Motorsport
 http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/425461
+#EXTINF:-1 group-title="UK ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fcd9da9870d36ec51c1232e395e37c2e.png",UK: BT Sport 1
+http://iptvtree.net:8080/86488e81/5e48c38fdd/270
+#EXTINF:-1 group-title="UK ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c50393867c2322666f3bab470cee3c28.png",UK: BT Sport 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/273
+#EXTINF:-1 group-title="UK ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7490f8804522a1146efbf31a624c2fae.png",UK: BT Sport 3
+http://iptvtree.net:8080/86488e81/5e48c38fdd/271
+#EXTINF:-1 group-title="UK ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d1e7fd559255ab038f34122b16170e4f.png",UK: BT Sport ESPN
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1124
+#EXTINF:-1 group-title="UK ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/989d4bde4ee6d3236460b11510e03e5c.png",UK: Sky Sports Arena
+http://iptvtree.net:8080/86488e81/5e48c38fdd/267
+#EXTINF:-1 group-title="UK ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b33dfe81c31eb1ea15ca2705d24af664.png",UK: Sky Sports Cricket
+http://iptvtree.net:8080/86488e81/5e48c38fdd/269
+#EXTINF:-1 group-title="UK ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png",UK: Sky Sports F1
+http://iptvtree.net:8080/86488e81/5e48c38fdd/265
+#EXTINF:-1 group-title="UK ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/860b7e2f2ed148c938115c734f31ef62.png",UK: Sky Sports Football
+http://iptvtree.net:8080/86488e81/5e48c38fdd/266
+#EXTINF:-1 group-title="UK ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5acb0ff26afa4f347663d42261af36bf.png",UK: Sky Sports Golf
+http://iptvtree.net:8080/86488e81/5e48c38fdd/264
+#EXTINF:-1 group-title="UK ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/367ea46b760bdd8955db180204300052.png",UK: Sky Sports Main Event
+http://iptvtree.net:8080/86488e81/5e48c38fdd/283053
+#EXTINF:-1 group-title="UK ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/14216659a007f43c908ea7acb0080325.png",UK: Sky Sports Mix
+http://iptvtree.net:8080/86488e81/5e48c38fdd/261
+#EXTINF:-1 group-title="UK ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/429d072a80243dcd3db3c4c941b8f5e0.png",UK: Sky Sports News
+http://iptvtree.net:8080/86488e81/5e48c38fdd/260
+#EXTINF:-1 group-title="UK" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",UK: Sky Sports NFL
+http://iptvtree.net:8080/86488e81/5e48c38fdd/281849
+#EXTINF:-1 group-title="UK ➾ Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/09bb1aded27d31530f3939146dffbc0c.png",UK: Sky Sports Premier League
+http://iptvtree.net:8080/86488e81/5e48c38fdd/263
+#EXTINF:-1 group-title="UK ➾ Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/54cd90adcee875ac0369ac5b061d62d6.png",UK: Sky Sports Racing
+http://iptvtree.net:8080/86488e81/5e48c38fdd/163132
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg",Sky Sports F1
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/98783
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg",Sky Sports F1
